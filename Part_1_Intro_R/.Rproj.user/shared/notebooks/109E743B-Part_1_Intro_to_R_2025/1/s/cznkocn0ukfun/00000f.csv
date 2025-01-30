@@ -1,0 +1,4 @@
+"0","#We just used sum to determine total salaries."
+"0","#mean is the command to determine averages."
+"0","#replace sum for mean: sum(MediaBucks$Salary, na.rm=TRUE)"
+"0",""

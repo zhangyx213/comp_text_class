@@ -1,0 +1,2 @@
+"0","MediaSalary <- MediaBucks %>% "
+"0","  filter(Salary >= 1000)"

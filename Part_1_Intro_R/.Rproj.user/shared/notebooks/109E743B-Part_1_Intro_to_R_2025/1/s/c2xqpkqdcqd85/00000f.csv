@@ -1,0 +1,4 @@
+"0","MediaBucks %>% "
+"0","  select(Gender, Salary) %>% "
+"0","  group_by(Gender) %>% "
+"0","  summarize(Total = sum(Salary, na.rm=TRUE))"
