@@ -1,0 +1,283 @@
+---
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+::: {style="text-align: center; color: #337DFF;"}
+# First Steps in R and R Studio
+
+# Workbook
+
+### Dow Jones News Fund \@ Merrill College
+
+**Data Driven Investigative Reporting Training**
+:::
+
+::: {style="text-align: center;"}
+<img src="images\merrill-logo-dark.png" width="300" height="50"/>
+:::
+
+```         
+Rob Wells, Ph.D.
+Philip Merrill College of Journalism
+University of Maryland
+robwells@umd.edu
+LinkedIn: https://www.linkedin.com/in/rob-wells-7929329/ 
+ver. 1/21/2025 
+```
+
+### Goals
+
+-   Fire up R Studio, understand basic operations
+-   Use rio::import to load data
+-   Use the tidyverse package dplyr to sort and filter -- Identify
+    trends in your data.
+
+<br>
+
+### Get Organized
+
+-   Go to your Code folder on your hard drive 
+-   Download intro_to_r.zip. 
+-   Unzip in Code\comp_text_class.\
+-   Open Intro_to_R_2025.rproj.\
+-   Open Part_1_Intro-to_R.rmd.
+
+<br> <br>
+
+#### Orientation to R Studio
+
+<img src="images\RStudio-Logo-Blue-Gradient.png" width="150" height="50"/>
+<br>\
+<br>
+
+```         
+There are four main windows:  
+
+--Script writing, R Markdown, Table Viewer: Upper Left  
+--Environment - data loaded in R: Upper Right  
+--Console - write commands in R: Lower Left  
+--File Manager and Html table viewer: Bottom Right  
+```
+
+<br>
+
+**Chunks: The gray boxes have live R code. Click the green arrow at the
+right on line 55 and run the help.start() command**
+
+``` {message="FALSE," warning="FALSE"}
+help.start()
+```
+
+<br> <br>
+
+#### Install software to grab data
+
+```         
+Tidyverse: Eight separate software packages to perform
+data import, tidying, manipulation, visualisation, and programming
+
+Rio: Easy importing features 
+Janitor: Data cleaning
+```
+
+**Below, remove the hash tags \# and run the chunk**
+
+```{r}
+install.packages("tidyverse")
+install.packages("rio")
+install.packages("janitor")
+```
+
+After you install a package on your hard drive, you bring the software
+in active memory by loading a library
+
+Libraries are bits of software you will have to load each time into R to
+make things run.
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(rio)
+library(janitor)
+
+```
+
+```{r}
+cntl+alt+I to create a chunk 
+```
+
+Check to see what's installed by clicking on "Packages" tab in File
+Manager, lower right pane <br>
+
+#### Data
+
+```         
+Open [this file in Google Sheets:](https://docs.google.com/spreadsheets/d/1y2w31HHwE31N9pJoIB1W8oWgW7citB4hzjo99XfwVqo/edit#gid=357643135)
+
+
+1) Select RealMediaSalaries2 tab
+
+IRE Old School: Four Corners Test!
+13 Columns
+1658 Rows
+
+Numberic data in Salary, Years Experience
+Mixed string data in Gender Identity / Ethnicity, Job duties
+```
+
+<br> <br>
+
+#### Import Data
+
+```{r}
+MediaBucks <- rio::import("https://docs.google.com/spreadsheets/d/1y2w31HHwE31N9pJoIB1W8oWgW7citB4hzjo99XfwVqo/edit#gid=357643135", sheet = "RealMediaSalaries2") #%>%
+  #clean_names()
+
+```
+
+<br> What happened? Look at the table
+
+```{r}
+#head provides a peak at the first six rows of data
+head(MediaBucks)
+```
+
+What happened?
+
+R grabbed the spreadsheet from a Google Sheet\
+We told R to grab the first sheet, RealMediaSalaries2\
+R created a dataframe called MediaBucks\
+
+```
+basics of R: \<- is known as an “assignment operator.”\
+It means: “Make the object named to the left equal to the output of the
+code to the right.”
+```
+
+<br> <br>
+
+#### Explore Data
+
+How many rows?
+
+```{r}
+nrow(MediaBucks)
+```
+
+How many columns? Names of columns
+
+```{r}
+ncol(MediaBucks)
+```
+
+```{r}
+glimpse(MediaBucks)
+```
+
+Names of your columns
+
+```{r}
+names(MediaBucks)
+```
+
+Let's look at the first six rows
+
+```{r}
+head(MediaBucks)
+#Displays the first six rows of data
+```
+
+Here is a quick way to view the range of your data
+
+```{r}
+summary(MediaBucks$Salary)
+```
+
+Size and scope
+
+```{r}
+sum(MediaBucks$Salary, na.rm=TRUE)
+```
+
+\$106 million! for 1,658 journalists
+
+Context: NYT earnings in 2022 = \$174 m Facebook profit for one day:
+\$129 million (Q32023=\$11.6B)
+
+average
+
+```{r}
+#We just used sum to determine total salaries.
+#mean is the command to determine averages.
+#replace sum for mean: 
+mean(MediaBucks$Salary, na.rm=TRUE)
+
+```
+
+<br>
+
+#### Navigation Tips
+
+```         
+Shortcut Commands
+Tab - Autocomplete
+In Console Window (lower left) 
+--Control (or Command) + UP arrow - last lines run
+Control (or Command) + Enter - Runs current or selected lines of code in the top left box of RStudio
+Shift + Control (or Command) +P - Reruns previous region code
+```
+
+<br> <br>
+
+#### Dplyr
+
+```         
+dplyr has many tools for data analysis   
+select Choose which columns to include  
+filter Filter the data 
+arrange Sort the data, by size for continuous variables, by date, or alphabetically 
+group_by Group the data by a categorical variable 
+```
+
+<br>
+
+Build a simple summary table by Gender
+
+```{r}
+MediaBucks %>% 
+  select(Gender, Salary) %>% 
+  group_by(Gender) %>% 
+  summarize(Total = sum(Salary, na.rm=TRUE))
+```
+
+What is the sample size?
+
+```{r}
+MediaBucks %>% 
+  count(Gender) %>% 
+  arrange(desc(n))
+```
+
+Better idea: Check Averages!
+
+
+```{r}
+#Using the example code above, create a column called Avg_Salary and use the mean command to produce the calculation
+#Adapt the code below to do this:
+
+MediaBucks %>% 
+  select(Gender, Salary) %>% 
+  group_by(Gender) %>% 
+  summarize(Avg_Salary = mean(Salary, na.rm=TRUE))
+
+
+
+```
+
+Quick filter out hourly workers
+
+```{r}
+MediaSalary <- MediaBucks %>% 
+  filter(Salary >= 1000)
