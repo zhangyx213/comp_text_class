@@ -1,0 +1,48 @@
+"0","install.packages(""tidyverse"")"
+"1","Error in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," : "
+"1",""
+"1","Updating loaded packages"
+"1",""
+"1","
+"
+"0","install.packages(""rio"")"
+"1","Error in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," : "
+"1",""
+"1","Updating loaded packages"
+"1",""
+"1","
+"
+"0","install.packages(""janitor"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","将程序包安装入‘C:/Users/Yuxiao/AppData/Local/R/win-library/4.4’
+(因为‘lib’没有被指定)
+"
+"2","试开URL’https://cran.rstudio.com/bin/windows/contrib/4.4/janitor_2.2.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 292593 bytes (285 KB)
+"
+"2","downloaded 285 KB
+
+"
+"1","程序包‘janitor’打开成功，MD5和检查也通过
+"
+"1","
+"
+"1",""
+"1","下载的二进制程序包在
+	C:\Users\Yuxiao\AppData\Local\Temp\RtmpALJdWo\downloaded_packages里"
+"1",""
+"1","
+"

@@ -1,5 +1,0 @@
-"0","MediaBucks <- rio::import(""https://docs.google.com/spreadsheets/d/1y2w31HHwE31N9pJoIB1W8oWgW7citB4hzjo99XfwVqo/edit#gid=357643135"", sheet = ""RealMediaSalaries2"")"
-"2","Registered S3 method overwritten by 'data.table':
-  method           from
-  print.data.table     
-"

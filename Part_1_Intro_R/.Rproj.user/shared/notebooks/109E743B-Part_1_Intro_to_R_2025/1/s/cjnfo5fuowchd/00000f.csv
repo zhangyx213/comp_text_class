@@ -1,1 +1,0 @@
-"0","Journal <- subset(MediaBucks, grepl(""?Journal"", COMPANY))"

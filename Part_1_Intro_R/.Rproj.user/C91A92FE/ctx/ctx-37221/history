@@ -1,0 +1,69 @@
+install.packages("tidyverse")
+#install.packages("rio")
+#install.packages("janitor")
+install.packages("tidyverse")
+install.packages("tidyverse")
+install.packages("rio")
+install.packages("janitor")
+library(tidyverse)
+#load the library for rio
+#load the library for janitor
+library(tidyverse)
+library(rio)
+library(janitor)
+MediaBucks <- rio::import("https://docs.google.com/spreadsheets/d/1y2w31HHwE31N9pJoIB1W8oWgW7citB4hzjo99XfwVqo/edit#gid=357643135", sheet = "RealMediaSalaries2")
+View(MediaBucks)
+#head provides a peak at the first six rows of data
+head(MediaBucks)
+nrow(MediaBucks)
+#use the command ncol to determine the number of columns
+ncol(MediaBucks)
+glimpse(MediaBucks)
+names(MediaBucks)
+head(MediaBucks)
+#Displays the first six rows of data
+summary(MediaBucks$Salary)
+sum(MediaBucks$Salary, na.rm=TRUE)
+#We just used sum to determine total salaries.
+#mean is the command to determine averages.
+#replace sum for mean:
+mean(MediaBucks$Salary, na.rm=TRUE)
+MediaBucks %>%
+select(Gender, Salary) %>%
+group_by(Gender) %>%
+summarize(Total = sum(Salary, na.rm=TRUE))
+MediaBucks %>%
+count(Gender) %>%
+arrange(desc(n))
+#Using the example code above, create a column called Avg_Salary and use the mean command to produce the calculation
+#Adapt the code below to do this:
+MediaBucks %>%
+select(Gender, Salary) %>%
+group_by(Gender) %>%
+summarize(Avg_Salary = mean(Salary, na.rm=TRUE))
+MediaSalary <- MediaBucks %>%
+filter(Salary >= 1000)
+MediaSalary <- MediaBucks %>%
+filter(Salary >= 1000)
+WSJ <- subset(MediaBucks, COMPANY=="WallStreetJournal")
+summary(WSJ$Salary)
+```
+View(MediaSalary)
+```
+```
+install.packages("tidyverse")
+install.packages("rio")
+install.packages("janitor")
+MediaBucks <- rio::import("https://docs.google.com/spreadsheets/d/1y2w31HHwE31N9pJoIB1W8oWgW7citB4hzjo99XfwVqo/edit#gid=357643135", sheet = "RealMediaSalaries2") #%>%
+head(MediaBucks)
+MediaBucks %>%
+select(Gender, Salary) %>%
+group_by(Gender) %>%
+summarize(Avg_Salary = mean(Salary, na.rm=TRUE))
+install.packages("tidyverse")
+install.packages("rio")
+install.packages("janitor")
+library(tidyverse)
+library(rio)
+library(janitor)
+cntl+alt+I to create a chunk

@@ -1,0 +1,7 @@
+"0","#Using the example code above, create a column called Avg_Salary and use the mean command to produce the calculation"
+"0","#Adapt the code below to do this:"
+"0",""
+"0","MediaBucks %>% "
+"0","  select(Gender, Salary) %>% "
+"0","  group_by(Gender) %>% "
+"0","  summarize(Avg_Salary = mean(Salary, na.rm=TRUE))"

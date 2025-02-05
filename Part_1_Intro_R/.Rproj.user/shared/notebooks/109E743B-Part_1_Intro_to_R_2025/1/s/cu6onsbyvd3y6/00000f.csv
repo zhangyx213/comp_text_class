@@ -1,6 +1,0 @@
-"0","MediaBucks %>% "
-"0","  select(Race, Salary) %>% "
-"0"," group_by(Race) %>% "
-"0","  summarize(Total=n(),"
-"0","            Avg = mean(Salary, na.rm=TRUE)) %>% "
-"0","  arrange(desc(Total))"

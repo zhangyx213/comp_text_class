@@ -1,0 +1,7 @@
+"0","MediaBucks %>% "
+"0","  select(Gender, Salary) %>% "
+"0","  group_by(Gender) %>% "
+"0","  summarize(Total = sum(Salary, na.rm=TRUE))"
+"2","错误于MediaBucks %>% select(Gender, Salary) %>% group_by(Gender) %>% : 
+  没有""%>%""这个函数
+"
