@@ -1,0 +1,2 @@
+"0","#display the first six rows of SF using head"
+"0","head(SF,6)"

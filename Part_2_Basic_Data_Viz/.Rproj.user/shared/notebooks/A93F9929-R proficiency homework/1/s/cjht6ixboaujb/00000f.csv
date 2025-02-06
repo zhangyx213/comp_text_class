@@ -1,0 +1,5 @@
+"0","keywords <- mob %>% "
+"0","  count(keyword) %>% "
+"0","  group_by(keyword) %>% "
+"0","  arrange(desc(n))"
+"0","head(keywords)"

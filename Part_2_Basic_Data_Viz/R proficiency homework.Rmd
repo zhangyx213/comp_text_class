@@ -1,0 +1,88 @@
+---
+title: "R proficiency homework"
+author: "Catherine Zhang"
+date: "2025-02-06"
+output: html_document
+---
+
+1. Load relevant software libraries
+```{r}
+library(tidyverse)
+```
+
+
+2. Load the mob analysis data
+```{r}
+mob = read.csv("https://raw.githubusercontent.com/wellsdata/CompText_Jour/main/data/mob_analysis_data.csv")
+```
+
+3. Using code, describe the number of rows and columns in the dataset
+```{r}
+nrow(mob)
+ncol(mob)
+```
+
+4.Create a table that displays a count of the top 15 newspaper entries 
+```{r}
+library(janitor)
+mob <- janitor::clean_names(mob)
+
+news <- mob %>% 
+  filter(!is.na(newspaper))%>%  #filter out NAs
+  count(newspaper) %>% 
+  group_by(newspaper) %>% 
+  arrange(desc(n))
+head(news,15)
+```
+
+5. Create a table that counts the different entries in the "keyword" column
+
+```{r}
+keywords <- mob %>% 
+  count(keyword) %>% 
+  group_by(keyword) %>% 
+  arrange(desc(n))
+head(keywords)
+```
+
+6. Create a table that counts all entries by year
+```{r}
+year <- mob %>% 
+  count(year) %>% 
+  group_by(year) %>% 
+  arrange(desc(n))
+head(year)
+```
+
+
+7. Create a simple column ggplot chart that shows the total entries by year
+```{r}
+ggplot(year,aes(x = year, y = n,
+             fill = n)) +
+  geom_col(position = "dodge") + 
+  theme(legend.position = "none") +
+  labs(title = "Mob Mentions In Newspapers By Year",
+       subtitle = "Mob Analysis Data",
+       caption = "Graphic by Catherine Zhang, 2-06-2025",
+       y="Counts of news about mob",
+       x="Year")
+```
+
+
+8. Armed with your data analysis, write a 250 word memo at the end of the R markdown document that summarizes your findings. Use this opportunity to ask questions or note any major flaws in the data.
+
+The dataset provides an analysis of newspaper mentions of the keyword “mob” (and its related words) over time. This plot at the end reveals a significant peak in mentions of "mob" between 1880 and 1910, with the highest count recorded in 1903 (246 mentions). Other notable years include 1906 (207 mentions) and 1901 (197 mentions). The decline in mentions after 1910 suggests either a change in media coverage, shifting terminology, or a genuine decrease in mob-related events.
+
+As showed by the "keywords" data frame, "mob" is the most common keyword in this data set (3,273 occurrences), followed by related terms like “masked” (158) and “masked men” (94). This suggests potential links to organized violent groups or secret societies.However, the data set does not differentiate "mob" and "mobs", which might cause confusing and overestimating the occurrences of the keyword. 
+
+The most frequent sources of these articles (ruled out NAs) include The Birmingham Age-Herald (118 mentions), The Daily Worker (64 mentions), and The Topeka State Journal (63 mentions). The geographic spread of these newspapers highlights possible varied regional concerns regarding mob activity.
+
+Potential Issues and Questions:
+
+1. Data Bias: We do not know the sources of the dataset. Thus, how this is representing the overall picture of mob activities in the United States is unknown. 
+
+2. Terminology: The use of term "mob" might change over time. We should figure out if there were alternative terms used in later periods such as after 1920
+
+3. Contextual Analysis: We need further investigation and analysis of what caused the skewed graphic, and why the coverage of mob activities declined after 1920s. For example, we can investigate if there's any law implements after 1910s. Or, maybe it could be due to missing data. Further investigation could involve analysis of the articles or crime data from the same periods.
+
+

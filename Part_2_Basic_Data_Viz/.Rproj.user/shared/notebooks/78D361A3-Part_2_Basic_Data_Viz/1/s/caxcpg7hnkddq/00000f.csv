@@ -1,0 +1,5 @@
+"0","SF <- rio::import(""https://docs.google.com/spreadsheets/d/1-nkosLJKkfeLSl-UG82DDyiEw5-62kX2alS6ICG9iuk/edit#gid=552005485"", sheet = ""SF Police_Department_Calls_for_"") "
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

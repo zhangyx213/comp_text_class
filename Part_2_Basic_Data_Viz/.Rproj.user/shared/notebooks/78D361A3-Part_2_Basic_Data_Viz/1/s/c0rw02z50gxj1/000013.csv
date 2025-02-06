@@ -1,0 +1,4 @@
+"0","#Group_by gathers and allows tabulation of all days"
+"0","Days %>%"
+"0","  group_by(call_date2) %>% "
+"0","  filter(n == max(n)) "
