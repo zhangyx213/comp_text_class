@@ -1,5 +1,9 @@
-"0","summary(Bloom$Salary)
-"
+"0","#4: Build a table that filters ""Business"" in the Company column. Determine Summary of the Salary column."
+"0","#Build a second table that filters ""Bloomberg"" in the Company column.  Determine Summary of the Salary column."
+"0","Bloom <- subset(MediaBucks, grepl(""?Bloomberg"", COMPANY))"
+"0","Bus <- subset(MediaBucks, grepl(""?Business"", COMPANY))"
+"0",""
+"0","summary(Bloom$Salary)"
 "1","   Min. "
 "1","1st Qu. "
 "1"," Median "
@@ -33,3 +37,5 @@
 "1","  65000 "
 "1","
 "
+"0","#Which one is higher?"
+"0","Bloom"
