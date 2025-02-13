@@ -3,7 +3,7 @@
     "path": "C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/Part 3/Part 3 Data Cleaning/Part 3 Data Cleaning/Part_3_Gathering_Cleaning_Data.Rmd",
     "project_path": "Part_3_Gathering_Cleaning_Data.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1396108311",
     "contents": "",
     "dirty": false,
     "created": 1739463504704.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "273,8",
+        "scrollLine": "265"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739463440,
+    "lastKnownWriteTime": 1739464874,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739463440,
+    "last_content_update": 1739464874426,
     "read_only": false,
     "read_only_alternatives": []
 }

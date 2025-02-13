@@ -1,0 +1,6 @@
+"0","SF <- SF |> "
+"0","  mutate(disposition1 = case_when("
+"0","    disposition == ""ABA"" ~ ""Abated"","
+"0","    disposition == ""ADM"" ~ ""Admonished"","
+"0","    TRUE ~ disposition1)"
+"0","    )"

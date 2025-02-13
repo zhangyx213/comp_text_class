@@ -1,0 +1,2 @@
+"0","copspeak <- rio::import(""https://docs.google.com/spreadsheets/d/1l86DSZ5LWxlXTliXu06Iai0DiYXlJE4hUYBeddL0XXg/edit#gid=554934632"", sheet =""RadioCodes"")"
+"0","head(copspeak)"

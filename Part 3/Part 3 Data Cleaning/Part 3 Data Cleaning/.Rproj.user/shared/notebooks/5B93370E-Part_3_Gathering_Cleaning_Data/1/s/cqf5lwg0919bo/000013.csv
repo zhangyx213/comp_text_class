@@ -1,0 +1,6 @@
+"0",""
+"0","#put the count total in an object called Action"
+"0","Action = SF |> #|>和%>%作用一样"
+"0","  count(disposition) |>"
+"0","  arrange(desc(n))"
+"0","Action"

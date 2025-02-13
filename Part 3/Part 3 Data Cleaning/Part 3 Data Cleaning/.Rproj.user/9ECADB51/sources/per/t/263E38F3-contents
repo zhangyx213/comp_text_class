@@ -75,7 +75,10 @@ SF$year <- year(SF$call_date2)
 ```{r}
 
 #put the count total in an object called Action
-
+Action = SF |> #|>和%>%作用一样
+  count(disposition) |>
+  arrange(desc(n))
+Action
 ```
 
 **Decode Police Radio Codes**
@@ -84,7 +87,7 @@ SF$year <- year(SF$call_date2)
 
 ```{r}
 copspeak <- rio::import("https://docs.google.com/spreadsheets/d/1l86DSZ5LWxlXTliXu06Iai0DiYXlJE4hUYBeddL0XXg/edit#gid=554934632", sheet ="RadioCodes")
-#head(copspeak)
+head(copspeak)
 
 #HAN = Handled
 #ADV = Advised
@@ -172,7 +175,7 @@ SF <- SF %>%
 Action <- SF %>% 
   count(disposition1, disposition) %>% 
   arrange(desc(n))
-#head(Action)
+head(Action)
 ```
 
 ### Chart Dispositions
@@ -198,7 +201,7 @@ Action %>%
 Types <- SF %>% count(original_crime_type_name) %>% 
   group_by(original_crime_type_name) %>% 
   arrange(desc(n))
-#head(Types)
+head(Types)
 # 915/919
 # 915 Sleeper 
 # Some have commentary
@@ -220,7 +223,7 @@ SF$crime1 <- gsub("'", "", SF$crime1)
 #fix space in homeless complaint
 SF$crime1 <- gsub("homeless complaint", "homeless_complaint", SF$crime1)
 
-#split crime1 into three new columns
+#split crime1 into three new columns把一个column中多个crime分散到不同的column里，用空格区分不同的crime
 SF <- separate(data = SF, col = crime1, into = c("crime2", "crime3", "crime4"), sep = " ", extra = "merge", fill = "right")
 
 ```
@@ -253,11 +256,14 @@ SF <- SF %>%
    ))
 ```
 
+STOPPED FOR 2/12
+
 **Count crime_cleaned**
 
 ```{r}
 #remember this is a partial total
 #arrange the results in descending order
+
 
 ```
 
