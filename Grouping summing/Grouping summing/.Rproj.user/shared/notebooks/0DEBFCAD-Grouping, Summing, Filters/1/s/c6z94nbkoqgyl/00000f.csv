@@ -1,0 +1,8 @@
+"0","baltcity_income %>%"
+"0","  select(Neighborhood, x2010, x2016, x2020, Census) %>% "
+"0","  summarise("
+"0","    count_tracts = n(),"
+"0","    x2020_median = median(x2020, na.rm=TRUE),"
+"0","    min_2020 = min(x2020, na.rm=TRUE),"
+"0","    max_2020 = max(x2020, na.rm=TRUE)"
+"0","  ) "

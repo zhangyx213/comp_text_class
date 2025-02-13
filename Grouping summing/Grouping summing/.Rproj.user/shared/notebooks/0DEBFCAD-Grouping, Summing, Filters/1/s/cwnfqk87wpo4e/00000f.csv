@@ -1,0 +1,5 @@
+"0","baltcity_income %>%"
+"0","  select(Neighborhood, x2020, Census) %>% "
+"0","    summarise("
+"0","    count_tracts = n(),"
+"0","    x2020_avg = mean(x2020, na.rm=TRUE)) "

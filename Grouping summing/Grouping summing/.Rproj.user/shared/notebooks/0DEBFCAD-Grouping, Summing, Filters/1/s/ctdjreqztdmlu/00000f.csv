@@ -1,0 +1,6 @@
+"0","baltcity_income %>%"
+"0","  group_by(Neighborhood) %>%"
+"0","  summarize("
+"0","    count_tracts = n()"
+"0","  ) %>% "
+"0","  arrange(desc(count_tracts))"

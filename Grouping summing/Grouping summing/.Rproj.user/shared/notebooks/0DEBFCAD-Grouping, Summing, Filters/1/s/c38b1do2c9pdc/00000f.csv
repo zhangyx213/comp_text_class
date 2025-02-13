@@ -1,0 +1,5 @@
+"0","#Set working directory to .../CompText_Jour/exercises"
+"0",""
+"0","baltcity_income <- read.csv(""assets/data/baltcity_income_clean.csv"") %>% "
+"0","  as.data.frame()"
+"0",""

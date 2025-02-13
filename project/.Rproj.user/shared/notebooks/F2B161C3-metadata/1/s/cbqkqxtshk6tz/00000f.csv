@@ -1,0 +1,2 @@
+"0","vas <- vas |> "
+"0","  mutate(date = as.Date(strptime(published_date, format = ""%B %d, %Y %A"")))"

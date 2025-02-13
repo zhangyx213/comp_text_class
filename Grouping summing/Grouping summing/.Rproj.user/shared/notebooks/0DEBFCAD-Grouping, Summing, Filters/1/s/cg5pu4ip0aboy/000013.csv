@@ -1,0 +1,7 @@
+"0","baltcity_race %>% "
+"0","  select(x2020_asian, x2020_hispanic, x2020_pac_islander) %>% "
+"0","  summarize("
+"0","    asian_total = sum(x2020_asian, na.rm = TRUE),"
+"0","    hispanic_total = sum(x2020_hispanic, na.rm = TRUE),"
+"0","    pac_islander_total = sum(x2020_pac_islander, na.rm = TRUE)"
+"0","  )"

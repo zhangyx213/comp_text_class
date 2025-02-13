@@ -1,0 +1,7 @@
+"0",""
+"0","race1 <- baltcity_race %>% "
+"0","  select(census_tract, x2020_white, x2020_black) %>% "
+"0","  mutate(ratio_w_b = (x2020_black/x2020_white)) %>% "
+"0","  arrange(desc(ratio_w_b))"
+"0",""
+"0","head(race1)"
