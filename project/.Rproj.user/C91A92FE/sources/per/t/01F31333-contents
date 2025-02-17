@@ -1,0 +1,101 @@
+---
+title: "Assignment 1"
+author: "Catherine Yuxiao Zhang"
+date: "2025-02-16"
+output: html_document
+---
+
+1. Load relevant software libraries
+
+```{r}
+
+library(tidyverse)
+library(janitor)
+library(rio)
+
+```
+
+
+2. Load the data
+
+```{r}
+library(readxl)
+vas <- read_excel("Results list for_vasectomy, vasectomies.XLSX")
+View(vas)
+
+vas <- vas |> 
+  clean_names()
+
+class(vas$published_date)
+
+```
+
+
+3. Using code, describe the number of rows and columns in the dataset. Use the print(Paste0....) to display the results in a sentence form. 
+
+```{r}
+nrow(vas)
+ncol(vas)
+print(paste0("The # of rows in the dataset is ", nrow(vas), " and the # of columns in the dataset is ", ncol(vas)))
+
+```
+
+
+4. Create a table that displays a count of the top 20 newspaper_city entries. Filter out the NA values
+
+```{r}
+vas%>%
+  group_by(publication_location) %>%
+  summarize(
+    n = n()
+  ) %>% 
+  arrange(desc(n))
+```
+
+
+
+5. Create a table that counts all entries by year. 
+
+```{r}
+vas%>%
+  group_by(publication_location) %>%
+  summarize(
+    n = n()
+  ) %>% 
+  arrange(desc(n))
+```
+```
+
+
+6. Create a simple column ggplot chart that shows the total entries by year
+
+```{r}
+library(lubridate)
+vas$date <- parse_date_time(vas$published_date, orders = c("B d, Y %A", "B d, Y"), locale = "English")
+
+vas <- vas %>%
+  mutate(year = lubridate::year(date))
+
+library(ggplot2)
+ggplot(vas, aes(x = factor(year))) +
+  geom_bar(fill = "steelblue") +
+  labs(x = "Year", y = "# of published news", title = "The total # of publishe news by year") +
+  theme_minimal()
+
+```
+
+
+
+7. Armed with your data analysis, write a 250 word memo at the end of the R markdown document that summarizes your findings. Use this opportunity to ask questions or note any major flaws in the data.
+
+The data reveals several noteworthy insights. First, the bar chart shows a steady increase in the number of published news items from 2020 through 2024, with a particularly sharp rise in 2024. This upward trend may indicate growing coverage or heightened reporting activities over time. The rise of reporting activities on vasectomies after 2022 (the overturn of Roe v. Wade case) may present an interesting way to look at the impact of the case on the reproductive equality. 
+
+However, upon closer examination of the raw spreadsheet, a significant issue emerges: There are lots of columns that contains missing values in the spreadsheet. The columns with the highest counts of missing (NA) values are typically bylines, term, pub_copyright. 
+
+The reason why columns related to author of the articles cotains so many NAs might because, lots of these articles are actually press release and government statments, but not news reportings. These articles do not explicitly name an individual author. 
+
+Term and copyright often user- or system-generated metadata. If the original source did not include them or if the scraping process did not detect them, they remain blank. Inconsistent tagging/keyword practices across different websites or data feeds can lead to partial or missing term information.
+
+To reduce missing values in future data collection, I can standardize fields such as “bylines,” making it a required element when I'm trying to download data from the Nexius Uni. Also, I can filter out the government statements and press releases by just selecting "newspaper" in the type of the publications to reduce the NAs in bylines columns. 
+
+Additionally, sorting by publication_location shows that a large proportion of news items are attributed to “U.S. Federal.” This also suggests that I may have over-collected government news releases or federal blog posts, rather than a balanced set of articles from diverse media outlets. It is also unclear how sub-national jurisdictions (e.g., state agencies versus private news agencies) were categorized. Addressing these classification challenges will help refine the dataset for more accurate, representative insights.
