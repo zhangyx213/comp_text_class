@@ -1,0 +1,4 @@
+"0","data(stop_words)"
+"0","tidy_books <- tidy_books %>%"
+"0","  anti_join(stop_words)"
+"2","Joining with `by = join_by(word)`"

@@ -1,0 +1,5 @@
+"0","bronte <- gutenberg_download(c(1260, 768, 969, 9182, 767))"
+"2","警告: [38;5;232m[33m![38;5;232m Could not download a book at http://aleph.gutenberg.org/1/2/6/1260/1260.zip.
+[36mℹ[38;5;232m The book may have been archived.
+[36mℹ[38;5;232m Alternatively, You may need to select a different mirror.
+→ See https://www.gutenberg.org/MIRRORS.ALL for options.[39m"

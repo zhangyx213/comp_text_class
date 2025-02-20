@@ -1,0 +1,114 @@
+---
+title: "Week 4 Bigrams Homework"
+author: "Catherine Yuxiao Zhang"
+date: '2025-02-20'
+output: html_document
+---
+
+# Jour 689 Spring 2025:
+
+In this exercise, you will import the Nexis spreadsheet and create bigrams from the headlines
+
+Setup. These instructions are important. Follow them carefully
+
+1) Create a new folder called "bigrams_week_5" in your class folder
+2) Copy this file to "bigrams_week_5"
+3) Copy your spreadsheet to "bigrams_week_5"
+4) Create an .Rproj file that points to "bigrams_week_5"
+
+```{r}
+#load tidyverse, tidytext, rio, janitor libraries
+library(tidyverse)
+library(janitor)
+library(rio)
+library(tidytext)
+```
+
+```{r}
+#Import spreadsheet using rio::import and clean the names
+
+
+vas <- rio::import("Results list for_vasectomy, vasectomies.XLSX") 
+vas <- vas |> 
+  clean_names()
+
+```
+# Tokenize the hlead column
+
+Copy the code from the in-class bigrams exercise and tokenize just the hlead column from your dataframe
+
+Hint: you're changing just one variable
+
+```{r}
+vas_head <- str_replace_all(vas$hlead, "- ", "")
+vas_head_df <- tibble(vas_head,)
+
+vas_tokenized <- vas_head_df %>%
+  unnest_tokens(word,vas_head)
+
+vas_tokenized
+
+
+```
+
+#Remove stopwords and count the words
+```{r}
+
+data(stop_words)
+
+vas_tokenized <- vas_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+# Word Count
+
+word_ct <- vas_tokenized %>%
+  count(word, sort=TRUE)
+
+word_ct
+```
+
+# Create Bigrams
+
+```{r}
+bigrams <- vas_head_df %>%
+  unnest_tokens(bigram, vas_head, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams2 <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |>
+  filter(!is.na(word1)) |>
+  filter(!is.na(word2))
+
+# Word Count
+bigram3 <- bigrams2 %>%
+  count(word1, word2, sort = TRUE)
+
+bigram3
+
+
+```
+
+
+# Write 250 words about what your learned analyzing the list of tokens and bigrams. Include questions about the process and any difficulties you encountered.
+
+I think the most interesting thing I found is that, in the word count of the tokenized headlines, the most frequent word is vasectomy and vasectomies. While in the bigram, the most frequent word combinition is actually supreme court. Conbining the top 10 frequent words in the unigram and the bigram, it shows that the mention of vasectomy and vasectmoies might related to 1. legal consideration, 2. the overturn of roe v wade case in the supreme court 3. research. Since vasectomy is a single term, we can expect the bigram shows something different than just the term itself, and add rich context to examining the single term itself. Therefore, since the data comes from 2 years before the overturn of roe v. wade and 2 years after the overturn of roe v wade, we might infer that there might be a surge of covering vasectomy related topics around the case, which then mention the surpreme court's decision. 
+
+Also, Though vasectomy and vasectomies are the top frequency in the unigram, roe is also in the top 10, which further implies that there might be more reporting on the relationship between vasectomies and the turnover of roe v wade case after 2022. similarly, abortion rights and reporductive health is also among top 20 in the bigram, suggesting vasectomies can related to the coverage and disscussion of these topics in the public domains now. 
+
+We need to seperate articles published before roe v. wade and after roe v. wade to further study if the discussion of the reproductive health change or become more frequent upon the decision of roe v. wade. Also, if I want to study the gender narrative in those articles, I may also need to find specific words such as "gender", "reproductive equality" in the articles to further analyze the 
+
+we need to rule out other common words that have limited meanings for the dataset later in the bigram, such as news editor, news reporter, etc. and to see the relationship between vasectomies and the roe v wade case and the abortion right. We can also do a correlation check on those words to see if they have strong correlation. 
+
+
+
+

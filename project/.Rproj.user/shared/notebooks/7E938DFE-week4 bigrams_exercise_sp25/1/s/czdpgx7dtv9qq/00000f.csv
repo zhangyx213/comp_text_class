@@ -1,0 +1,8 @@
+"0","#Import dataframe "
+"0",""
+"0",""
+"0","lynch <- rio::import(""https://raw.githubusercontent.com/wellsdata/CompText_Jour/refs/heads/main/data/articles_oct_19.csv"")"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

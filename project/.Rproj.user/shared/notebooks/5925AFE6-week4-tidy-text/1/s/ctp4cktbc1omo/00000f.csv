@@ -1,0 +1,4 @@
+"0",""
+"0","text_df <- tibble(line = 1:4, text = text)"
+"0",""
+"0","text_df"

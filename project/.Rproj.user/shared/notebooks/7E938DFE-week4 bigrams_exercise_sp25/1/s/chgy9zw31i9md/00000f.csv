@@ -1,0 +1,82 @@
+"0","#load tidyverse, tidytext, rio and quanteda libraries"
+"0","install.packages(""quanteda"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","将程序包安装入‘C:/Users/cathy/AppData/Local/R/win-library/4.4’
+(因为‘lib’没有被指定)
+"
+"2","还安装依赖关系‘ISOcodes’, ‘fastmatch’, ‘stopwords’
+
+"
+"2","试开URL’https://cran.rstudio.com/bin/windows/contrib/4.4/ISOcodes_2024.02.12.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 299329 bytes (292 KB)
+"
+"2","downloaded 292 KB
+
+"
+"2","试开URL’https://cran.rstudio.com/bin/windows/contrib/4.4/fastmatch_1.1-6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 41666 bytes (40 KB)
+"
+"2","downloaded 40 KB
+
+"
+"2","试开URL’https://cran.rstudio.com/bin/windows/contrib/4.4/stopwords_2.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 229226 bytes (223 KB)
+"
+"2","downloaded 223 KB
+
+"
+"2","试开URL’https://cran.rstudio.com/bin/windows/contrib/4.4/quanteda_4.2.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2688855 bytes (2.6 MB)
+"
+"2","downloaded 2.6 MB
+
+"
+"1","程序包‘ISOcodes’打开成功，MD5和检查也通过
+"
+"1","程序包‘fastmatch’打开成功，MD5和检查也通过
+"
+"1","程序包‘stopwords’打开成功，MD5和检查也通过
+"
+"1","程序包‘quanteda’打开成功，MD5和检查也通过
+"
+"1","
+"
+"1",""
+"1","下载的二进制程序包在
+	C:\Users\cathy\AppData\Local\Temp\RtmpiMimAv\downloaded_packages里"
+"1",""
+"1","
+"
+"0","library(tidyverse)"
+"0","library(tidytext)"
+"2","警告: 程序包‘tidytext’是用R版本4.4.2 来建造的"
+"0","library(quanteda)"
+"2","警告: 程序包‘quanteda’是用R版本4.4.2 来建造的"
+"2","Package version: 4.2.0
+Unicode version: 15.1
+ICU version: 74.1
+"
+"2","Parallel computing: 12 of 12 threads used.
+"
+"2","See https://quanteda.io for tutorials and examples.
+"
+"2","
+载入程序包：‘quanteda’
+
+"
+"2","The following object is masked from ‘package:rio’:
+
+    convert
+
+"

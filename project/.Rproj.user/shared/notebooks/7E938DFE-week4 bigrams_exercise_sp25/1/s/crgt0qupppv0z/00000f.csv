@@ -1,0 +1,7 @@
+"0","trigrams <- stories_df %>%"
+"0","  unnest_tokens(trigram, stories, token=""ngrams"", n=3)"
+"0",""
+"0","#a simple count of the trigrams"
+"0","trigrams |> "
+"0","  count(trigram) |> "
+"0","  arrange(desc(n))"

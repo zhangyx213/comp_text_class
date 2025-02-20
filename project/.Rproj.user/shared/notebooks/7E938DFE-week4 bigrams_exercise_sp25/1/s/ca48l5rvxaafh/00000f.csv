@@ -1,0 +1,6 @@
+"0","data(stop_words)"
+"0",""
+"0","test <- stop_words %>% "
+"0","  as.data.frame()"
+"0",""
+"0","head(test)"
