@@ -1,0 +1,4 @@
+"0","bigrams <- vas_scent_df %>%"
+"0","  unnest_tokens(bigram, vas_scent, token=""ngrams"", n=2)"
+"0",""
+"0","bigrams"

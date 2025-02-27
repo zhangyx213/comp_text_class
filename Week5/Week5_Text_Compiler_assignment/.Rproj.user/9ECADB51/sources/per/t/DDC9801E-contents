@@ -1,0 +1,112 @@
+---
+title: "Week 4 Bigrams Homework"
+author: "Catherine Yuxiao Zhang"
+date: '2025-02-20'
+output: html_document
+---
+
+# Jour 689 Spring 2025:
+
+In this exercise, you will import the Nexis spreadsheet and create bigrams from the headlines
+
+Setup. These instructions are important. Follow them carefully
+
+1) Create a new folder called "bigrams_week_5" in your class folder
+2) Copy this file to "bigrams_week_5"
+3) Copy your spreadsheet to "bigrams_week_5"
+4) Create an .Rproj file that points to "bigrams_week_5"
+
+```{r}
+#load tidyverse, tidytext, rio, janitor libraries
+library(tidyverse)
+library(janitor)
+library(rio)
+library(tidytext)
+```
+
+```{r}
+#Import spreadsheet using rio::import and clean the names
+
+
+vas <- rio::import("Results list for_vasectomy, vasectomies.XLSX") 
+vas <- vas |> 
+  clean_names()
+
+```
+# Tokenize the hlead column
+
+Copy the code from the in-class bigrams exercise and tokenize just the hlead column from your dataframe
+
+Hint: you're changing just one variable
+
+```{r}
+vas_head <- str_replace_all(vas$hlead, "- ", "")
+vas_head_df <- tibble(vas_head,)
+
+vas_tokenized <- vas_head_df %>%
+  unnest_tokens(word,vas_head)
+
+vas_tokenized
+
+
+```
+
+#Remove stopwords and count the words
+```{r}
+
+data(stop_words)
+
+vas_tokenized <- vas_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+# Word Count
+
+word_ct <- vas_tokenized %>%
+  count(word, sort=TRUE)
+
+word_ct
+```
+
+# Create Bigrams
+
+```{r}
+bigrams <- vas_head_df %>%
+  unnest_tokens(bigram, vas_head, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams2 <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |>
+  filter(!is.na(word1)) |>
+  filter(!is.na(word2))
+
+# Word Count
+bigram3 <- bigrams2 %>%
+  count(word1, word2, sort = TRUE)
+
+bigram3
+
+
+```
+
+
+# Write 250 words about what your learned analyzing the list of tokens and bigrams. Include questions about the process and any difficulties you encountered.
+
+Analyzing the tokenized headlines and bigrams revealed several intriguing patterns. The most frequent unigram—“vasectomy” and its plural “vasectomies”—matches with my searching and filtering criteria. However, in the bigram list, the top phrase is “supreme court,” reflecting broader legal and societal contexts. This contrast highlights the importance of examining both single-word counts and multi-word phrases to uncover deeper thematic connections. For instance, “roe,” “dobbs,” “abortion rights,” and “reproductive health” also appear prominently, suggesting strong links between vasectomies and the evolving conversation around reproductive policies—particularly after the Dobbs decision that overturned Roe v. Wade.
+
+Because the dataset spans two years before and two years after the landmark Supreme Court ruling, one potential research avenue is comparing how coverage changed pre- and post-decision. A surge in articles mentioning vasectomies might coincide with heightened discussions around reproductive rights during that period. To explore this further, I might isolate articles by publication date and run correlation analyses to see if mentions of “vasectomy” consistently accompany references to “roe,” “abortion,” or “supreme court.” Another step could be filtering out generic bigrams like “news editor” or “news reporter” that do not contribute much insight.
+
+During the process, I encountered challenges in distinguishing relevant terms from filler words. I also considered whether creating a specialized dictionary of stop-words, in addition to the standard list, might benefit my project. Also, part-of-speech tagging might improve the clarity of findings as well. Moreover, exploring how gender narratives surface in the texts—perhaps by searching for terms like “gender” or “reproductive equality”—could enrich the analysis, and I know this will be covered in the next week's class, so I'm looking forward to learning from this. Overall, these findings underscore the complexity of interpreting headline data and the necessity of both quantitative and qualitative techniques to fully understand the discourse.
+
+
+
+

@@ -1,0 +1,31 @@
+{
+    "id": "01D1D29C",
+    "path": "~/Code/CompText_Jour/exercises/Week5_Text_Compiler/Week5_Text_Compiler_2_26.Rmd",
+    "project_path": "Week5_Text_Compiler_2_26.Rmd",
+    "type": "r_markdown",
+    "hash": "2792366484",
+    "contents": "",
+    "dirty": false,
+    "created": 1740579236583.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "cursorPosition": "15,16",
+        "scrollLine": "8",
+        "rmdVisualModeLocation": "2:0",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1740580013,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1740580013509,
+    "read_only": false,
+    "read_only_alternatives": []
+}
