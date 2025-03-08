@@ -1,0 +1,19 @@
+"0","library(reshape2)"
+"2","警告: 程序包‘reshape2’是用R版本4.4.2 来建造的"
+"2","
+载入程序包：‘reshape2’
+
+"
+"2","The following object is masked from ‘package:tidyr’:
+
+    smiths
+
+"
+"0","tidy_books %>%"
+"0","  inner_join(get_sentiments(""bing"")) %>%"
+"0","  count(word, sentiment, sort = TRUE) %>%"
+"0","  acast(word ~ sentiment, value.var = ""n"", fill = 0) %>%"
+"0","  comparison.cloud(colors = c(""gray20"", ""gray80""),"
+"0","                   max.words = 100)"
+"2","Joining with `by = join_by(word)`"
+"2","警告: Detected an unexpected many-to-many relationship between `x` and `y`."
