@@ -1,0 +1,5 @@
+"0","bind_rows(afinn, "
+"0","          bing_and_nrc) %>%"
+"0","  ggplot(aes(index, sentiment, fill = method)) +"
+"0","  geom_col(show.legend = FALSE) +"
+"0","  facet_wrap(~method, ncol = 1, scales = ""free_y"")"

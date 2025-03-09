@@ -1,0 +1,3 @@
+"0",""
+"0","nrc_sentiments %>% "
+"0","  count(sentiment, sort = TRUE)"

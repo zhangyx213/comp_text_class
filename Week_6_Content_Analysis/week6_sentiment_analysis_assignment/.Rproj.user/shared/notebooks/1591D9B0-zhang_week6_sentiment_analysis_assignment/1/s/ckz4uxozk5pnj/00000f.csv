@@ -1,0 +1,4 @@
+"0","# cite this lexicon"
+"0","#install.packages(""textdata"")"
+"0","nrc_sentiments <- get_sentiments(""nrc"")"
+"0","afinn_sentiments <- get_sentiments(""afinn"")"

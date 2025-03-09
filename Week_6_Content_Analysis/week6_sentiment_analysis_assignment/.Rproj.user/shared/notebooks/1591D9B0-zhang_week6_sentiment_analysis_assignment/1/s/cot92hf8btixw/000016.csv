@@ -1,0 +1,8 @@
+"0","ggplot(nrc_counts, aes(x = reorder(sentiment, n), y = n, fill = sentiment)) +"
+"0","  geom_col() +"
+"0","  coord_flip() +"
+"0","  labs(title = ""NRC Sentiment Analysis of vasectomy reportings"","
+"0","       x = ""NRC Sentiment"","
+"0","       y = ""Count"") +"
+"0","  theme_minimal()"
+"0",""

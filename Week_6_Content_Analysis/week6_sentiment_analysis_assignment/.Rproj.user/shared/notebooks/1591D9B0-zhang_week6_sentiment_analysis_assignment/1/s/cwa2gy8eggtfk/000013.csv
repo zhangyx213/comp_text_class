@@ -1,0 +1,6 @@
+"0","#Count with all sentiment categories"
+"0","nrc_counts <- vas_sentiments %>%"
+"0","  count(word, sentiment, sort = TRUE) %>%"
+"0","  ungroup()"
+"0",""
+"0","nrc_counts"

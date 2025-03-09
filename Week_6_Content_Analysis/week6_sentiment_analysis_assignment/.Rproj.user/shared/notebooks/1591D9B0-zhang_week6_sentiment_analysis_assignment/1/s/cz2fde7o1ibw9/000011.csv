@@ -1,0 +1,5 @@
+"0",""
+"0","vas_sentiments <- vas_tokenized %>%"
+"0","  inner_join(nrc_sentiments) "
+"2","Joining with `by = join_by(word)`"
+"2","警告: Detected an unexpected many-to-many relationship between `x` and `y`."

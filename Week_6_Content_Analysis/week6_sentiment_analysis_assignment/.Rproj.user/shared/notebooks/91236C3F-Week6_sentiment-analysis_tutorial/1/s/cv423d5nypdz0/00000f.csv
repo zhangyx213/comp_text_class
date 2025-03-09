@@ -1,0 +1,3 @@
+"0","get_sentiments(""nrc"") %>% "
+"0","  filter(sentiment %in% c(""positive"", ""negative"")) %>% "
+"0","  count(sentiment)"

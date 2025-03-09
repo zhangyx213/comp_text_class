@@ -1,0 +1,4 @@
+"0","anger <- vas_sentiments %>%"
+"0","  filter(sentiment == ""anger"")"
+"0",""
+"0","anger"
