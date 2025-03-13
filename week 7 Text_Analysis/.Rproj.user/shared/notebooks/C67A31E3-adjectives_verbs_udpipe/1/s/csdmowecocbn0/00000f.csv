@@ -1,0 +1,22 @@
+"0","udmodel <- udpipe_download_model(language = ""english"")"
+"2","Downloading udpipe model from https://raw.githubusercontent.com/jwijffels/udpipe.models.ud.2.5/master/inst/udpipe-ud-2.5-191206/english-ewt-ud-2.5-191206.udpipe to C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/week 7 Text_Analysis/english-ewt-ud-2.5-191206.udpipe
+"
+"2"," - This model has been trained on version 2.5 of data from https://universaldependencies.org
+"
+"2"," - The model is distributed under the CC-BY-SA-NC license: https://creativecommons.org/licenses/by-nc-sa/4.0
+"
+"2"," - Visit https://github.com/jwijffels/udpipe.models.ud.2.5 for model license details.
+"
+"2"," - For a list of all models and their licenses (most models you can download with this package have either a CC-BY-SA or a CC-BY-SA-NC license) read the documentation at ?udpipe_download_model. For building your own models: visit the documentation by typing vignette('udpipe-train', package = 'udpipe')
+"
+"2","试开URL’https://raw.githubusercontent.com/jwijffels/udpipe.models.ud.2.5/master/inst/udpipe-ud-2.5-191206/english-ewt-ud-2.5-191206.udpipe'
+"
+"2","Content type 'application/octet-stream'"
+"2"," length 16309608 bytes (15.6 MB)
+"
+"2","downloaded 15.6 MB
+
+"
+"2","Downloading finished, model stored at 'C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/week 7 Text_Analysis/english-ewt-ud-2.5-191206.udpipe'
+"
+"0","udmodel <- udpipe_load_model(udmodel$file_model)"

@@ -1,0 +1,4 @@
+"0",""
+"0","datatable(adjective_counts,"
+"0","          caption = ""Top adjectives in Harris DW coverage"","
+"0","          options = list(pageLength = 50)) "

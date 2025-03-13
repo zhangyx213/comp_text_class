@@ -1,0 +1,6 @@
+"0","media_narratives <- kwic(my_tokens, "
+"0","                       pattern = c(""media"", ""reporter"", ""newspaper"", ""journalist""), "
+"0","                       valuetype = ""fixed"") |> "
+"0","  as.data.frame() |>"
+"0","  mutate(doc_id = docname) |>"
+"0","  left_join(lookup_df, by = ""doc_id"")"

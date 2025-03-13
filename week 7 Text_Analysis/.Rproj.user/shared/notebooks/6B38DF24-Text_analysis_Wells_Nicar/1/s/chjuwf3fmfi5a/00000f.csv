@@ -1,0 +1,8 @@
+"0",""
+"0","ggplot(harris_sentiment_analysis, aes(x = index, y = sentiment, fill = sentiment_type)) +"
+"0","  geom_col(position = ""dodge"", stat = ""identity"") +"
+"0","  scale_fill_manual(values = c(""Positive"" = ""darkgreen"", ""Negative"" = ""red"")) + "
+"0","  labs(title = ""Sentiment of Daily Wire coverage of Kamala Harris, October 2024"","
+"0","       caption = ""n=96 articles. Afinn sentiment. Graphic by Rob Wells 1-25-2025"","
+"0","       x = ""Articles"","
+"0","       y = ""Sentiment Score"") "

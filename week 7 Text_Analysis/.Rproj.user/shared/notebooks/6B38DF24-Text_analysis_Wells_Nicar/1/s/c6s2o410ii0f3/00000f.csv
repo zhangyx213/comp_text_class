@@ -1,0 +1,8 @@
+"0","ggplot(top_20_harris_bigrams, aes(x = reorder(bigram, n), y = n, fill=n)) +"
+"0","  geom_bar(stat = ""identity"") +"
+"0","  theme(legend.position = ""none"") +"
+"0","  coord_flip() +  "
+"0","  labs(title = ""Top Two-Word phrases about Kamala Harris on daily Wire coverage"","
+"0","       caption = ""n=94 articles, 2024. Graphic by Rob Wells. 1-23-2025"","
+"0","       x = ""Phrase"","
+"0","       y = ""Count of terms"")"

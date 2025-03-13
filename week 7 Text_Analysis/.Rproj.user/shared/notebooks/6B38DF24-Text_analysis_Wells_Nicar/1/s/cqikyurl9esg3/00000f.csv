@@ -1,0 +1,9 @@
+"0","harris_articles_df <- harris_articles_df |> "
+"0","  mutate(candidate = ""harris"") "
+"0",""
+"0","trump_articles_df <- trump_articles_df |> "
+"0","  mutate(candidate = ""trump"")"
+"0",""
+"0","combined <- rbind(harris_articles_df, trump_articles_df)"
+"2","错误于rbind(deparse.level, ...): 变量的列数不正确
+"

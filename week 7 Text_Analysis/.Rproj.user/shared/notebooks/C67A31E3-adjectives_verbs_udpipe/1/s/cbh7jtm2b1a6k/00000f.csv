@@ -1,0 +1,6 @@
+"0","library(lattice)"
+"0","stats <- txt_freq(annotated_df$upos)"
+"0","stats$key <- factor(stats$key, levels = rev(stats$key))"
+"0","barchart(key ~ freq, data = stats, col = ""cadetblue"", "
+"0","         main = ""Parts of Speech in Harris DW coverage \n frequency of occurrence"", "
+"0","         xlab = ""Freq"")"

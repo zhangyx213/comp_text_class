@@ -1,0 +1,5 @@
+"0","# Then run your annotation"
+"0","annotated_text <- udpipe_annotate(udmodel, "
+"0","                                 x = harris_articles_df$sentence, "
+"0","                                 doc_id = harris_articles_df$filename)"
+"0","annotated_df <- as.data.frame(annotated_text)"

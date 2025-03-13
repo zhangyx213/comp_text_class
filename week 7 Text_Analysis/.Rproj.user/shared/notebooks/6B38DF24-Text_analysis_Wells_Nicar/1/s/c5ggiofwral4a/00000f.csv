@@ -1,0 +1,4 @@
+"0",""
+"0","# Create a corpus using the 'sentence' column as the text field"
+"0","my_corpus <- corpus(combined, text_field = ""sentence"") # build a new corpus from the texts"
+"0","docvars(my_corpus)$candidate <- combined$candidate "

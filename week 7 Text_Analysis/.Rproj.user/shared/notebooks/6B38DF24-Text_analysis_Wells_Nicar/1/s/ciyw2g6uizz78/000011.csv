@@ -1,0 +1,12 @@
+"0","# aggregate at article level, total sentiment score (Positive or Negative)
+harris_sentiment_analysis <- harris_sentiment_analysis |>
+   group_by(index) |> 
+  mutate(sentiment_type = ifelse(sentiment >= 0, ""Positive"", ""Negative"")) |> 
+  inner_join(final_index, by=(""index"")) |> 
+  select(index, date, sentiment, sentiment_type, filename, url)
+"
+"1","[1m[33mError[39m in `select()`:[22m
+[33m![39m Can't select columns that don't exist.
+[31m✖[39m Column `date` doesn't exist.
+[90mRun `]8;;x-r-run:rlang::last_trace()rlang::last_trace()]8;;` to see where the error occurred.[39m
+"

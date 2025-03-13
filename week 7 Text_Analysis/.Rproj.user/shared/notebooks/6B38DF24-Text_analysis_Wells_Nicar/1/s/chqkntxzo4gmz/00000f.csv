@@ -1,0 +1,6 @@
+"0","media_narratives_table <- media_narratives |> "
+"0","  select(candidate, pre, keyword, post, doc_id)"
+"0",""
+"0","datatable(media_narratives_table,"
+"0","          caption = ""Top 50 Negative Phrases"","
+"0","          options = list(pageLength = 20)) "

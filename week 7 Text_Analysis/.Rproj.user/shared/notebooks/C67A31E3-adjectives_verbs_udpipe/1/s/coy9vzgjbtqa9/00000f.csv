@@ -1,0 +1,6 @@
+"0","## NOUNS"
+"0","stats <- subset(annotated_df, upos %in% c(""NOUN"")) "
+"0","stats <- txt_freq(stats$token)"
+"0","stats$key <- factor(stats$key, levels = rev(stats$key))"
+"0","barchart(key ~ freq, data = head(stats, 20), col = ""cadetblue"", "
+"0","         main = ""Most occurring nouns"", xlab = ""Freq"")"
