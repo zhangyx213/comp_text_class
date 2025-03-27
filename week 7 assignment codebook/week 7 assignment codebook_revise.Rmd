@@ -148,5 +148,9 @@ article_sentiment <- article_tokens %>%
 
 head(article_sentiment)
 
+#custom stop words
+
+custom_stop_words = bind_rows(tribble(word = c(xxxxx))) #create a new list of stop words that amend for the lexiton stop words.
+
 ```
 

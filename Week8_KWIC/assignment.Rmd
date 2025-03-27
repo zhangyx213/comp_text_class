@@ -1,0 +1,139 @@
+---
+title: "assignment"
+output: html_document
+date: "2025-03-27"
+---
+# Quanteda
+
+```{r}
+#install.packages("readtext")
+library(quanteda)
+library(readtext)
+library(tidyverse)
+
+```
+
+
+#Import your article text dataframe
+```{r}
+articles <- read.csv("article_df.csv")
+library(readxl)
+index <- read_excel("Results list for_vasectomy, vasectomies.XLSX") %>%
+  janitor::clean_names()
+
+
+```
+
+
+# Create corpus object
+```{r}
+articles <- articles %>%
+  mutate(file_id = as.numeric(factor(title)))
+
+
+articles <- articles %>%
+  mutate(unique_file_id = paste0(file_id, "_", row_number()))
+
+index <- index %>%
+  mutate(file_id = as.numeric(factor(title)))
+
+
+# Now create the corpus with the new unique identifier
+vas_corpus <- corpus(articles, text_field = "sentence", 
+                       docid_field = "unique_file_id")
+
+# Tokenize the corpus：a word per row
+vas_tokens <- tokens(vas_corpus)
+```
+
+# Perform KWIC search
+```{r}
+kwic_results <- kwic(
+  vas_tokens,
+  phrase(c("vasectomy", "vasectomies","procedure", "safe", "medical", "health", "recovery")),
+  window = 50, valuetype = "regex"
+) %>% 
+  as.data.frame() 
+
+```
+
+# Link the results with the metadata
+```{r}
+#Strips out unique file name from article index 
+kwic_results <- kwic_results |>  
+    mutate(matchrow = str_extract(docname, "^[^_]+[^_]+"))
+
+metadata <- index
+
+# Join KWIC results with metadata 
+metadata$file_id <- as.character(metadata$file_id)
+
+kwic_with_metadata <- kwic_results %>%
+  inner_join(metadata, by = c("matchrow"="file_id")) |> 
+  distinct(docname, .keep_all= TRUE) |> 
+  select(matchrow, title, published_date, publication_location, publication_4, publication_type_5, length, section, word_count, countries, byline, agg_copyright, cite, company, headline, hlead, publication_16, publication_type_17, pub_copyright, show, term, ticker, from, to, pre, keyword, post, pattern, docname)
+
+
+```
+
+
+# Housecleaning
+```{r}
+#cut useless returns
+mobjunk <- c("mobile",  "automobile",  "automobiles", "mobilize", "mobley", "mobilizing", "democratic party of", "mobe", "moberly",  "mobil", "mobiles", "mobilized", "mobold")
+kwic_with_metadata <- kwic_with_metadata %>%
+  filter(!keyword %in% mobjunk)
+
+
+#Eliminate duplication
+kwic_with_metadata_clean  <- kwic_with_metadata  %>% 
+  distinct(docname, pre, keyword, post,published_date, publication_16) %>% 
+  rename('Beginning of Passage' = pre, 'End of Passage' = post, Newspaper = publication_16, Date =  published_date) 
+
+kwic_with_metadata_csv <- kwic_with_metadata_clean  %>%
+  add_column(Code = NA) %>% 
+  add_column(Comments = NA) %>% 
+  select(docname, Newspaper, Date, 'Beginning of Passage', keyword, 'End of Passage', Code, Comments)
+
+#write_csv(kwic_with_metadata_csv, "kwic_with_metadata.csv")
+
+```
+
+
+### Then import the data into a google form and code away
+
+Sample Google Form:
+https://docs.google.com/forms/d/1iT49Tz6ZfJ67eURsVI79OVjbH8fWcIozFXZyhL7dXCY/edit
+
+Sample spreadsheet:
+https://docs.google.com/spreadsheets/d/1JZ7WkGkj-hs0XeBEo12ZxnTqLlwtjjiuMGSiuS0EnS8/edit?gid=310265245#gid=310265245
+
+
+Steps to link to a Google form
+1) Create a Google Form with the fields you want to import from the spreadsheet (kwic_with_metadata.csv)
+Create Paragraph questions
+"docname"              
+"Beginning of Passage" 
+"keyword"              
+"End of Passage"      
+"Newspaper"            
+"Date"
+"url"    
+
+2) Get link
+https://docs.google.com/forms/d/e/1FAIpQLScJR-6mffrc17ZdoCc1qjpvRUL6H71EeW1h5qz_2LvILPb6Wg/viewform?usp=pp_url&entry.1101824497=Rob+Wells&entry.972664370=TODAY&entry.1301433784=WASHINGTON+POST&entry.91443670=START&entry.1665018793=WORD&entry.1496202882=FINISH
+
+
+Create a column where the link for each student project will go. The formula you want to use is =HYPERLINK(“URL”,”Click Here”).
+
+It will look something like this:
+=HYPERLINK(“https://docs.google.com/forms/d/e/1FAIpQLSc_I4u1oPbNpUFx9FT9qcq-AW1w7y1v0k5T-9virJg3XH6G9A/viewform?entry.792046611=Zada+Howarth%C2%A0&entry.189967737=How+relevant+is+Shakespeare?+Make+the+pop-culture+connections&entry.128488987″,”Click Here”)
+
+
+
+https://alicekeeler.com/2018/03/19/google-forms-pre-fill-answer/
+
+
+
+
+=HYPERLINK("https://docs.google.com/forms/d/e/1FAIpQLSek1beVd-ckbiX3w1AaIHSj3AjeTOtTmHd2ZM08mb5BBDTBFQ/viewform?usp=pp_url&entry.262647990=Rob&entry.1021580155="&E2&"&entry.847834668="&G2&"&entry.1352133755="&D2&"&entry.1266675087="&I2&"","Click for form")

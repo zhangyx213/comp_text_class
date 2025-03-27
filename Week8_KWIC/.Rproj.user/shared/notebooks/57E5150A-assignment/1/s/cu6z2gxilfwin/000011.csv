@@ -1,0 +1,4 @@
+"0","index <- read_excel(""Results list for_vasectomy, vasectomies.XLSX"") %>%
+  janitor::clean_names()
+"
+"2","New names:"

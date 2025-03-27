@@ -1,0 +1,13 @@
+"0","#Eliminate duplication
+kwic_with_metadata  <- kwic_with_metadata  %>% 
+  distinct(docname, pre, keyword, post,published_date, publication_16) %>% 
+  rename('Beginning of Passage' = pre, 'End of Passage' = post, Newspaper = publication_16, Date =  published_date) 
+"
+"1","[1m[33mError[39m in `distinct()`:[22m
+[38;5;232m[33m![38;5;232m Must use existing variables.
+[31m✖[38;5;232m `pre` not found in `.data`.
+[31m✖[38;5;232m `post` not found in `.data`.
+[31m✖[38;5;232m `published_date` not found in `.data`.
+[31m✖[38;5;232m `publication_16` not found in `.data`.[39m
+[90mRun `]8;;x-r-run:rlang::last_trace()rlang::last_trace()]8;;` to see where the error occurred.[39m
+"
