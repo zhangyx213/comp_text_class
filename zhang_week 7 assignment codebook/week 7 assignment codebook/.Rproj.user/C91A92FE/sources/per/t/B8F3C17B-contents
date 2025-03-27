@@ -1,0 +1,145 @@
+---
+title: "week_7_assignment_codebook"
+author: "Catherine Zhang"
+date: "2025-03-23"
+output: html_document
+---
+
+The first steps in creating a codebook from your project.
+
+In this assignment, you will write two research questions based on your project work so far and develop a short codebook for content analysis. And then using mutate and case_when, apply these categories in code to your work in R.
+
+------------------------------------------------------------------------
+
+**Research Questions:**
+
+**RQ1:** What percentage of media coverage from the U.S. and China primarily focuses on a) medical issues, b) contraceptive decision-making, or c) political/policy contexts? (Media frame and agenda setting)
+
+**RQ2:** How frequently is the term “Roe v. Wade” mentioned in U.S. media coverage of vasectomy, and how frequently is the “national population policy” (or related terms) mentioned in Chinese media coverage of vasectomy?
+
+**RQ3:** How do sentiment scores derived from the AFINN lexicon differ between U.S. and Chinese media coverage of vasectomy, and what proportion of articles in each country can be classified as positive, neutral, or negative based on these scores? (sentiment analysis)
+
+------------------------------------------------------------------------
+
+**Codebook:**
+
+**RQ1: What percentage of media coverage from the U.S. and China primarily focuses on a) medical issues, b) contraceptive decision-making, or c) political/policy contexts? (Media frame and agenda setting)**
+
+The coding Scheme is adopted from Framing dimensions from Boydstun et al. (2014). I picked 3 categories to study:
+
+1.  Health and safety: health care, sanitation, public safety
+2.  Cultural identity: traditions, customs, or values of a social group in relation to a policy issue
+3.  Policy prescription and evaluation: discussion of specific policies aimed at addressing problems
+
+Based on this defination of the different categories, I developed my own codebook:
+
+**Medical Issues (coded as 1):** Articles primarily describing vasectomy procedures, safety, effectiveness, side effects, recovery periods, medical advice, and healthcare information. Articles falls into this category if the most frequent keywords are: procedure, safe, medical, health, recovery, surgery.
+
+**Contraceptive Decision-Making (coded as 2):** Articles highlighting vasectomy as an individual or family planning decision, including discussion about personal choices, family negotiation, gender responsibility, and reproductive autonomy. Articles falls into this category if the most frequent keywords are: decision, choice, family planning, responsibility, gender equality, contraceptive.
+
+**Political/Policy Context (coded as 3):** Articles primarily emphasizing vasectomy in the context of legal decisions (e.g., Roe v. Wade), population control policies, birth rates, government intervention, or political controversies. Articles falls into this category if the most frequent keywords are: roe v wade, supreme court, birth rate, population policy, abortion, political, policy, one child policy.
+
+Note: I will use text mining or natural language processing tools (e.g., term frequency-inverse document frequency, topic modeling) to identify high-frequency and contextually relevant words in my corpus first to decide which keywords should be included in the each categories.
+
+```{r}
+#example of u.s. articles
+
+library(dplyr)
+library(stringr)
+
+library(readr)
+article_df <- read_csv("article_df.csv")
+View(article_df)
+
+#Count keyword frequencies for each sentence
+article_df <- article_df %>%
+  mutate(
+    freq_medical = str_count(sentence, regex("procedure|safe|medical|health|recovery", ignore_case = TRUE)),
+    freq_decision = str_count(sentence, regex("decision|choice|family planning|responsibility|gender equality|contraceptive", ignore_case = TRUE)),
+    freq_policy   = str_count(sentence, regex("roe v\\. wade|supreme court|birth rate|population policy|abortion|political|policy", ignore_case = TRUE))
+  )
+
+#Aggregate counts for each article using filename.
+article_summary <- article_df %>%
+  group_by(filename) %>%
+  summarise(
+    total_medical = sum(freq_medical, na.rm = TRUE),
+    total_decision = sum(freq_decision, na.rm = TRUE),
+    total_policy   = sum(freq_policy, na.rm = TRUE)
+  )
+
+#Classify each article based on which keyword frequency is highest.
+article_summary <- article_summary %>%
+  mutate(
+    issue_type = case_when(
+      total_medical >= total_decision & total_medical >= total_policy & total_medical > 0 ~ "Medical Issues",
+      total_decision >= total_medical & total_decision >= total_policy & total_decision > 0 ~ "Contraceptive Decision-Making",
+      total_policy >= total_medical & total_policy >= total_decision & total_policy > 0 ~ "Political/Policy Context",
+      TRUE ~ "Other"
+    )
+  )
+
+
+head(article_summary)
+
+
+```
+
+**RQ2: How frequently is the term “Roe v. Wade” mentioned in U.S. media coverage of vasectomy, and how frequently is the “national population policy” (or related terms) mentioned in Chinese media coverage of vasectomy?**
+
+1.  **roe_mentions (Continuous)**
+
+Definition: The number of times the phrase “Roe v. Wade” appears in an article. Applicability: Only applies to U.S. articles. Measurement: Count the occurrences using string matching with a case-insensitive regular expression for “roe v. wade”.
+
+2.  **population_policy_mentions (Continuous)**
+
+Definition: The number of times phrases related to the national population policy (e.g., “population policy”) appear in an article. Applicability: Only applies to Chinese articles. Measurement: Count the occurrences using string matching with a case-insensitive regular expression for “population policy” (or similar variants as needed).
+
+```{r}
+
+article_policy_mentions <- article_df %>%
+  mutate(roe_mentions = str_count(sentence, regex("roe v\\. wade", ignore_case = TRUE))) %>%
+  group_by(filename) %>%
+  summarise(total_roe_mentions = sum(roe_mentions, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(policy_classification = case_when(
+    total_roe_mentions > 0 ~ "Roe Mentioned",
+    TRUE ~ "Not Mentioned"
+  ))
+
+head(article_policy_mentions)
+
+```
+
+**RQ3: How do sentiment scores derived from the AFINN lexicon differ between U.S. and Chinese media coverage of vasectomy, and what proportion of articles in each country can be classified as positive, neutral, or negative based on these scores? (sentiment analysis)**
+
+**1. Sentiment Category (Categorical)** Definition: A classification of an article’s overall sentiment based on its computed AFINN Sentiment Score. Categories & Criteria: Positive: sentiment_score \> 0；Neutral: sentiment_score = 0；Negative: sentiment_score \< 0
+
+```{r}
+
+library(tidytext)
+
+# Tokenize the sentences into words
+article_tokens <- article_df %>%
+  unnest_tokens(word, sentence)
+
+# Join tokens with the AFINN lexicon and compute sentiment scores for each word
+afinn <- get_sentiments("afinn")
+
+article_sentiment <- article_tokens %>%
+  inner_join(afinn, by = "word") %>%
+  # Aggregate sentiment scores by article
+  group_by(filename) %>%
+  summarise(sentiment_score = sum(value, na.rm = TRUE)) %>%
+  ungroup() %>%
+  # Classify the overall article sentiment
+  mutate(sentiment_category = case_when(
+    sentiment_score > 0 ~ "Positive",
+    sentiment_score < 0 ~ "Negative",
+    TRUE ~ "Neutral"
+  ))
+
+head(article_sentiment)
+
+```
+
