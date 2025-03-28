@@ -1,7 +1,60 @@
 "0","library(tidyverse)"
+"2","警告: 程序包‘tidyverse’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘ggplot2’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘tibble’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘tidyr’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘readr’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘purrr’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘dplyr’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘stringr’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘forcats’是用R版本4.4.2 来建造的"
+"2","警告: 程序包‘lubridate’是用R版本4.4.2 来建造的"
+"2","── [1mAttaching core tidyverse packages[22m ───────────────────────────────────────────────────────────────── tidyverse 2.0.0 ──
+[32m✔[39m [34mdplyr    [39m 1.1.4     [32m✔[39m [34mreadr    [39m 2.1.5
+[32m✔[39m [34mforcats  [39m 1.0.0     [32m✔[39m [34mstringr  [39m 1.5.1
+[32m✔[39m [34mggplot2  [39m 3.5.1     [32m✔[39m [34mtibble   [39m 3.2.1
+[32m✔[39m [34mlubridate[39m 1.9.4     [32m✔[39m [34mtidyr    [39m 1.3.1
+[32m✔[39m [34mpurrr    [39m 1.0.4     "
+"2","── [1mConflicts[22m ─────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+[31m✖[39m [34mdplyr[39m::[32mfilter()[39m masks [34mstats[39m::filter()
+[31m✖[39m [34mdplyr[39m::[32mlag()[39m    masks [34mstats[39m::lag()
+[36mℹ[39m Use the ]8;;http://conflicted.r-lib.org/conflicted package]8;; to force all conflicts to become errors"
 "0","library(textdata)"
+"2","警告: 程序包‘textdata’是用R版本4.4.3 来建造的"
 "0","library(tidytext)"
+"2","警告: 程序包‘tidytext’是用R版本4.4.3 来建造的"
 "0","#install.packages(""quanteda"")"
 "0","library(quanteda)"
+"2","警告: 程序包‘quanteda’是用R版本4.4.3 来建造的"
+"2","Package version: 4.2.0
+Unicode version: 15.1
+ICU version: 74.1
+"
+"2","Parallel computing: 16 of 16 threads used.
+"
+"2","See https://quanteda.io for tutorials and examples.
+"
 "0","library(rio)"
+"2","警告: 程序包‘rio’是用R版本4.4.2 来建造的"
+"2","Some optional R packages were not installed and therefore some file formats are not supported. Check file support with show_unsupported_formats()
+"
+"2","
+载入程序包：‘rio’
+
+"
+"2","The following object is masked from ‘package:quanteda’:
+
+    convert
+
+"
 "0","library(janitor)"
+"2","警告: 程序包‘janitor’是用R版本4.4.2 来建造的"
+"2","
+载入程序包：‘janitor’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    chisq.test, fisher.test
+
+"

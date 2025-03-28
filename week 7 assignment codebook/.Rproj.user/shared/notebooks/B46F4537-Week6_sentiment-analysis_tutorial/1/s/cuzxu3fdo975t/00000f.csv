@@ -1,0 +1,8 @@
+"0","nrc_joy <- get_sentiments(""nrc"") %>% "
+"0","  filter(sentiment == ""joy"")"
+"0",""
+"0","tidy_books %>%"
+"0","  filter(book == ""Emma"") %>%"
+"0","  inner_join(nrc_joy) %>%"
+"0","  count(word, sort = TRUE)"
+"2","Joining with `by = join_by(word)`"

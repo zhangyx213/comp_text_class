@@ -1,0 +1,2 @@
+"0","library(tidytext)"
+"0","get_sentiments(""afinn"")"

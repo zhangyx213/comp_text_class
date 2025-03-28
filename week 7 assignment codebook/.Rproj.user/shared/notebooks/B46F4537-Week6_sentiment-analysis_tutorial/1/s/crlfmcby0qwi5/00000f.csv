@@ -1,0 +1,5 @@
+"0","library(ggplot2)"
+"2","警告: 程序包‘ggplot2’是用R版本4.4.2 来建造的"
+"0","ggplot(jane_austen_sentiment, aes(index, sentiment, fill = book)) +"
+"0","  geom_col(show.legend = FALSE) +"
+"0","  facet_wrap(~book, ncol = 2, scales = ""free_x"")"

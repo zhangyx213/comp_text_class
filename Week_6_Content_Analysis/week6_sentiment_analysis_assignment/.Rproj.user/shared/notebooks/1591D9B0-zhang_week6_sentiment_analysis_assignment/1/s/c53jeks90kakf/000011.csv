@@ -1,5 +1,0 @@
-"0","# Word Count"
-"0","word_ct <- vas_tokenized %>%"
-"0","  count(word, sort=TRUE)"
-"0",""
-"0","word_ct"

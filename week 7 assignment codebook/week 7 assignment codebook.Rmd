@@ -82,6 +82,11 @@ article_summary <- article_summary %>%
 
 head(article_summary)
 
+count = article_summary %>%
+  count(issue_type, sort=TRUE)
+
+count
+
 
 ```
 
@@ -108,6 +113,12 @@ article_policy_mentions <- article_df %>%
   ))
 
 head(article_policy_mentions)
+
+count2 = article_policy_mentions %>%
+  count(total_roe_mentions,sort=TRUE)
+
+count2
+
 
 ```
 
@@ -141,5 +152,12 @@ article_sentiment <- article_tokens %>%
 
 head(article_sentiment)
 
-```
+ggplot(article_sentiment, aes(x = filename, y = sentiment_score, fill = sentiment_category)) +
+  geom_col(position = "dodge", stat = "identity") +
+  scale_fill_manual(values = c("Positive" = "darkgreen", "Negative" = "red")) + 
+  labs(title = "Sentiment of Vasectomy Reporting After Roe v. Wade",
+       caption = "n=100 articles. Afinn sentiment. Graphic by Catherine Zhang, 2025",
+       x = "Articles",
+       y = "Sentiment Score") 
 
+```

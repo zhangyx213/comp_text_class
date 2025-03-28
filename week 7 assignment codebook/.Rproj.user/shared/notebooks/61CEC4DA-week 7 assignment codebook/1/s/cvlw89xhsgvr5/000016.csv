@@ -1,0 +1,9 @@
+"0","ggplot(article_sentiment, aes(x = filename, y = sentiment_score, fill = sentiment_category)) +
+  geom_col(position = ""dodge"", stat = ""identity"") +
+  scale_fill_manual(values = c(""Positive"" = ""darkgreen"", ""Negative"" = ""red"")) + 
+  labs(title = ""Sentiment of Vasectomy Reporting After Roe v. Wade"",
+       caption = ""n=100 articles. Afinn sentiment. Graphic by Catherine Zhang, 2025"",
+       x = ""Articles"",
+       y = ""Sentiment Score"") 
+"
+"2","警告: [38;5;232mIgnoring unknown parameters: `stat`[39m"
