@@ -1,0 +1,2 @@
+"0","#Executes pdftotext, a command-line tool used to convert PDF files to plain text."
+"0","system(""pdftotext kemi.PDF ./extracted_text/kemi_tesseract.txt"")"

@@ -1,0 +1,136 @@
+"0","# set options"
+"0","options(stringsAsFactors = F)         # no automatic data transformation"
+"0","options(""scipen"" = 100, ""digits"" = 4) # suppress math annotation"
+"0","# load packages"
+"0","here::here()"
+"1","[1]"
+"1"," ""D:/comp_text_class/Week9_pdfs_topic_models"""
+"1","
+"
+"0","library(tidyverse)"
+"0","library(tidytext)"
+"2","警告: 程序包‘tidytext’是用R版本4.4.3 来建造的"
+"0","library(rio)"
+"2","警告: 程序包‘rio’是用R版本4.4.2 来建造的"
+"2","Some optional R packages were not installed and therefore some file formats are not supported. Check file support with show_unsupported_formats()
+"
+"0","library(readtext)"
+"2","警告: 程序包‘readtext’是用R版本4.4.3 来建造的"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"0","#topic modeling"
+"0","library(quanteda)"
+"2","警告: 程序包‘quanteda’是用R版本4.4.3 来建造的"
+"2","Package version: 4.2.0
+Unicode version: 15.1
+ICU version: 74.1
+"
+"2","Parallel computing: 16 of 16 threads used.
+"
+"2","See https://quanteda.io for tutorials and examples.
+"
+"2","
+载入程序包：‘quanteda’
+
+"
+"2","The following object is masked from ‘package:readtext’:
+
+    texts
+
+"
+"2","The following object is masked from ‘package:rio’:
+
+    convert
+
+"
+"0","library(tm)"
+"2","警告: 程序包‘tm’是用R版本4.4.3 来建造的"
+"2","载入需要的程序包：NLP
+"
+"2","警告: 程序包‘NLP’是用R版本4.4.2 来建造的"
+"2","
+载入程序包：‘NLP’
+
+"
+"2","The following objects are masked from ‘package:quanteda’:
+
+    meta, meta<-
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    annotate
+
+"
+"2","
+载入程序包：‘tm’
+
+"
+"2","The following object is masked from ‘package:quanteda’:
+
+    stopwords
+
+"
+"0","library(topicmodels)"
+"2","警告: 程序包‘topicmodels’是用R版本4.4.3 来建造的"
+"0","library(lda)"
+"2","警告: 程序包‘lda’是用R版本4.4.3 来建造的"
+"0","library(ldatuning)"
+"2","警告: 程序包‘ldatuning’是用R版本4.4.3 来建造的"
+"0","# from tutorial packages"
+"0","library(DT)"
+"2","警告: 程序包‘DT’是用R版本4.4.3 来建造的"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"0","library(knitr) "
+"2","警告: 程序包‘knitr’是用R版本4.4.2 来建造的"
+"0","library(kableExtra) "
+"2","警告: 程序包‘kableExtra’是用R版本4.4.3 来建造的"
+"2","
+载入程序包：‘kableExtra’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    group_rows
+
+"
+"0","library(reshape2)"
+"2","警告: 程序包‘reshape2’是用R版本4.4.2 来建造的"
+"2","
+载入程序包：‘reshape2’
+
+"
+"2","The following object is masked from ‘package:tidyr’:
+
+    smiths
+
+"
+"0","library(ggplot2)"
+"0","library(wordcloud)"
+"2","警告: 程序包‘wordcloud’是用R版本4.4.3 来建造的"
+"2","载入需要的程序包：RColorBrewer
+"
+"0","library(pals)"
+"2","警告: 程序包‘pals’是用R版本4.4.3 来建造的"
+"0","library(SnowballC)"
+"0","library(flextable)"
+"2","警告: 程序包‘flextable’是用R版本4.4.3 来建造的"
+"2","
+载入程序包：‘flextable’
+
+"
+"2","The following objects are masked from ‘package:kableExtra’:
+
+    as_image, footnote
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    compose
+
+"

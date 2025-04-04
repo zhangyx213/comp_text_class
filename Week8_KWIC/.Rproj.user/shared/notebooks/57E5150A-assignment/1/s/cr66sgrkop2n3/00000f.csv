@@ -1,7 +1,0 @@
-"0","kwic_results <- kwic("
-"0","  vas_tokens,"
-"0","  phrase(c(""vasectomy"", ""vasectomies"",""procedure"", ""safe"", ""medical"", ""health"", ""recovery"")),"
-"0","  window = 50, valuetype = ""regex"""
-"0",") %>% "
-"0","  as.data.frame() "
-"0",""

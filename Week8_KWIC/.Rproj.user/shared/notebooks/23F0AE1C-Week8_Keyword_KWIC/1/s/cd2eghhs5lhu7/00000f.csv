@@ -1,5 +1,0 @@
-"0","write_csv(kwic_with_metadata_csv, ""../exercises/assets/data/kwic_with_metadata.csv"")
-"
-"2","错误: Cannot open file for writing:
-* 'C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/exercises/assets/data/kwic_with_metadata.csv'
-"
