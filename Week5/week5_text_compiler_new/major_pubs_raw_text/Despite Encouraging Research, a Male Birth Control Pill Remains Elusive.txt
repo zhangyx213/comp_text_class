@@ -1,0 +1,66 @@
+
+
+
+
+The New York Times 
+March 25, 2022 Friday 11:11 EST
+
+
+Copyright 2022 The New York Times Company All Rights Reserved
+Section: WELL
+Length: 1180 words
+Byline: Dani Blum
+Highlight: A new study found that a birth control pill was 99 percent effective in preventing pregnancy in mice. But don’t expect a human version to hit the shelves any time soon.
+Body
+
+
+A new study found that a birth control pill was 99 percent effective in preventing pregnancy in mice. But don’t expect a human version to hit the shelves any time soon.
+A offers another contender in the search for a male form of birth control. Researchers at the University of Minnesota created a birth control pill for male mice, which proved 99 percent effective in preventing pregnancy.
+The contraceptive targets a protein in the body that receives a form of vitamin A, which is involved with sperm production and fertility. Researchers gave this compound, referred to as YCT529, to male mice for four weeks; the animals showed drastically lower sperm counts. Four to six weeks after they stopped receiving the contraceptive, the mice could impregnate a female mouse again.
+, scientists have been researching ways to create a male birth control pill. While the team behind this new study is encouraged by their promising results, others are skeptical, and see it as just another intriguing advancement that may not actually make it to market. Experts said we shouldn’t anticipate widely available male birth control pills any time soon.
+“I would be very skeptical until I see human data,” Dr. Amin Herati, director of the male infertility and men’s health program within Brady Urological Institute at Johns Hopkins, said about the study. There are key differences between how human and mice genes interact, he said, and in the reproductive systems.
+“These are novel compounds,” said Dr. Christina Wang, an expert on contraceptives at The Lundquist Institute at Harbor-UCLA Medical Center. “You really don’t know what they do unless you do toxicology studies.” The researchers have conducted toxicology studies in mice, but Dr. Wang stressed that human trials are needed to assess the safety of the pill.
+However, even if this pill fails in future trials, now that researchers have discovered the compound, they may be able to create backup options for the pill, said Md Abdullah Al Noman, a graduate student at the University of Minnesota who presented the findings at a meeting of the American Chemical Society on Wednesday. “This is a trailblazer of non-hormonal birth control.”
+Gunda Georg, a professor of medical chemistry at the University of Minnesota who led the research, pointed out the differences between this study and past attempts to design a male birth control pill: There were no apparent side effects in the mice, even when the researchers tested high doses, she said. “They eat, they drink, they’re sexually active even if they don’t have sperm.”
+The pill could go into clinical trials as soon as this year, Dr. Georg said. Even on that accelerated timeline, that move would be an early step on a yearslong path.
+What other forms of male birth control are scientists testing?
+The Minnesota research is the latest in a slew of studies hunting for the male equivalent to the female birth control pill.
+The  is funding a clinical trial to test a contraceptive gel formulation called NES/T, which men would apply to their shoulders and upper arms once per day. The hormonal gel is currently in Phase II clinical trials, said Dr. Wang, who is one of the lead investigators. She estimates that, optimistically, the gel could be available in five years — but even that would be moving very fast, she said.
+Contraline, a biotechnology company in Virginia, is awaiting clinical trials for Adam, an injectable hydrogel that lasts for a year. The company bills it as “
+Researchers in India are testing a nonsurgical vasectomy procedure known as , or R.I.S.U.G., which involves injecting a gel into the tubes in the penis that store sperm. But until these endeavors go through substantial studies — and, critically, trials in humans — a male form of birth control comparable to the pills, patches, shots and rings on the market for women remains a fantasy.
+“I’ve been excited about animal studies demonstrating promise for male contraceptives for a while now,” said Dr. Bobby Najari, an assistant professor of urology and population health and director of the Male Infertility Program at N.Y.U Langone Health. “And each time, I get disappointed.”
+What birth control options are available for men now?
+There are currently only two approved forms of male birth control: vasectomies and condoms.
+And while vasectomies are reversible,  Dr. Najari said he would never recommend getting a vasectomy with the intention of later reversing it. The American Urological Association  note that reversals may not always be successful. The reversal procedure tends to be longer than the original vasectomy, with a longer recovery time, he said, and insurance does not always cover it. Vasectomies have also  like infection and both short-term and chronic pain.
+Condoms have the additional benefit of protecting people from sexually transmitted infections, but they are “relatively unpopular,” Dr. Najari said. Even when people do use condoms, they can break and tear; the Centers for Disease Control and Prevention estimate that the condom use failure rate is.
+Why hasn’t there been a birth control pill for men before?
+In the 1990s, the World Health Organization into testosterone as a potential form of contraception and at decreasing sperm counts. But high levels of the hormone were needed to effectively suppress the sperm, which led to taxing side effects: weight gain, acne, irritability, mood swings.
+Those match the well-documented side effects women report from hormonal birth control pills. “There’s a bit of a double standard there,” Dr. Najari said. Birth control pills for women have also been linked to
+But some research into male birth control led to especially devastating side effects. In 2012, researchers  of the hormones progestogen and testosterone because men reported severe acne, depression and pain after receiving injections.
+“When you start messing with testosterone receptors, the body becomes very off balance and off kilter,” said Dr. Herati. And while women go through predictable ovulation cycles, men produce high concentrations of sperm on a daily basis, he said, making hormone modifications trickier.
+When can we expect a male birth control?
+“There’s so much riding on this — the research, but also the social change that comes with it,” said Heather Vahdat, the executive director of the Male Contraceptive Initiative, a nonprofit that funded the Minnesota study. But she estimates that it would take 10 years, at least, for the male pill to get on the market.
+While the pill proved highly effective in mice, those results may not translate into success for humans.
+“If every drug that worked in mice worked in humans, cancer would be cured by now,” said Dr. Michael Eisenberg, a professor of urology at Stanford University Medical Line.
+PHOTO:  (PHOTOGRAPH BY Basak Gurbuz Derman/Getty Images FOR THE NEW YORK TIMES)
+Classification
+
+
+Language: ENGLISH
+
+Document-Type: News
+
+Publication-Type: Web Publication
+
+Subject: CONTRACEPTION (95%); RODENTS (92%); ANIMAL EXPERIMENTS (90%); FERTILITY & INFERTILITY (90%); PREGNANCY & CHILDBIRTH (90%); RESEARCH REPORTS (90%); SCIENCE & TECHNOLOGY (89%); TOXICOLOGY (89%); MEN'S HEALTH (79%); GENES & CHROMOSOMES (78%); NEW CHEMICALS (78%); REPRODUCTIVE TECHNOLOGY (78%); COLLEGE & UNIVERSITY PROFESSORS (77%); COLLEGES & UNIVERSITIES (77%); SAFETY (73%); UROLOGY (73%); Testosterone (%); Birth Control and Family Planning (%)
+
+Organization: UNIVERSITY OF MINNESOTA (57%)
+
+Industry: CONTRACEPTION (95%); TOXICOLOGY (89%); ACADEMIC MEDICAL CENTERS (78%); NEW CHEMICALS (78%); PHARMACEUTICALS PRODUCT DEVELOPMENT (78%); REPRODUCTIVE TECHNOLOGY (78%); COLLEGE & UNIVERSITY PROFESSORS (77%); COLLEGES & UNIVERSITIES (77%); UROLOGY (73%); CHEMICALS (70%)
+
+Geographic: MINNESOTA, USA (91%)
+
+Load-Date: March 29, 2022
+
+
+End of Document

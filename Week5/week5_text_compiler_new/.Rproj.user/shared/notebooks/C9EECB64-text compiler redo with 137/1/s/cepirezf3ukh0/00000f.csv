@@ -1,0 +1,4 @@
+"0",""
+"0","anti_final_index <- final_data |> "
+"0","  anti_join(files, c(""index""))"
+"0",""

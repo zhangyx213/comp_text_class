@@ -1,0 +1,7 @@
+"0",""
+"0","final_index <- final_data |> "
+"0","  inner_join(files, c(""index"")) |> "
+"0","#you need the actual hard-coded path on this line below to the text"
+"0","  mutate(filepath = paste0(""./major_pubs_raw_text/"", filename))"
+"0",""
+"0","head(final_index)"

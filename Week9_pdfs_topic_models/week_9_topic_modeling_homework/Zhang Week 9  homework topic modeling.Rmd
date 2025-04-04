@@ -1,0 +1,404 @@
+---
+title: "Zhang Week 9  homework topic modeling"
+author: "Catherine Zhang"
+date: "2025-04-03"
+output: html_document
+---
+
+```{r}
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+# load packages
+here::here()
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(readtext)
+#topic modeling
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+# from tutorial packages
+library(DT)
+library(knitr) 
+library(kableExtra) 
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+```
+
+### Import Data
+
+```{r include=FALSE}
+#import text files that were compiled into a df  
+vas <- read_csv("./articles137_df.csv")
+
+#add a year column
+vas <- vas %>%
+  mutate(year = year(published_date))
+
+```
+
+
+```{r}
+textdata <- vas %>% 
+  select(filename, sentence, year) %>% 
+  as.data.frame() %>% 
+  rename(doc_id = filename, text= sentence)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(textdata))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+
+
+```
+
+
+
+```{r tm3a}
+#DTM: rows correspond to the documents in the corpus. Columns correspond to the terms in the documents. Cells correspond to the weights of the terms. (Girder)
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+textdata <- textdata[sel_idx, ]
+#5 term minimum[1] 1387 3019
+#5 term minimum[1] 308597 10339
+
+```
+
+## Topic proportions over time {.unnumbered}
+
+We examine topics in the data over time by aggregating mean topic proportions per decade. These aggregated topic proportions can then be visualized, e.g. as a bar plot.
+
+
+```{r}
+# append decade information for aggregation
+textdata$decade <- paste0(substr(textdata$year, 0, 3), "0")
+```
+
+```{r tm12}
+# number of topics
+# K <- 20
+K <- 6
+# set random number generator seed
+set.seed(9161)
+#Latent Dirichlet Allocation, LDA
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 500, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+```
+
+### Mean topic proportions per year
+
+```{r}
+# Step 1: Check dimensions
+n_theta <- nrow(theta)
+n_textdata <- length(textdata$year)
+
+cat("Number of rows in theta: ", n_theta, "\n")
+cat("Number of documents in textdata: ", n_textdata, "\n")
+
+# Check if textdata contains all the documents in theta
+common_ids <- intersect(rownames(theta), textdata$doc_id) # Assuming textdata has a 'doc_id' column
+
+# Filter textdata to include only the documents present in theta
+textdata_filtered <- textdata[textdata$doc_id %in% common_ids, ]
+
+# Check dimensions after filtering
+n_textdata_filtered <- nrow(textdata_filtered)
+cat("Number of documents in filtered textdata: ", n_textdata_filtered, "\n")
+
+# Ensure the lengths match now
+if (n_theta != n_textdata_filtered) {
+  stop("The number of rows in 'theta' still does not match the length of 'textdata_filtered$year'.")
+}
+
+# Align rownames of theta with filtered textdata
+theta_aligned <- theta[rownames(theta) %in% textdata_filtered$doc_id, ]
+
+# Optional: Verify the order of documents
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  # If the order doesn't match, reorder one to match the other
+  textdata_filtered <- textdata_filtered[match(rownames(theta_aligned), textdata_filtered$doc_id), ]
+}
+
+# Ensure they are now aligned and can be combined
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  stop("The document IDs still do not match. Please check the data alignment.")
+}
+
+# Step 2: Combine data
+topic_data <- data.frame(theta_aligned, year = textdata_filtered$year)
+
+# Step 3: Aggregate data
+topic_proportion_per_year <- aggregate(. ~ year, data = topic_data, FUN = mean)
+
+
+# get mean topic proportions per decade
+# topic_proportion_per_decade <- aggregate(theta, by = list(decade = textdata$decade), mean)
+# set topic names to aggregated columns
+colnames(topic_proportion_per_year)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame <- melt(topic_proportion_per_year, id.vars = "year")
+
+```
+
+#Examine topic names
+
+```{r}
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics
+
+
+```
+
+
+### Review the topics and determine a 1-2 word label after reading the source documents.
+
+```{r}
+#Topic 1 -usa surgeri tick bodi peni year ben patient state —
+
+theta2 <- as.data.frame(theta)
+
+topic1 <- theta2 %>% 
+  rownames_to_column(var = "file") |>
+  mutate(file = str_remove(file, "^X"),  
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>  
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic1 = '1') |> 
+  top_n(20, topic1) |> 
+  arrange(desc(topic1)) |>  
+  select(file, line, topic1) 
+
+```
+
+
+```{r}
+topic2 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic2 = '2') |> 
+  top_n(20, topic2) |> 
+  arrange(desc(topic2)) |>  
+  select(file, line, topic2) 
+```
+
+
+
+```{r}
+topic3 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic3 = '3') |> 
+  top_n(20, topic3) |> 
+  arrange(desc(topic3)) |>  
+  select(file, line, topic3) 
+
+```
+
+
+
+```{r}
+#Topic 4 -’ “ — word trump ” length  peopl thing book
+
+topic4 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic4 = '4') |> # looking at first topic: ’ “ — word trump ” length  peopl thing book
+  top_n(20, topic4) |> 
+  arrange(desc(topic4)) |>  
+  select(file, line, topic4) 
+```
+
+
+```{r}
+topic5 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic5 = '5') |> 
+  top_n(20, topic5) |> 
+  arrange(desc(topic5)) |>  
+  select(file, line, topic5) 
+
+```
+
+
+```{r}
+topic6 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic6 = '6') |> 
+  top_n(20, topic6) |> 
+  arrange(desc(topic6)) |>  
+  select(file, line, topic6) 
+
+```
+
+
+```{r}
+
+#add categories
+
+vizDataFrame <- vizDataFrame %>%
+  mutate(variable = str_to_lower(variable)) %>%
+  mutate(category = case_when(
+    str_detect(variable, "usa|surgeri|tick|bodi|peni|patient|state") ~ "health",
+    str_detect(variable, "mother|adopt|children|parent|famili|child") ~ "family",
+    str_detect(variable, "time|york|compani|copyright|english|photo") ~ "meta_data",
+    str_detect(variable, "word|trump|book|peopl|thing") ~ "politics",
+    str_detect(variable, "abort|women|contracept|pregnanc|birth|law") ~ "law",
+    str_detect(variable, "state|govern|texa|plan|document") ~ "reproductive_equality"
+  ))
+
+```
+
+# Fact Check and Validate Topics
+
+Topic 1: health "usa|surgeri|tick|bodi|peni|patient|state" 
+Topic 2: family: mother|adopt|children|parent|famili|child 
+Topic 3: meta_data: time|york|compani|copyright|english|photo
+Topic 4: politics: word|trump|book|peopl|thing
+Topic 5: law: abort|women|contracept|pregnanc|birth|law
+Topic 6: reproductive_equality: state|govern|texa|plan|document
+
+### for health
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+health <- theta2 %>% 
+  #renaming for a general topic
+  rename(health = '1') %>% 
+  top_n(20, health) %>%
+  arrange(desc(health )) %>% 
+  select(health )
+
+# Apply rownames_to_column
+health <- tibble::rownames_to_column(health , "story_id") 
+
+health $story_id <- gsub("X", "", health $story_id)
+
+head(health$story_id, 20)
+#Checks out
+
+
+```
+
+### for family
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+family <- theta2 %>% 
+  #renaming for a general topic
+  rename(family = '2') %>% 
+  top_n(20, family ) %>%
+  arrange(desc(family )) %>% 
+  select(family )
+
+# Apply rownames_to_column
+family  <- tibble::rownames_to_column(family, "story_id") 
+
+family$story_id <- gsub("X", "", family$story_id)
+
+head(family$story_id, 20)
+#Checks out
+
+
+```
+
+### for law
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+law <- theta2 %>% 
+  #renaming for a general topic
+  rename(law = '5') %>% 
+  top_n(20, law ) %>%
+  arrange(desc(law)) %>% 
+  select(law )
+
+# Apply rownames_to_column
+law  <- tibble::rownames_to_column(law , "story_id") 
+
+law $story_id <- gsub("X", "", law$story_id)
+
+head(law$story_id, 20)
+#Checks out 
+#main theme is negros are lynching victims
+
+```
+
+
+#Figure 15: topics_april_4_2025
+
+```{r}
+# plot topic proportions per decade as bar plot
+ggplot(vizDataFrame, aes(x=year, y=value, fill=category)) + 
+  geom_bar(stat = "identity") + ylab("proportion") + 
+  scale_fill_manual(values = paste0(alphabet(20), "FF"), name = "year") + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+   scale_fill_manual(values=c("red",
+                              "yellow",
+                              "darkblue",
+                              "blue",
+                              "pink",
+                              "orange")) +
+  labs(title = "Common Narratives in Vasectomy News Coverage 2022-2025",
+       subtitle = "Six probable topics in U.S. news sample. n=137",
+       caption = "Aggregate mean topic proportions per year. Graphic by Catherine Zhang, 04-04-2025")
+
+#ggsave(here::here("./Figure_US_topics_04_04_2025.png"),device = "png",width=9,height=6, dpi=800)
+```
+
+Memo:
+
+In the topic modeling process, several topics emerged as nonrelevant. For example, Topic 4 (“— word trump” length peopl thing book) contains punctuation marks and other metadata from the articles. Although the keyword “Trump” appears, after checking the original texts, I found that this term is unrelated to the actual article content and instead appears in recommended readings, headlines, or other non-content areas. 
+Topic 3 (time york compani copyright classif language english right photograph reserv public) is also dominated by copyright information and metadata rather than meaningful article content. This indicates that in future topic modeling efforts, I need to find a way to remove such metadata beforehand to ensure cleaner outputs.
+
+Topic 1 (usa surgeri tick bodi peni year ben patient state) also includes some punctuation and noise, but performs better in classification compared to Topics 3 and 4. After fact-checking the original texts, I found that many are indeed about surgeries, doctors, medical teams, and the development of procedures—making this topic broadly related to medicine and health. However, it still lacks refinement.
+
+Topic 2 (mother adopt time children told parent year peopl famili child) contains ambiguous terms. While it relates to family structure, it has little to do with vasectomy as a procedure. That said, the fact that topics related to “mother” emerge in discussions about vasectomy reflects how the development of this procedure also impacts women, reinforcing the idea that women still bear the primary responsibility in family planning. Notably, the word “mother” appears, but “father” does not.
+
+The most useful topics are Topics 5 and 6. Many articles classified under Topic 6 discuss abortion laws, women, and the decline in contraceptive options. These themes provide a solid basis for analyzing how vasectomy is linked to Roe v. Wade and broader issues of reproductive equality. Topic 5, meanwhile, focuses on abortion and reproductive laws, particularly how they differ across states. This supports my hypothesis that in the U.S., vasectomy is not merely a medical topic—it is also deeply political and tied to law enforcement. Additionally, the discourse around vasectomy and gender equality often places women in the role of the primary decision-maker, while the responsibilities of men are less emphasized.
+
+Although further refinement through a detailed coding scheme is needed to understand exactly how the media frames these issues, topic modeling has provided a valuable starting point. It helped identify which topics are most frequently discussed and what keywords appear most often. This gives me a foundation to begin defining variables and keywords in my coding process.
+
+

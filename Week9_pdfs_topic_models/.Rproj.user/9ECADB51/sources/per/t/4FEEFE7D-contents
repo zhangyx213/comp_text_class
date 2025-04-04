@@ -1,0 +1,52 @@
+---
+title: "Zhang Week 9  homework topic modeling"
+author: "Catherine Zhang"
+date: "2025-04-03"
+output: html_document
+---
+
+```{r}
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+# load packages
+here::here()
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(readtext)
+#topic modeling
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+# from tutorial packages
+library(DT)
+library(knitr) 
+library(kableExtra) 
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+```
+
+### Import Data
+
+```{r include=FALSE}
+#import 11,194 text files that were compiled into a df  
+lynch <- read_csv("https://osf.io/download/gw5dk/?view_only=6c106acd6cb54f6f849e8c6f9098809f")
+
+
+#subset 9,589 predominantly white papers
+lynch1 <- lynch %>% 
+    filter(black_press == "N")
+
+#subset the 1634 Black press news articles
+black_articles <- lynch %>% 
+    filter(black_press == "Y")
+
+```
+
