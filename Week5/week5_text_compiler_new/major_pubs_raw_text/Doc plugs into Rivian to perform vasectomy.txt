@@ -1,0 +1,46 @@
+
+
+
+
+Automotive News
+September 12, 2022
+Print Version
+
+
+Copyright 2022 Crain Communications All Rights Reserved
+
+
+Section: Pg. 50; Vol. 97
+Length: 225 words
+Body
+
+
+A Texas urologist performed what he says was probably "the world's first Rivian powered vasectomy" after losing electricity during a patient's appointment.
+Dr. Christopher Yang posted photos on Twitter showing an extension cord running from his Rivian R1T pickup into the Austin, Texas, clinic where he works. "Patient didn't want to reschedule cause he already had time off," Yang wrote. "Electrocautery was normal, procedure went great!"
+Yang told Motor Trend - which named the battery-powered R1T its 2022 Truck of the Year - that he planned to cancel the procedure until a member of his staff joked that he should use the pickup as a power source. The R1T has two 120-volt outlets in its bed, which Rivian undoubtedly figured owners would be more likely to use for camping or cooking than performing surgery. Yang said his cauterizer uses 400 watts, well below the outlets' 1,500-watt maximum.
+The story is among the numerous examples of how people have used their electric and hybrid pickups as backup power sources during outages.
+Ford Motor Co. garnered significant attention in 2021 when stories emerged of Texans using the F-150's optional onboard generator to run their lights and refrigerators after an ice storm crippled the state's electrical grid.
+Ford offered bonuses to dealerships that loaned out generator-equipped F-150s to families in need.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Journal Code: AN
+
+Subject: SURGERY & TRANSPLANTATION (90%); ELECTROSURGERY (78%); PHYSICIANS & SURGEONS (78%); UROLOGY (78%); AUTOMOBILE RATINGS (74%); SEVERE WINTER WEATHER (66%); FAMILY (50%)
+
+Company:  FORD MOTOR CO (92%)
+
+Ticker: F (NYSE) (92%)
+
+Industry: NAICS336112 LIGHT TRUCK & UTILITY VEHICLE MANUFACTURING (92%); NAICS336111 AUTOMOBILE MANUFACTURING (92%); SIC3711 MOTOR VEHICLES & PASSENGER CAR BODIES (92%); POWER FAILURES (91%); AUTOMOTIVE (90%); ENERGY & UTILITIES (90%); PHYSICIANS & SURGEONS (78%); UROLOGY (78%); PICKUP TRUCKS (77%); AUTOMOBILE RATINGS (74%); ELECTRICITY TRANSMISSION & DISTRIBUTION (73%)
+
+Geographic: AUSTIN, TX, USA (58%); TEXAS, USA (90%)
+
+Load-Date: September 15, 2022
+
+
+End of Document

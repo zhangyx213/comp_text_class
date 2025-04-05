@@ -1,5 +1,0 @@
-"0","writeLines(text, ""../extracted_text/kemi_text.txt"")
-"
-"2","Warning: cannot open file '../extracted_text/kemi_text.txt': No such file or directory"
-"2","Error in file(con, ""w"") : cannot open the connection
-"

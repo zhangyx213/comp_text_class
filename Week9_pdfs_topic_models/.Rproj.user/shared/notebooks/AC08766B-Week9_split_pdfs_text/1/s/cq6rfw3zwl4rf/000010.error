@@ -1,1 +1,0 @@
-{"frames":[{"func":"writeLines(text, \"../extracted_text/kemi_text.txt\")","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0},{"func":"file(con, \"w\")","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in file(con, \"w\") : cannot open the connection\n"}
