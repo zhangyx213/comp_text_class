@@ -5,7 +5,7 @@
 "0","set.seed(9161)"
 "0","#Latent Dirichlet Allocation, LDA"
 "0","topicModel2 <- LDA(DTM, K, method=""Gibbs"", control=list(iter = 500, verbose = 25, alpha = 0.2))"
-"1","K = 6; V = 3177; M = 6043
+"1","K = 6; V = 3106; M = 5897
 "
 "1","Sampling 500 iterations!
 "

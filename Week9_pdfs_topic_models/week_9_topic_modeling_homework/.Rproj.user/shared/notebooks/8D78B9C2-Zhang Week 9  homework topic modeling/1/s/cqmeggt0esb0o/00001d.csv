@@ -1,0 +1,7 @@
+"2","gzfile(file, ""wb"")里有警告:"
+"2","
+ "
+"2"," 无法打开压缩文件'C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/Week9_pdfs_topic_models/week_9_topic_modeling_homework/.Rproj.user/shared/notebooks/8D78B9C2-Zhang Week 9  homework topic modeling/1/9ECADB51ed02f31c/cqmeggt0esb0o_t/9d35842fb87849f1b684efd10404b357.snapshot'，可能是因为'No such file or directory'
+"
+"2","错误于gzfile(file, ""wb""): 无法打开链结
+"

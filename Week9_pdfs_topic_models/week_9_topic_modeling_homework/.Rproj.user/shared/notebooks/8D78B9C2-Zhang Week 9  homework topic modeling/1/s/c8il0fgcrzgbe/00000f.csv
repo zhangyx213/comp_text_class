@@ -6,7 +6,7 @@
 "0","dim(DTM)"
 "1","[1]"
 "1"," 8693"
-"1"," 3177"
+"1"," 3106"
 "1","
 "
 "0","# due to vocabulary pruning, we have empty rows in our DTM"
