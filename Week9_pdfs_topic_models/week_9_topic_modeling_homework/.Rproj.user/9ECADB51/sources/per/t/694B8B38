@@ -3,24 +3,24 @@
     "path": "C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/Week9_pdfs_topic_models/week_9_topic_modeling_homework/Zhang Week 9  homework topic modeling.Rmd",
     "project_path": "Zhang Week 9  homework topic modeling.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2330215016",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1744293440489.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "372,54",
-        "scrollLine": "360"
+        "cursorPosition": "333,18",
+        "scrollLine": "307"
     },
     "folds": "",
-    "lastKnownWriteTime": 1744297642,
+    "lastKnownWriteTime": 1744300324,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1744299294156,
+    "last_content_update": 1744300325009,
     "read_only": false,
     "read_only_alternatives": []
 }

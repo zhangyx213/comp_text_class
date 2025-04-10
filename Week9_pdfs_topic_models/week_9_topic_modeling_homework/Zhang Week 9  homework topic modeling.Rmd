@@ -325,15 +325,14 @@ topic6 <- theta2 %>%
 vizDataFrame <- vizDataFrame %>%
   mutate(variable = str_to_lower(variable)) %>%
   mutate(category = case_when(
-    str_detect(variable, "trump|polit|republican|parti|abort|democrat|elect") ~ "politics",
-    str_detect(variable, "time|york|compani|document|classif|right|california|citi|articl|peacock") ~ "metadata",
-    str_detect(variable, "tick|book|donahu|live|day|life") ~ "life",
-    str_detect(variable, "surgeri|bodi|peopl|peni|ben|walk|patient") ~ "health",
-    str_detect(variable, "mother|adopt|peopl|abbott|parent|child|children") ~ "choice",
-    str_detect(variable, "women|abort|contracept|health|pregnanc|reproduct|control|birth|law|court") ~ "reproductive_equality",
+    variable == "’ — trump “ polit republican parti abort democrat elect" ~ "politics",
+    variable == "time york compani document classif right california citi articl peacock" ~ "law",
+    variable == "“ tick book time ” donahu live day ’ life" ~ "metadata",
+    variable == "surgeri “ bodi — peopl peni ben walk patient life" ~ "health",
+    variable == "mother told adopt peopl abbott parent word time child children" ~ "family",
+    variable == "women abort contracept health pregnanc reproduct control birth law court" ~ "reproductive",
     TRUE ~ "other"
   ))
-
 
 ```
 
@@ -343,25 +342,12 @@ vizDataFrame <- vizDataFrame %>%
 vizDataFrame1 <- vizDataFrame1 %>%
   mutate(variable = str_to_lower(as.character(variable))) %>%
   mutate(category = case_when(
-    # 1. reproductive_equality 
-    str_detect(variable, "women|abort|contracept|pregnanc|reproduct|control|birth|court") ~ "reproductive_equality",
-
-    # 2. health
-    str_detect(variable, "surgeri|bodi|patient|peni|ben|walk") ~ "health",
-
-    # 3. choice
-    str_detect(variable, "mother|adopt|abbott|parent|child|children") ~ "choice",
-
-    # 4. life
-    str_detect(variable, "tick|book|donahu|live|day|life") ~ "life",
-
-    # 5. metadata
-    str_detect(variable, "time|york|compani|document|classif|right|california|citi|articl|peacock") ~ "metadata",
-
-    # 6. politics
-    str_detect(variable, "trump|republican|democrat|elect|biden|senat|vote|campaign|white\\s*house|congress") ~ "politics",
-
-    # fallback
+    variable == "’ — trump “ polit republican parti abort democrat elect" ~ "politics",
+    variable == "time york compani document classif right california citi articl peacock" ~ "law",
+    variable == "“ tick book time ” donahu live day ’ life" ~ "metadata",
+    variable == "surgeri “ bodi — peopl peni ben walk patient life" ~ "health",
+    variable == "mother told adopt peopl abbott parent word time child children" ~ "family",
+    variable == "women abort contracept health pregnanc reproduct control birth law court" ~ "reproductive",
     TRUE ~ "other"
   ))
 ```

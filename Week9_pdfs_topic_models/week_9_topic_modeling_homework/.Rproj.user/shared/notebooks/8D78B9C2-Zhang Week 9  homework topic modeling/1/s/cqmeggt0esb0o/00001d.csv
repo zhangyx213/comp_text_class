@@ -1,7 +1,16 @@
-"2","gzfile(file, ""wb"")里有警告:"
-"2","
- "
-"2"," 无法打开压缩文件'C:/Users/cathy/OneDrive/Desktop/jour689/comp_text_class/Week9_pdfs_topic_models/week_9_topic_modeling_homework/.Rproj.user/shared/notebooks/8D78B9C2-Zhang Week 9  homework topic modeling/1/9ECADB51ed02f31c/cqmeggt0esb0o_t/9d35842fb87849f1b684efd10404b357.snapshot'，可能是因为'No such file or directory'
-"
-"2","错误于gzfile(file, ""wb""): 无法打开链结
-"
+"0","# plot topic proportions per decade as bar plot"
+"0","ggplot(vizDataFrame1, aes(x=ny, y=value, fill=category)) + "
+"0","  geom_bar(stat = ""identity"") + ylab(""proportion"") + "
+"0","  scale_fill_manual(values = paste0(alphabet(20), ""FF""), name = ""year"") + "
+"0","  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +"
+"0","   scale_fill_manual(values=c(""red"","
+"0","                              ""yellow"","
+"0","                              ""darkblue"","
+"0","                              ""blue"","
+"0","                              ""pink"","
+"0","                              ""orange"")) +"
+"0","  labs(title = ""Common Narratives in Vasectomy News Coverage 2022-2025"","
+"0","       subtitle = ""Six probable topics in U.S. news sample. n=137"","
+"0","       caption = ""Aggregate mean topic proportions per year. Graphic by Catherine Zhang, 04-04-2025"")"
+"2","[38;5;232mScale for [32mfill[38;5;232m is already present.
+Adding another scale for [32mfill[38;5;232m, which will replace the existing scale.[39m"

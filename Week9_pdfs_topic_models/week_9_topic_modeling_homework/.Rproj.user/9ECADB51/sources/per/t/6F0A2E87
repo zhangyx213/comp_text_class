@@ -15,10 +15,10 @@
         "totalObservations": "6",
         "displayedObservations": "6",
         "variables": "4",
-        "cacheKey": "0F175B43",
+        "cacheKey": "C7DF4262",
         "object": "vizDataFrame",
         "environment": "",
-        "contentUrl": "grid_resource/gridviewer.html?env=&obj=vizDataFrame&cache_key=0F175B43&max_display_columns=50",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=vizDataFrame&cache_key=C7DF4262&max_display_columns=50",
         "preview": "0",
         "source_window_id": "",
         "Source": "Source"
