@@ -1,8 +1,0 @@
-"0","#Import spreadsheet using rio::import and clean the names"
-"0",""
-"0",""
-"0","vas <- rio::import(""Results list for_vasectomy, vasectomies.XLSX"") "
-"2","New names:"
-"0","vas <- vas |> "
-"0","  clean_names()"
-"0",""

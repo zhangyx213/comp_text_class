@@ -334,7 +334,6 @@ vizDataFrame <- vizDataFrame %>%
     TRUE ~ "other"
   ))
 
-
 ```
 
 
@@ -364,6 +363,21 @@ vizDataFrame1 <- vizDataFrame1 %>%
     # fallback
     TRUE ~ "other"
   ))
+
+
+vizDataFrame1 <- vizDataFrame1 %>%
+  mutate(variable = str_to_lower(as.character(variable))) %>%
+  mutate(category = case_when(
+    variable == "’ — trump “ polit republican parti abort democrat elect" ~ "politics",
+    variable == "time york compani document classif right calif investig presid" ~ "law",
+    variable == "“ tick book time ” donahu live day ’ life" ~ "metadata",
+    variable == "surgeri “ bodi — peopl peni ben walk patient life" ~ "health",
+    variable == "mother told adopt peopl abbott parent word time famili" ~ "family",
+    variable == "women abort contracept health pregnanc reproduct right women" ~ "reproductive",
+    TRUE ~ "other"
+  ))
+
+
 ```
 
 # Fact Check and Validate Topics
