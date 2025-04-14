@@ -1,7 +1,0 @@
-"0","vas_head <- str_replace_all(vas$hlead, ""- "", """")"
-"0","vas_head_df <- tibble(vas_head,)"
-"0",""
-"0","vas_tokenized <- vas_head_df %>%"
-"0","  unnest_tokens(word,vas_head)"
-"0",""
-"0","vas_tokenized"

@@ -1,0 +1,2 @@
+"0","# append decade information for aggregation"
+"0","textdata$day <- weekdays(as.Date(textdata$published_date, format=""%Y-%m-%d""))"

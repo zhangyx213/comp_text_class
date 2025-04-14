@@ -1,0 +1,6 @@
+"0","colnames(topic_proportion_per_day1)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame1 <- melt(topic_proportion_per_day1, id.vars = ""day"")
+"
+"2","Error: id variables not found in data: day
+"

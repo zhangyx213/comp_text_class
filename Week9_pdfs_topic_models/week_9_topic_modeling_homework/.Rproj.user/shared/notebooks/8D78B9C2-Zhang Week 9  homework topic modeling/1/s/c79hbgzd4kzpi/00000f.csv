@@ -1,0 +1,2 @@
+"0","# append decade information for aggregation"
+"0","textdata$year <- paste0(substr(textdata$published_date, 0, 3), ""0"")"
