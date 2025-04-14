@@ -1,0 +1,61 @@
+
+
+
+
+Star Tribune (Minneapolis, MN)
+April 28, 2016 Thursday
+METRO EDITION
+
+
+Copyright 2016 Star Tribune All Rights Reserved
+Section: NEWS; Pg. 1A
+Length: 920 words
+Byline: CHRISTOPHER SNOWBECK; STAFF WRITER, STAR TRIBUNE (Mpls.-St. Paul)
+Body
+
+
+Health insurers pay higher prices in Minnesota than in most parts of the country for more than 200 common health care services, according to a new report that challenges the state's reputation for frugal health care.
+Released Wednesday, the national report looks at 240 medical services ranging from MRI scans and heart tests to mammograms and vasectomies and finds that Minnesota has the fifth-highest average prices overall.
+For about 20 services, the average price in Minnesota is at least twice the national average, according to the report from the Health Care Cost Institute, a nonprofit group backed by large national health insurers including Minnetonka-based UnitedHealthcare.
+Heart stress tests with ultrasound are a case in point, with the Minnesota average of $3,819 far exceeding the national average of $1,389.
+In general, local market dynamics between health care providers and health insurers help explain variations in price, said David Newman, the institute's executive director.
+"If all the cardiologists come together in one group, they could push up prices," Newman said. "If you can maintain competition with respect to imaging across a variety of facilities, you could keep prices down."
+Doctors in Minnesota questioned the findings because the data comes from United as well as national carriers Aetna and Humana - a group that doesn't include big local names like Blue Cross and Blue Shield of Minnesota or HealthPartners.
+The national insurers work as third-party administrators for the health plans of large multistate employers that operate in Minnesota. They typically don't represent enough patients to get the best negotiated discounts from health care providers here, said Mark Sonneborn, vice president for health information and analytics at the Minnesota Hospital Association.
+The study also reports the prices for individual services, Sonneborn said, but not the frequency with which Minnesotans use them.
+"The cost to an employer is how much you buy times the price," he said. "Minnesota and some of the other states that are showing up as high cost, like Wisconsin, are famous for having low utilization of health care services compared to other places."
+The Health Care Cost Institute's data includes claims for 50 million Americans with employer-sponsored insurance. Earlier studies about geographic variation in health costs looked at Medicare patients, and lauded Minnesota for providing low-cost health care.
+Those earlier reports found Medicare patients in Minnesota didn't use as many services, with no apparent impact on quality. The usage here was contrasted with high-cost regions such as Miami.
+The new report looks at prices paid by employer-sponsored health plans and finds low prices in Florida and relatively high prices in Minnesota.
+Stephen Parente, a University of Minnesota professor and co-author of the report, said he was initially surprised by the data because it didn't seem to fit with Minnesota's reputation for being "super cheap" when it comes to health care.
+"But we never really knew what prices were," Parente said. "When you look at total costs per patient, we're still pretty cheap. But when it comes down to prices, not so much."
+Overall, the study found wide variation in prices across 41 states and the District of Columbia, with some states paying more than double what others pay for care. Compared to the national average, Alaska has the highest average health care prices followed by Wisconsin, North Dakota, New Hampshire and Minnesota.
+In New Hampshire and Wisconsin, more than 20 percent of the health care services studied were priced at more than twice the national average. In Arizona, Florida, Maryland and Tennessee, more than 90 percent of health care services studied had prices below the national average.
+The greatest variation in prices came in imaging, radiology and lab tests. That was somewhat true in Minnesota, where several procedures with the greatest variance to the national average involved CT, MRI or ultrasound scans.
+Consolidation among health care providers can give them market power to negotiate higher prices with health insurance companies, Newman said, but there could be other factors. In imaging, for example, providers need expensive equipment, so higher prices could reflect a "technology arms race" in some markets, said Eric Barrette, co-author of the study and director of research at the Health Care Cost Institute.
+Dr. Michael Madison, the president and chief executive of St. Paul Radiology, said he couldn't comment on the report because he hadn't read it. But the findings contrast with Minnesota's reputation, Madison said, as a leader in controlling costs by properly controlling access to high-cost imaging procedures.
+"I've never heard that the price points people here pay for imaging are above the national average," Madison said.
+The report found that prices in Minnesota were at or below the national average for two types of care - pap smear tests and emergency room visits. Data used in the report reflects prices paid in 2012 and 2013, and trended forward to reflect prices as of September 2015.
+The data covers about 22 percent of all Minnesotans with employer-sponsored insurance. That's a lot of data, said Parente of the U, but he acknowledged that without data from Minnesota's nonprofit health insurers, the study authors "don't have the full picture."
+Christopher Snowbeck · 612-673-4744
+5th Minnesota's rank among states with high average prices
+219 Health services in Minnesota with above-average prices
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Subject: PRICES (93%); RESEARCH REPORTS (90%); EMPLOYEE HEALTH PLANS (89%); HEALTH CARE COSTS (89%); HEALTH CARE PROFESSIONALS (89%); MEDICAL ULTRASOUND (79%); NONPROFIT ORGANIZATIONS (79%); EMPLOYEE INSURANCE (78%); HEALTH CARE INFORMATION (78%); MEDICARE (78%); DIAGNOSTIC IMAGING (77%); CARDIOLOGY (76%); STATISTICS (76%); ASSOCIATIONS & ORGANIZATIONS (75%); PHYSICIANS & SURGEONS (73%); BREAST CANCER SCREENING (72%); MAGNETIC RESONANCE IMAGING (72%); SURGERY & TRANSPLANTATION (72%); DATA ANALYTICS (71%); EXECUTIVES (67%); COLLEGE & UNIVERSITY PROFESSORS (50%); PRICE (%); HEALTH (%); INSURANCE (%); REPORT (%); MINNESOTA (%); MEDICINE (%); COST (%); RANKING (%)
+
+Company:  NATIONAL SUPER SERVICE CO (90%);  NATIONAL LATEX PRODUCTS CO (90%);  ANTHEM BLUE CROSS & BLUE SHIELD OF OHIO (67%)
+
+Industry: NAICS333318 OTHER COMMERCIAL & SERVICE INDUSTRY MACHINERY MANUFACTURING (90%); SIC3589 SERVICE INDUSTRY MACHINERY, NEC (90%); SIC3069 FABRICATED RUBBER PRODUCTS, NEC (90%); NAICS524114 DIRECT HEALTH & MEDICAL INSURANCE CARRIERS (67%); SIC6324 HOSPITAL & MEDICAL SERVICE PLANS (67%); HEALTH CARE (92%); INSURANCE (90%); EMPLOYEE HEALTH PLANS (89%); HEALTH CARE COSTS (89%); HEALTH CARE PROFESSIONALS (89%); MEDICAL ULTRASOUND (79%); EMPLOYEE INSURANCE (78%); HEALTH CARE INFORMATION (78%); HOSPITALS (78%); MEDICARE (78%); DIAGNOSTIC IMAGING (77%); CARDIOLOGY (76%); PHYSICIANS & SURGEONS (73%); MAGNETIC RESONANCE IMAGING (72%); DATA ANALYTICS (71%); COLLEGE & UNIVERSITY PROFESSORS (50%)
+
+Geographic: MIAMI, FL, USA (66%); MINNESOTA, USA (98%); FLORIDA, USA (79%); UNITED STATES (79%)
+
+Load-Date: April 28, 2016
+
+
+End of Document

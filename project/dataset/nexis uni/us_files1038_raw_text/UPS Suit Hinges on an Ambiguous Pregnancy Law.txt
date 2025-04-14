@@ -1,0 +1,71 @@
+
+
+
+
+The New York Times
+December 4, 2014 Thursday
+Late Edition - Final
+
+
+Copyright 2014 The New York Times Company
+Section: Section A; Column 0; National Desk; Pg. 19
+Length: 829 words
+Byline: By ADAM LIPTAK
+Body
+
+
+WASHINGTON -- A Supreme Court argument on Wednesday in a pregnancy discrimination case against United Parcel Service had, for the most part, the arid quality of a logic problem, with the justices wrestling with an ambiguous federal law.
+But near the end of the hourlong argument, Justice Elena Kagan confronted a lawyer for UPS.
+The law, Justice Kagan said, ''was supposed to be about removing stereotypes of pregnant women as marginal workers.''
+''It was supposed to be about ensuring that they wouldn't be unfairly excluded from the workplace,'' she went on. ''And what you are saying is that there's a policy that accommodates some workers, but puts all pregnant women on one side of the line.''
+Caitlin J. Halligan, UPS's lawyer, said the company treated pregnant workers lawfully and fairly in offering accommodations for on-the-job injuries but not off-the-job injuries or conditions like pregnancy.
+The case concerned Peggy Young, a former UPS driver who sued under the federal Pregnancy Discrimination Act after the company refused to assign her to lighter duty during her pregnancy.
+The basic question in the case, Young v. United Parcel Service, No. 12-1226, was what to make of language in the pregnancy law that requires employers to treat ''women affected by pregnancy'' the same as ''other persons not so affected but similar in their ability or inability to work.''
+At one extreme, the law could require accommodations for pregnant workers whenever one was offered to any employee for any reason. That reading, Justices Antonin Scalia and Stephen G. Breyer said, would turn the law into a ''most favored nation'' clause, meaning that pregnant workers would automatically be entitled to the best treatment offered by the company to any of its employees.
+Samuel R. Bagenstos, a lawyer for Ms. Young, offered a different interpretation of the law, saying its protections kicked in whenever companies offered accommodations to ''very broad classes'' of other employees.
+Justice Anthony M. Kennedy said that overstated the facts in the court record about UPS's practices. ''It seems to me,'' he said, ''that you started out by really giving a misimpression.''
+The company did make accommodations for workers who were injured on the job, who were covered by the Americans With Disabilities Act and who lost their driving certification from the Department of Transportation.
+But the two sides disputed whether there were many such workers and whether their situations were strictly comparable. Ms. Halligan said that those ''three narrow exceptions'' did not require the company to accommodate pregnant workers.
+The right comparison, she said, was to employees who ''sustained an off-the-job injury -- pulled their back, turned their knee, whatever it is.'' Those workers, she said, did not receive accommodations.
+Justice Ruth Bader Ginsburg, mulling the implications of that argument, said it created a ''least favored nation'' status for pregnant workers.
+But Justice Samuel A. Alito Jr. seemed to find the comparison apt, and he gave an example. He said there seemed to be no ''dispute that if a UPS driver fell off his all-terrain vehicle on the weekend and was unable to lift, that that person would not be given light duty.''
+Justice Ginsburg was not convinced, pressing Ms. Halligan for ''a single instance of anyone who needed a lifting dispensation who didn't get it, except for pregnant people.''
+Ms. Halligan gave no examples, but said the phenomenon was commonplace.
+Justice Kagan said the history of the pregnancy law required a broader reading. It was enacted in response to the Supreme Court's 1976 decision in General Electric Co. v. Gilbert, which found that discrimination based on pregnancy was not a form of sex discrimination.
+The company policy upheld in that case did not single out pregnant workers, she said, but also applied to vasectomies, cosmetic surgery and injuries sustained in bar fights.
+UPS has said that it will change its policy to offer light duty to pregnant women starting in January. But it added that its old policy was lawful and fair.
+Solicitor General Donald B. Verrilli Jr., arguing in support of Ms. Young, said the law applied whenever ''an employer offers an accommodation to a significant class of employees.''
+''The point of the Pregnancy Discrimination Act,'' he said, ''is to reduce the number of women who are driven from the work force or forced to go months without an income as a result of becoming pregnant.''
+Mr. Verrilli acknowledged that the federal government had recently changed its position on the scope of the pregnancy law.
+Justice Ginsburg added that the Postal Service's current practices were at odds with the government's new position, a point Ms. Halligan echoed.
+The second half of the argument, during which Ms. Halligan made UPS's case, was dominated by questions from two members of the court, Justices Kagan and Ginsburg. Each asked roughly 20 questions, about as many each as all of the remaining justices combined.
+
+
+
+Graphic
+
+ 
+PHOTO: Peggy Young, a former UPS driver, leaving the Supreme Court after arguments on Wednesday. (PHOTOGRAPH BY STEPHEN CROWLEY/THE NEW YORK TIMES)       
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Subject: PREGNANCY & CHILDBIRTH (97%); DISCRIMINATION (90%); GENDER & SEX DISCRIMINATION (90%); GENDER & SEX DISCRIMINATION IN EMPLOYMENT (90%); PREGNANCY & MATERNITY DISCRIMINATION (90%); LAWYERS (89%); OCCUPATIONAL ILLNESS & INJURY (89%); PREGNANT WORKERS (89%); DISCRIMINATION LAW (78%); LABOR & EMPLOYMENT LAW (78%); LAW COURTS & TRIBUNALS (78%); SUITS & CLAIMS (78%); SUPREME COURTS (78%); WOMEN'S HEALTH (78%); WORKPLACE HEALTH & SAFETY (76%); US AMERICANS WITH DISABILITIES ACT (73%); WOUNDS & INJURIES (73%); DISABLED ACCESS (69%); INTERNATIONAL RELATIONS (50%); TRANSPORTATION DEPARTMENTS (50%)
+
+Company:  UNITED PARCEL SERVICE INC (84%)
+
+Ticker: UPS (NYSE) (84%)
+
+Industry: NAICS541614 PROCESS, PHYSICAL DISTRIBUTION & LOGISTICS CONSULTING SERVICES (84%); NAICS488510 FREIGHT TRANSPORTATION ARRANGEMENT (84%); NAICS484121 GENERAL FREIGHT TRUCKING, LONG-DISTANCE, TRUCKLOAD (84%); COURIERS & PACKAGE SERVICES (90%); LAWYERS (89%); DISABLED ACCESS (69%); TRANSPORTATION DEPARTMENTS (50%)
+
+Person: ELENA KAGAN (79%); ANTHONY KENNEDY (58%); ANTONIN SCALIA (58%); STEPHEN BREYER (58%)
+
+Geographic: UNITED STATES (92%)
+
+Load-Date: December 4, 2014
+
+
+End of Document

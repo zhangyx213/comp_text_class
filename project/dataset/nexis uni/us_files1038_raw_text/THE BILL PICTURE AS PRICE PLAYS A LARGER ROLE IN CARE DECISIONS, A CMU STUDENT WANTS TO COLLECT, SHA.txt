@@ -1,0 +1,63 @@
+
+
+
+
+Pittsburgh Post-Gazette
+March 20, 2015 Friday
+SOONER EDITION
+
+
+Copyright 2015 P.G. Publishing Co.
+Section: BUSINESS; Pg. C-1
+Length: 732 words
+Byline: Steve Twedt, Pittsburgh Post-Gazette
+Body
+
+
+Alex Sciuto has designs on your medical bills.
+Specifically, the Carnegie Mellon University graduate design student is asking people to send him copies of their bills - minus names or other identifying information - to compile and share with anyone curious about how much common medical procedures cost here.
+Although the website is still a month or so from launch, Mr. Sciuto's project is already generating interest.
+"Everyone who has looked at this says this is something that should be done," he said. "In Pittsburgh, we're finding two to three times difference [in cost] for going an extra hour's drive."
+Price may not be the main reason someone chooses a hospital or physician, but it's playing an increasingly larger role as consumers take on more of the cost of their care when they move to high-deductible health plans or go shopping at the online federal marketplace.
+Both insurers and providers have started responding to the demand. Pittsburgh insurer Highmark rolled out its Care Cost Estimator two years ago, offering a site where members can log on and find out how much a procedure will cost under their plan coverage.
+UPMC Health Plan's Medical Cost Estimator, launched in January, also will calculate a patient's out-of-pocket costs under a particular plan, listing variations based on where the care is given. It also notes alternative treatments and their costs.
+For sheer clarity and simplicity, though, Heritage Valley Health System has taken the most direct approach by posting a menu-style pricing list for its most common procedures and tests.
+Because insurance plan pricing can vary so widely, the prices listed on the Heritage Valley site are only for those without insurance. "Even with a given plan, there are so many employer options out there, you could never price them out individually," said Heritage CFO Bryan Randall.
+But for the uninsured, the numbers are there for everyone to see and compare - from $11 lab work to check glucose level to $77 for a Pap smear. Outpatient surgical procedures prices include $1,632 for a vasectomy and $3,400 for laparoscopic gall bladder removal.
+X-rays cost $66 each, and visitors to one of Heritage Valley's ConvenientCare clinics will have a straight $59 fee for 32 different minor ailments, from bladder infections to poison ivy to shingles to sinus infections. Vaccinations typically will cost more, although all but the meningitis vaccine still cost less than $100.
+Mr. Randall said they've had 700 page views to the site since it launched in August. "I think you'll see more of this in the future," he said. "As there is more financial responsibility [placed on the patient], they're going to start shopping for that."
+Highmark's Care Cost Estimator has handled 226,000 requests for cost estimates since 2013, and spokesman Doug Braunsdorf said the insurer has seen "a nice bump" since Jan. 1 with 4,300 requests weekly. Because the site only calculates costs for in-network care, he attributes the increase to people choosing plans through the Affordable Care Act's online marketplace rather than the expiration of Highmark's contract with UPMC.
+The Cost Estimator also includes related costs, so someone asking about knee replacement surgery will get an estimate that should include costs ranging from anesthesia and doctors' fees, to crutches and physical therapy.
+"It bundles the cost in such a way that makes sense to the consumer, so there are no hidden costs," Mr. Braunsdorf said.
+UPMC Health Plan's estimator, created with transparency software specialist HealthSparq in Oregon, allows members to see what their out-of-pocket costs will be for 275 medical procedures, factoring in the member's cost share and plan coverage.
+Mr. Sciuto's academic adviser - Jodi Forlizzi, CMU professor of human/computer interaction - said the inspiration for the project came from a site she co-founded, Pratter.us, which collects medical care costs for outpatient care. Thirty-five states have health care cost transparency laws on the books, she said, but Pennsylvania is not one of them.
+"People are much more active in managing their health care now. The technology combined with the huge changes in health care and the huge costs makes it an interesting time to look at this project," she said.
+"The next step is to continue to generate awareness so that we allow people to understand that they can become better health care consumers."
+
+Notes
+
+Steve Twedt:  or 412-263-1963.
+
+Graphic
+
+ 
+PHOTO: Bob Donaldson/Post-Gazette: CMU graduate design student Alex Sciuto is inviting people to send their medical bills to be posted so Pittsburgh medical care costs can be compared.
+PHOTO: Bob Donaldson/Post-Gazette: Alex Sciuto demonstrates how to copy a medical bill to submit digitally to him. He is inviting people to send their bills to be posted so medical care costs in Pittsburgh can be compared. \
+CHART: Heritage Valley Health System; Post-Gazette: Pricing transparency: Heritage Valley Health System\
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Subject: MEDICAL TREATMENTS & PROCEDURES (89%); PRICES (89%); DISEASES & DISORDERS (78%); HEALTH CARE COSTS (78%); MEDICAL DIAGNOSTICS, SCREENING & TESTING (78%); SURGERY & TRANSPLANTATION (78%); CONSUMERS (77%); ENDOSCOPY (77%); PRICE INCREASES (77%); SINUSITIS (73%); MENINGITIS (69%); VACCINES (68%); INFLAMMATORY DISEASES (65%); NEUROLOGICAL DISORDERS & INJURIES (64%); VACCINATION & IMMUNIZATION (63%); EAR, NOSE & THROAT DISORDERS (60%); URINARY TRACT DISORDERS (60%); UROGENITAL DISORDERS & INJURIES (60%)
+
+Industry: INSURANCE (89%); HEALTH CARE COSTS (78%); PRICE INCREASES (77%); PUBLISHING (73%); VACCINES (68%); VACCINATION & IMMUNIZATION (63%)
+
+Geographic: PITTSBURGH, PA, USA (90%); PENNSYLVANIA, USA (59%)
+
+Load-Date: March 21, 2015
+
+
+End of Document

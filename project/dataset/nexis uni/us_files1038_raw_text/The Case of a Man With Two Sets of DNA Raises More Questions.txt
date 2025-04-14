@@ -1,0 +1,56 @@
+
+
+
+
+The New York Times 
+December 12, 2019 Thursday 20:28 EST
+
+
+Copyright 2019 The New York Times Company All Rights Reserved
+Section: SCIENCE
+Length: 750 words
+Byline: Heather Murphy
+Highlight: A crime lab studied a patient’s response to a bone marrow transplant. Readers requested more information about the perplexing findings.
+Body
+
+
+A crime lab studied a patient’s response to a bone marrow transplant. Readers requested more information about the perplexing findings.
+ about a highly unconventional experiment involving a man who had received a bone marrow transplant has raised some questions for readers of The New York Times. 
+Four years after the lifesaving procedure, all the DNA in the patient’s semen had been replaced by that of his donor. This came as a surprise to forensic scientists at the Washoe County Sheriff’s Department in Reno, Nev., studying the case. 
+They presented their findings at an international forensics conference to highlight how a bone marrow transplant could, theoretically, confuse an investigation. Members of law enforcement tend to assume that when a suspect or victim leaves behind DNA, it’s the DNA they were born with, not the DNA of a bone marrow donor who lives thousands of miles away. 
+The experiment’s subject, Chris Long, who works in the agency’s I.T. department and is not a suspect in any crime, had had a vasectomy. This procedure, which occurred many years before Mr. Long learned he had leukemia and required a bone marrow transplant, has been the focus of many reader questions. 
+If a patient had a vasectomy, how could the forensic scientists analyze his semen?
+Semen and sperm are different. A man who has a vasectomy still produces semen. That spermless semen, which may also be referred to as seminal fluid, is still of interest to forensic scientists. That’s because it could be used to identify a suspect in a crime or contribute other information to an investigation.
+So how did his donor’s DNA end up in his spermless semen?
+To say definitively what happened in Mr. Long’s case would require more research. But several experts in bone marrow transplants said that the forensic scientists’ findings made sense from a medical standpoint and that the answer involved white blood cells.
+The two most common types of cells in semen are sperm cells and white blood cells, said , a bone marrow transplant specialist at the Comprehensive Cancer Center at the University of California, Davis, who treated Mr. Long but was not involved in the experiment. 
+“Because he had a vasectomy,” he said, “all that’s left is the white cells.” 
+Dr. , a stem cell investigator at the Institute for Cell Engineering at Johns Hopkins University School of Medicine, agreed that the analysts were detecting the donor’s DNA in white blood cells. 
+Semen contains a number of different types of white blood cells, including macrophages, neutrophils and lymphocytes — all of which support the immune system. “These can come from the urinary tract or the prostate, and will be present even in a vasectomized man,” Dr. Zambidis said. “Since all white blood cells come from the bone marrow donor after a bone marrow transplant, it will not be a surprise that ejaculate containing white blood cells will also be of the donor.” 
+Could a man pass on the DNA of his bone marrow donor to future children?
+No. Several experts said that it’s not possible. In this particular case the man had a vasectomy, so he’s not likely to have any more children. But beyond that, white blood cells do not create sperm cells; they create more white blood cells, said , chief scientific officer at the Perelman School of Medicine at the University of Pennsylvania.
+It’s the DNA in sperm cells that a man passes on to his children. 
+“We don’t know a cell that can make a sperm cell,” Dr. Epstein said. “Even embryonic stem cells can’t be made into sperm cells at this point, though there are people working on it.”
+That said, there are multiple types of chimerism — the technical term for animals that have cells from multiple individuals. Though chimerism by way of bone marrow transplant will not affect a person’s offspring, other forms of chimerism can. 
+Graham Coop, a professor of evolution and ecology at U.C. Davis,  a fascinating fact: Many marmoset monkeys are germline chimeras, meaning the DNA in their sperm or egg cells comes from a different individual than the rest of their DNA. 
+The marmosets exchange cells with their twins in the womb. It’s not , therefore, for a marmoset to pass on its brother’s DNA instead of its own.
+PHOTO: Three months after his bone marrow transplant, Chris Long learned that the DNA in his blood had been replaced by the DNA of his donor. (PHOTOGRAPH BY Tiffany Brown Anderson for The New York Times FOR THE NEW YORK TIMES)
+Classification
+
+
+Language: ENGLISH
+
+Document-Type: News
+
+Publication-Type: Web Blog
+
+Subject: TRANSPLANT SURGERY (95%); FORENSICS (94%); BONE MARROW & STEM CELL DONATION (90%); CRIME, LAW ENFORCEMENT & CORRECTIONS (90%); NEGATIVE NEWS (90%); SCIENCE & TECHNOLOGY (90%); SURGERY & TRANSPLANTATION (90%); HUMAN REPRODUCTIVE STERILIZATION (89%); DISEASES & DISORDERS (79%); LEUKEMIA (79%); CRIMINAL INVESTIGATIONS (78%); LAW ENFORCEMENT (78%); RESEARCH REPORTS (73%); DISEASE IMMUNITY (71%); CANCER (66%); Bone Marrow (%); Forensic Science (%); DNA (Deoxyribonucleic Acid) (%); Sperm (%); Transplants (%)
+
+Industry: MEDICAL & DIAGNOSTIC LABORATORIES (90%); HUMAN REPRODUCTIVE STERILIZATION (89%); ACADEMIC MEDICAL CENTERS (78%)
+
+Geographic: RENO, NV, USA (57%); NEVADA, USA (77%); CALIFORNIA, USA (72%)
+
+Load-Date: December 31, 2019
+
+
+End of Document

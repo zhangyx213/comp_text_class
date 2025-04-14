@@ -1,7 +1,0 @@
-"0","dupe_data <- rio::import(""Results list for_vasectomy_137.XLSX"") |> "
-"0","  clean_names() |> "
-"0","   #create an matching file name"
-"0","  mutate(index = tolower(gsub(""[[:punct:][:space:]|]"", """", title))) |> "
-"0","  mutate(index = tolower(index)) |> "
-"0","  mutate(index = str_sub(index, 1, 25))"
-"2","New names:"

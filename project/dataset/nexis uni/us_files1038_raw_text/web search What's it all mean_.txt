@@ -1,0 +1,50 @@
+
+
+
+
+Star Tribune (Minneapolis, MN)
+August 16, 2006 Wednesday
+Metro Edition
+
+
+Copyright 2006 Star Tribune All Rights Reserved
+Section: SOURCE; Pg. 2E
+Length: 591 words
+Byline: Randy A. Salas, Staff Writer
+Body
+
+
+"Save to del.icio.us," "RSS feed," "Trackback" - you probably come across those and other linked phrases regularly in your Web travels. But what do they mean? Here's a guide.
+Save to del.icio.us
+Del.icio.us is both a name (pronounced "delicious") and a URL: http:;del.icio.us. The website allows users to share their Web browser's bookmarks, which are stored links to oft-visited or favorite websites. By doing so, users can see how many people share their Web likes and which sites are the most popular. Websites that have a link that says, "Save to del.icio.us," are making it easier for visitors to save the site or a page as a book on del.icio.us - in the hope, of course, of giving the website extra exposure too. Wikipedia has a good overview of how del.icio.us works at en.wikipedia.org/wiki/Del.icio.us.
+RSS feed
+RSS (Really Simple Syndication) feeds allow you to subscribe to updated content from a website and see it as soon as it's posted, either using an RSS-enabled Web browser such as Firefox or an RSS reader program. The cool part is that you don't have to go to the site; the subscribed content is automatically routed to your browser or RSS reader. RSS feeds are a popular option at newspaper websites, including the Star Tribune (), for users to receive the latest headlines. Read more about how they work at wordpress.org/support/topic/39178 and 
+       
+    .
+Digg this
+Digg () is a hugely popular website where users submit links to sites or articles that they think are cool, interesting or noteworthy. Other users review such a submission and "Digg it," which means they click a button to show that they agree with the submitter. If a submission gets enough Diggs, it gets promoted to the Digg homepage for all to see. How Stuff Works explains the process at computer.how stuffworks.com/digg. Like the del.icio.us ploy, when websites have a link after a blog entry or article that says, "Digg this," they are making it easier for Digg submitters to recommend the site - and boost its popularity.
+Permalink
+Blogs that offer an option for a permalink, or permanent link, are simply making it easier for visitors to create a bookmark for a blog entry no matter where that entry moves within the site. This is important, because blog entries and their URLs often change as a blog is updated. Wikipedia offers more information and external links at en.wikipedia.org/wiki/Permalink. Regular websites often offer a similar "add to your bookmarks" feature that allows you to add the site to your browser's favorites list with a click of a button.
+Trackback
+Explaining a Trackback, another blog feature, can be convoluted. Basically, if Blogger A writes something about which Blogger B wants to comment in her blog, rather than just post a comment on Blogger A's blog, she clicks on his Trackback link to indicate that she has written something about it on her blog. Then Blogger A's blog will show that Blogger B had something more to add, and a link is provided to her write-up. So, a Trackback allows separate blogs to sync up when they're discussing the same thing. The Cruftbox blog explains it more thoroughly at , using a blog entry about a vasectomy as an example. The breezy description is much less painful.
+Do you have a favorite website or a question about how to find something on the Internet? Send an e-mail, with your name and city for publication, to websearch@startribune .com. Randy A. Salas is at 612-673-4542.
+
+Graphic
+
+ 
+ILLUSTRATION
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Subject: INTERNET SOCIAL NETWORKING (90%); BLOGS & MESSAGE BOARDS (89%); NEWS BRIEFS (50%); internet (%)
+
+Industry: RSS (99%); CONTENT AGGREGATORS (90%); INTERNET SOCIAL NETWORKING (90%); BLOGS & MESSAGE BOARDS (89%); ELECTRONIC PUBLISHING (79%); MEDIA SYNDICATION (79%); SEARCH ENGINES (78%); WEBSITES (76%)
+
+Load-Date: August 16, 2006
+
+
+End of Document

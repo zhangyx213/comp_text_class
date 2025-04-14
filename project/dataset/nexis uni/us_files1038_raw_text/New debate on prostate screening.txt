@@ -1,0 +1,67 @@
+
+
+
+
+ The Philadelphia Inquirer
+JULY 28, 2003 Monday CITY-D EDITION
+
+
+Copyright 2003 Philadelphia Newspapers, LLC  All Rights Reserved
+
+
+Section: FEATURES HEALTH & SCIENCE; Pg. F01
+Length: 960 words
+Byline: Marie McCullough INQUIRER STAFF WRITER
+Body
+
+
+Amid debate whether prostate cancer is already being overdiagnosed and overtreated, a group of experts has concluded that current screening guidelines are too lax and that many more men should be getting prostate biopsies to see if they have early-stage tumors.
+Prostate cancer is second only to lung cancer as a cause of cancer deaths among men in the United States. It is annually diagnosed in about 190,000 men and kills more than 30,000, most of them over age 65.
+Current guidelines recommend a biopsy for a man whose blood test reveals a prostate-specific antigen (PSA) level of 4, at which the chance of cancer is less than 25 percent. The five researchers suggest lowering the PSA cutoff for a biopsy to 2.6, particularly for men under 60.
+The researchers, led by Harvard radiation oncologist Rinaa S. Punglia, reanalyzed data from a recent prostate-cancer screening study of 6,691 men, including 705 who were biopsied. They then used a mathematical model to estimate the impact of varying cutoffs for the level of the antigen, which is produced by prostate cells and overproduced by prostate tumors.
+With the cutoff of 4, the authors say, doctors may be missing 82 percent of cancers in men under age 60, and 60 percent in older men.
+"Early detection may increase the probability that the disease is confined to the prostate, and patients with such confined disease may be more likely" to be cured with treatment, the researchers wrote in their analysis, which appears in the current issue of the New England Journal of Medicine.
+But their conclusion is controversial.
+For one thing, even with a PSA cutoff of 2.6, doctors would miss 64 percent of cancers in men under age 60, and 40 percent in older men.
+For another, biopsies are uncomfortable, costly and imperfect; one study found that the tissue-sampling method missed a third of prostate cancers.
+Also, the incidence of prostate cancer is relatively low in younger men and those with PSA levels below 4, so most of the additional biopsies would turn out to be unnecessary. In an interview, Harvard statistician Karen M. Kuntz, a coauthor of the study, said that of 1,000 younger men with PSAs between 2.6 and 4, 57 would have unnecessary biopsies, compared with 10 under the current guidelines. The trade-off would be diagnosing more tumors - 20, compared with 10 with the PSA cutoff of 4.
+Compounding all this is the dilemma of treatment. Diagnostic tests cannot tell which tumors will grow slowly enough that they never become lethal. And surgical removal of the prostate - the gold-standard treatment - often causes incontinence and impotence, because the chestnut-shaped organ is tucked amid nerves under a man's bladder and in front of the rectum.
+Even the premise that early detection and treatment extend lives was not well supported until last year. Then, for the first time since the PSA test was introduced in the early 1980s, a rigorous study showed that surgery in the earliest stages was more effective than careful monitoring in reducing the chance of dying from the disease.
+Because the evidence in favor of early detection and treatment is still not compelling, Dutch prostate-cancer experts Fritz H. Schroder and Ries Kranze wrote in an editorial in the New England Journal: "Lowering the PSA threshold for performing a biopsy will increase the rate of overdiagnosis and, potentially, overtreatment."
+They added that new recommendations should be issued after studies now under way show whether "screening indeed reduces mortality . . . without unacceptably reducing the quality of life."
+Some physicians say they already use discretion in adapting PSA screening guidelines to patients' medical histories.
+"I think there is a growing sentiment that using a one-size-fits-all PSA of 4 is no longer appropriate," said Robert Uzzo, a urological oncologist at Fox Chase Cancer Center in Philadelphia.
+Uzzo led a study of high-risk men - including African Americans and men with family histories of prostate cancer - and found that almost a third of them had the cancer, even though their PSA levels were between 2.6 and 4.
+David Ornstein, a urologist at the University of California, Irvine, said: "My take on all this is that there is nothing magical about the PSA level. It gives you a relative risk. In between PSAs of 2.5 and 10 is a gray zone."
+He and others are working to find blood protein markers, or patterns of markers, that can be used to sharpen the predictive value of the PSA test.
+Contact staff writer Marie McCullough at 215-854-2720 or .  
+Are You at Risk?
+The causes of prostate cancer are not clear. Risk factors are based on statistics showing some groupings of men are more likely to develop it.
+Probable risk factors
+* Age Over 55; the average age at diagnosis in the United States is 70.
+* Family history A man's risk is higher if his father or brother has had prostate cancer.
+* Race African American men are far more likely than white men to get prostate cancer. It is less common in Asian and American Indian men.
+* Diet Some evidence suggests that a diet high in animal fat may increase risk and a diet high in fruits and vegetables may decrease it.
+Mixed evidence
+* Supplements Studies are in progress to learn whether men can reduce their risk by taking certain dietary supplements.
+* Vasectomy Although a few studies suggested that a vasectomy might increase a man's risk of prostate cancer, most research does not.
+* Other issues Obesity, lack of exercise, smoking, radiation exposure, benign prostatic hyperplasia, and a sexually transmitted virus have all been studied, with little evidence so far that they increase the risk.
+For more information
+Contact the National Cancer Institute:
+* Online Go to  
+* By phone Call 1-800-422-6237.
+Classification
+
+
+Language: ENGLISH
+
+Subject: PROSTATE DISEASE (99%); PROSTATE CANCER (95%); CANCER (92%); CANCER SCREENING & DETECTION (90%); DISEASES & DISORDERS (90%); MEN'S HEALTH (90%); TUMORS (90%); MEN (89%); RESEARCH REPORTS (89%); SURGERY & TRANSPLANTATION (89%); UROGENITAL DISORDERS & INJURIES (89%); CHEMOTHERAPY & RADIATION (78%); DEATH & DYING (78%); DEATH RATES (78%); LUNG CANCER (78%); MEDICAL DIAGNOSTICS, SCREENING & TESTING (78%); MORBIDITY RATES (78%); ONCOLOGY (78%); WRITERS (78%); IMMUNODIAGNOSTICS (75%); SENIOR CITIZENS (75%); INTERVIEWS (73%); PHYSICIANS & SURGEONS (73%); RADIOLOGY (73%); MODELING & SIMULATION (69%); MATHEMATICS (66%); INCONTINENCE (60%); Men; Cancer; Disease; Death; Statistic; Medicine; Science And Technology (%)
+
+Industry: MORBIDITY RATES (78%); ONCOLOGY (78%); WRITERS (78%); IMMUNODIAGNOSTICS (75%); PHYSICIANS & SURGEONS (73%); RADIOLOGY (73%); MODELING & SIMULATION (69%)
+
+Geographic: PHILADELPHIA, PA, USA (58%); NORTHEAST USA (73%); UNITED STATES (73%)
+
+Load-Date: August 2, 2005
+
+
+End of Document

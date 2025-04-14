@@ -1,0 +1,38 @@
+
+
+
+
+The San Diego Union-Tribune
+February 1, 2000 Tuesday
+
+
+Copyright 2000 The San Diego Union-Tribune
+Section: LOCAL; Pg. B-1:2,7; B-3:3
+Length: 734 words
+Byline: David E. Graham, STAFF WRITER
+Body
+
+
+For nearly 40 years women have had "the pill" as a reliable, reversible form of birth control, but there has been nothing equivalent for men. Now some Salk Institute scientists might help change that with a new strategy for designing a male oral contraceptive. Using genetic manipulations in mice, the scientists have discovered a way to block production of sperm cells, apparently without changing the mice in any other way.
+The technique essentially short-circuits chemical signals that instruct sperm cells to mature and flourish. The scientists can envision a pill that might mimic that effect, although development might take many years. "Provided that our findings translate into humans, such agents could be ideal male contraceptives," said Peter Blume-Jensen, a Salk scientist on the research team. The research will require other animal tests -- and there are no guarantees -- but there is great interest because of the absence of unwanted side-effects, notes Tony Hunter, who led the work. "That's what makes it exciting as a potential target for a male contraceptive," Hunter said. Other attempts to develop male contraceptives have brought with them undesirable changes, including a decline in beneficial cholesterol levels or even loss of sexual desire. If the Salk approach leads to a practical pharmaceutical contraceptive, it could join condoms and vasectomies as being among men's choices for having sex without causing pregnancy. As with a female birth control pill, a male pill likely would have to be taken over a cycle of days before intercourse to be effective in preventing pregnancy. "It seems intriguing," said Dr. Manoj Monga, a UCSD urologist, commenting on the Salk work.
+"This looks like an alternate approach" to a male pill. A reversible male contraceptive has been more difficult to achieve than a female one, in part because sperm production is continuous, making sperm a more difficult function to shut down.
+The female pill relies on hormones to slow an egg's development each month and to reduce the chances a fertilized egg can implant in the uterus. Monga said that some other attempts to create a male contraception rely on the hormone progesterone to stop sperm production, but they interfere adversely with cholesterol levels. The Salk approach has promise, Monga said, for knocking out all sperm, being reversible and easy to use, but he agrees that more studies will be necessary to study the effect in more detail. The Salk Institute has a patent pending on Hunter's discovery, which is reported today in the journal Nature Genetics. Hunter said it will probably fall to a drug company to develop a pharmaceutical pill based upon the initial work.
+He has not discussed that possibility with any companies, he added. The Salk scientists made the discovery while trying to understand how cells use chemicals signals to perform myriad functions. Hunter's team manipulated a gene, called Kit/SCF-R, that is responsible for building receptors on cells.
+The receptors receive signals from other cells and pass along chemical messages to the interior of a cell. This type of receptor is involved in transmitting signals that affect development of skin pigmentation and the formation of blood cells and sperm cells. The genetic alteration was done in mouse embryos, and the male mice were found to be infertile at puberty.
+Females in the litter were seemingly unaffected by the change. All the mice were otherwise healthy and vigorous, with normal sexual desire and behavior.
+They also had normal pigmentation and blood cells, so those two processes that are influenced by the same gene still worked normally. However, the sperm began to develop, then died, the scientists found. "There seems to be no other observable effects of the mutation in Kit/CF-R than the block in sperm maturation," Blume-Jensen said. Hunter now is planning experiments to test whether he might manipulate the gene in adult mice, switching it off and on. If a molecule were developed that could be delivered as a birth-control pill, tests would be required in animals, such as dogs and primates, before it would be tested in people, Hunter said. Blume-Jensen raised the possibility that such a pill might also be used to help protect the male reproductive system during chemotherapy treatments. It might help spare immature cells so they would remain to develop after the chemotherapy ended, he said.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Subject: CONTRACEPTION (92%); RESEARCH INSTITUTES (90%); RODENTS (90%); SCIENCE & TECHNOLOGY (90%); PREGNANCY & CHILDBIRTH (89%); REPRODUCTIVE TECHNOLOGY (89%); UROLOGY (89%); ANIMAL EXPERIMENTS (78%); BIOTECHNOLOGY & GENETIC SCIENCE (78%); DRUG INTERACTIONS & SIDE EFFECTS (78%); SEXUAL BEHAVIOR (78%); GENE EDITING (77%); PHYSICIANS & SURGEONS (73%); CHOLESTEROL (67%); SURGERY & TRANSPLANTATION (66%); PATENTS (50%); BIRTHS (%); DRUGS (%); GENDER (%); MEDICINE (%); RESEARCH (%); SEX (%)
+
+Industry: PHARMACEUTICALS & BIOTECHNOLOGY (89%); UROLOGY (89%); DRUG INTERACTIONS & SIDE EFFECTS (78%); HORMONES, SUBSTITUTES & ANTAGONISTS (78%); PHARMACEUTICALS INDUSTRY (78%); STEROIDS (78%); PHYSICIANS & SURGEONS (73%)
+
+Load-Date: May 2, 2007
+
+
+End of Document

@@ -1,0 +1,66 @@
+
+
+
+
+The Philadelphia Inquirer
+November 13, 2022 Sunday
+
+
+Copyright 2022 Philadelphia Newspapers, LLC All Rights Reserved
+Section: HEALTH; Pg. G2
+Length: 867 words
+Byline: Christina Chung-Lun Wang The Conversation
+Body
+
+
+ABSTRACT
+Collaboration across academic, government, nonprofit and pharmaceutical sectors is essential.
+After the reversal of Roe v. Wade, developing more contraception options for everyone has become even more important.
+Women and people who can become pregnant have a number of effective birth control methods available, including oral pills, patches, injections, implants, vaginal rings, IUDs and sterilization. But for men and people who produce sperm, options have been limited.
+Two options, withdrawal and condoms, both have high failure rates. Withdrawal has a failure rate of about 20%. Condoms have a failure rate of only 2% when used correctly, but that rate rises to 13% based on how people typically use them.
+Vasectomies have a failure rate of less than 1%, but they require minimally invasive surgery and are seen as a permanent method of contraception.
+Neither vasectomies nor withdrawal protects against sexually transmitted infections.
+But there has not been a new form of male birth control since the introduction of the "no-scalpel vasectomy" in the 1980s. My team and I have been developing male contraception methods since the 1970s.
+Taking responsibility for family planning
+A 2017 survey of 1,500 men ages 18 to 44 found that more than 80% wanted to prevent their partner from getting pregnant and thought that they had shared or sole responsibility for birth control.
+Men who are dissatisfied with condoms are more likely to either use withdrawal as a form of birth control or never use contraception. Of those dissatisfied with condoms, however, 87% are interested in new methods for male contraception.
+Similarly, a 2002 survey of more than 9,000 men in nine countries over four continents found that more than 55% would be willing to use a new method of male birth control.
+Barriers to male contraception
+Strong interest in a new male contraceptive raises the question of why there haven't been any new male birth control methods since the '80s.
+Male contraception development has primarily been supported by governmental and nongovernmental organizations, including the World Health Organization working with academic medical centers.
+However, these agencies frequently do not have a drug development infrastructure comparable to pharmaceutical companies,with programs typically run by only a handful of personnel assisted by clinical research organizations.
+Limited financial resources further slow down development.
+Lack of interest from pharmaceutical companies may also play a role in deterring male contraception development.
+New methods currently in development
+Researchers are looking into several different methods of male contraception.
+Hormonal methods are usually taken as a gel applied to the skin, injection to the muscle, or oral pill. These methods typically contain testosterone and a progestin. The progestin suppresses two pituitary hormones that control the testes, the organs that produce sperm.
+While the testes require high concentrations of testosterone to make sperm, testosterone is typically included in hormonal methods to ensure that there is an adequate level of the hormone for other bodily functions.
+It is counterintuitive, but taking testosterone may also help suppress sperm production because increasing circulating testosterone levels above a certain level suppresses the same two pituitary hormones. The addition of a progestin further enhances the suppression of sperm production.
+The hormonal contraceptive candidate furthest along in development is currently in an ongoing second stage clinical study that has recruited more than 400 couples across four continents. I served as the principal investigator of this trial at the Lundquist Institute in Torrance, Calif.
+The results of the study have so far been promising with minimal side effects, and the couples have found the gel acceptable to use.
+My team and I are also developing drugs that function like both testosterone and progestin, but in a single compound. These drugs are undergoing early testing in people as a daily oral pill or a long-acting injection.
+Nonhormonal methods typically involve drugs that specifically target sperm-producing organs to decrease sperm concentration or function. Nonhormonal drugs show efficacy in animal models, but preclinical toxicology results are needed before clinical studies to demonstrate safety, tolerability and efficacy in people can begin.
+A few of these methods are working toward first-stage clinical trials.
+Another nonhormonal method involves reversibly blocking the vas deferens, an organ that transports sperm for ejaculation. Studies are testing hydrogels, a type of polymer that retains water, that block sperm from traveling through the vas deferens.
+People are ready for new contraceptive methods. I believe that collaboration across academic, government, nonprofit and pharmaceutical sectors can help deliver new birth control methods that are safe, reversible, acceptable and accessible to all.
+Christina Chung-LunWang is physician/investigator at the Lundquist Institute at Harbor-UCLA Medical Center and professor of medicine at David Geffen School of Medicine, University of California-LosAngeles.
+This article is republished from The Conversation.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Journal Code: PHQP
+
+Subject: CONTRACEPTION (97%); SURGERY & TRANSPLANTATION (91%); PREGNANCY & CHILDBIRTH (90%); ASSOCIATIONS & ORGANIZATIONS (89%); MEN (89%); NONPROFIT ORGANIZATIONS (89%); HEALTH DEPARTMENTS (79%); MEDICAL RESEARCH (79%); NONGOVERNMENTAL ORGANIZATIONS (79%); CONTRACT RESEARCH (78%); DRUG DESIGN & DISCOVERY (78%); FAMILY PLANNING (78%); INTERNATIONAL GOVERNMENTAL ORGANIZATIONS (78%); INTERNATIONAL ORGANIZATIONS & BODIES (78%); PUBLIC HEALTH (78%); REPRODUCTIVE TECHNOLOGY (78%); ANATOMY & PHYSIOLOGY (77%); MEDICAL DEVICES (77%); POLLS & SURVEYS (74%); PUBLIC HEALTH ADMINISTRATION (74%); RESEARCH INSTITUTES (72%); SEXUALLY TRANSMITTED DISEASE (72%); EXPERIMENTATION & RESEARCH (65%); MINIMALLY INVASIVE SURGERY (54%); UNITED NATIONS INSTITUTIONS (50%)
+
+Industry: HORMONES, SUBSTITUTES & ANTAGONISTS (89%); PHARMACEUTICALS & BIOTECHNOLOGY (89%); PHARMACEUTICALS INDUSTRY (89%); STEROIDS (89%); ACADEMIC MEDICAL CENTERS (79%); HEALTH DEPARTMENTS (79%); CONTRACT RESEARCH (78%); DRUG DESIGN & DISCOVERY (78%); MEDICAL DEVICES (77%); PHARMACEUTICAL PREPARATION MFG (77%); PHARMACEUTICALS PRODUCT DEVELOPMENT (77%)
+
+Geographic: PHILADELPHIA, PA, USA (58%)
+
+Load-Date: November 13, 2022
+
+
+End of Document

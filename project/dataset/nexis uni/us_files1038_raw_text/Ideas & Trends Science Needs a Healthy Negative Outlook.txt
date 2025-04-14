@@ -1,0 +1,61 @@
+
+
+
+
+ The New York Times
+July 7, 2002 Sunday
+ Late Edition - Final 
+
+
+Copyright 2002 The New York Times Company
+Section: Section 4; Column 1; Week in Review Desk; Pg. 10
+Length: 1085 words
+Byline:  By GINA KOLATA 
+Body
+
+
+IT seems a fairly obvious idea: when science experiments are successful, the results are published in a well-respected journal for all to see and the body of human knowledge expands. But the sad truth about science is that most experiments fail and the hypotheses that seduced researchers turn out not to be true or, at least, the studies provide no evidence that they are true. Are such studies any less important, any less successful? And what happens to them? 
+     Generally, if the negative studies are large and the hypotheses well known, they will be published. That happened, for example, with studies of thousands of cellphone users finding no evidence that cellphone radiation predisposes to brain cancer. It also happened with a study published last month finding no evidence that men who had vasectomies are more likely to get prostate cancer. 
+ But if the studies are small -- just some professor's good idea proved wrong --the findings often are never published, leading future researchers to waste time and money going down the same blind alley. Or, if a study that fails to support a popularly held idea -- that stress causes ulcers, for instance -- goes unpublished, people may continue to believe in an association that has never actually been proven.
+A few new journals have begun soliciting and publishing negative studies -- ostensibly to prevent repetition and waste, and to acknowledge that even negative results add value to our collective knowledge bank. It's a tough sell. The tendency for science to overlook most of the vast backwash of failed experiments isn't accidental. Money, pride, politics and good old competition all play a role. And even when major negative studies are published, it may not have the effect of moving researchers on to other topics. 
+For Dr. Bjorn Olsen, a professor of cell biology at Harvard Medical School, the solution to the problem of small negative studies is clear. He is setting up the Journal of the Negative Results in Biomedicine, which is expected to be online this summer. 
+"You have a hypothesis, based on what is commonly accepted in an area," Dr. Olsen said. "You do some experiments and it doesn't work out that way. Frequently, there is something wrong with what everyone assumes is true."
+But, he said, scientific journals like positive results, rejecting papers whose data fail to support a hypothesis. "These kinds of negative results are often very hard to get into publications," Dr. Olsen said.
+But according to Dr. Scott Kern, a professor of oncology at Johns Hopkins University School of Medicine, the journals aren't entirely to blame. Some negative data are not published, he suggests, because those conducting the studies do not want to share them.
+Dr. Kern should know. He started his own electronic journal of negative results, called NOGO, which stands for Negative Observations in Genetic Oncology, with high hopes that cancer researchers would publish there. He focused on gene mutations that might predispose to cancer, looking for studies showing that a mutation is not associated with a cancer rather than ones showing it is. All he asked was that scientists fill out a form and post it on NOGO's Web site, letting others know not to waste their time.
+When Dr. Kern started the journal a few years ago, his colleagues commended him, and chuckled about it. "People would come up and pat me on the back and say they had a good laugh and that it was quite unique," Dr. Kern said. But few sent him their negative results.
+"I don't know how I could make it easier for them," Dr. Kern said. "At times I would call people and kind of nudge them," he added, but to little avail. He thinks it is because scientists do not want to give their competitors an advantage.
+"They now know something they're not going to do again and their competitor does not," Dr. Kern said. He said a postdoctoral student might have spent seven or eight months on a failed attempt. "As a consolation to the poor postdoc, you say, 'One thing you do know is what genes not to look at.' That provides a warm feeling in their heart. But the moment they submit it for publication, that warm feeling goes away." 
+In an ideal world, said Dr. Leon Gordis, a professor of epidemiology at Johns Hopkins, all studies, positive or negative, would be judged by whether they were well done and whether they were interesting. 
+"I don't think there should be a journal of not finding associations," Dr. Gordis said. "If you have a good study, it should be entered into a prestigious medical journal." 
+That, of course, is what happens with studies like the ones on cellphones, published in The New England Journal of Medicine, The Journal of the American Medical Association and The Journal of the National Cancer Institute, or the prostate cancer study, published in The Journal of the American Medical Association.
+But then, Dr. Gordis and others added, another complication enters in. "On certain controversial or emotionally charged issues, when do we decide that no further studies are needed?" Dr. Gordis asked. 
+WITH cellphones, some scientists are continuing to look for evidence of danger. Now, Finnish scientists have announced that they will be reporting on laboratory experiments that suggest that cellphone radiation alters the blood-brain barrier, allowing chemicals into the brain that should be kept out. There is, of course, no evidence that any such thing is happening in humans. But the very effort shows that the cellphone issue remains alive.
+Another way to keep an issue alive is to look for subgroups of people in large negative studies whose experience seems to support a given hypothesis. You can always find such subgroups if you slice the data, said Dr. Barnett Kramer, editor of The Journal of the National Cancer Institute. They will appear simply by chance, he said, adding that since the total effect is null, for every subgroup with a positive effect, there is another with a negative effect. That does not mean that the effect in any subgroup is real -- to find out you need to do another study just with them. Should you? Or should a study that enrolled mostly men be repeated with women? Should one involving whites be done again to see if the results are the same with blacks?
+"There's no shortage of issues that can be raised," Dr. Gordis said. Often, he added, there is money to be found to re-do the studies with a different emphasis.
+So what should a scientist do? 
+"I'm not aware of anyone refusing money," Dr. Gordis said. "That's the acid test." 
+
+
+
+Graphic
+
+ 
+Photo: If a study of white men shows no connection between cellphone use and cancer, should women be studied? Blacks? When is a negative study enough? (Carol Halebian for The New York Times) 
+Classification
+
+
+Language: ENGLISH 
+
+Publication-Type: Newspaper
+
+Subject: CANCER (90%); EXPERIMENTATION & RESEARCH (90%); TRENDS (90%); ONCOLOGY (89%); SCIENCE & TECHNOLOGY (89%); COLLEGE & UNIVERSITY PROFESSORS (88%); BIOMEDICINE (78%); MEN'S HEALTH (78%); RESEARCH REPORTS (78%); BIOLOGY (73%); PROSTATE DISEASE (70%); SURGERY & TRANSPLANTATION (70%); BRAIN CANCER (69%); PROSTATE CANCER (69%); GRADUATE & PROFESSIONAL SCHOOLS (66%); MEDICINE AND HEALTH (%);  RESEARCH  (%)
+
+Industry: ONCOLOGY (89%); COLLEGE & UNIVERSITY PROFESSORS (88%); BIOMEDICINE (78%); ELECTRONIC PUBLISHING (78%); MOBILE & CELLULAR TELEPHONES (74%); MOBILE & CELLULAR COMMUNICATIONS (69%); GRADUATE & PROFESSIONAL SCHOOLS (66%)
+
+Person: KOLATA, GINA; GORDIS, LEON (DR) 
+
+Load-Date: July 7, 2002
+
+
+End of Document
