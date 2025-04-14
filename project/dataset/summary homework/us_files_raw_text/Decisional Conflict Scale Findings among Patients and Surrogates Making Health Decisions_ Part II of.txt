@@ -1,0 +1,249 @@
+
+
+
+
+
+Medical Decision Making
+May 2019
+
+
+Copyright 2019 Sage Publications, Inc. All Rights Reserved
+
+
+Section: Pg. 316-327; Vol.39; No.4; ISSN: 0272-989X, 1552-681X
+Length: 6138 words
+Byline: Mirjam M. Garvelink
+
+Laura Boland
+
+Krystal Klein
+
+Don Vu Nguyen
+
+Matthew Menear
+
+Hilary L. Bekker
+
+Karen B. Eden
+
+Annie LeBlanc
+
+Annette M. O’Connor
+
+Dawn Stacey
+
+France Légaré
+Body
+
+
+ABSTRACT
+Background. We explored decisional conflict as measured with the 16-item Decisional Conflict Scale (DCS) and how it varies across clinical situations, decision types, and exposure to decision support interventions (DESIs). Methods. An exhaustive scoping review was conducted using backward citation searches and keyword searches. Eligible studies were published between 1995 and March 2015, used an original experimental/observational research design, concerned a health-related decision, and provided DCS data. Dyads independently screened titles/abstracts and full texts, and extracted data. We performed narrative syntheses and calculated average or median DCS scores. Results. We included 246 articles reporting on 253 studies. DCS scores ranged from 2.4 to 79.7 out of 100. Highest baseline DCS scores were for care planning (44.8 ± 8.9, median = 47.0) and treatment decisions (32.5 ± 12.6, median = 31.9), in contexts of primary care (40.6 ± 18.3), and geriatrics (39.8 ± 11.2). Baseline scores were high among decision makers who were ill (33.2 ± 14.1, median = 30.2) or making decisions for themselves (33.4 ± 13.8, median = 32.0). Total DCS scores <25 out of 100 were associated with implementing decisions. Without DESIs, DCS scores tended to increase shortly after decision making (>37.4). After DESI use, DCS scores decreased short-term but increased or remained the same long-term (>6 months). Conclusions. DCS scores were highest at baseline and decreased after decision making. DESIs decreased decisional conflict immediately after decision making. The largest improvements after DESIs were in decision makers who were ill or made decisions for themselves. Further meta-analyses are needed for decision type, contexts, and interventions to inform hypotheses about the expected effects of DESIs, the best timing for measurement, and interpretation of DCS scores.
+FULL TEXT
+The Decisional Conflict Scale (DCS) was developed in 1995 to measure decisional conflict and related factors, enable the tailoring of decision support interventions (DESIs) to patients’ decisional needs, and evaluate the effectiveness of DESIs.1–5 Currently there are four versions in use with patients: traditional DCS (statement format), the modified traditional DCS (question format), and 2 other versions entitled the low-literacy DCS6 and the SURE test.7–10
+The traditional DCS is a 16-item scale measuring 5 dimensions of decision-making: 1) feeling uncertain about the best course of action, 2) feeling uninformed, 3) feeling unclear about values, 4) feeling unsupported, and 5) ineffective decision-making. Each item is measured on a 5-point Likert scale ranging from 0 (strongly agree) to 4 (strongly disagree), leading to a total score of between 0 and 64, which is typically converted into a standardized score from 0 to 100. Scores below 25 are associated with being able to implement a decision, whereas those above 37.5 are associated with decision delay.6 And, although these cut-offs are increasingly used to imply clinical significance, this has not been explored beyond the original studies. The scale has excellent psychometric properties with test-retest correlations exceeding alpha = 0.78, good construct validity (discriminates between groups, ES: 0.4-0.8), and responsiveness to change (ES: 0.4-1.2).6,11 The low literacy version consists of 10 items measured on a 3-point scale (yes, no, unsure), and the SURE test consists of 4-items, measured on a 2-point scale (yes, no) to screen for clinically elevated DC.
+The DCS has been used in many contexts, decision types, and stages of decision making. Several studies have demonstrated the positive effects of DESIs on total DCS and subscale scores, decision quality, and decision delay.6 However, DCS scores have been reported to vary significantly across contexts and decisions.8 Hence, to determine acceptable changes in the DCS after interventions, it is important to be aware of such differences and to take them into account in power analysis to determine the sample size for studies.
+We conducted a scoping review and found that over the initial 20 years of its existence, the DCS was used in 394 research articles (404 studies) originating in 23 countries.10 DCS versions, applications, and use have increased steadily since development of the traditional DCS in 1995. It has been used for multiple decision types, clinical contexts, and populations, demonstrating its value as a decision-making evaluation measure. The traditional 16-item version of the DCS was used in at least 246 of these 394 research articles (1995 to 2015).10
+Since there is no known reference level of decisional conflict available for different subgroups, it is difficult to compare results with other populations, generalize findings, or determine what is an acceptable increase or decrease in DCS scores. In this study, we explored the overall levels of DCS scores as measured with the traditional 16-item scale and how these levels vary across different clinical and decision contexts, participant characteristics, and exposure to DESIs.
+Methods
+Design
+We conducted a subgroup analysis of a larger scoping review guided by Arksey and O’Malley’s 6-step methodological framework12 and Levac’s recommendations for rigor in scoping reviews.13 We registered our review in Prospero (registration number CRD42014013556). We briefly describe our methods in this article; however, a more detailed description of the full scoping review methods is published in a parallel descriptive article.10
+Research Questions
+We addressed the following research questions:
+What are the overall levels of decisional conflict for individuals making health decisions, measured with the traditional 16-item scale?
+How do DCS scores vary across different clinical and decision contexts, participant characteristics, and exposure to DESIs?
+Selection of Studies and Data Extraction
+We performed a sensitivity analysis of studies that reported using DCS versions other than the 16-item traditional scale to see if the results were consistent across versions. We found that DCS scores measured with the traditional DCS were higher than when measured with the other versions (low literacy, modified traditional scales, subscales only; Table 1). Hence, to present the most meaningful results, in this article we focus on the most common version of the DCS (the traditional 16-item DCS). Of the 394 included studies in our scoping review,10 we selected studies that used the traditional DCS and excluded studies reporting on other DCS versions.
+Table 1
+Sensitivity Analysis: DCS Scores per Version of the Scale (Baseline Only, All Groups Together)a
+*| Scale Version (n papers)b | Total DCS | Personal Uncertainty | Unclear about Values | Uninformed Subscale | Unsupported Subscale | Ineffective Subscale |  |  |  |  |  |  | 
+*| Mean ± SD (Median) | nc | Mean ± SD (Median) | nc | Mean ± SD (Median) | nc | Mean ± SD (Median) | nc | Mean ± SD (Median) | nc | Mean ± SD (Median) | nc |  | 
+*| Traditional DCS (n = 246) | 31.8 ± 18.6 (26.8) | 222 | 28.7 ± 13.0 (26.0) | 81 | 23.8 ± 10.8 (23.4) | 72 | 24.5 ± 13.7 (23.3) | 76 | 22.9 ± 22.4 (11.3) | 74 | 24.1 ± 21.5 (14.2) | 75 | 
+*| Modified traditional (n = 24) | 31.5 ± 10.1 (34.2) | 39 | 24.7 ± 14.1 (20.5) | 8 | 21.9 ± 7.9 (19.0) | 4 | 21.3 ± 7.1 (21) | 3 | 24.1 ± 6.3 (24.0) | 5 | 24.3 ± 15.9 (21) | 3 | 
+*| Subscales only (n = 42) | N/A | N/A | 31.4 ± 13.2 (29.5) | 40 | 27.8 ± 14.9 (23) | 23 | 22.9 ± 14.0 (19.0) | 19 | 24.1 ± 9.2 (26.0) | 16 | N/A | N/A | 
+*| Low literacy (n = 37) | 20.1 ± 7.9 (21.4) | 88 | 22.0 ± 14.7 (17.5) | 11 | 24.7 ± 13.7 (21.3) | 11 | 22.5 ± 11.9 (22.3) | 11 | 26.1 ± 18.9 (17.1) | 13 | N/A | N/A | 
+*| Provider Decision Process Assessment Instrument (n = 4) | 31.2 ± 13.6 (28.0) | 5 | N/A |  | N/A |  | N/A |  | N/A |  | N/A | N/A | 
+*| Total (N = 353) | 30.4 ± 17.8 (25.6) | 325 | 29.3 ± 13.3 (28.3) | 142 | 25.1 ± 12.5 (23.0) | 112 | 24.3 ± 13.8 (22.5) | 111 | 23.7 ± 12.2 (22.3) | 110 | 23.7 ± 14.2 | 79 | 
+a
+Only scales ranging from 0 to 100 were used (1–5 scales were recalculated to 0–100). N/A = not applicable.
+b
+n = number of papers. nc = Number of observations that are taken into account to calculate the means. Mean scores were not weighted.
+Synthesis of Results
+Data handling
+We used elements of the Ottawa Decision Support Framework (ODSF) as our conceptual underpinnings for data synthesis.12,14 In accordance with the ODSF, we structured our data as baseline decisional needs (e.g., DCS scores per participant and contextual characteristics) and impact of decision making and exposure to DESIs (e.g., DCS scores after decision making or interventions).
+If not done, we recoded all continuously measured DCS (total and subscale) scores from 0 to 100. Then, we categorized findings into 1 of 3 groups: 1) control (participants of intervention studies who did not receive an intervention), 2) intervention (participants who received a DESI), and 3) general population (participants of observational studies who did not receive an intervention). In our analyses, we did not distinguish between different types of DESIs. Timing of measurement was categorized as baseline (before decision making), during decision making, immediately after decision making (less than 1 month), shortly after decision making (between 1 and 6 months), and in the long term after decision making (>6 months). Although we present the baseline DCS for a subsample of detailed decisions (i.e., the highest baseline scores), because of the large variety of contexts and decisions,10 we decided to subcategorize decision types into 6 decisions (care planning, communication, treatment, obstetrics, testing [screening and diagnostic testing], and other), and we report data on the 7 most prevalent contexts (defined as being reported in >5% of the studies) only for the remaining analyses (oncology, primary care, obstetrics/gynecology/urology, genetics, cardiology). Omitted contexts were ear-nose-throat, endocrinology, gastroenterology, infectious diseases, intensive care, lung, neurology, orthopedics, pediatrics, palliative care, physiotherapy, rheumatology, urology, rehabilitation, various (multiple contexts), and other.
+Pooling and statistical analysis
+Data were pooled according to group and timing as well as decision type or context. For specific decisions with the highest baseline needs, we assessed the effect of DESIs on mean DCS immediately after (<1 month), shortly after (between 1 and 6 months), and in the long term after decision making (>6 months).
+We performed narrative data synthesis including descriptive numerical summaries of the included studies.
+For each group or characteristic, we calculated mean DCS scores and standard deviations (SDs), and, if data were skewed (–2 < Skewness > 2), we calculated median scores. All p-values for global tests of group comparisons were based on mixed models including a study random effect for the intercept (to take into account the correlation between data points that came from the same study) and for which the outcome was weighted by sample size. Group averages are reported on the original 0-100 scale (unweighted). Results were considered statistically significant if P < 0.00278. This p-value threshold was obtained by dividing 0.05 by the total number of tests performed (n=18) in order to control for multiple testing (Bonferroni method).15
+Results
+Study Selection
+We included 246 articles (62% of the 394 included articles in the full scoping review10; Supplementary Appendix 1), reporting on 253 studies that used the traditional DCS (6 articles contained multiple substudies which are reported as separate results in this article). The other 148 articles (38%) were excluded because they reported on other versions of the DCS such as a modified traditional DCS (n = 24), the low-literacy DCS, the SURE, the Provider Decision Process Assessment Instrument, the pictorial DCS, and subscales only.
+Study Characteristics
+Publications originated in 18 countries or combinations of countries on 4 continents (Table 2). Most studies used comparative designs (n = 158, 62%) and analyzed continuous scores on a scale from 1 to 5 or standardized the scores from 0 to 100. Although many studies reported existing cutoffs for clinically significant decisional conflict in their methods (<25 versus >37.5 on a scale from 0–100 or <2 versus >2.5 on a scale from 0–5) and compared their results to these cutoffs, only 1 study dichotomized their data (yes or no, exact cutoff point not reported).16
+Table 2
+Characteristics of the Included Studies (N=253)
+*| Characteristic | Frequency (%) | 
+*| Year of publication |  | 
+*|  1995–2000 | 12 (5) | 
+*|  2001–2005 | 39 (15) | 
+*|  2006–2010 | 83 (33) | 
+*|  2011–2015 (March) | 119 (47) | 
+*| Continent of publication |  | 
+*|  North America | 161 (64) | 
+*|  Europe | 59 (23) | 
+*|  Australia | 18 (7) | 
+*|  Asia | 12 (5) | 
+*|  South America | 0 | 
+*|  Africa | 0 | 
+*|  Multiple continents | 2 (0.7) | 
+*| Study design |  | 
+*|  Comparative design (randomized controlled trial 107; other comparative 50 [e.g., pre-post, semiexperimental]) | 157 (62) | 
+*|  Observational design (prospective/longitudinal 29; cross-sectional 60; Delphi study 1; case cohort 1; 2 mixed-methods; 1 clinical trial; 1 not reported) | 95 (38) | 
+*| Population |  | 
+*|  Patient (decision for self) | 217 (86) | 
+*|  Surrogate (decision for other) | 28 (11) | 
+*|  Multiple stakeholders | 6 (2) | 
+*| Most often reported clinical contexts |  | 
+*|  Oncology | 66 (26) | 
+*|  Primary care | 58 (23) | 
+*|  Obstetrics and gynecology and urology | 37 (15) | 
+*|  Genetics | 20 (8) | 
+*|  Cardiology | 14 (5) | 
+*|  Mental health | 6 (2) | 
+*|  Geriatrics | 10 (4) | 
+*|  Decision topics |  | 
+*|  Care planning: amyotrophic lateral sclerosis care (n = 1), benign prostatic hyperplasia treatment (n = 1), cancer management (n = 1), end-of-life/advanced care planning (n = 7), feeding options (n = 5), intensive care decisions (n = 1), life-threatening complications (n = 1), treatment of children with life-threatening illness (n = 1) | 18 (7) | 
+*|  Communication: genetic testing (n = 1), mental health disorder (n = 1), work rehabilitation (n = 1), terminal prognosis communication (n = 1) | 4 (2) | 
+*|  Treatment (medication/surgery): anesthesia for children (n = 1), antibiotic treatment (n = 2), cancer prevention (n = 6), cancer treatment (n = 53), cardiovascular treatment (n = 13), cochlear implant (n = 1), chronic obstructive pulmonary disease treatment (n = 1), dental treatment (n = 1), diabetes treatment (n = 10), fertility treatment (n = 2), fertility preservation (n = 4), fibromyalgia treatment (n = 2), fracture prevention (n = 1), HIV treatment (n = 1), hepatitis C virus treatment (n = 1), infant care (n = 1), inflammatory bowel syndrome decisions (n = 1), influenza treatment (n = 1), knee surgery (n = 2), menopausal treatment (n = 14), menorrhagia treatment (n = 1), mental health treatment (n = 9), multiple sclerosis treatment (n = 3), musculoskeletal treatment (n = 5), osteoporosis treatment (n = 1), palliative care for children (n = 2), psoriasis treatment (n = 1), bariatric/obesity surgery (n = 1), lung transplantation (n = 1), orthopedic treatment (n = 2), plastic surgery (n = 1), dialysis (n = 1), vasectomy (n = 1) | 147 (58) | 
+*|  Obstetrics: childbirth stress (n = 1), delivery mode childbirth (n = 3), pain relief in labor (n = 2), pregnancy termination (n = 2) | 8 (3) | 
+*|  Screening: cancer diagnostic testing (n = 2), cancer screening (n = 23), diabetes testing (n = 1), genetic testing (n = 11), genome sequencing (n = 2), prenatal testing (n = 14) | 53 (21) | 
+*|  Other: multiple decisions (n = 8), enlarging families (n = 1), respite care (n = 1), trial participation (n = 5), vaccination (n = 7) | 22 (9) | 
+Baseline DCS per Study Design
+Total DCS
+Baseline total DCS ranged from 2.4 to 79.7 (mean = 32.5 ± 13.8, median = 31.5). Mean baseline DCS (pre-intervention) were similar in intervention groups (mean = 35.8 ± 13.7, median = 36.0) compared with control groups (mean = 37.1 ± 15.9, median = 33.3) and observational groups (mean = 26.2 ± 10.2, median = 25.6, F(2,137.6) = 1.591 P = 0.207.
+Subscales
+Overall, baseline scores for the subscales in all participant groups were feeling uncertain (mean = 39.4 ± 14.1, median = 39.8), feeling uninformed (mean = 35.9 ± 14.9, median = 36.9), feeling unclear about values (mean = 33.6 ± 12.2, median = 33.7), feeling unsupported (mean = 30.1 ± 10.7, median = 30.6), and ineffective decision making (mean = 30.0 ± 13.4, median = 28.3).
+The highest baseline scores were in the intervention and control groups (compared with the observational groups) for the ineffective decision making scale (control: mean = 31.1 ± 17.3, median = 27.5; intervention: mean = 27.7 ± 14.8, median = 25.1; population: mean = 20.1 ± 12.2, median = 19.4, F(2,115.5) = 2.88, p = 0.06) and the feeling uncertain subscales (control: mean = 32.8 ± 14.9, median = 32.3; intervention: mean = 33.6 ± 13.6, median = 35; population: mean = 28.8 ± 13.8, median = 25.6; F(2,121.9) = 3.23, p = 0.043). The baseline scores for all subscales were above the threshold of 25 for elevated DC in the intervention and control group but not in the observational groups. (Figure 1).
+Figure 1
+Mean Decisional Conflict Scale scores per subscale. Mean scores were not weighted.
+Solid line = intervention group, dotted line = control group, dash line = population (observational).
+Continents
+There were no statistically significant differences in mean DCS scores between continents, although European studies reported higher baselines DCS scores (mean = 39.2 ± 17.7, median = 35.3; 59 studies) than North American studies (mean = 30.6 ± 11.6, median = 31.0; 161 studies), Australian studies (mean = 30.8 ± 6.9, median = 31.1; 18 studies) and Asian studies (mean = 26.4 ± 15.4, median = 31.0; 12 studies), F(4,111.3) = 2.3, P = 0.06.
+Clinical context
+The most commonly reported clinical decision contexts were oncology (n = 66, 26%), primary care (n = 58, 23%), obstetrics and gynecology (n = 37, 15%), genetics (n = 20, 8%), and cardiology (n = 14, 6%).
+Overall, baseline DCS scores were highest in primary care (mean = 40.6 ± 18.3), geriatrics (mean = 39.8 ± 11.2), mental health (mean = 32.4 ± 11.4), cardiology (mean = 35.2 ± 9.5), and obstetrics and gynecology (mean = 33.4 ± 8.5), although scores in each context sometimes varied between groups (control v. intervention v. population; Figure 2).
+Figure 2
+Mean decisional conflict scores per clinical context, per group and timing.
+Solid line = intervention group, dotted line = control group, dash line = population (observational). Red horizontal line = cutoff (>25) for clinically elevated decisional conflict. Mean scores were not weighted.
+General and Specific Decision Types (Decision Topics)
+The most commonly reported decision types were treatment (n = 147, 59%), testing (n = 53, 21%; Figure 3), and care planning (n = 18, 7%). Overall, the highest baseline DCS score was in care planning (mean = 44.8 ± 8.9, median = 47.0) and treatment decisions (32.5 ± 12.6, median = 31.9).
+Figure 3
+Decisional conflict for decisions about screening and treatment, per group and timing. Solid line = intervention group, dotted line = control group, dash line = population (observational). Red horizontal line = cutoff (>25) for clinically elevated decisional conflict. Mean scores were not weighted.
+More specifically, baseline clinically significant DCS scores were found for many specific decisions (Table 3), with the highest baseline scores in the context of palliative care (end-of-life decisions and advanced care planning, mean = 45.0 ± 7.4, median = 45.0), menopausal treatment (mean = 42.2 ± 15.3, median = 47.5), and cancer prevention (mean = 40.3 ± 5.6, median = 38.5).
+Table 3
+Baseline Decisional Conflict Scale per Decision Category (Decisions That Were Present in 3 or More Studies)a
+*| Decision Category | N (nb) | All Groups | Intervention Group Only (before and after DESI Use), Mean ± SD or Median ± range |  |  |  |  |  | 
+*| Baseline (Mean ± SD) | Baseline (Median) | Baseline | Immediately after | Shortly after | Long term after | Mean difference between Baseline – Shortly after, and direction: ↓↑→ |  |  | 
+*| End-of-life/advanced care planning | 6 (4) | 45 ± 7.4 | 45.0 | 49.1 ± 11.4 | 13.8 ± 12.4 | 25.3 ± 11.6 | — | 23.8↓ | 
+*| Diabetes treatment | 9 (2) | 25 ± 0 | 25.0 | 25 ± 0 | — | 41.2 ± 30 | 21.4 ± 4.5 | 16.2↑ | 
+*| Menopausal treatment | 14 (13) | 47.5x ± 60.3 | 47.5 | 45.7 ± 13.9 | 24.7x ± 39.5 | 30.9 ± 11 | 36.2 ± 12.1 | 14.8↓ | 
+*| Feeding option | 5 (3) | 44.7 ± 12.7 | 47.0 | 38.3 ± 13.8 | — | 23.8 ± 8 | — | 14.5↓ | 
+*| Orthopedic treatment | 2 (6) | 40.1 ± 2.1 | 39.6 | 39.8 ± 5.2 | — | 25.3 ± 6 | — | 14.5↓ | 
+*| Delivery mode childbirth | 3 (5) | 35.2 ± 4.9 | 37.8 | 38.2 ± 5.2 | — | 25.1 ± 4.6 | 23.1 ± 5.4 | 13.1↓ | 
+*| Prenatal testing | 14 (20) | 30.6 ± 8.5 | 33.6 | 36.3 ± 10.8 | 23.0x ± 43.6 | 23.4 ± 8 | — | 12.9↓ | 
+*| Cancer prevention | 3 (5) | 38.5x ± 13.8 | 38.5 | 42.6 ± 7.4 | 22.1x ± 33.7 | 31.4 ± 17.1 | — | 11.2↓ | 
+*| Genetic testing | 10 (8) | 28 ± 7 | 28.2 | 29.6 ± 7.1 | 18.3 ± 4.2 | 24.5 ± 9.3 | 16.8x ± 21.1 | 10.6↓ | 
+*| Pain relief in labor | 2 (3) | 31.2x ± 1.4 | 31.2 | 31.3x ± 16.2 | 16.3 ± 4.6 | 22.2 ± 2.5 | — | 8.1↓ | 
+*| Fertility treatment | 2 (5) | 34.6 ± 4 | 33.5 | 34.3 ± 8.8 | 23.1 ± 11 | 28.7 ± 7.7 | — | 5.6↓ | 
+*| Cancer screening | 23 (19) | 31.2 ± 6.4 | 30.0 | 28.4 ± 7.4 | 16.2 ± 8.1 | 23.6 ± 6.3 | 19.2 ± 3.4 | 4.8↓ | 
+*| Cardiovascular treatment | 13 (15) | 35.2 ± 9.5 | 35.0 | 31.9 ± 9.7 | 25.3 ± 8.3 | 27.5 ± 9.1 | 19.5 ± 2.1 | 4.4↓ | 
+*| Mental health treatment | 2 (4) | 27.5 ± 3.9 | 28.2 | 29.9 ± 9.1 | 31.9 ± 5 | 26.1 ± 11.1 | — | 3.8↓ | 
+*| Cancer treatment | 51 (35) | 30.4 ± 10.7 | 27.5 | 32.5 ± 14.5 | 25.2 ± 9.1 | 28.7x ± 80 | 34.5 ± 23.4 | 2.5↓ | 
+*| Vaccination | 7 (18) | 24.9 ± 9.4 | 21.8 | 16.9 ±11.9 | 42.5 ± 0.8 | 15.4 ± 3.10 | — | 2.5↓ | 
+*| Participation in clinical trial | 5 (8) | 24.9 ± 9.3 | 20.8 | 16.9 ±11.8 | 42.5 ± 0.7 | 15.4 ± 3.9 | — | 1.5↓ | 
+a
+n = number of studies. x = skewed ( -2 < Kurtosis > 2).
+b
+n is the number of observations that are taken into account to calculate the means. Mean scores were not weighted.
+Populations Targeted
+Decision maker
+Based on available data, we compared people who decided for themselves versus those who decided for others. Surrogate decisions were either for a child (n = 17) or for a loved one with dementia (n = 6). Baseline mean scores for people who decided for themselves were 33.4 (SD = 13.8, median = 32.0; n = 217 studies), compared with 27.7 (SD = 13.6, median = 31.0; n = 25 studies) for those who decided for someone else (F(2,111.6) = 1.34, P = 0.266) (Figure 4). No differences were found in baseline scores between decisions for adults (mean = 32.8, SD = 13.8, median = 31.9) versus for children (mean = 30.2, SD = 14.2, median=35.3).
+Figure 4
+Mean Decisional Conflict Scale score per type of decision maker and measurement moment.
+Red horizontal line = cutoff (>25) for clinically elevated decisional conflict.
+Sex
+Baseline mean scores in studies with females only were 32.5 (SD = 10.9, median = 31.4; n = 97 studies), compared with 31.5 (SD = 9.7, median = 29.7; n = 33 studies) in studies with only males, and 33.2 (SD = 16.6, median = 32.0, n = 114) in studies including both males and females (Figure 4). Studies including females only reported more decisions in obstetrics and gynecology contexts, whereas studies including males only reported more on care-planning decisions and studies including both sexes reported more on treatment decisions.
+Healthy versus sick
+The mean baseline DCS score for healthy people was 32.5 (SD = 11.1, median = 33.5; n = 80 studies), compared with 33.2 (SD = 14.1, median = 30.2; n = 147 studies), F(1, 99.2) = 0.00, P = 0.983, for ill people (Figure 4). Healthy populations faced more decisions in obstetrics and gynecology and screening/prevention, whereas sick populations faced more treatment decisions.
+Post-decision support
+A variety of DESIs were used in the included studies, including, but not limited to, online and paper-based decision aids, brochures and pamphlets, online information, educational videos, interactive trainings, and different ways of framing the information.
+Effect of Interventions versus No Interventions
+Total DCS
+Overall mean DCS scores were 23.6 immediately after decision-making (SD = 9.9, median = 22.9), 26.1 shortly after (SD=13.2, median = 24.5), and 26.3 over the long-term (SD = 17.6, median = 21.5). Immediately after (F(2,251.6) = 9.8, p > 0.001) and shortly after decision-making (F(2,693.2) = 8.0, P > 0.001) there were significant differences across groups, with slightly higher scores in control groups.
+DCS scales
+Overall mean DCS scores for the subscales shortly after decision-making were: feeling uncertain (mean = 30.2 ± 13.4, median = 29.8), feeling uninformed (mean = 24.7 ± 13.4, median = 23.3), feeling unclear about values (mean = 24.7 ± 9.4, median = 24.2), feeling unsupported (mean = 25.3 ± 12.8, median = 24.4), and ineffective decision-making (mean = 24.9 ± 14.9, median = 22.5).
+Intervention effects were most apparent in the uninformed, unsupported, unclear about values and ineffective decision-making subscales. Mean DCS scores were higher in control groups immediately after (uninformed: F(2,18.2) = 4.47, P = 0.026), shortly after decision-making (uninformed: F(2,64.7) = 5.46, P = 0.006; support: F(2,52) = 5.4, P = 0.007; unclear values: F(2,55.1) = 8.28, P = 0.001; ineffective: F(2,57.4) = 5.16, P = 0.009) and in the longterm (ineffective: F(2,4.68) = 12.11, P = 0.014) than in the intervention groups. However, scores in both groups remained below the cut-off for clinically significant DCS scores. Other subscales showed similar results in both groups (Figure 1).
+Clinical contexts
+Immediately after decision making, total DCS scores decreased or remained the same in all contexts compared with baseline (Figure 2). For most contexts, intervention group DCS scores at short-term follow-up decreased compared with baseline but decreased no further in the long term (but remained below baseline levels of DCS). In the absence of interventions, DCS scores in most contexts increased in the short term (in observational studies sometimes above baseline levels).
+Decision types
+Overall, DCS scores in all groups decreased immediately and shortly after decision making compared to baseline, but for care-planning decisions, they increased immediately after decision-making in control groups.
+After using DESIs (interventions groups), most decisions showed clear decreases in decisional conflict between baseline and the long term after decision making (Figure 3). With regard to specific decisions (Table 3), most mean DCS scores decreased shortly after decision making.
+Decision-maker characteristics
+Self versus other
+Overall, DCS scores were not significantly different for surrogate decision makers than in decisions made for one’s self (immediately after decision-making: mean = 31.7 ± 10.5 v. mean = 22.3 ± 9.1, F(2,36.9) = 1.11, P = 0.338; shortly after decision making : mean = 20.4 ± 10.7 v. mean = 26.9 ± 13.5, F (2,118.8) = 0.810, P = 0.447).
+In control and intervention groups, for both types of decision makers, DCS scores decreased over time compared with baseline, irrespective of whether DESIs were used.
+However, in the control groups, only DCS scores for surrogate decisions decreased below clinically significant decisional conflict when no interventions were used (Figure 4).
+Sex
+Baseline DCS scores were similar between sexes, and few differences were found for measurement timing between the groups (Figure 4).
+Among males, DCS scores decreased immediately after decision making but increased again in the short and long term in the control groups. When interventions were used, DCS scores increased only in the long term, and levels remained below baseline. When no interventions were used (control group, population), DCS scores increased to clinically significant levels, similar to, or above their baseline DCS level. In studies with both males and females, DCS scores decreased immediately after decision-making in intervention and control groups. In intervention groups, DCS scores remained low over time, but in control groups DCS scores increased again in the short-term.
+In observational studies, DCS scores increased continuously over time to clinically significant levels.
+Healthy versus sick
+DCS scores were not significantly different in ill versus healthy decision makers (Figure 4).
+When interventions were used, a trend was observed that healthy people’s DCS scores decreased shortly after decision making but increased again in the long run and that among ill people, DCS scores decreased even in the long term in intervention and control groups.
+Discussion
+This study provides an overview of 253 studies (from 246 articles) that used the traditional DCS. We compared DCS scores across different clinical and decision contexts, differing participant characteristics, and exposure to DESIs. Overall, we found that DCS scores were high at baseline (often above the original threshold for clinically significant decisional conflict) and decreased after decision making. DCS scores showed different patterns over time in different clinical contexts and populations (sex, health status) and depending on whether the decision was for one’s self or someone else (e.g., child, person with dementia). The highest scores were found for decisions for oneself, about treatment when ill, in primary care or in end-of-life care contexts. Intervention effects (difference between control and intervention groups) were most noticeable shortly after decision making but were also present immediately after decision making and in the long term. These results led us to make 3 observations.
+First, our findings indicate that DCS scores for individuals exposed to DESIs generally decreased shortly after decision making, consistent with the literature,17 and justifying the general aim of DESIs to reduce decisional conflict in terms of personal perceptions of feeling uncertain about the best course of action, feeling uninformed, unclear values, feeling unsupported, and ineffective decision making. However, DCS scores were not reduced in all individual studies, nor was the effect always present shortly after decision making.17 Variations in effect may be attributable to the type of DESIs, the health or health delivery context, the baseline decisional needs, and the complexity of the decision being made. Some studies suggest decisional conflict may increase when new options are presented and/or values elicited, before assimilation with prior knowledge has been achieved.18,19 Moreover, fluctuations in DCS scores over time might reflect a typical decision-making process. For example, if a person is unaware that they have options, or that the decision depends on their personal values, an intervention that provides information about options or a values clarification exercise might increase total DCS scores or subscores until a person has fully absorbed or processed the information to make a decision.18 Moreover, the uncertainty subscore may decrease only after a patient has discussed the decision with the health professional who is sharing in the decision.19 When measuring the effectiveness of DESIs, the hypothesized effect should be adapted to the contents of the DESIs, as well as the decision context and care trajectory.20
+Second, in this review, DCS scores tended to be high at baseline (often above thresholds for clinically significant decisional conflict, albeit with large standard deviations). Whether or not interventions were given, DCS scores decreased immediately after decision making. However, DESIs seemed to prolong this effect into the long term (>6 months after decision making). In the absence of interventions, DCS scores increased in the short term (1–6 months). These results suggest, in addition to positive effects of DESIs on short-term DCS scores, that decisional conflict is highly dependent on decision-making stage (openness to options, information) and the timing of measurement.21,22 It should be taken into account that decision making and related decisional conflict is a process, and sometimes follow-up decisions have to be made (e.g., medication renewal, dealing with increasing joint pain) that might increase decisional conflict in the long term, as many health care-related decisions should be reconsidered after some time. Moreover, decisions are not always made in one discrete consultation but over time in a process of care, with different health professionals. In addition, the act of measuring decisional conflict might increase decisional conflict if, for example, it is measured before the person is aware of the options or has spoken to a health care provider or when decision making is “closed” and is then reinitiated by having to reflect on it again. Therefore, it is still important to determine the right measurement timing and outcomes measures that are completed at the same time as DCS (such as decisional stage, decision type, contents of the DESI).
+Third, in keeping with the literature, our analysis of mean DCS scores suggests a trend of DCS scores being higher among people making decisions for themselves23 and individuals who were ill as opposed to healthy. Explanations can be sought in their feelings of responsibility over decision making or the perceived threat of illness that might make decisions harder and may evoke higher DCS scores. The high baseline scores in these populations, as well as in specific decision-making contexts such as end of life and primary care, indicate that people facing decisions in these contexts might benefit the most from DESIs. In addition, in line with the literature in which sex effects were found in different studies but with no clear direction of the effect, we found no obvious baseline differences in DCS scores between male and female decision makers.23 However, the increased DCS scores in males in the long term (compared with a steady decrease in DCS scores in females) may indicate they are a good target for DESIs. Alternatively, decision context and type faced by males and females might differ, as could sex-specific characteristics (e.g., psychological responses and coping).
+Finally, in the current era of increased patient- and family-centered care, patients are increasingly involved in decisions regarding their health, which may increase uncertainty and decisional conflict. Measuring DC is useful for evaluating DESI impacts and for determining how to tailor DESIs for particular patients’ needs.16 The traditional DCS is the most common measure for doing so, and it has been used worldwide for multiple decision types, clinical contexts, and populations, demonstrating its value as a decision-making evaluation measure.10 Although this article provides an overview of how DC scores may evolve over time for different decision types and contexts, which is useful as a reference for future research, it is important to perform more specific meta-analyses focusing on one specific context or decision at a time and distinguishing between different DESIs to provide more detailed information and to determine what magnitude of difference might be clinically meaningful.
+Strengths and Limitations
+The data used in this article were obtained as part of a large scoping review on 20 years of DCS use (“the anniversary paper”).10 As it was a scoping review, we did not assess study quality and the scope was too large for pairing data. However, we did take into account correlation from data points that came from the same studies in calculating P values by performing mixed models including a study random effect for the intercept, and weighted by sample size. Moreover, we cannot rule out the possibility of regression to the mean and random effects. In addition, because of the heterogeneity of studies, we categorized the data into relatively broad categories and focused on the most frequently reported categories only. When calculating mean and median scores, we only distinguished between measurement timing, group, (i.e. whether people participated in a comparative study), and whether or not they received an intervention or not (control vs. intervention group) or were part of an observational study without interventions (population). Future meta-analyses focusing on specific contexts or decisions should distinguish study groups, confounders, DESIs, and timing of the interventions (before-after measurement). They should also appraise the scientific quality of the included studies. For studies reporting both baseline and post-intervention DCS scores, it would also be interesting to perform meta-analyses on the DCS score change. In addition, future studies should incorporate different versions of the DCS to see the effect of using different scales. Future research can make use of this article, our parallel descriptive paper,10 and our established database to support meta-analyses on specific contexts, decisions, and cutoff scores for clinically significant decisional conflict.
+In addition, we intend to develop DCS norm tables to be published in the DCS manual, which can function as a decisional conflict reference for different subgroups, facilitating comparison across populations.
+Conclusions
+The traditional DCS has been used in a range of decisional contexts and populations worldwide. Baseline DCS scores were generally above thresholds for clinically significant decisional conflict but decreased immediately after decision making, even in the absence of interventions. However, in the presence of DESIs, DCS scores tended to decrease more, and this effect remained 6 months after decision making. Mean DCS scores in this article should inform our understanding of decisional needs and fluctuations in DCS for different populations and contexts. Findings can also support future research in interpretation of DCS scores and in determining target populations or decision contexts for DESIs.
+
+Notes
+
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.; The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: Financial support for this study was provided in part by a grant from the Tier 1 Canada Research Chair in Shared Decision-Making and Knowledge Translation at Université Laval and a postdoctoral fellowship from the Canadian Institutes of Health Research (CIHR), funding reference number MFE-140842. Registration number: CRD42014013556.; Author ContributionsMMG is the guarantor. All authors were involved in title, abstract, and full-text screening. MMG and DVN extracted the data. MMG, DVN, FL, DS, AMO, HLB, AL, LB, and KK drafted the manuscript. MMG, DS, KBE, FL, AMO, and AL participated in end-user activities. All authors contributed to the development of the selection criteria and data extraction criteria. William Witteman developed the search strategy. AMO provided expertise as the original author of the Decisional Conflict Scale. All authors read, provided feedback, and approved the final protocol.; Protocol RegistrationIn accordance with the PRISMA reporting guidelines, this scoping review was conducted to inform the focus of the systematic review protocol that was registered with the International Prospective Register of Systematic Reviews (PROSPERO) on September 4, 2014, and was last updated on January 19, 2015 (registration number CRD42014013556).; ORCID iDsMirjam M. Garvelink   Dawn Stacey   ; Supplemental MaterialSupplementary material for this article is available on the Medical Decision Making Web site at .
+Bibliography
+
+
+REFERENCES
+1 O’Connor AM,  . Validation of a decisional conflict scale. Med Decis Making. 1995;15(1):25–30. 
+2 Kryworuchko J, Stacey D, Bennett C, Graham ID,  . Appraisal of primary outcome measures used in trials of patient decision support. Patient Educ Counsel. 2008;73(3):497–503. 
+3 Simon D, Loh A, Härter M,  . Measuring (shared) decision-making—a review of psychometric instruments. Zeitschrift Arztl Fortbild Qualitätssich. 2007;101(4):259–67. 
+4 Scholl I, Koelewijn-van Loon M, Sepucha K,  , et al. Measurement of shared decision making—a review of instruments. Z Evid Fortbild Qual Gesundheitswes. 2011;105(4):313–24. 
+5 Dolan JG,  . A method for evaluating health care providers’ decision making: the Provider Decision Process Assessment Instrument. Med Decis Making. 1999;19(1):38–41. 
+6 O’Connor A,  . User Manual: Decisional Conflict Scale. 1993. Updated 2010. Available from:  
+7 Légaré F, Kearing S, Clay K,  , et al. Are you SURE? Assessing patient decisional conflict with a 4-item screening test. Can Fam Physician. 2010;56(8):e308–14. 
+8 Ferron Parayre A, Labrecque M, Rousseau M, Turcotte S, Légaré F,  . Validation of SURE, a four-item clinical checklist for detecting decisional conflict in patients. Med Decis Making. 2014;34(1):54–62. 
+9 Légaré F, Leblanc A, Robitaille H, Turcotte S,  . The Decisional Conflict Scale: moving from the individual to the dyad level. Z Evid Fortbild Qual Gesundheitswes. 2012;106(4):247–52. 
+10 Garvelink MM, Boland L, Klein K,  , et al. Decisional Conflict Scale use over 20 years—the anniversary review. Med Decis Making. 2019. 
+11 Pecanac KE, Brown RL, Steingrub J, Anderson W, Matthay MA, White DB,  . A psychometric study of the decisional conflict scale in surrogate decision makers. Patient education and counseling. 2018;101(11):1957–65 
+12 Arksey H, O’Malley L,  . Scoping studies: towards a methodological framework. Int J Soc Res Methodol. 2005;8(1):19–32. 
+13 Levac D, Colquhoun H, O’Brien KK,  . Scoping studies: advancing the methodology. Implement Sci. 2010;5:69. 
+14 Légaré F, O’Connor AC, Graham I,  , et al. Supporting patients facing difficult health care decisions: use of the Ottawa Decision Support Framework. Can Fam Physician. 2006;52:476–7. 
+15 Bland JM, Altman DG,  . Multiple significance tests: the Bonferroni method. BMJ. 1995;310(6973):170
+16 O’Connor AM, Perrault DJ,  . Importance of physician’s role highlighted in survey of women’s breast screening practices. Can J Public Health. 1995;86(1):42–5. 
+17 Stacey D, Légaré F, Lewis K,   , et al. Decision aids for people facing health treatment or screening decisions. Cochrane Database Syst Rev. 2017(4):CD001431. 
+18 Bekker HL, Hewison J, Thornton JG,  . Understanding why decision aids work: linking process with outcome. Patient Educ Counsel. 2003;50(3):323–9. 
+19 Collins ED, Moore CP, Clay KF,  , et al. Can women with early-stage breast cancer make an informed decision for mastectomy? J Clin Oncol. 2009;27(4):519–25. 
+20 Sepucha KR, Abhyankar P, Hoffman AS,  , et al. Standards for UNiversal reporting of patient Decision Aid Evaluation studies: the development of SUNDAE Checklist. BMJ Qual Saf. 2018;27(5):380–8. 
+21 Garvelink MM, Ter Kuile MM, Louwe LA, Hilders C, Stiggelbout AM,  . Feasibility and effects of a decision aid about fertility preservation. Hum Fertil. 2017;20(2):104–12. 
+22 Boland L, Taljaard M, Dervin G,  , et al. Effect of patient decision aid was influenced by presurgical evaluation among patients with osteoarthritis of the knee. Can J Surg. 2018;61(1):28–33. 
+23 Thompson-Leduc P, Turcotte S, Labrecque M, Légaré F,  . Prevalence of clinically significant decisional conflict: an analysis of five studies on decision-making in primary care. BMJ Open. 2016;6(6):e011490. 
+
+Load-Date: March 29, 2024
+
+
+End of Document

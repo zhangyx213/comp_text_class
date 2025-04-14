@@ -1,0 +1,47 @@
+
+
+
+
+
+CNN.com
+March 22, 2017 Wednesday 8:53 AM EST
+
+
+Copyright 2017 Cable News Network All Rights Reserved
+
+
+Section: HEALTH
+Length: 765 words
+Byline: By Meera Senthilingam, CNN
+Body
+
+
+A new smartphone attachment can evaluate a man's semen and determine his level of fertility with up to 98% accuracy, a new study has showed.
+The new technology -- consisting of an external accessory in which sperm samples are inserted and an app that analyzes them -- could make testing as straightforward as a home pregnancy test, the scientists say.
+More than 45 million couples were estimated to be infertile globally in 2010, about 15% of all couples worldwide. Men are estimated to be solely responsible for up to 30% and to contribute to up to 50% of cases overall, according to one study.
+The new technology is still a few years away, but the team behind it hopes this new form of testing will make infertility testing both easier and cheaper for men, avoiding the need for them to go to a clinic.
+"Fertility is a big problem. ... Men are embarrassed to go to their urologist for infertility testing," said Dr. Hadi Shafiee, assistant professor of medicine at Brigham and Women's Hospital and Harvard Medical School, who led the study.
+"This is going to be the first fully automated device to make infertility testing as simple as home pregnancy tests for women," he said.
+Shafiee's team tested its device on 350 unwashed and unprocessed semen samples from a fertility clinic to evaluate semen quality based on World Health Organization guidelines.
+It was able to identify abnormal sperm samples, based on sperm concentration and motility, and determine infertility with roughly 98% accuracy.
+Infertility is defined clinically as a couple being unable to conceive after 12 months of trying. Shafiee hopes his test will mean couples can get answers sooner than that.
+"It will help couples," he said.
+The test works using a combination of hardware and software technology, Shafiee explained, in combination with a disposable kit and chip used to collect a man's sperm sample.
+Samples are inserted into the chip, which is in turn inserted into an accessory case containing lenses and an LED to illuminate and magnify the sample for capture by the phone's camera.
+"The lenses align with the phone's camera," Shafiee said.
+The app records a short video of the sperm as they move around inside the chip and uses an algorithm to measure the total number of sperm, to track their movement (motility) and then to calculate the total numbers that are moving.
+The only factor not observed is the sperm's morphology, or shape, which is considered during official tests at a clinic.
+If sperm concentrations are below 15 million per milliliter or motility below 40%, that signals to the user that his sperm may have some fertility issues, at which point he should see his clinician.
+"The results don't mean that if there is a negative result, the person is infertile," Shafiee said. "There could be enough for IVF or other treatment technologies."
+The team now plans to conduct further tests and file for FDA approval of the technology, which Shafiee believes "shouldn't be long," given the simplicity of the device.
+He added that the test should also benefit urologists, helping them monitor success among vasectomy patients, who can check whether their procedure has worked from the comfort of their homes -- rather than an awkward room at the clinic. "This is another area where this technology is really needed," Shafiee said.
+The hardware cost is under $5, he added, and the team believes the final product should be able to go on the market at less than $50. The inexpensive nature may also help it be of use in developing countries, where infertility testing is not as common and often culturally problematic, according to Shafiee.
+Allan Pacey, a professor of andrology at the University of Sheffield who was not involved in the new technology, welcomed the findings.
+"The development of an easy, cheap and accurate method to evaluate the sperm present in a sample of semen would be very welcome, particularly if it could be carried out by someone without specific training and in any location," he said. "Clearly, this technology will need to be evaluated by other people, and in other locations, but I am impressed by its potential."
+But Pacey further highlighted the fact that the size and shape of sperm -- morphology -- is not tested.
+"For a small number of men whose sperm are badly made (and have poor morphology), it would be important to get this diagnosed correctly," he said. "So any man who struggles with infertility for a significant length of time (say more than 12 months) should consider getting their test repeated in a specialist laboratory, regardless of what the phone app might have concluded."
+
+Load-Date: March 24, 2017
+
+
+End of Document

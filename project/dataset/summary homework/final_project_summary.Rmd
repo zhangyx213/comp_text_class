@@ -1,0 +1,346 @@
+---
+title: "Final Project Summary"
+author: "Catherine Zhang"
+date: "2025-04-14"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(striprtf)
+library(dplyr)
+library(readxl)
+library(lubridate)
+library(writexl)
+library(tidytext)
+library(stringr) 
+library(rio)
+
+#setwd('D:/comp_text_class/project/dataset/summary homework')
+
+```
+
+# **Dataset Descripton**
+
+**Data Source:** Nexis Uni
+
+**Search Query:** “vasectomy or vasectomies”
+
+**Date Range:** January 1, 2000 to December 31, 2025
+
+**Language:** English
+
+**Timestamp of Search:** 12 April 2025, 16:08
+
+### **China Results Search Summary**
+
+The search was limited to news from the region "China" (under the "News
+Search by Region: China" criteria).
+
+**Filter Settings:** All Authors, All Companies, All Subjects, All
+Industries, and Source Type set to "All".
+
+**Source Location:** China
+
+**Results Found:** 76 articles
+
+**Notes:** The query focused on the terms "vasectomy" or "vasectomies"
+within the specified date range with the language restriction set to
+English. Given the lower number of results, the Chinese dataset provides
+a relatively smaller sample reflecting how this topic is reported in the
+context of China.
+
+### **United States Results Search Summary**
+
+A separate search was conducted for the region "United States" (using
+the "News Search by Region: United States" criteria), with a broader
+specification for the source type.
+
+**Filter Settings:** All Authors, All Companies, All Subjects, All
+Industries. The Source Type includes Newspapers, Web-based Publications,
+Industry Trade Press, Magazines & Journals, Aggregate News Sources, Law
+Reviews & Journals, and Legal News.
+
+**Source Location:** United States
+
+**Results Found:** 4,279 articles
+
+**Sampling:** From these 4,279 U.S. search results, a random sample of
+2,000 articles was extracted for further analysis.
+
+**Notes:** This larger sample reflects a robust media environment
+covering the topic of vasectomies in the U.S. context, offering a
+diverse range of publication types.
+
+**Overall Dataset Description:** The complete dataset comprises news
+articles about vasectomies captured from Nexis Uni covering a 25-year
+period. The U.S. data, with 4,279 results, is significantly larger than
+the China data (76 results); however, for analytical tractability, a
+random sample of 2,000 U.S. articles was selected. Both searches were
+restricted to articles in English, ensuring consistency in language
+across regions.
+
+This dataset is valuable for quantitative and qualitative analysis, such
+as topic modeling or trend analysis over time, and provides a
+cross-regional comparison of media coverage on vasectomy-related news.
+
+------------------------------------------------------------------------
+
+# **Research Questions**
+
+**RQ1:** What percentage of media coverage from the U.S. and China
+primarily focuses on a) medical issues, b) contraceptive
+decision-making, or c) political/policy contexts? (Media frame and
+agenda setting)
+
+**RQ2:** How frequently is the term “Roe v. Wade” mentioned in U.S.
+media coverage of vasectomy, and how frequently is the “national
+population policy” (or related terms) mentioned in Chinese media
+coverage of vasectomy?
+
+**RQ3:** How do sentiment scores derived from the AFINN lexicon differ
+between U.S. and Chinese media coverage of vasectomy, and what
+proportion of articles in each country can be classified as positive,
+neutral, or negative based on these scores? (sentiment analysis)
+
+------------------------------------------------------------------------
+
+# **Codebook**
+
+**RQ1: What percentage of media coverage from the U.S. and China
+primarily focuses on a) medical issues, b) contraceptive
+decision-making, or c) political/policy contexts? (Media frame and
+agenda setting)**
+
+The coding Scheme is adopted from Framing dimensions from Boydstun et
+al. (2014). I picked 3 categories to study:
+
+1.  Health and safety: health care, sanitation, public safety
+2.  Cultural identity: traditions, customs, or values of a social group
+    in relation to a policy issue
+3.  Policy prescription and evaluation: discussion of specific policies
+    aimed at addressing problems
+
+Based on this defination of the different categories, I developed my own
+codebook:
+
+**Medical Issues (coded as 1):** Articles primarily describing vasectomy
+procedures, safety, effectiveness, side effects, recovery periods,
+medical advice, and healthcare information. Articles falls into this
+category if the most frequent keywords are: procedure, safe, medical,
+health, recovery, surgery.
+
+**Contraceptive Decision-Making (coded as 2):** Articles highlighting
+vasectomy as an individual or family planning decision, including
+discussion about personal choices, family negotiation, gender
+responsibility, and reproductive autonomy. Articles falls into this
+category if the most frequent keywords are: decision, choice, family
+planning, responsibility, gender equality, contraceptive.
+
+**Political/Policy Context (coded as 3):** Articles primarily
+emphasizing vasectomy in the context of legal decisions (e.g., Roe v.
+Wade), population control policies, birth rates, government
+intervention, or political controversies. Articles falls into this
+category if the most frequent keywords are: roe v wade, supreme court,
+birth rate, population policy, abortion, political, policy, one child
+policy.
+
+Note: I will use topic modeling to identify high-frequency and
+contextually relevant words in my corpus first to decide which keywords
+should be included in the each categories.
+
+**RQ2: How frequently is the term “Roe v. Wade” mentioned in U.S. media
+coverage of vasectomy, and how frequently is the “national population
+policy” (or related terms) mentioned in Chinese media coverage of
+vasectomy?**
+
+1.  **roe_mentions (Continuous)**
+
+Definition: The number of times the phrase “Roe v. Wade” appears in an
+article. Applicability: Only applies to U.S. articles. Measurement:
+Count the occurrences using string matching with a case-insensitive
+regular expression for “roe v. wade”.
+
+2.  **population_policy_mentions (Continuous)**
+
+Definition: The number of times phrases related to the national
+population policy (e.g., “population policy”) appear in an article.
+Applicability: Only applies to Chinese articles. Measurement: Count the
+occurrences using string matching with a case-insensitive regular
+expression for “population policy” (or similar variants as needed).
+
+**RQ3: How do sentiment scores derived from the AFINN lexicon differ
+between U.S. and Chinese media coverage of vasectomy, and what
+proportion of articles in each country can be classified as positive,
+neutral, or negative based on these scores? (sentiment analysis)**
+
+**1. Sentiment Category (Categorical)** Definition: A classification of
+an article’s overall sentiment based on its computed AFINN Sentiment
+Score. Categories & Criteria: Positive: sentiment_score \> 0；Neutral:
+sentiment_score = 0；Negative: sentiment_score \< 0
+
+**Final: overall statistical description of the dataset**
+
+I'm using the overall statistical description of the dataset from Nexis
+Uni and regenerate the visuals using R. These statistical description of
+the the dataset are: Coverage over time, publication types, top
+companies mentioned, top people mentioned, top publications, top
+subjects.
+
+For example, for the 4279 U.S. articles, the **coverage of vasectomy
+over time** can see as below:
+
+```{r}
+library(readr)
+Coverus <- read_csv("us_charts/CoverageoverTime_vasectomyvasectomies.csv")
+Coverus <- janitor::clean_names(Coverus)
+Coverus <- Coverus %>%
+  mutate(covertime = as.Date(coverage_over_time))
+
+p <- ggplot(Coverus, aes(x = covertime, y = coverage)) +
+  geom_line(color = "blue", size = 1) +
+  geom_point(color = "red", size = 2) +
+  labs(title = "Coverage of Vasectomy/Vasectomies Over Time",
+       x = "Year",
+       y = "Number of Articles") +
+  theme_minimal()
+
+p
+
+```
+
+This shows that vasectomy coverage surged after the overturn of Roe v.
+Wade in 2022.
+
+The Top publications of this coverage are:
+
+```{r}
+top_pub <- read_csv("us_charts/TopPublications_vasectomyvasectomies.csv")
+
+ggplot(top_pub, aes(x = reorder(Publication, Coverage), y = Coverage)) +
+  geom_col(fill = "steelblue") +
+  labs(title = "Top Publications for Vasectomy/Vasectomies",
+       x = "Publication",
+       y = "Count") +
+  coord_flip() 
+  theme_minimal()
+  
+```
+
+**In Addition--**
+
+1.  I will generate a word cloud as part of the statistical analysis of
+    my dataset.
+
+2.  For inner coding validity check, I will also human code 150 articles
+    from my sample and cross check it will topic modeling and machine
+    coding.
+
+3.  I plan to incorporate network analysis as part of my data analysis
+    strategy. First, I will identify the top 20 (or possibly 50) most
+    frequently mentioned words in the dataset. In the resulting network,
+    each word will be represented as a node, and an edge will be drawn
+    between two nodes if the corresponding words co-occur in the same
+    article. The thickness of each edge will represent the frequency
+    with which the two words are mentioned together, while the size of
+    each node will indicate the total number of times that word appears
+    in the dataset.
+
+    In addition, I will perform a similar network analysis using the top
+    20 (or 50) bigrams—pairs of words extracted from the text. This will
+    help reveal which combinations of topics or words are most commonly
+    discussed together, offering insights into prevalent themes and
+    their interconnections.
+
+# **The sample data below is using U.S. data**
+
+```{r}
+#data importing
+library(readxl)
+vasus <- read_excel("Results list us.xlsx", 
+    col_types = c("text", "date", "text", 
+        "text", "text", "numeric", "text", 
+        "numeric", "numeric", "text", "numeric", 
+        "text", "text", "text", "text", "text", 
+        "text", "numeric", "numeric", "numeric", 
+        "numeric"))
+
+#This cleans column names
+vasus <- janitor::clean_names(vasus)
+
+#Using code, describe the number of rows and columns of the dataset
+nrow(vasus)
+ncol(vasus)
+print(paste0("The number of rows in the dataset is ", nrow(vasus), " and the number of columns in the dataset is ", ncol(vasus)))
+
+```
+
+
+### Create ggplot chart showing the distribution of the data over time
+
+```{r}
+vas_time <- vasus %>%
+  mutate(year = year(published_date)) %>%  
+  group_by(year) %>%
+  summarise(count = n()) %>%
+  ungroup()
+
+p <- ggplot(vas_time, aes(x = year, y = count)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  labs(title = "Distribution of Articles Over Time",
+       x = "Year",
+       y = "Number of Articles") +
+  theme_minimal()
+print(p)
+
+```
+
+### Produce a list of top 20 bigrams
+
+```{r}
+#Tokenize the hlead column
+vas_hlead <- str_replace_all(vasus$hlead, "- ", "")
+vas_hlead_df <- tibble(vas_hlead,)
+
+vas_tokenized <- vas_hlead_df %>%
+  unnest_tokens(word,vas_hlead)
+
+#remove stop words
+data(stop_words)
+vas_tokenized <- vas_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+bigrams <- vas_hlead_df %>%
+  unnest_tokens(bigram, vas_hlead, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams2 <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |>
+  filter(!is.na(word1)) |>
+  filter(!is.na(word2))
+
+# word count and top 20 bigram
+bigram3 <- bigrams2 %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(20, n)
+
+bigram3
+
+
+```
+
+

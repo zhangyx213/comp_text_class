@@ -1,0 +1,28 @@
+
+
+
+
+
+Pharma & Healthcare Monitor Worldwide
+October 16, 2017 Monday
+
+
+Copyright 2017 Global Data Point. Provided by Syndigate Media Inc. All Rights Reserved
+
+
+Length: 569 words
+Body
+
+
+Researchers at the Michigan State University have come closer to finding an effective method of male contraception. Men have been notorious in not choosing to be responsible of their fertility and not adopting contraception.
+Now the researchers have found a method that could be effective contraception for men without them having to go under the knife for a vasectomy. The findings of the study that explored the possibility of use of this method was published this week in the journal Nature Communications.
+Michigan State animal biologist Chen Chen and his team for this study have successfully turned off the gene in mice that controlled their sperm production. If successful in humans, this method could stop the production of sperm. Only side effect of this that could be a deterrent towards it acceptance is results leading to smaller testicles. Chen explained that over 500,000 men worldwide get vasectomies annually. This means that the market for research that allows men opting for a more permanent method of contraception exists. Genetic modifications of the mammals could result in reductions of sperm production and could do the trick without the need for surgery.
+For their study the team of researchers first isolated and then selectively blocked a gene in mice that controlled their sperm production. The gene is question codes for an enzyme called PNLDC1. This enzyme controls the movement of transposons during sperm production. Transposons or jumping genes are those bits or sequences of the genes that can copy themselves to other parts of the genome randomly and lead to harmful mutations. These jumping genes are thus controlled by a bit of RNA which in turn is controlled by PNLDC1. For this study the researchers removed the gene that codes for PNLDC1 in mice using CRISPR. This led to uncontrolled jumping genes and eventually stoppage of production of healthy sperms.
+The offspring of these mice who had the blocked gene had fewer sperms and were rendered sterile. Their testicles too were smaller. The growth, appearance and behaviour of the genetically modified mice was not altered at all explained the researchers except for the smaller testicles. Chen explained that this method was akin to fixing a water leak. Till date the approaches we had were just like stuffing a rag into the leak and hoping it stems the flow. This new method works by turning off the water supply to the tap!
+According to experts, there is a great deal of scepticism if the men would accept this method of contraception. This approach would be a onetime affair that did not involve messing hormonal regulations that led to several side effects and needed men to remember to take pills regularly or at least get hormonal shots at regular intervals. This would also be less invasive than a vasectomy. However modification of the genes and what that would mean for the offspring and coming progeny is still up for debate. Another issue here is the potential for reversibility of fertility if the person wants. That is also yet to be studied. According to experts, one good this that has come out of this study is the identification of PNLDC1 does. If an inhibitor of PNLDC1 could be developed, it could do the job. Safety and efficacy of such an agent though is still up for debate as of now.
+The study was funded in part by the National Institutes of Health and the Michigan State AgBioResearch. 2017 Global Data Point.
+
+Load-Date: October 16, 2017
+
+
+End of Document

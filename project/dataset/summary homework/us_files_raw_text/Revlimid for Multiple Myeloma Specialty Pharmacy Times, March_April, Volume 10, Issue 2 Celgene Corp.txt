@@ -1,0 +1,72 @@
+
+
+
+
+
+Specialty Pharmacy Times
+March 15, 2019
+
+
+Copyright 2019 MJH Life Sciences® All Rights Reserved
+
+
+Section: NEWS
+Length: 1565 words
+Body
+
+
+Treatment options for multiple myeloma (MM) are divided into 2 categories: nonsymptomatic versus symptomatic. Nonsymptomatic treatment involves active surveillance of the diagnosis, and once a patient begins to experience symptoms, symptomatic treatment is initiated. Symptomatic treatment involves both treatment of the disease and supportive therapy to improve quality of life.
+Disease-directed therapy includes targeted therapy and/or chemotherapy with or without steroids, stem cell transplantation, radiation, and surgery. Additionally, whether a patient just got their diagnosis or is experiencing a recurrence of MM is a factor in therapy decisions. Treatment plans for MM involve different stages: 
+* Induction therapy is used for rapid control of the cancer and to help relieve symptoms. 
+* Consolidation incorporates more chemotherapy or stem cell transplantation. 
+* Maintenance therapy occurs over a prolonged period to prevent recurrence. 
+* Targeted therapies focus on the cancer's specific genes, proteins, or tissue environment that contributes to cancer growth and survival. 
+Targeted therapies block the growth and spread of cancerous cells, while limiting damage to noncancerous cells. This type of therapy has been shown to be successful for MM prognosis. Celgene Corporation's lenalidomide (Revlimid) is a targeted therapy that stops the growth of myeloma cells in the bone marrow. 
+LENALIDOMIDE 
+Approved by the FDA in 2005, lenalidomide is a prescription medication indicated to treat MM in combination with dexamethasone. It is the only MM therapy approved by the FDA for maintenance therapy after autohematopoietic stem cell transplantation. 
+MECHANISM OF ACTION 
+Although the exact mechanism of action is unknown, lenalidomide acts as an immunomodulator, strengthening the immune cells to enable an attack on cancerous cells. It also possesses antiangiogenic properties, decreasing the cancer's ability to create blood vessels. 
+DOSAGE AND ADMINISTRATION 
+Lenalidomide is available in a capsule formulation of the following strengths: 2.5, 5, 10, 15, 20, and 25 mg. It should be taken at about the same time each day, with or without food, and capsules should never be opened, broken, or chewed. 
+When used as combination therapy, the recommended starting dosage is 25 mg orally once daily on days 1 through 21 of a 28-day cycle in combination with dexamethasone. As maintenance therapy, the recommended starting dosage is 10 mg once daily continuously on days 1 through 28 of a 28-day cycle. Treatment should continue until disease progression or unac- ceptable toxicity. Starting doses may be adjusted for renal impairment, and doses may be modified based on clinical response. 
+WARNINGS AND PRECAUTIONS 
+Embryo-Fetal Toxicity 
+Lenalidomide can cause fetal harm when administered during pregnancy. That its use resulted in limb abnormalities during an animal trial and its similarity to thalidomide, a known teratogen, led to its contraindication in pregnant females. Therefore, it is only available through the lenalidomide risk evaluation and mitigation strategy program. 
+Females of reproductive potential must avoid pregnancy for at least 4 weeks prior to initiating lenalidomide therapy, during therapy, and for at least 4 weeks after completing therapy. They must commit to abstinence from heterosexual intercourse or to use 2 methods of reliable birth control during this time. Two negative pregnancy tests, 1 performed within 10 to 14 days of therapy initiation and the other within 24 hours, must be obtained prior to beginning therapy. After therapy initiation, a weekly pregnancy test must be conducted during the first month, then monthly thereafter in females with regular menstrual cycles. Negative pregnancy tests are required every 2 weeks in females with irregular menstrual cycles. 
+Since lenalidomide is present in the semen of males on therapy, they must always use a latex or synthetic condom during sexual contact with females of reproductive potential while taking lenalidomide and for up to 4 weeks after completing therapy. Notably, this requirement still applies to males who have undergone a successful vasectomy. Additionally, males are not permitted to donate sperm during this timeframe. 
+Patients are not permitted to donate blood during treatment with lenalidomide and for 4 weeks after discontinuation of therapy to prevent the risk of donated blood being given to a pregnant female. 
+Hematologic Toxicity 
+Lenalidomide may cause neutropenia and thrombocytopenia. Patients should therefore be monitored for signs of infection, bleeding, or bruising. Complete blood count assessments should be performed every 7 days for the first 2 cycles, on days 1 and 15 of cycle 3, then every 28 days thereafter. In the MM maintenance therapy trials, grade 3 or 4 neutropenia was reported in up to 59% of lenalidomide-treated patients and grade 3 or 4 thrombocytopenia in up to 38%. 
+Venous and Arterial Thromboembolism 
+Risks for deep vein thrombosis, pulmonary embolism, myocardial infarction, and stroke increase in patients on lenalidomide. Patients with known risk factors may be at greater risk. 
+Second Primary Malignancies 
+Clinical trial results have shown an increase of hematologic plus solid tumor second primary malignancies in patients with MM receiving lenalidomide. 
+Increased Mortality in Patients With MM When Co-Administered With Pembrolizumab 
+The findings of 2 randomized clinical trials have shown an increase in mortality of patients with MM when pembrolizumab is added to a thalidomide analogue, such as lenalidomide, plus dexamethasone. As such, this combination is not recommended. 
+Hepatotoxicity 
+Hepatic failure has been observed in patients treated with lenalidomide and dexamethasone. Serious hepatic events occurred in 2% of patients with MM. Lenalidomide should be discontinued in patients with elevated liver enzymes, but treatment may be re-initiated at a lower dose after return to baseline values. 
+Hypersensitivity Reactions 
+Angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms have been reported in patients receiving lenalidomide. Therapy should be discontinued indefinitely in patients who experience these reactions. Patients with a prior history of grade 4 rash from thalidomide treatment should not receive lenalidomide, and therapy discontinuation should be considered for grade 2-3 skin rash. 
+Tumor Lysis Syndrome 
+Patients with a high tumor burden prior to treatment are at risk of tumor lysis syndrome. Close monitoring of these patients is recommended while taking lenalidomide. 
+Impaired Stem Cell Mobilization 
+A decrease in the number of CD34+ cells has been reported with lenalidomide treatment. Transplantation referral should occur early in treatment to optimize timing of cell collection. 
+Thyroid Disorders 
+Hypothyroidism and hyperthyroidism have been reported with the use of lenalidomide. Thyroid function should be evaluated prior to initiation of treatment and during therapy. 
+DRUG INTERACTIONS 
+Digoxin levels can be increased by lenalidomide. Periodic monitoring of plasma lev- els is recommended during treatment. Erythropoietic agents, such as estrogen-containing therapies, should be used with caution. 
+PHARMACOKINETICS 
+Oral administration of lenalidomide results in rapid absorption. Maximum plasma concentrations occur 0.5 to 6 hours post administration. Maximum concentration (Cmax) and area under the curve (AUC) values increase proportional to the given dose. Administration with a high-fat meal resulted in a 20% reduction in Cmax and 50% reduction in AUC; however, lenalidomide may be taken with or without food. 
+Lenalidomide is not expected to affect CYP450 enzymes since it is not metabolized by the CYP450 pathway. 
+In patients with renal impairment, the half-life of lenalidomide increased 3-fold and clearance decreased 66% to 75% compared with healthy patients. Patients on hemodialysis had a 4.5-fold increase in half-life and an 80% decrease in renal clearance. 
+CLINICAL STUDIES 
+Newly Diagnosed Multiple Myeloma 
+A randomized, multicenter, open-label trial of 1623 patients with newly diagnosed MM was conducted to compare the efficacy and safety of lenalidomide and dexamethasone with that of melphalan, prednisone, and thalidomide. Progression-free survival (PFS) was significantly longer with continuous lenalidomide and dexamethasone than with melphalan, prednisone, and thalidomide (P <.0001). 
+A lower percentage of patients in the lenalidomide arm had PFS events than the melphalan, prednisone, and thalidomide arm (52% vs 61%). The improved median PFS time in the lenalidomide arm was 4.3 months, and the response rate was higher compared with melphalan, prednisone, and thalidomide (75.1% vs 62.3%). Complete response was shown in 15.1% versus 9.3%, respectively, and the median times to first response were 1.8 compared with 2.8 months. 
+Maintenance Therapy Following Stem Cell Transplant 
+Two multicenter, randomized, double-blind, parallel group, placebo-controlled studies were conducted to evaluate safety and efficacy of lenalidomide maintenance therapy in patients with MM post stem cell transplantation. In both studies, 10 mg once daily continuously was used. This dose could be increased to 15 mg after 3 months if tolerated. In both studies, PFS was significantly longer with lenalidomide versus placebo (P <.001).
+
+Load-Date: May 30, 2023
+
+
+End of Document

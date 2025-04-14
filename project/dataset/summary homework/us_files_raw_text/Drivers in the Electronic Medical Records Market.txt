@@ -1,0 +1,69 @@
+
+
+
+
+
+Healthcare Innovation
+May, 2001
+
+
+Copyright 2001 Endeavor Business Media
+
+
+Section: CPR/EMR; Pg. 14
+Length: 1814 words
+Byline: By Jeff Mildon and Todd Cohen, M.D.; Jeff Mildon is an applications specialist with Companion Technologies, Columbia, SC.  Contact him at 801-565-3737, Dr. Todd Cohen is a urologist at Piedmont Urology Associates, Gastonia, NC.  Contact him at 704-869-0075.
+Highlight: Seventeen reasons why physician practices should make the leap to EMRs.
+Body
+
+
+Ladies and gentlemen . . . start your engines.  The motors are revving up.  The race is about to begin.  Is it the start of the Indy 500 or NASCAR?  No, this is the race into electronic medical records (EMRs).  Some medical practices are just letting their engines idle, but others, like Piedmont Urology Associates in Gastonia, NC, are putting the pedal to the metal.  What "drivers" are behind the wheel, accelerating practices down the EMR road?  There are many.
+ 
+Clinical Benefits
+Practices want improved clinical procedures.  There are numerous bumps on the clinical side of the road that steer practices toward implementing EMR systems.  Overall, providers look for systems that automate the repetitive tasks in practicing medicine with tools to guide them through the regulatory and legal obstacle course that exists in medical practice -- without forcing serious changes in workflow.  Here are the clinical benefits EMRs offer physicians:
+* Higher quality documentation.  EMR tools ensure each note is complete, which helps standardize chart quality and minimize errors.  Charts are legible and organized, visits are documented consistent to the level of service provided.
+* Patient education.  Providers don't need to worry about a copied supply of handouts.  EMR products can be used as a tool for the providers to illustrate or explain procedures or conditions to patients, printing directly from the system.
+* Reminders and protocols.  An EMR generates health maintenance reminders each time providers access the patient's chart.  Reminders can be flagged by age, sex, diagnosis or set up individually by patient.
+* Management of medications.  EMRs document prescriptions into the chart automatically and assist in managing medications more effectively.  Most EMR systems offer medication databases that check for interactions such as drug-to-drug and drug-allergy.
+* Signing of charts.  With an EMR, providers can sign sections electronically from any workstation.  This lets the provider review charts at different locations and at times that are more convenient.
+* Callbacks and telephone triage.  EMRs give staff access to the medical record; this eliminates the need for providers to locate and pull paper charts for patient information to answer questions or return patient calls.  The improved chart access is also invaluable for telephone triage personnel.
+ 
+Administrative Gains
+Practices are not only evaluating EMRs for the providers, but also for the administrative "pit crew." Paper systems require time, effort and staff to manage effectively.  As practices develop from paper to electronic records, labor-intensive tasks of creating and managing paper charts are eliminated.  The following administrative benefits are proportional to how extensively practices can make paper records obsolete.
+* Decreased chart pulls and less filing.  Each user's workstation becomes a chart room, which gives staff access to the charts electronically instead of pulling and re-filing manually.
+* Fewer lost charts.  A common frustration for even the most efficient paper system is the lost chart.  An EMR system offers an advantage of the chart being available from any workstation.  With an EMR, multiple people can view a patient's chart simultaneously, so the practice never has to worry about who has the chart.
+* Improved communication.  E-mail messaging enhances communication within the office by allowing staff to message each other from any workstation instantly.
+* Chart requests and audits.  When a practice receives a request for copies of medical records, the chart must be located and pulled, copied, reassembled and re-filed.  An EMR eliminates this process since the entire chart is accessible and printable from a workstation.  Chart auditors can be given access to a workstation to pull requested records.
+ 
+Financial Drivers
+All practices look for cost reduction.  In general, practices spend less after implementing an EMR than before.  Studies show the amount of savings depends on how each site implements the EMR.  The following are among the areas in which clinics have demonstrated cost reductions after implementing an EMR.
+* Reduced transcription costs.  If clinicians complete their documentation at the point of care, virtually no transcription is needed at the end of the day.  This can potentially save transcription fees of $ 300 to $ 1,000 per month, per physician.  In an example six-provider practice, transcription took 150 hours per week with a turnaround time of seven days before implementation of an EMR.  After implementation, transcription time decreased by one-third, turnaround time decreased to one day and the practice was able to add two providers.  However, it is not necessary to force all physicians to give up transcription to lower costs.  In-house transcriptionists can use an EMR to increase transcription efficiency, spending more time transcribing and less time searching for, assembling and reassembling charts.
+* Malpractice insurance.  Malpractice insurers are beginning to reduce premiums by up to 5 percent for practices utilizing an EMR.  This is attributable to the EM'Rs positive affect on quality of documentation and care.
+* Lower chart and storage expenses.  When practices abandon paper, they abandon expenses that support paper such as filing systems and costs for paper supplies.  Costs for a paper chart system are estimated at about three dollars per chart.  In addition, practices can eventually reclaim the space used to store and file charts.
+* Reduced copying expenses.  An EMR allows practices to print records directly from a workstation, instead of copying charts inhouse or using a copying service.  These savings can add up considering all the requests for copies that practices receive from attorneys, insurance companies and other physicians.
+* Reduced labor costs.  A fully installed EMR decreases staff time, labor and tedium because the chart can be accessed by anyone, at any time, when information is needed.  These savings translate into a reduction or redeployment of staff.  The Medical Group Management Association calculates staffing is currently 4.31 FTE's per physician.  An example practice reduced its staffing to 2.2 FTE's per physician after implementing an EMR system.
+ 
+Revenue
+There is more to money than saving it.  EMRs also can enhance revenue.  The success of this opportunity depends on factors such as billing practices, patient population and the mix of managed care and fee-for-service in the region.  Here are some ways an EMR can increase practice revenues:
+* Health maintenance.  EMR systems provide tools to generate reminders based on patient age, gender, diagnosis or procedures.  Each time a chart is accessed, the EMR alerts the provider about overdue health maintenance issues or pending recalls.  An EMR allows practices to search for patients who are overdue for recommended services and to send reminder letters.  In fee-for-service environments, health maintenance functions offer the potential of increasing the volume of services while ensuring better care for patients.
+* Improved accuracy of coding.  The amount of money lost by inaccurate coding ranges from 3 percent to 15 percent of total practice revenue, according to industry estimates.  Clinicians are conservative about coding because of the additional documentation burden and fear of an audit.  An EMR assists in recapturing this lost income by making it easier for providers to document visits and by assisting them to code at the appropriate level.
+ 
+EMRs of Work
+Piedmont Urology Associates, a two-physician practice in Gastonia, NC, sought efficiency in implementing an EMR system in late 1999 using MedicWare, marketed by Companion Technologies, Columbia, SC.  The practice purchased the software, a server, a scanner, two stationary computer workstations and two portable pen-tablet computers for a total investment of $ 40,000.  After more than a year on the system, results show that the system improved documentation, lowered transcription costs and chart costs.  The physicians particularly enjoy remote access from home.
+Staff at Gaston Memorial Hospital comment on the completeness of the practice's histories and physicals (H&P) for its surgical patients.  Surgical informed consent also is built into the system, so the practice can better document that it was discussed with the patient and is definitely documented on the medical record.  Hospital staff particularly appreciate this feature.
+Also helpful is the ability to have an EMR pattern set up for the routine-type patient, such as a vasectomy consult.  Most of these patients are similar, with a negative exam and review of systems, and with an unremarkable medical history.  The system allows the practice to default the entire history and physical to a negative physical exam, review of systems and gives the ICD-9-CM, CPT-4, informed consent and plan with the touch of one button.  All the practice has to do with the patient is ask a few questions and then they have a complete level 3 or 4 note in the time it takes to actually see the patient.  The practice applies this default system often to the typical urologic complaints.  They are careful, though, to individualize each patient's chart as needed so the templates don't lead to every patient with similar symptoms having an identical history.
+Piedmont's transcription costs are way down.  Compared to a colleague's four-doctor practice in Columbia, SC, which spends more than $ 50,000 per year in transcription, Piedmont spends about $ 250 per month -- and that is for someone to type the practice's letters to make them more personalized.
+In addition, Piedmont's chart costs are low.  Currently one filing cabinet is used for nearly 2,000 charts, and Piedmont anticipates even this will decrease once the practice starts scanning more documents into the system.
+Piedmont's advice to physicians wanting to start using an EMR is to know their system before they start using it.  Piedmont is not using all the parts of its MedicWare system because they have not taken the time to learn them all, such as health maintenance.  They take the time to complete the charts but not to use the extras.  If a practice is large enough, the transcription savings and chart savings may be enough to pay someone to take the time to learn the system completely.
+There are many "drivers" or potential benefits fueling the need for EMR systems.  Reduced expenses, revenue enhancement, increased efficiency for staff and, of course, improved clinical operations are just the frontrunners.  An EMR system also can produce additional benefits when interfaced with the business systems like billing and scheduling.
+While the decision to transition to an electronic medical record requires a commitment of capital, human resources and leadership at all levels, few investments offer a greater potential for return.
+
+Graphic
+
+ 
+Pictures 1 through 3, no caption
+
+Load-Date: May 8, 2001
+
+
+End of Document

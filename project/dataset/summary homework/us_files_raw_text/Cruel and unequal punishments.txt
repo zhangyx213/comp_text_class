@@ -1,0 +1,855 @@
+
+
+
+
+
+Washington University Law Review
+July 2009
+
+
+Copyright 2009 Gale Group, Inc.
+All Rights Reserved
+Business and Industry
+Copyright 2009 Washington University, School of Law
+Section: Pg. 859; Vol. 86; No. 4
+Length: 27484 words
+Body
+
+
+ABSTRACT:
+This Article argues that Atkins v. Virginia and its progeny of categorical exemptions to the death penalty create a new and as of yet undiscovered interaction between the Eighth and the Fourteenth Amendments of the U.S. Constitution. When the United States Supreme Court adapted its proportionality analysis from categories of crime to categories of people, it abandoned intrajurisdictional analysis, a de facto equality consideration under the Cruel and Unusual Punishments Clause. The Court, the legal academy, and commentators have failed to consider the remarkable equal protection implications of this doctrinal shift. To see the point in practice, one need only consider two criminal defendants: the first was mentally retarded from birth; the second suffered a traumatic brain injury at the age of twenty-two; and both have identical cognitive, behavioral, and adaptive impairments. Under state statutes cited approvingly in Atkins and others enacted since, the first defendant cannot be executed, but the second one can. This seems wrong on its face, but to understand why, it is necessary to explore the interaction of the Eighth and Fourteenth Amendments. The doctrinal shift in Atkins has profoundly altered that interaction, putting the Cruel and Unusual Punishments Clause in tension with the Equal Protection Clause. This Article illustrates that conflict, and how legislative classifications adopted pursuant to categorical exemptions under the Eighth Amendment may now be subject to Fourteenth Amendment scrutiny.
+
+TABLE OF CONTENTS
+INTRODUCTION
+I. EIGHTH AMENDMENT ANALYSIS
+*| II. ATKINS V. VIRGINIA | 
+*| A. The Court's Opinion | 
+*| B. Defining Mental Retardation | 
+*| C. Legislative Response | 
+*| 1. Limited Intellectual Functioning | 
+*| 2. Deficits in Adaptive Behavior | 
+*| 3. Age of Onset | 
+*| III. MENTAL RETARDATION IN MEDICINE AND LAW | 
+*| A. Frontal Lobe Dysfunction | 
+*| 1. Traumatic Brain Injury (TBI) | 
+*| 2. Dementia | 
+*| B. Pervasive Developmental Disorders | 
+*| C. Central Nervous System Dysfunction | 
+*| 1. Epilepsy | 
+*| 2. Meningitis | 
+*| IV. INEQUALITY AND UNINTENDED CONSEQUENCES | 
+*| CONCLUSION | 
+INTRODUCTION
+On February 1, 1996, at the age of twenty-two, Gregory Brown suffered a traumatic brain injury, (1) damaging the right frontal lobe and temporal regions of his brain. (2) Less than three years later, Brown committed a double homicide. (3) On May 7, 2002, Brown received the death penalty for those crimes. (4)
+On appeal, Brown argued that the execution of a man with a serious brain injury would constitute cruel and unusual punishment. (5) He relied upon Atkins v. Virginia, (6) in which the Court held that executing people with mental retardation violates the Cruel and Unusual Punishments Clause of the Eighth Amendment. Brown presented compelling expert evidence that his cognitive, behavioral, and adaptive functioning met the criteria identified by the Court. But the Louisiana Supreme Court rejected his claim. Mental retardation, the court explained, is a "disability characterized by significant limitations in both intellectual functioning and adaptive behavior as expressed in conceptual, social, and practical adaptive skills. The onset must occur before the age of eighteen years." (7) Brown's injury occurred when he was twenty-two.
+The Court has invited just this sort of unequal and arbitrary result through its new Eighth Amendment jurisprudence. In Atkins, the Court applied an abbreviated form of its Eighth Amendment proportionality analysis with significant constitutional implications that have, as of yet, gone unnoticed. Before Atkins, successful Eighth Amendment proportionality analysis focused on the proportionality between crime and punishment. The Court, for example, has found the death penalty to be disproportionate to the crime of adult rape, (8) and the sentence of cadena temporal (9) to be disproportionate to the crime of false entry in bookkeeping. But the Court's new proportionality jurisprudence focuses on the proportionality between offenders' culpability and punishment. The Court in Atkins deemed the death penalty disproportionate to the culpability of the mentally retarded, the relevant class of offenders, irrespective of the crime they had committed. (10)
+In the course of this momentous but unremarked shift, the Court abandoned an integral part of its earlier proportionality analysis. In earlier Eighth Amendment cases, the Court analyzed the constitutionality of a punishment for a particular crime, in part, by engaging in an intrajurisdictional analysis--comparing the punishment for similar crimes within the same jurisdiction. But when the Court shifted from punishment-to-crime proportionality to punishment-to-culpability proportionality, this previously essential step got lost in the analysis. In Atkins, the Court abandoned intrajurisdictional review and therefore failed to ask or answer whether similarly culpable individuals received the same or less harsh punishment when committing the same crime as the class of offenders at issue.
+This failure has grave implications for equality. Had the Court conducted an intrajurisdictional analysis it would have defined the class of offenders at issue, and those outside the class, but similar with respect to the legal purpose of the constitutional interest at issue. By failing to conduct an intrajurisdictional analysis, the Court instead ignored the contours of the class of individuals who should be considered legally mentally retarded. The result has been unequal and arbitrary legislative classifications of mental retardation, like the one applied in Brown's case by Louisiana, which strip the Eighth Amendment of the equality the Court had previously ensured and may run afoul of the Equal Protection Clause of the Fourteenth Amendment.
+Other scholars have argued that Atkins should be extended to other categories or groups of individuals in future Eighth Amendment cases. (11) But under current doctrine, these other groups have a far weaker Eighth Amendment claim. The Court has held that "cruel and unusual punishments" are defined by our "evolving standards of decency," (12) which the Court has gleaned from national consensus against a particular punishment or against executing a particular class of offenders. (13) But while the Court found a national consensus about executing the medically defined mentally retarded, no such consensus exists for other medically identical conditions. Indeed, these other conditions have far less powerful interest groups and a much lower public profile, such that a national consensus against executing those individuals is unlikely to emerge.
+Meanwhile, another scholar has argued that although the mentally ill lack an Eighth Amendment claim, they may nevertheless have an equal protection claim. (14) This analysis is also flawed. Under current equal protection doctrine, the distinction between the mentally retarded and mentally ill would receive only rational basis or perhaps an intermediate level of scrutiny because neither the mentally retarded nor the mentally ill have suspect class status, and the distinction between them would be analyzed accordingly. (15) Most legislative classifications easily satisfy this low level of constitutional review.
+Finally, all of these arguments fail to address the fundamental changes in the constitutional landscape created by Atkins itself. Atkins marked the first success in the Court's attempt to shift its proportionality inquiry from categories of crime to categories of people, resulting in legislative schemes that newly entitle some--and exclude others--from the safeguard against the imposition of death at the hands of the government. It is this shift that could implicate the Fourteenth Amendment--and, indeed, trigger heightened judicial review.
+In short, both the Court and the academy have failed to grasp the full implications of Atkins because they have failed to consider the potential collision course that the Court may have now created between the Cruel and Unusual Punishments Clause and the Equal Protection Clause. This Article illustrates this conflict and demonstrates how the Court's new Eighth Amendment jurisprudence could result in remarkable Fourteenth Amendment implications. Thus, this Article demonstrates why the Court's failure to define the substantive class of mental retardation in Atkins has led to legislative classifications of mental retardation that ensure unequal outcomes under the Eighth Amendment and could run afoul of the Equal Protection Clause of the Fourteenth Amendment. And how the dual failure of the Atkins Court--to apply faithfully its Eighth Amendment proportionality precedent, and to define the class it newly protected--may have invited these underinclusive legislative classifications.
+To see the point in practice, one need only consider two criminal defendants: the first was mentally retarded from birth; the second suffered a traumatic brain injury at the age of twenty-two; and both have identical cognitive, behavioral, and adaptive impairments. Under state statutes cited approvingly in Atkins and others enacted since, the first defendant cannot be executed, but the second one can. This seems inequitable on its face, but to understand the implications in law, it is necessary to explore the interaction of the Eighth and Fourteenth Amendments. The doctrinal shift in Atkins has profoundly altered that interaction, inviting a new doctrinal discourse.
+Part I analyzes the Supreme Court's Eighth Amendment proportionality analysis from its inception in punishment-to-crime cases through its more recent punishment-to-culpability cases, revealing the abandonment of critical elements of earlier proportionality analysis. Part II reviews the legislative enactments promulgated and sustained in response to Atkins, and demonstrates how the Court's dual failure in Atkins resulted in the codification of medical diagnostic criteria rather than a more robust legal standard. Part III then details medical conditions with nearly identical clinical manifestations as the medically defined category "mentally retarded," that would also satisfy the criteria the Court identified as the key attributes relevant to their diminished culpability, but that are excluded from statutory definitions of mental retardation adopted pursuant to Atkins. By and large, courts reject Eighth Amendment claims by these defendants, relying on the safe harbor the Court created as support. The striking similarity between the conditions discussed in Part III and the medically defined category "mentally retarded" make plain the arbitrariness of legislative classifications that turn on identifying a class of persons by medical diagnostic criteria. Finally, Part IV explains how the Court's abandonment of intrajurisdictional analysis invited these narrow legislative schemes, and put the Eighth Amendment on a collision course with the Equal Protection Clause of the Fourteenth Amendment. Legislative classifications of mental retardation may be newly subject to equality challenges as artificially or arbitrarily narrowing the class of individuals entitled to exercise the right to be free from execution. (16) The Court's abandonment of intrajurisdictional analysis enabled the adoption of legislative classifications based on medical diagnostic criteria. These schemes may now be subject to searching judicial review. (17) This could have profound implications for the legal definition of mental retardation in capital cases, and for the future direction of categorical exemptions to the death penalty. In no other area has the Court's seemingly progressive jurisprudence resulted in such disparate results.
+I. EIGHTH AMENDMENT ANALYSIS
+Since Weems v. United States, (18) the United States Supreme Court has interpreted the Cruel and Unusual Punishments Clause of the Eighth Amendment in a "flexible and dynamic manner." (19) In Weems, the Court focused its cruel and unusual punishments analysis on the proportion between the punishment and the offense. It thereby rejected the proposition that the clause applies only to the barbarous methods of punishment that were outlawed in the eighteenth century. (20) In particular, the Court found the sentence of cadena temporal (21) for false entry in bookkeeping to be "cruel in its excess of imprisonment and that which accompanies and follows imprisonment[, and] unusual in its character." (22)
+The Court based its decision on an interjurisdictional and an intrajurisdictional comparative analysis. First, the Court conducted an interjurisdictional analysis--by comparing the punishment-to-crime proportion in the Philippines, the jurisdiction in which the claim arose, to the same punishment-to-crime proportion in other jurisdictions. More specifically, it compared the cadena temporal-to-false bookkeeping proportion from the Philippines to other punishment-to-false bookkeeping proportions in the U.S. Code. (23) Next, it conducted an intrajurisdictional analysis--comparing the punishment-to-crime proportion in the Philippines to the punishment-to-crime proportions of similar and related crimes in the Philippines. (24) It found that false bookkeeping was treated considerably more harshly than other similar types of fraud in the Philippines. "And this contrast," the Court said, "shows more than different exercises of legislative judgment. It is greater than that. It condemns the sentence in this case as cruel and unusual." (25)
+The Court would expand the breadth of the Cruel and Unusual Punishments Clause more dramatically still, most notably in the 1958 landmark case of Trop v. Dulles. (26) The Trop plurality interpreted Weems to mean the Cruel and Unusual Punishments Clause is not static but "draw[s] its meaning from the evolving standards of decency that mark the progress of a maturing society." (27) Although Trop focused on the unconstitutionality of a method of punishment--denationalization (28)--rather than the proportionality of punishment, it holds a pivotal role in Eighth Amendment proportionality jurisprudence. (29)
+This became evident shortly thereafter when the Court intertwined the Trop and Weems analyses into a single inquiry, in the case of Gregg v. Georgia. (30) In effect, the Court expanded the first part of its Trop approach to include proportionality, (31) and hinged unusualness on a finding of objective evidence of contemporary standards. (32) Proportionality thereafter became a subset of an evolving standard of decency doctrine, rather than a stand-alone test.
+The Court applied this intertwined approach to the issue before it--whether the death penalty for the crime of murder was a per se violation of the Eighth Amendment. (33) First, the Court analyzed the cruelty of the punishment by asking whether it comported with the "basic concept of human dignity at the core of the Amendment." (34) And it newly articulated that the penological justifications for the punishment would inform the cruelty of a punishment. (35) Here, the retributive and deterrent rationales of the death penalty justified legislative decisions to employ it. (36) The Court also considered the unusualness of death as a punishment, looking to historical accounts of the use and acceptance of the death penalty in the United States, including discussions by the Framers of the Constitution and by the Court in past precedents. (37) As part of this inquiry, the Court employed interjurisdictional and intrajurisdictional analyses to asses the punishment-to-crime proportionality, and found the proportion constitutionally permissible. (38) Through an interjurisdictional analysis, the Court found an apparent societal endorsement for the death penalty, evinced by legislative enactments and jury decisions outside Georgia. (39) And through its intrajurisdictional analysis, the Court agreed that the most extreme punishment was constitutionally permissible for murder, the most extreme crime in that or any other jurisdiction. (40)
+The Court refined this intertwined analysis when it next addressed a punishment-to-crime challenge in Coker v. Georgia. (41) In Coker, a plurality of the Court announced a novel formulation of its Eighth Amendment punishment inquiry, but that formulation actually reflects a refinement of one aspect of the Gregg test. The Court stated that the constitutionality of a punishment turns on whether that punishment (1) senselessly inflicts pain without a penological purpose; or (2) is "grossly out of proportion to the severity of the crime." (42) And to avoid "Eighth Amendment judgments" about the proportion of punishment to crime from being, or appearing to be, "merely the subjective views of individual Justices," the plurality stated that these judgments must be guided by objective factors. (43) Relevant objective indicia include public attitudes concerning a sentence history and precedent, legislative attitudes, and jury attitudes reflected in their sentencing decisions. (44)
+How it applied this two-part objective/subjective analysis in Coker became the template for later capital punishment proportionality cases. First, the plurality conducted an "objective" interjurisdictional analysis--one guided by external trends rather than the Court's judgment--to inform the "country's present judgment concerning the acceptability of death as a penalty for rape of an adult woman." (45) It detailed the number of state legislatures that made rape a capital offense after Gregg. (46) It also cited jury verdicts imposing the death penalty for adult rape, and found that nine out of ten juries chose not to impose death sentences in cases of adult rape. (47) The objective evidence supported a conclusion that contemporary society viewed the death penalty as disproportionate to adult rape. But, these objective indicators "do not wholly determine this controversy," claimed the Court, "for the Constitution contemplates that in the end our own judgment will be brought to bear on the question of the acceptability of the death penalty under the Eighth Amendment." (48)
+The Court then engaged in a subjective inquiry--based on the independent judgment of the Justices--about the constitutionality of proportionality between the death penalty and adult rape. They based their subjective inquiry on (1) the comparative gravity of the offense between rape and other crimes subject to the death penalty, (49) and (2) an intrajurisdictional analysis comparing the death penalty to rape proportion to other similar punishment-to-crime proportions in Georgia. (50) Based on its objective and subjective analysis, the Court struck down as unconstitutional the death sentence for adult rape. (51)
+Rummel v. Estelle (52) cast doubt on whether the Gregg/Coker approach (hereinafter the "Coker reformulation") would succeed outside of the capital sentencing context. By then it was clear that the Court disagreed over whether the Eighth Amendment included a proportionality principle. Rummel challenged Texas's authority to impose a sentence of life imprisonment, with the possibility of parole, for a third felony under the state recidivist statute sentencing scheme. (53) In a 5-4 opinion for the majority, Chief Justice Rehnquist wrote that "[b]ecause a sentence of death differs in kind from any sentence of imprisonment, no matter how long, our decisions applying the prohibition of cruel and unusual punishments to capital cases are of limited assistance in deciding the constitutionality of the punishment meted out to Rummel." (54)
+Just two years later, in Enmund v. Florida, (55) the Court applied the Coker reformulation to find disproportionate the death penalty "for one who neither took life, attempted to take life, nor intended to take life." (56) The Court read the objective evidence as evincing societal condemnation of the death penalty for accomplice liability without intent to kill or recklessness. (57) Its subjective inquiry focused again on the comparative gravity of the offense and an abbreviated intrajurisdictional analysis. (58) The Court recharacterized Enmund's conduct as a participant to robbery, rather than a robber and murderer, based on the record before it. (59) Next, it compared the gravity of robbery to murder, since it had upheld the death penalty for murder in Gregg. (60) Finally, looking at other punishment-to-crime proportions in Florida, the Court found that Enmund, who acted without intent to kill, was punished as harshly as the robbers who intended to kill. (61) And this completed its analysis: the Court found the death penalty disproportionate to the crime or act of robbery absent the taking of human life. (62)
+In Solem v. Helm, (63) the Court resurrected proportionality analysis outside of capital sentencing, applying a modified version of the Coker reformulation. Helm, who pleaded guilty to his seventh felony offense, challenged as cruel and unusual his sentence of life imprisonment without the possibility of parole under South Dakota's habitual offender scheme. (64) While at first blush it again seems the Court introduced a new Eighth Amendment proportionality approach, closer examination reveals overlap with the Coker reformulation: "[A] court's proportionality analysis under the Eighth Amendment should be guided by objective criteria, including (i) the gravity of the offense and the harshness of the penalty;" (65) "the sentences imposed on other criminals in the same jurisdiction;" (66) and "the sentences imposed for commission of the same crime in other jurisdictions." (67) The second Solem factor is the same as the Coker reformulation objective prong; the first and third Solem factors restate the subjective prong. The majority applied all three factors--and thus both Coker reformulation prongs--to conclude that Helm's sentence was unconstitutionally disproportionate. (68)
+The scope of the Court's holding in Enmund came into question several years later in the case of Tison v. Arizona. (69) Like Enmund, the Tisons did not pull the trigger that led to the death of the victims in the case. But unlike Enmund, their participation was "anything but minor," and "they both subjectively appreciated that their acts were likely to result in the taking of innocent life." (70) Thus, the Court newly addressed "whether the Eighth Amendment prohibit[ed] the death penalty in the intermediate case of the defendant whose participation is major and whose mental state is one of reckless indifference to the value of human life." (71)
+The majority conducted its traditional objective interjurisdictional analysis. (72) But because this case presented facts quite similar to Enmund, the second part of its analysis, the subjective prong, proceeded differently. Instead of analyzing the gravity of the offense and conducting its intrajurisdictional analysis, the Court compared the relative culpability of this group of offenders to the group protected by Enmund. (73) Thus, the Court ignored one part of the Coker reformulation--or two-thirds of the Solem factors--and simply asked and concluded in the affirmative whether this group satisfied "the Enmund culpability requirement." (74) But the Court did not really focus on the offender's culpability rather than the crime in question. As in all prior punishment-to-crime cases, the Court held that all persons who commit a particular crime or act--here, accomplice liability for felony murder, where the defendant has a substantial role or recklessly endangers the lives of others--are either constitutionally protected from or subject to a particular punishment. Thus, the Tison Court does not single out a category of people for special Eighth Amendment protection irrespective of the crime or act they have committed.
+The four-person dissent, joined by Justice Stevens, admonished the majority for failing to properly apply its earlier Eighth Amendment tests. (75) It criticized the majority's analysis as an "inadequate substitute for a proper proportionality analysis," finding unpersuasive the notion "that the punishment that was unconstitutional for Enmund is constitutional for the Tisons." (76) The essence of an Eighth Amendment proportionality inquiry, the dissent claimed, requires that a court be guided by objective criteria, including: "(i) the gravity of the offense and the harshness of the penalty; (ii) the sentences imposed on other criminals in the same jurisdiction; and (iii) the sentences imposed for commission of the same crime in other jurisdictions." (77) And "[b]y addressing at best only the first of these criteria, the Court has ignored most of the guidance this Court has developed for evaluating the proportionality of punishment." (78) The dissent analyzed all three factors and concluded that the Tisons and Enmund were "similarly situated ... in every respect that mattered to the decision in Enmund." (79) Just one year later, Justice Stevens penned the plurality opinion in Thompson v. Oklahoma, (80) which all but abandoned the same factors in deciding that the Cruel and Unusual Punishments Clause prohibits the execution of persons under sixteen years of age at the time of the offense. While the opinion did include an objective analysis, looking to state statutes, international law, and the behavior of juries, (81) it adopted a new subjective inquiry. Justice Stevens relied on a modified form of comparative gravity, and dropped the comparative intrajurisdictional analysis in favor of the Gregg inquiry into the penological justifications for the punishment. (82) He thereby ignored over a decade of Eighth Amendment development that he, himself, had shaped.
+His analysis was reminiscent of the analysis in Enmund, which raised the proportion between the punishment and the culpability of the class of offenders, but with a new twist. In Enmund, the culpability informed the gravity of the offense of accomplice liability without intent to kill, and the proportion was thus between punishment and act. The Thompson analysis focused on the proportionality of the punishment-to-culpability of the class of offenders, irrespective of the act or crime they had committed.
+The comparative gravity analysis in Thompson, therefore, compared the generalized culpability of those within the group--defendants under sixteen years of age--to the culpability of those outside the group--defendants over sixteen. (83) And Justice Stevens concluded that the comparative culpability of those within the group was less than those outside. (84) But Justice Stevens did not compare the punishment-to-culpability proportion for those under sixteen to the proportion for similar groups within the same jurisdictions. For example, the opinion did not engage in a comparison between those under sixteen years of chronological age with those who have the emotional, mental, and cognitive capacity of that same group but a different chronological age (e.g., mentally retarded people). The opinion instead relied upon the penological justifications for the death penalty--retribution and deterrence--and found them lacking when measured against the culpability of juveniles. (85)
+Had Justice Stevens commanded a majority, Thompson would have eclipsed Atkins as the first case recognizing punishment-to-culpability as disproportionate. The rationale ultimately failed to command a majority vote; Justice O'Connor concurred in the judgment only, deciding the case on much narrower grounds. (86) Yet Stevens's approach would prove to have lasting effects.
+The next year, Justice Scalia employed Stevens's Thompson reformulation in his majority opinion addressing the constitutionality of applying the death penalty to those under eighteen years of age. Emphasizing the language from earlier cases, Justice Scalia cautioned that the Eighth Amendment "should be informed by objective factors to the maximum possible extent." (87) First among those objective indicia, he found, are statutes passed by state legislatures. (88) And the objective indicia in this case led the Court to conclude that no settled societal consensus existed against executing sixteen- and seventeen-year-old offenders. (89) In the absence of such objective evidence of unusualness, Justice Scalia found, the punishment could not be found to be both cruel and unusual, as required by the Eighth Amendment. (90)
+This past term, the Court quelled any speculation about whether its abbreviated analysis would reach beyond its punishment-to-culpability cases. In its most recent punishment-to-crime case, Kennedy v. Louisiana, (91) the Court extended the Thompson (and Atkins) approach to find unconstitutional the death penalty for child rape, based on an objective interjurisdictional analysis, (92) followed by a subjective analysis focusing on the penological justifications for the proportion. (93) No vestige of its once robust intrajurisdictional analysis could be found. And in its statement denying rehearing, the Court ventured even further, laying the groundwork for future equal protection challenges. (94)
+II. ATKINS V. VIRGINIA
+A. The Court's Opinion
+In Atkins, the Supreme Court granted certiorari to address whether the Cruel and Unusual Punishments Clause, (95) prohibits the execution of the mentally retarded. Justice Stevens delivered the majority opinion for the Court. (96) He began by reviewing the prior Eighth Amendment proportionality jurisprudence, and determined that the Thompson reformulation was controlling. (97)
+The analysis began with a review of societal perception of mental retardation, the objective prong of the analysis. Eighteen states had adopted legislation specifically exempting the mentally retarded from execution. (98) Legislative enactments, together with public opinion polls and other survey data, enabled the majority to conclude that a national consensus had developed against executing the mentally retarded. (99) The Court posited that this national consensus reflected a belief that the behavioral characteristics of the mentally retarded diminished their mental and moral culpability, and thereby made the ultimate punishment of death disproportionate, irrespective of the crime committed. It stated:
+
+Mentally retarded persons frequently know the difference between
+right and wrong and are competent to stand trial. Because of their
+impairments, however, by definition they have diminished capacities
+*| to understand and process information, to communicate, to abstract | 
+*| from mistakes and learn from experience, to engage in logical | 
+*| reasoning, to control impulses, and to understand the reactions of | 
+*| others. There is no evidence that they are more likely to engage in | 
+*| criminal conduct than others, but there is abundant evidence that | 
+*| they often act on impulse rather than pursuant to a premeditated | 
+*| plan, and that in group settings they are followers rather than | 
+*| leaders. Their deficiencies do not warrant an exemption from | 
+*| criminal sanctions, but they do diminish their personal | 
+*| culpability. (100) | 
+Turning to the subjective, the second prong of the Thompson reformulation, the Court brought its "independent judgment to bear" to determine whether the objective evidence comported with the Court's intuitions about the cruelty of executing the mentally retarded. (101) But the Court invoked a weaker form of comparative gravity analysis than in the past, and codified the Thompson to eliminate intrajurisdictional comparison.
+First, it stated that the mentally retarded have diminished personal culpability, but did not specify diminished as compared to whom. (102) The intended comparison may have been to all others who could be subject to capital punishment, but Part III of this Article reveals the unlikelihood that the Court engaged in such explicit comparisons. Next, despite the strong admonitions in earlier cases, Stevens abandoned intrajurisdictional analysis altogether. He made no attempt to compare the punishment-to-culpability proportion of the mentally retarded in Virginia to other similarly situated criminal defendants in Virginia. (103) The exercise would no doubt have been a difficult one, since the Court did not explain what constituted mental retardation.
+Despite its refusal to define the class, the Court did make a subjective determination on whether executing the mentally retarded would advance the punitive goals of the death penalty--retribution and deterrence. (104) If not, it explained, executing the mentally retarded constituted a purposeless imposition of pain and suffering. (105) To address this inquiry, the majority largely relied upon cognitive and behavioral impairments of its conception of the mentally retarded--such as the capacity to act rationally and to take moral consequences into account--and found that diminished capacity affects individual culpability for purposes of punishment by death. (106)
+The majority analogized that because retribution requires proportionality, the diminished culpability of the mentally retarded could not rise to the level sufficient for execution. (107) Even if the mentally retarded could understand the wrongfulness of their conduct, because they lack the capacity to appreciate the consequences of their actions, or the ability to act on this knowledge, execution would be a disproportionate punishment under the goal of retribution. (108)
+The Court finally addressed whether executing the mentally retarded would advance the goal of deterrence. (109) It found that the diminished capacity of the mentally retarded to calculate and to premeditate their actions undermines any deterrent effect of the death penalty upon them. (110) Moreover, diminished cognitive capacity renders the mentally retarded less able to assist in their defense, and impacts their demeanor such that jurors could be misled to impose a harsher sentence than deserved. (111) The mentally retarded are also more likely to waive their rights without understanding the concept of "rights," or the implications of voluntarily giving up those rights. (112) This ignorance is compounded by a susceptibility to an atmosphere of threats or coercion, where a desire to please and escape the situation makes an abuse of rights and false confessions even more likely. (113) These factors, in combination, made the Court unable to distill a constitutional rationale for executing the mentally retarded. (114) And so, commanding a majority for the first time, a category of people could not be sentenced to death without questioning how other similar groups were being punished.
+B. Defining Mental Retardation
+While the Court offered powerful rationale for protecting the mentally retarded, it declined to provide a substantive definition of the class. Instead, the Court demurred: "[a]s was our approach in Ford v. Wainwright, with regard to insanity, 'we leave to the State[s] the task of developing appropriate ways to enforce the constitutional restriction upon [their] execution of sentences.'" (115)
+For the Court to find that the right to be free from cruel and unusual punishments applies differently to the mentally retarded, and then leave to the states the task of defining that group, may be alarming. And yet the Court's decision to avoid defining the class in Atkins should come as no surprise: the Court took exactly the same approach in Ford v. Wainwright when it constitutionalized the common-law practice of exempting the insane from the imposition of the death penalty, imposing procedural safeguards without venturing a substantive definition of insanity in its opinion. (116) In Ford, Justice Powell highlighted the conflict in recognizing a new substantive constitutional right while failing to define it in his concurring opinion. (117) As such, he ventured a substantive definition of insanity. (118) Lacking any other guidance by the majority, nearly every state legislature or state court since Ford either maintained or adopted an interpretation of insanity for the purpose of execution similar to that offered by Justice Powell. (119)
+The response by state legislature and courts to Ford should have guided the Court against taking the same course. (120) Indeed, the Court's 2007 decision in Panetti v. Quartermain (121) simply underscores that failing to provide a substantive definition for the class in the first instance ultimately requires that the Court later address the disparity. In Panetti, the Court partially came to terms with the Ford Court's failure and "cobble[d] together" (122) a new definition of insanity, as it should have done years before. Moreover, by imposing procedural safeguards for the mentally retarded without a corresponding substantive definition, the Court creates a perverse incentive for states to define the class too narrowly. (123) In response to new Supreme Court rulings, state legislatures and courts largely seek to avoid being overturned on appeal. (124) This objective is most easily achieved by creating substantive standards that are easily met and align well with the Court's earlier ruling.
+Nonetheless, the Court in Atkins left to the states the ultimate burden of defining the mentally retarded entitled to this unique Eighth Amendment protection. (125) The Court delegated this responsibility, even though the legal concept of mental retardation is not self-defining. But it did drop clues about the contours of the class in its analysis:
+(1) Characteristics of the Mentally Retarded: The Court noted that
+clinical definitions of mental retardation require not only subaverage intellectual functioning, but also significant limitations in ... self care, ... self direction[,] ... diminished capacities to understand and process information, to communicate, to abstract from mistakes and learn from experience, to engage in logical reasoning, to control impulses, and to understand the reactions of others.... [T]here is abundant evidence that they often act on impulse rather than pursuant to a premeditated plan, and that in group settings they are followers rather than leaders. (126)
+(2) Constitutional Limitation: "Not all people who claim to be mentally retarded will be so impaired as to fall within the range of mentally retarded offenders about whom there is a national consensus." (127) Suggesting that there may be a constitutional limitation on those who can claim mental retardation, irrespective of the definition adopted.
+(3) Safe Harbor: The Court essentially created a safe harbor for states to adopt medical diagnostic criteria for mental retardation. Despite historical rejection of medical criteria to identify classes of individuals to whom criminal responsibility or punishment should attach, (128) the Court specifically referenced clinical definitions of mental retardation with seeming approval and noted that, although the eighteen states with then-current legislation were not uniform, the majority of state statutes used the American Association of Mental Retardation (AAMR) or American Psychiatric Association (APA) clinical definitions of mental retardation. (129)
+Unsurprisingly, these three factors, and particularly the third, have guided state legislatures and courts seeking to comply with Atkins.
+C. Legislative Response
+Since Atkins v. Virginia, (130) eight states have changed their laws to comply with the decision. Every single one relied upon medical diagnostic criteria to define mental retardation. (131) Eighteen other states and the federal government preserved their statutory approach of using medical diagnostic criteria in light of Atkins. (132) The APA criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), and the American Association of Intellectual and Developmental Disabilities (133) (AAIDD) diagnostic criteria serve the basis for most statutory schemes.
+The AAIDD defined mental retardation, at the time of the Atkins opinion, as follows:
+
+Mental retardation refers to substantial limitations in present
+functioning. It is characterized by significantly subaverage
+intellectual functioning, existing concurrently with related
+*| limitations in two or more of the following applicable adaptive | 
+*| skill areas: communication, self-care, home living, social skills, | 
+*| community use, self-direction, health and safety, functional | 
+*| academics, leisure, and work. Mental retardation manifests before | 
+*| age 18. (134) | 
+The APA's definition in the DSM-IV was in accord:
+
+The essential feature of Mental Retardation is significantly
+subaverage general intellectual functioning (Criterion A) that is
+accompanied by significant limitations in adaptive functioning in
+*| at least two of the following skill areas: communication, | 
+*| self-care, home living, social/interpersonal skills, use of | 
+*| community resources, self-direction, functional academic skills, | 
+*| work, leisure, health, and safety (Criterion B). The onset must | 
+*| occur before age 18 years (Criterion C). Mental Retardation has | 
+*| many different etiologies and may be seen as a final common pathway | 
+*| of various pathological processes that affect the functioning of | 
+*| the central nervous system.... Mild mental retardation is | 
+*| [typically used to describe people with an] IQ level of 50-55 to | 
+*| approximately 70. (135) | 
+Both the AAIDD and APA definitions have three basic components:
+(1) limited intellectual functioning, (2) deficits in adaptive functioning, and (3) an age of onset before the age of eighteen.
+1. Limited Intellectual Functioning
+Intelligent quotient (IQ) tests are the most frequently used diagnostic tool for assessing human intellectual functioning. The AAIDD defines intelligence as general mental capability involving the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly, and learn from experience. (136) The IQ score offers a standardized measure of these factors. Based on the population distribution of these scores, those with an IQ score of approximately seventy or below, and deficits in other areas, satisfy the clinical definition of mental retardation. Taking standard error into account, two standard deviations below the mean would allow for a score up to a seventy-five. Only two percent of the American population score in this range on an IQ test. (137)
+2. Deficits in Adaptive Behavior
+AAIDD defines adaptive behavior as a collection of learned conceptual, social, and practical skills that enable one to function in everyday life. (138) Adaptive functioning impairments may be measured by standardized tests or through a detailed historical life account. School records, job history, and other measures of basic self-care go into an assessment of adaptive functioning. (139)
+3. Age of Onset
+Both the AAIDD and APA diagnostic criteria for mental retardation require an age of onset before eighteen years of life. In medicine, age of onset helps a clinician to distinguish mental retardation from other mental disabilities. (140) As such, mental health practitioners look at school records and childhood medical records to determine if the patient has mental retardation, with an early life onset, or another condition with similar behavioral manifestations suggesting a different treatment protocol. (141)
+III. MENTAL RETARDATION IN MEDICINE AND LAW
+Law and medicine use words in different ways. Legal rules define standards of conduct and the consequences for breaking those rules. Medical diagnostic criteria define the characteristics of a condition, which may guide future treatment protocols. Blindly importing medical diagnostic criteria into law may therefore have unintended and undesired results. Mental disease or defect, for example, has a legal meaning in the context of the insanity defense. This is true even though the phrase sounds in both medicine and in law. The Court in Atkins, however, ignored the traditional divide between medical diagnoses and legal rules, and failed to craft legal criteria for mental retardation. That failure paved the way for present and future unequal treatment of similarly situated individuals under the Eighth Amendment and blinded the Court to the potential equal protection implications of its ruling.
+As discussed in Part II.B, the Court established a safe harbor for states to adopt medical diagnostic criteria for mental retardation. Now, because of the legislative schemes adopted by states, only those individuals who satisfy the medical diagnostic criteria for mental retardation outlined in Part II.C, can exercise a claim of mental retardation and exemption from the death penalty, as recognized in Atkins.
+As this Part seeks to demonstrate, the medical term mental retardation, however, is simply a linguistic quirk rather than the meaningful basis for a legal classification. An adult with intellectual and adaptive functioning loss due to illness, accident, infection, or disease does not suffer retardation in his development. His cognitive, behavioral, and adaptive functioning diminishes or regresses, rather than being retarded. So the linguistic label for those individuals has been distinguished from mental retardation based on language, diagnosis, and treatment, rather than legal criteria about their relative culpability. Likewise, the adult with traumatic brain injury has arrested or diminished development after his injury. To base a legal classification of individuals entitled to exercise the right to be free from cruel and unusual punishments upon a linguistic quirk seems the epitome of arbitrary and unequal treatment.
+With remarkable insight to this very problem, the American Psychological Association, the publishers of the DSM-IV Text Revision (DSM-IV-TR), cautioned against such wholesale importation of psychological or medical diagnostic criteria into law. They note:
+
+When the DSM-IV categories, criteria, and textual descriptions are
+employed for forensic purposes, there are significant risks that
+diagnostic information will be misused or misunderstood. These
+*| dangers arise because of the imperfect fit between the questions of | 
+*| ultimate concern to the law and the information contained in a | 
+*| clinical diagnosis. In most situations, the clinical diagnosis of a | 
+*| DSM-IV mental disorder is not sufficient to establish the existence | 
+*| for legal purposes of a "mental disorder," "mental disability," | 
+*| "mental disease," or "mental defect." In determining whether an | 
+*| individual meets a specified legal standard (e.g., for competence, | 
+*| criminal responsibility, or disability), additional information is | 
+*| usually required beyond that contained in the DSM-IV diagnosis. | 
+*| (142) | 
+The DSM-IV-TR, like the revisions that preceded it, also includes a "Cautionary Statement," explaining that:
+
+The purpose of DSM-IV is to provide clear descriptions of
+diagnostic categories in order to enable clinicians and
+investigators to diagnose, communicate about, ... and treat people
+*| with various mental disorders. It is to be understood that | 
+*| inclusion here, for clinical and research purposes, of a diagnostic | 
+*| category ... does not imply that the condition meets legal or other | 
+*| nonmedical criteria for what constitutes mental disease, mental | 
+*| disorder, or mental disability. The clinical and scientific | 
+*| considerations involved in categorization of these conditions as | 
+*| mental disorders may not be wholly relevant to legal judgments, for | 
+*| example, that take into account such issues as individual | 
+*| responsibility, disability determination, and competency. (143) | 
+The medical and psychiatric communities recognize what the state legislatures do not: the illogic of grafting medical diagnostic criteria onto legal tests for responsibility or culpability. As the discussion that follows makes evident, a medical definition of mental retardation simply invites unequal imposition of the death penalty.
+A number of medical conditions give rise to the same cognitive, behavioral, and adaptive limitations the Court highlighted in Atkins. The Court identified deficits in the mentally retarded--the ability to engage in logical reasoning and to understand and process information (cognition), to communicate with others (communication), to direct one's own actions and to control one's own impulses (mental health and behavior), to abstract from mistakes and learn from experience (judgment), and to care for oneself (adaptation)--that undermine the deterrent and retributive rationale for the death penalty. Table 1 summarizes other medical conditions that present the same deficits. The discussion that follows includes a more detailed scientific account of each condition and the legislative and judicial response in capital cases to each condition. Medicine differentiates these conditions based on etiology to identify appropriate treatment alternatives. These etiological distinctions have become the basis for inequitable treatment under states' application of this categorical exemption.
+A. Frontal Lobe Dysfunction
+Damage to the frontal lobes of the brain can profoundly impact behavior. The frontal lobes of the brain have primary control over programming, regulation, and verification of mental activity, and "control many of the qualities that distinguish humans from lower primates." (144) The frontal lobes affect emotion, will, judgment, foresight, creativity, and abstract reasoning. (145) Behaviorally, the frontal lobes are critical to one's performance of executive functions, including maintenance of problem solving sets for future goals, organization of behavior, flexibility in problem solving, self-monitoring and self-regulation, conformity to rules of social behavior, and the utilization of reward and punishment to facilitate learning. (146) Consequently, studies have consistently linked frontal lobe damage to increased violence, aggression, and criminal behavior. (147)
+The right frontal lobe, for example, guides interpretation of emotional stimuli and expression of emotional responses. (148) Individuals with right frontal lobe damage may have difficulty interpreting emotional information, choosing appropriate words to describe emotional situations, and expressing accurate facial expressions in response to emotional stimuli. (149) In addition, right frontal lobe damage can cause deficits in adhering to social rules and in behaving appropriately in social situations. (150)
+While the etiology of frontal lobe dysfunction varies, (151) traumatic brain injury and dementia warrant a more detailed inquiry.
+I. Traumatic Brain Injury (TBI)
+Traumatic brain injury can produce the same behavioral limitations as medically diagnosed mental retardation. TBI aptly illustrates the problem with using medical diagnostic criteria for mental retardation as the sole legal definition of mental retardation for purposes of heightened Eighth Amendment scrutiny.
+TBI may occur at any point during an individual's life, including well after the eighteen-year cutoff for medically diagnosed mental retardation. Approximately one million children sustain a TBI each year. (152) But children and adolescents age nineteen years and younger account for only 28% of severe head injuries. (153) Thus over 70% of TBI injuries, or over 700,000 annual TBI injuries, occur after the age of onset for medically diagnosed mental retardation. (154) Although the extent of disability arising from a TBI depends upon several factors, including the severity of the injury, its location, and the age and general health of the individual, (155) common deficits arise in:
+(1) Cognition, including thinking, memory retention, and reasoning ability. Individuals with TBI suffer lasting impairments in working memory, motor skills, language, and general cognition. (156) TBI deficits often negatively impact academic and social performance, and can persist throughout life. (157) This is evident in the "persistent decline[] in Full Scale and Performance IQ" that often follows TBI; (158)
+(2) Sensory Processing, including sight, hearing, touch, taste, and smell; (159)
+(3) Communication, including expression and understanding; (160)
+(4) Behavior and Mental Health, including depression, anxiety, personality changes, aggression, acting out, inability to modify actions based on information, social inappropriateness, (161) deficiencies in "self-esteem, self-control, [and] awareness of self and others;" (162)
+(5) Judgment, even in cases where IQ is unaffected, may be devastated; (163) and,
+(6) Adaptive Functioning, in that TBI can create deficiencies in executive and adaptive functioning even if intellectual and language functions are unimpaired, (164) including unawareness of social rules, disinterest in social involvement, sexuality, appearance and grooming, or family relationships, and age-inappropriate behavior. (165)
+The natural fit between TBI and medically diagnosed mental retardation has led capital defendants with TBI to invoke Atkins, unsuccessfully, as a bar to their execution. Rather than challenge the legislative classification of mental retardation on equal protection grounds, these defendants claim their condition is analogous to mental retardation. Put otherwise, these defendants claim that the rationale of Atkins supports a categorical exemption for their condition as well.
+Every court faced with such a claim has rejected it. (166) The Louisiana state legislature has even gone so far as to note specifically that individuals with "organic brain damage occurring after age eighteen" and "traumatic brain damage occurring after age eighteen" do not necessarily have mental retardation. (167)
+The court in Martinez Ramirez v. Schriro (168) found brain damage to be insufficient to establish a legal claim of mental retardation. (169) The defendant moved for leave to file a second amended petition, "alleg[ing] that his low IQ, brain damage, and other impairments render[ed] him ineligible for the death penalty," based on the rationale in Atkins. (170) The court disagreed, (171) holding that the Supreme Court's ruling in Atkins only applied to "those individuals determined to be mentally retarded under state law," (172) and noting that there was "no constitutional prohibition on the execution of persons with mental impairments that do not amount to incompetency or mental retardation." (173) In short, the court found that although the defendant had the same cognitive and behavioral limitations as medically diagnosed mental retardation, the etiology of his condition made Atkins inapplicable.
+In the one reported case in which a capital defendant challenged the legal definition of mental retardation based on his TBI, the United States Supreme Court denied certiorari. The defendant in Hicks v. Schofield (174) applied for a certificate of probable cause to appeal his death sentence, alleging that he should be entitled to establish a legal claim of mental retardation because he "suffer[ed] from fetal alcohol syndrome, [was] microcephalic, meaning his brain [was] two standard deviations smaller than normal," and sustained a TBI following a motorcycle accident. (175) The majority denied his application without comment. (176) The dissent, however, believed such evidence established a credible legal claim for mental retardation, and should have been allowed to proceed. (177) Ignoring the opportunity to revisit their failure in Atkins, the United States Supreme Court denied certiorari. (178)
+2. Dementia
+Dementia means the "loss of brain function." (179) It is not a single disease, but refers instead to a group of illnesses that involve cognition, behavior, and learning. (180) A diagnosis of dementia requires "memory impairment and at least one of the following": a disturbance in executive functioning, aphasia (loss of the ability to produce and/or comprehend language due to brain injury), or agnosia (loss of the ability to recognize objects, persons, sounds, shapes, or smells). (181) "Dementia may be progressive, static, or remitting." (182)
+Dementia affects nearly ten percent of individuals over the age of sixty-five, although it is sometimes present at younger ages as well. (183) But it nearly always affects individuals after the age of onset of eighteen required for medically diagnosed mental retardation. (184)
+Dementia can have varying etiology. The DSM-IV includes specific diagnoses for Alzheimer's-type dementia, vascular dementia, dementia due to HIV, dementia due to head trauma, dementia due to Parkinson's disease, dementia due to Huntington's disease, dementia due to Pick's disease, and dementia due to Creutzfeldt-Jakob disease. (185) Moreover, brain tumors, subdural hematoma, hypothyroidism, hypoglycemia, infectious conditions, nutritional deficiencies, and multiple sclerosis can also cause dementia. (186) While the etiology, age of onset, and severity of dementia guides the precise contours of the condition, common deficits include:
+(1) Cognition, in that most individuals with dementia have an impaired ability to learn new material, tend to forget things that they have previously learned, (187) and often forget their own names. (188) Disturbance in executive functioning is common, and includes impairments in the ability "to think abstractly and to plan;" (189)
+(2) Communication, including deficiencies in communication like compromised comprehension of spoken and written language, and vague and empty speech; (190)
+(3) Behavior and Mental Health, including behavioral dysfunction like uninhibited behavior, "making inappropriate jokes, neglecting personal hygiene, exhibiting undue familiarity with strangers, [and] disregarding conventional rules of social conduct;" (191) and
+(4) Adaptive Functioning, including impairments in occupational and social functioning. (192)
+Courts rely primarily on the late onset of dementia as the basis for discriminating against these defendants. In Clayton v. Luebbers, (193) for example, the capital defendant raised an Atkins claim for mental retardation, based on testimony that he suffered from "dementia, secondary to traumatic injury-at the time of the murder." (194) The court rejected his claim, holding that he had not presented evidence that any of his symptoms manifested before the age of eighteen--a necessary requirement under the statutory definition of mental retardation. (195) The court found instead that the defendant was "relying on his brain injury to support this retardation claim," which "did not occur until [the defendant] was an adult." (196) In addition, it found no support in the record that he ever functioned at the level of a mentally retarded person. (197)
+Other courts recognize the shared characteristics of dementia and medically diagnosed mental retardation, but nevertheless discriminate against those with dementia. In Moore v. Dretke, (198) for example, the court reasoned that an individual whose subaverage intellectual functioning and related adaptive deficits manifested after the age of eighteen could "be diagnosed with dementia, but not with mental retardation." (199) And in a pre-Atkins case, where mental retardation was considered a mitigating factor to the death penalty, one judge noted in concurrence that the only apparent basis for distinguishing between dementia and mental retardation is age of onset: "[w]hile dementia shares characteristics with mental retardation, its onset may occur after age eighteen." (200)
+B. Pervasive Developmental Disorders
+Pervasive developmental disorders can cause severe and persistent impairments in cognition, social interaction, and communication skills. (201) Individuals with these disorders often exhibit stereotyped, atypical behavior. These pervasive developmental disorders, alternately referred to as autism spectrum disorders, range from a severe form, known as autistic disorder, to a milder form, known as Asperger's syndrome. (202) Although these conditions often overlap with medically diagnosed mental retardation, they often do not. (203)
+Autism (204) may severely delay or diminish one's ability to communicate, to develop social skills, and to conform one's conduct to the law. Autistic individuals are unlikely to premeditate a crime and also ill equipped to assist in their own defense. (205) Individuals with autism are easily manipulated, and therefore easily enticed into criminal behavior. (206) Such individuals suffer the same grouping of deficits as the mentally retarded in communication, impulse control, ability to abstract from mistakes, and ability to understand the reactions of others, and yet are excluded from legislative classifications of mental retardation.
+Although nearly 70% of individuals with autism meet the medical diagnostic criteria for mental retardation, 30% do not. (207) The increasing prevalence of autism in the general population, conservatively estimated at 13 per 10,000 in the population, (208) leaves a sizable group of individuals outside the legislative classifications of mental retardation adopted pursuant to Atkins.
+Autism manifests a range of developmental deficits, including:
+(1) Cognition, in that most, but not all, individuals with autism suffer severe intellectual dysfunction; (209)
+(2) Communication, including delay or nonexistent development of language skills; inability to converse with others; repetitive speech patterns or repetitive social interactions; (210) inability to understand simple questions, directions, and jokes; (211)
+(3) Behavior and Mental Health, including restricted and stereotyped behavioral patterns such as adherence to nonfunctional routines or habits of conduct; (212) inability to regulate behavior, engaging in self-injurious behaviors; acting aggressively, impulsively, or inappropriately in social situations; (213)
+(4) Judgment, such as the inability to abstract from mistakes, (214) or to perceive situations from the perspective of another and react appropriately; (215) and
+(5) Adaptive Functioning, particularly in social interactions, such as an inability to form social bonds; delays in social interaction; (216) and an inability to read social cues such as winks, smiles, grimaces, or other expressions. (217)
+The overlap between the diagnostic criteria for autism and mental retardation is plain. But there are no reported Atkins-based challenges to the death penalty by an autistic defendant. Nevertheless, Louisiana specifically provides that a diagnosis of autism is not equivalent to a finding of mental retardation in its legislative classification of mental retardation for the death penalty. (218) And defendants have not been successful in raising autism as mitigating evidence to the death penalty post-Atkins. These cases make no mention of the inequity of relegating autism to mitigation rather than including it within a categorical exemption from the death penalty. (219)
+C. Central Nervous System Dysfunction
+Central nervous system (CNS) dysfunctions arise from death or injury to the neurons in the brain. "A number of factors, including infectious agents, drugs, [or] immune status," can influence development of, or injury to, the central nervous system. (220) Etiology, degree, location in the brain, and other factors may influence the severity of the deficits. (221) Although CNS dysfunctions occur across a broad spectrum of disorders, (222) epilepsy and bacterial meningitis are explored here.
+1. Epilepsy
+Nearly 1% of the general population suffers from active epilepsy, "a disorder characterized by the occurrence of at least 2 unprovoked seizures 24 hours apart." (223) Mental retardation often accompanies epilepsy, with a comorbidity rate of 35-40% of children with epilepsy. (224) But for the 60-65% of children who do not experience comorbidity with medically diagnosed mental retardation, or for those who suffer adult-onset epilepsy, Atkins protection is unavailable. Condition deficits occur in:
+(1) Cognition, including cognitive arrest or regression as a result of seizures. (225) A study of treatment modalities examined the entire population of a residential facility that provided long-term treatment for epilepsy. (226) 670 of the 677 patients with epilepsy suffered some form of intellectual disability. (227) 13% of that group had borderline IQ or learning disabilities. (228) The remainder of intellectually disabled patients suffered from mild, moderate, severe, or profound mental disabilities. (229) Epilepsy also impairs executive functioning, particularly in children with frontal lobe epilepsy (FLE).
+(2) Communication, including language and communication dysfunction, confrontational naming impairments, and impaired discourse production; (230)
+(3) Behavior and Mental Health. A study comparing children with FLE to children with temporal lobe epilepsy (TLE), generalized epilepsy, and children without epilepsy found that children with FLE were deficient "on tasks assessing motor coordination, verbal fluency, mental flexibility, impulse control and planning;" (231)
+(4) Judgment, including impairments in "recognition of facial expressions of emotion," in perception of fear, and in social judgment. (232) "[D]uration of illness, rather than age of onset, [impacts] fear recognition deficits;" (233) and
+(5) Adaptive Functioning, including severe problems in daily functioning, particularly in those with borderline IQ or other intellectual deficits. (234)
+No court or state legislature has included epilepsy within the legal classification of mental retardation, although one court has come close. The defendant in People v. Leonard (235) suffered numerous mental problems, but most prominently from the epilepsy he developed as a child that persisted into adulthood. (236) On direct appeal from his capital conviction and sentence, the defendant argued that his epilepsy rendered him "functionally indistinguishable from a mentally retarded offender." (237) The court interpreted the defendant's argument to be that he met the statutory definition of mental retardation because "he ha[d] 'significantly subaverage intellectual functioning existing concurrently with deficits in adaptive behavior.'" (238) His deficits may not have fully manifested before the age of eighteen, however, because he suffered additional brain damage with each successive attack. (239) The court sidestepped the issue of whether this would satisfy the mental retardation statute, which required manifestation before age eighteen, but urged that the defendant bring the issue in a later habeas corpus petition. (240) Other defendants with severe epilepsy have been sentenced to death, but with successive declines in IQ and adaptive functioning have nevertheless made successful clemency claims to commute their sentences to life imprisonment. (241) That such defendants must seek clemency, however, demonstrates the inequity of excluding them from a legal classification of mental retardation.
+2. Meningitis
+Bacterial meningitis arises from a bacterial infection that invades the central nervous system and disrupts cerebrovascular and cerebrospinal fluids. (242) Although the majority of sufferers recover CNS function, some cases of bacterial meningitis result in severe and permanent CNS damage, including "sensorineural hearing loss and other cranial nerve dysfunction, seizure disorders, hemiplegia, ataxia, hydrocephalus, and visual problems." (243) A meta-analysis of nineteen studies involving 1602 children indicated that approximately sixteen percent of survivors "display[ed] at least one major adverse outcome (deafness, intellectual disability, epilepsy, [and] physical impairment)." (244) Bacterial meningitis can strike either children or adults, with an estimated incidence of up to four cases per 100,000 adults in developed countries since the introduction of a new vaccine in 2000. (245)
+This condition can give rise to a number of relevant deficits, including:
+(1) Cognition, relative to peers "with respect to ... verbal ability, motor skills, [learning difficulties,] and educational progress." (246) Likewise, survivors of meningitis fell below developmental expectations with respect to executive functioning, taking longer to complete tasks, making more errors, displaying less organization, and struggling with verbal and spatial problem solving. (247) Individuals with bacterial meningitis demonstrate significant deficits in measurements relative to peers in studies performed seven and twelve years after their affliction; (248)
+(2) Sensory Processing, including visual disorders, hearing loss or deafness, and other physical impairments; (249)
+(3) Communication, including speech and language problems; (250)
+(4) Behavior and Mental Health, including behavioral control deficits; (251) and,
+(5) Adaptive Functioning, including significant behavioral difficulties at home and at school for children. (252)
+Bacterial meningitis has been, at best, mitigating evidence in the death penalty context. The capital case of Jordan v. State (253) puts a fine point on the issue. The defendant sought a hearing to establish his mental retardation after presenting evidence that he "suffered from meningitis as a child which might have caused brain injury; and, that he was placed in special education classes in school." (254) The court denied his request on the grounds that
+
+no defendant may be adjudged mentally retarded for purposes of the
+Eighth Amendment, unless such defendant produces, at a minimum, an
+expert who expresses an opinion, to a reasonable degree of
+*| certainty, that ... [t]he defendant is mentally retarded, as that | 
+*| term is defined by the American Association on Mental Retardation | 
+*| and/or The American Psychiatric Association. (255) | 
+IV. INEQUALITY AND UNINTENDED CONSEQUENCES
+As Part III demonstrates, medically diagnosed mental retardation shares characteristics with a range of other medical diagnoses. Yet in Atkins, United States Supreme Court exempted only the mentally retarded from the death penalty and left the substantive definition of that category to state legislatures. State legislatures have in turn failed to include all those individuals with medically equivalent conditions. In this Part, I argue that doing so, while also abandoning intrajurisdictional analysis, puts the Cruel and Unusual Punishments Clause in tension with the Equal Protection Clause.
+Unlike the proportionality cases of the past, the Atkins ruling exempts the group at issue based on their characteristics rather than their act. In itself, this shift might not have had remarkable constitutional import. By also abandoning intrajurisdictional analysis, however, the Court eliminated its de facto consideration of the equality of carve-outs under the Eighth Amendment. Thus, until the first successful application of the Court's punishment-to-culpability doctrine, the Court did not have occasion to consider whether its Eighth Amendment jurisprudence could create inequalities that might implicate the Equal Protection Clause of the Fourteenth Amendment. It is both this conflict between the recent Eighth Amendment jurisprudence and the Fourteenth Amendment, and also the potential standard of judicial review that others have missed.
+When the Court first abandoned intrajurisdictional analysis, in Thompson v. Oklahoma, (256) the Court should have realized the remarkable potential of its ruling. By the time it commanded a majority for this approach in Atkins, it should have portended the result. The Court's Eighth Amendment jurisprudence has triggered the application of equal protection analysis to subsequent legislative classifications, as to whether similar treatment is being afforded to similarly situated individuals. (257) Equal protection does not prevent the government from classifying individuals. But it does prohibit the government from basing those classifications on impermissible criteria, and from burdening the exercise of a fundamental right. The Court has recognized that the Eighth Amendment's ban against cruel and unusual punishments is one of the "guarantees of the Bill of Rights which are fundamental safeguards of liberty immune from federal abridgment" and that are thereby "equally protected against state invasion" under the Fourteenth Amendment. (258) While the Court recognized this in this context of incorporation of the Cruel and Unusual Punishments Clause under the Due Process Clause of the Fourteenth Amendment, it did so because of the fundamental interest at stake. The Court's "death is different" (259) jurisprudence and its earlier intrajurisdictional analysis may support the inference that a fundamental right is likewise implicated in the context of Equal Protection analysis. If the mentally retarded can claim a fundamental right against execution, then the criteria used to classify those individuals would be subject to heightened or strict judicial scrutiny. (260) Such an approach makes intuitive sense: deference to state action will be at its lowest when the right at stake is the most precious. (261)
+In Skinner v. Oklahoma ex rel. Williamson, (262) the Court considered an analogous equal protection challenge to the Oklahoma Habitual Offender statute, which allowed for the sterilization of certain offenders adjudged to be habitual criminals. (263) Oklahoma granted a specific exemption in the Act for "offenses arising out of the violation of the prohibitory laws, revenue acts, embezzlement, or political offenses." (264) On review, the Court recognized both that the right to procreate was a fundamental one, and that sterilization caused irreparable injury at the hands of the state. (265) The Court thus applied strict scrutiny to the legislature's classification scheme of habitual criminals under the Equal Protection Clause, and found that the classification unconstitutionally discriminated between embezzlers and other thieves:
+
+Oklahoma makes no attempt to say that he who commits larceny by
+trespass or trick or fraud has biologically inheritable traits
+which he who commits embezzlement lacks. Oklahoma's line between
+*| larceny by fraud and embezzlement is determined, as we have noted, | 
+*| "with reference to the time when the fraudulent intent to convert | 
+*| the property to the taker's own use" arises. We have not the | 
+*| slightest basis for inferring that that line has any significance | 
+*| in eugenics nor that the inheritability of criminal traits follows | 
+*| the neat legal distinctions which the law has marked between those | 
+*| two offenses. In terms of fines and imprisonment the crimes of | 
+*| larceny and embezzlement rate the same under the Oklahoma code. | 
+*| Only when it comes to sterilization are the pains and penalties of | 
+*| the law different. The Equal Protection Clause would indeed be a | 
+*| formula of empty words if such conspicuously artificial lines could | 
+*| be drawn. (266) | 
+The objection in Skinner was that the legislature drew a distinction, without a basis in science or in law, between exempting from punishment those who commit embezzlement and those who commit larceny. (267) The state did so when irreparable injury would occur--sterilization. The Court found that scientifically, no genetic evidence justified exempting from sterilizing one group and not the other. (268) Legally, the two offenses were of the same relative severity. (269) Scientifically, no evidence suggested a hereditary basis for larceny but not for embezzlement. Lacking any compelling state interest--legal or scientific--to justify differentiating between the two groups when the fundamental right to procreate was at stake, the Court struck down the statute on equal protection grounds. (270)
+Skinner and Eighth Amendment capital proportionality cases reveal the implicit form of heightened scrutiny that the Court has previously incorporated into the Eighth Amendment, which had ensured that similarly situated individuals were treated similarly. Intrajurisdicational analysis required that a state have a strong interest in treating similarly situated individuals differently to justify the imposition of the differential punishment at issue. In Skinner, the Court required a compelling state interest to differentiate between the two groups because sterilization implicated a fundamental right. In capital cases, the Court has treated death as different in kind from other forms of punishment, because of its severity and the finality for the life interest at stake for the defendant. (271) Consequently, if the group at issue (characterized by their criminal act) was subject to the death penalty while a similarly situated group (based on their criminal act) was not, the Court carefully scrutinized the justification for subjecting the former to execution. As discussed in Part I, without a sufficient state justification, the Court found the death penalty to be disproportionate and thereby cruel and unusual punishment prohibited under the Eighth Amendment. Thus, intrajurisdictional analysis promoted evenhandedness, but its role in prior cases also reveals a prohibition against execution that may embody a fundamental right, or at the very least one that the Court treats as requiring heightened review.
+Jettisoning the Eighth Amendment review of evenhandedness may now compel an equality inquiry into legislative classifications for categorical exemptions to the death penalty under the Equal Protection Clause. By applying heightened scrutiny to the legislative rationale for distinguishing between groups subject to the death penalty, and by recognizing the execution of the mentally retarded to be cruel and unusual punishment, (272) the lost intrajurisdictional analysis may have created a new tension between the Eighth and Fourteenth Amendments. The Court has treated the interest underlying the right to be free from execution as one of the highest order. The issue--using scientific criteria to define who will be entitled to the exemption from the death penalty and who will not--might be seen as particularly pernicious and thereby appropriately subject to heightened or the most searching strict judicial review.
+The history behind the Skinner opinion provides further illumination. The distinction may have been driven by the American Eugenics movement, where states sought to sterilize habitual offenders based on scientific claims that criminality was hereditary. (273) The Court stymied this discrimination by striking down, under strict judicial review, the scheme sterilizing some and not other criminals committing intrinsically the same quality of offense. (274) According to the majority opinion, such discrimination is tantamount to selecting "a particular race or nationality for oppressive treatment." (275) The same could be argued of the current legislative schemes as discriminatory for defining mental retardation using medical or scientific evidence rather than legal criteria tailored to the purpose of the exemption. Individuals who have intrinsically the same quality of culpability based on their cognitive, behavioral and adaptive functioning, are subject to the death penalty, while the medically diagnosed mentally retarded are not. Under circumstances where a category has been carved out for different treatment with respect to the death penalty, and defined purely by scientific criteria, the claim may be particularly salient. Especially in cases where invidious discrimination arises with respect to irreparable rights, more than one clause of the Constitution has been implicated.
+Who will and will not be considered legally mentally retarded focuses the issue. (276) A legal definition of mental retardation based solely on medical diagnostic criteria does not graft onto the constitutional purpose identified in Atkins of affording the mentally retarded unique protection under the Eighth Amendment--their lesser culpability making deterrence and retribution ineffective and less appropriate. Individuals who are legally indistinguishable from the medically mentally retarded with respect to the legislative purpose at issue are excluded from the classifications. (277) It is possible that a sufficient state justification could exclude some of the conditions discussed in Part III, or that the inclusion of others would be appropriate, but to debate over these issues requires that one first concede the framework of an Eighth and Fourteenth Amendment interaction.
+Comparing City of Cleburne v. Cleburne Living Center, Inc. (278) to Atkins makes plain that this claim would be novel in its approach. In Cleburne, the Court struck down on rational basis review a zoning ordinance that denied the Cleburne Living Center a permit to build a group home for the mentally retarded. In doing so, the Court held the mentally retarded are neither a suspect nor a quasi-suspect class, and that zoning rights do not touch upon a fundamental personal right. (279) By contrast, if Atkins touches upon a fundamental right, then legislative definitions of mental retardation would newly allow invocation of heightened or strict scrutiny analysis. (280)
+One federal judge found strict scrutiny to be the applicable standard for the classification of mental retardation post-Atkins. In Walker v. True, (281) Judge Gregory wrote in his partial concurrence and dissent: "It is plain that 'when state laws impinge on personal rights protected by the Constitution,' strict scrutiny--not rational-basis review--is warranted.... The Eighth Amendment's prohibition against the cruel and unusual punishment embodied by the execution of the mentally retarded is surely a fundamental, personal constitutional right." (282) Judge Gregory did not provide a more detailed explanation as to why Atkins embodied a fundamental right. Perhaps the intrajurisdictional analysis and "death is different" discussion from above informs his perspective, such that he also believes the Court has implicitly treated the prohibition against the death penalty for certain groups with heightened, or strict, judicial review. Implicitly treating this group-wise prohibition with strict scrutiny would be appropriate if it embodied a fundamental right.
+The first court to address an equal protection challenge to a statutory definition of mental retardation, however, analyzed it on rational basis review. In State v. Anderson, (283) the defendant challenged his capital sentence by claiming that the statutory definition of mental retardation in Louisiana violated the Equal Protection Clause. He challenged the inclusion of an age of onset requirement before the age of eighteen, and asked the Louisiana Supreme Court to apply strict scrutiny in analyzing his claim. (284) Anderson made both Eighth and Fourteenth Amendment claims. He argued that he could satisfy the definition of mental retardation, but that if he failed to do so his traumatic brain injury, which occurred at the age of thirty-two, caused him to now suffer the same cognitive and adaptive functioning deficits as those medically diagnosed as mentally retarded. (285)
+The state challenged Anderson's Eighth Amendment claim by arguing that he had not been diagnosed with mental retardation before the age of eighteen and therefore could not satisfy the statutory criteria for mental retardation. (286) In response to his equal protection challenge, the state argued that the fact his brain injury occurred after the age of eighteen was dispositive as to its irrelevance to a claim of mental retardation. (287) The Louisiana Supreme Court agreed on both claims. It held that Anderson had failed to demonstrate that his deficits occurred before the age of eighteen. (288) Then, relying upon City of Cleburne for support, it reasoned that mental retardation is not a suspect class so only rational basis review should apply to his equal protection challenge to the age of onset provision. (289) Under rational basis review, the court opined, classifications may produce "seeming arbitrary anomalies. A normal 16-year-old who suffers traumatic brain damage in an automobile may receive a diagnosis of mental retardation while a normal 18-year-old who suffers the same damage in a similar manner may not, although the degree of impairment in intellectual functioning and adaptive skills may be identical in both instances." (290)
+One might disagree that even rational basis review could support such anomalous results, but it seems unassailable that the distinction would fail heightened or strict judicial review. The Anderson Court did not question whether the equal protection challenge to the classification scheme touched upon a fundamental right. If one adopts Judge Gregory's perspective, and Atkins embodies a fundamental right, then strict scrutiny should have been applied to Anderson's claim. Even without adopting Judge Gregory's fundamental rights perspective, however, the case reveals that an Eighth Amendment proportionality review, stripped of intrajurisdictional analysis, lacks the implicit equality review it previously included. The Anderson court could not have reached the conclusion it did had it required an intrajurisdictional prong.
+Presented with an equal protection, challenge, however, equality may still have been at issue in Anderson. The classification scheme requires a different analysis under a pure Eighth Amendment review than under a hybrid Eighth and Fourteenth Amendment approach. (291) In the former case, the defendant is simply raising an Eighth Amendment claim in his particular case; in the latter, he is challenging the legislative classification under Equal Protection that affects him by excluding him from the definition of mental retardation under the Cruel and Unusual Punishments clause. While the Eighth Amendment claim might fail alone, the hybrid claim, or the collision between both clauses, challenges the classification within the definition of who is and who is not entitled to exercise the prohibition against cruel and unequal punishments. Equal protection requires states to include all those who are similarly situated within the classification scheme. And if heightened or strict scrutiny review applies, than a mere arbitrary line based on age of onset will not suffice. Even under rational basis review many of the distinctions discussed in Part III are unlikely to survive this hybrid approach.
+Could the Court have foreseen or forestalled the inequitable fallout from Atkins? At the very least, had the Court applied its proportionality precedents more rigorously, rather than abandoning intrajurisdictional analysis, it could have prevented the subsequent enactment of potentially unconstitutional legislative classifications of mental retardation. With its intrajurisdictional analysis, the Court would have compared the culpability of this class of offenders--the mentally retarded--with other similarly situated classes of individuals. Through intrajurisdictional analysis the Court insulated its previous punishment-to-crime proportionality cases against this claim by engaging in a de facto equality analysis. Had the Court done the same here when it shifted to punishment-to-group proportionality analysis it could have fashioned the group in a manner that avoided inequitable results. Under such a scenario, the definition of mental retardation would have been written in a way that gave due consideration to the equality consideration in the Eighth Amendment and the equality concerns in the Equal Protection Clause. (292) Intrajurisdictional analysis would have enabled the Court to identify the differences that would rise to the level of a sufficient state interest to justify drawing distinctions between the groups subject to capital punishment, and thereby defined mental retardation in a manner that avoided likely future litigation on this point. (293) Instead, it burdened the states with that task.
+Nevertheless, the safe harbor the Court created for states to adopt medical diagnostic criteria for mental retardation should not now save legislative schemes enacted pursuant to Atkins from subsequent legal challenges. Although the Court may not initially have considered the equal protection implications of the ruling, it will be faced with the inequity that has followed, undoubtedly framed in this manner. But the Court can prevent such inequities in future categorical exemption cases by defining the class entitled to exercise the new constitutional right, and doing so in light of the principles of equality, whether via intrajurisdictional analysis or by taking the constraints of equal protection into consideration.
+State legislatures can ward off potential challenges to their statutory schemes by adopting legal definitions of mental retardation that are broad enough to encompass the different etiologies leading to cognitive, behavioral, or adaptive impairments, while being age of onset neutral. The Court may have intended such a legal definition of mental retardation in Atkins by its own reasoning, when it said "by definition," the mentally retarded have:
+
+diminished capacities to understand and process information, to
+communicate, to abstract from mistakes and learn from experience,
+to engage in logical reasoning, to control impulses, and to
+*| understand the reactions of others.... [T]hey often act on impulse | 
+*| rather than pursuant to a premeditated plan, and ... in group | 
+*| settings they are followers rather than leaders. (294) | 
+Using the Court's own language, the legal definition of mental retardation could be fashioned to encompass relevant medical conditions and serve the legal purpose identified in Atkins of exempting the least culpable offenders from death. The following could serve as a legislative definition of mental retardation:
+
+Mental Retardation. As a result of a mental disease or defect,
+diminished capacity to understand and process information, to
+communicate, to abstract from mistakes and learn from experience,
+*| to engage in logical reasoning, to control impulses, and to | 
+*| understand the reactions of others. | 
+Alternately, the Court might avoid equality concerns altogether if it were to decide that cases like Enmund v. Florida, (295) Tison v. Arizona, (296) Atkins v. Virginia, (297) and Roper v. Simmons, (298) are mere instantiations of a larger and more generalized category, a lesser culpability category exempt from the death penalty. Such a category would cut across both crimes and persons, and need not make reference to medical conditions. Or, if the Court remains concerned with leaving certain decisions in the hands of jurors, it could decide that some medical conditions per se satisfy the standard of lesser culpability.
+Unless the Court takes a generalized culpability-based approach, any new legislative classification of mental retardation may be subject to equality challenges. Rather than allow for the near quarter century of mayhem the Court produced between its decisions in Ford v. Wainwright (299) and Panetti v. Quartermain, (300) the Court should now correct the inequities that have followed from Atkins.
+Of course, the Court's new jurisprudence has implications well beyond the classification of mental retardation. Any classification of persons or crimes the Court carves out under the Cruel and Unusual Punishments Clause could also have inequitable results. So, for example, while the Court in Cleburne held that age is not a suspect class, (301) in Roper v. Simmons it exempted from capital punishment those under eighteen years of age. (302) This leaves open possible claims like those raised in Penry v. Lynaugh, (303) that mental age in addition to chronological age will be subject to an Eighth Amendment/Fourteenth Amendment challenge. Similarly, should the Court's intimation when it modified its order denying the rehearing of Kennedy v. Louisiana (304) pan out into a holding that the Cruel and Unusual Punishments Clause allows different punishments for the same crime by civilians and military personnel, an equal protection challenge could follow. (305) Moreover, by applying the Thompson reformulation in Kennedy, the Court stripped its newest punishment-to-crime proportionality case of intrajurisdictional analysis. This invites the same kind of equal protection challenge in this area of proportionality review.
+CONCLUSION
+When the Court shifted its Eighth Amendment proportionality analysis under the Cruel and Unusual Punishments Clause to carve out categories of people for heightened protection, it introduced a new era of inequality whereby similarly situated individuals are treated differently for purposes of punishment. Rather than carefully applying its earlier proportionality precedent, the Court abbreviated its doctrinal analysis when it focused on the proportion between punishment and culpability of groups of individuals. When the Court made this dramatic and unremarked shift from punishment-to-crime to punishment-to-culpability proportionality analysis, it failed to consider whether doing so would create unconstitutional inequalities between individuals with respect to the right against cruel and unusual punishment.
+Had the Court undertaken an intrajurisdictional analysis between the culpability of the mentally retarded and similar classes of offenders--as it had always done in its punishment-to-crime proportionality cases, by comparing the punishment-to-crime ratio against other similar punishment-to-crime ratios in the same jurisdiction--then it may have averted the inequities that have followed. The Court would have had to define the term mental retardation in law, to discuss the relevant class of individuals for comparison, and consider the similarities and differences between mentally retarded and other similarly situated groups of offenders. Then, the Court may have realized the arbitrariness of using diagnostic criteria for mental retardation as the legal standard for identifying the least culpable offenders ineligible for the death penalty. It could have forestalled legislative enactments based on medical diagnostic criteria, and likewise cautioned states to consider the requirements of the Equal Protection Clause of the Fourteenth Amendment when developing classification schemes pursuant to Atkins.
+Regrettably, the Court failed to appreciate the implications of its new ruling. The result has been arbitrary and unequal application of the Eighth Amendment to similarly situated individuals. Through the Court's new jurisprudence, a new disproportionality has emerged--a capital defendant who suffers traumatic brain injury at age twenty-two, and exhibits all of the same behavioral manifestations as a medically diagnosed mentally retarded capital offender, can be subject to the death penalty while one with early onset mental retardation cannot. These legislative enactments are now ripe to be challenged on equal protection grounds.
+That the Court failed to recognize the potential conflict it created between the Cruel and Unusual Punishments Clause and the equal protection guarantees of the Fourteenth Amendment is unsurprising--it had never before succeeded in carving out classes of individuals for unique treatment for purposes of punishment. What is surprising is that the Court has continued to do so in subsequent cases, without recognizing the apparent interrelationship it has created between the Eighth and Fourteenth Amendments. This continuing failure has transformed the constitutional guarantee against cruel and unusual punishment into a new assurance of cruel and unequal punishment. The time is ripe for Court to recognize its mistake and to realign its Eighth Amendment jurisprudence.
+(1.) State v. Brown, 907 So. 2d 1, 32 (La. 2005).
+(2.) Id.
+(3.) Id. at 6.
+(4.) Id. at 11.
+(5.) Id. at 30.
+(6.) 536 U.S. 304 (2002).
+(7.) Brown, 907 So. 2d at 31.
+(8.) Coker v. Georgia, 433 U.S. 584 (1977).
+(9.) The punishment of cadena temporal included imprisonment for at least twelve years and one day, in chains, while serving hard labor to the state. Weems v. United States, 217 U.S. 349, 364 (1910).
+(10.) Atkins, 536 U.S. at 318-21.
+(11.) See, e.g., John H. Blume & Sheri Lynn Johnson, Killing the Non-Willing: Atkins, the Volitionally Incapacitated and the Death Penalty, 55 S.C. L. REV. 93 (2003) (arguing that there ought to be a categorical exception from the death penalty for individuals with mental illness because mental disorders diminish culpability in a significant way); Timothy S. Hall, Mental Status and Criminal Culpability After Atkins v. Virginia, 29 U. DAYTON L. REV. 355 (2004) (questioning how execution of the mentally retarded can be justified by reference to the nature of the mentally retarded defendant's cognitive impairment while applying a different standard to a mentally ill defendant with functionally identical cognitive impairments); Laurie T. Izutsu, Applying Atkins v. Virginia to Capital Defendants with Severe Mental Illness, 70 BROOK. L. REV. 995 (2005) (proposing a categorical exemption from capital punishment for individuals with severe mental disorders because offenders with severe mental illnesses, although not intellectually impaired, suffer from cognitive and behavioral impairments analogous to the deficiencies experienced by defendants with mental retardation found less culpable in Atkins).
+(12.) Trop v. Dulles, 356 U.S. 86, 101 (1958) (plurality opinion).
+(13.) The national consensus is usually based on either a count of state legislative enactments, together with jury opinions and sometimes public opinion polls. The Court has sometimes, controversially, relied upon practice in foreign countries for support as well. See generally cases and discussion in Part I, infra.
+(14.) See Christopher Slobogin, What Atkins Could Mean for People With Mental Illness, 33 N.M. L. REV. 293 (2003) (arguing that there is no rational basis to distinguish between the mentally ill and the mentally retarded, and the execution of the mentally ill should be banned via the Equal Protection Clause).
+(15.) See City of Cleburne v. Cleburne Living Ctr., Inc., 473 U.S. 432 (1985).
+(16.) See Skinner v. Oklahoma ex rel. Williamson, 316 U.S. 535, 541 (1942) (striking down a statute authorizing the sterilization of some convicts because it arbitrarily classified persons as "habitual offenders" where a fundamental right was at issue); JOHN E. NOWAK & RONALD D. ROTUNDA, CONSTITUTIONAL LAW 575 (4th ed. 1991) ("[T]he Court often employs the strict scrutiny compelling interest test in reviewing legislation which limits fundamental constitutional rights.... Because equal protection problems involve classifications rather than the limitations of rights for all persons, the Court is sometimes called upon to exercise strict scrutiny of legislation because of classifying traits employed by the legislature rather than the nature of the right touched upon by the legislative act.").
+(17.) See, e.g., United States v. Carolene Prods. Co., 304 U.S. 144, 152 n.4 (1938) (explaining that there may be a narrower presumption of constitutionality of legislation when it touches upon a fundamental right protected by the Constitution); Walker v. True, 399 F.3d 315, 328 (4th Cir. 2005) (Gregory, J., concurring in part and dissenting in part) (arguing that the majority's application of rational basis review to Virginia's scheme for determining mental retardation for execution was inappropriate because "'when state laws impinge on personal rights protected in the Constitution,' strict scrutiny--not rational-basis review--is warranted. The Eighth Amendment's prohibition against the cruel and unusual punishment embodied by the execution of the mentally retarded is surely a fundamental, personal constitutional right." (citations omitted)); see also Adamson v. California, 332 U.S. 46, 84 (1947), overruled, in part, on other grounds by Malloy v. Hogan, 378 U.S. 1 (1964) (holding that the Supreme Court had held that freedom from, "at the very least, certain types of cruel and usual punishment" was a fundamental right); Louisiana ex rel. Francis v. Resweber, 329 U.S. 459, 464 (1947) (holding that "[t]he cruelty against which the [Eighth Amendment] protects a convicted man is the cruelty inherent in the method of punishment"); Stoutenburgh v. Frazier, No. 946, 1900 WL 129761, at *7 (D.C. Cir. Mar. 7, 1900) ("[T]here are certain fundamental rights of person and property, even in this District, that are beyond the power of Congress to disregard or violate. The rights secured to persons and property by the Fourth and Eighth Amendments to the Constitution are among such rights.").
+(18.) 217 U.S. 349 (1910).
+(19.) Gregg v. Georgia, 428 U.S. 153, 171 (1976) (plurality opinion).
+(20.) Weems, 217 U.S. at 368 ("What constitutes a cruel and unusual punishment has not been exactly decided. It has been said that ordinarily the terms imply something inhuman and barbarous, torture and the like. The Court, however, . . . [has] conceded the possibility 'that imprisonment in the State prison for a long term of years might be so disproportionate to the offense as to constitute a cruel and unusual punishment.'") (citations omitted).
+(21.) See supra note 9.
+(22.) Weems, 217 U.S. at 377.
+(23.) Id. at 380 ("There are degrees of homicide that are not punished so severely, nor are the following crimes: misprision of treason, inciting rebellion, conspiracy to destroy the Government by force, recruiting soldiers in the United States to fight against the United States, forgery of letters patent, forgery of bonds and other instruments for the purpose of defrauding the United States, robbery, larceny, and other crimes.").
+(24.) Id. at 381 ("[T]he highest punishment possible for a crime which may cause the loss of many thousand of dollars, and to prevent which the duty of the State should be as eager as to prevent the perversion of truth in a public document, is not greater than that which may be imposed for falsifying a single item of a public account.").
+(25.) Id.
+(26.) 356 U.S. 86 (1958); see also Corey Rayburn Yung, Is Military Law Relevant to "Evolving Standards of Decency" Embodied in the Eighth Amendment?, 103 NW. U. L. REV. COLLOQUY 140, 142 (2008) (noting that "the Supreme Court altered the course of Eighth Amendment jurisprudence when it held that punishment must comport with, 'the evolving standards of decency that mark the progress of a maturing society.'").
+(27.) Trop, 356 U.S. at 101.
+(28.) The defendant, a private in the United States Army, was charged with desertion. Id. at 87. As a result of his desertion, he lost his rights of citizenship. Id. at 88-90. The Court found the punishment to be cruel in that it was "more primitive than torture," and "offensive to cardinal principles for which the Constitution stands." Id. at 101-02. The Court found the practice unusual because "civilized nations of the world are in virtual unanimity that statelessness is not to be imposed as punishment for crime." Id. at 102. The Court therefore concluded that the Eighth Amendment prohibited denationalization for the crime of desertion. Id. at 103.
+(29.) Id. at 99 ("Since wartime desertion is punishable by death, there can be no argument that the penalty of denationalization is excessive in relation to the gravity of the crime.").
+(30.) 428 U.S. 153 (1976). See, e.g., Stanford v. Kentucky, 492 U.S. 361, 379-80 (1989) ("[W]e have never invalidated a punishment on [proportionality] alone. All of our cases condemning a punishment [as disproportionate] ... also found that the objective indicators of state laws or jury determinations evidenced a societal consensus against that penalty.... In fact, the two methodologies blend into one another, since 'proportionality' analysis itself can only be conducted on the basis of the standards set by our own society; the only alternative, once again, would be our personal preferences.") (citations omitted).
+(31.) For a punishment to comport with "the dignity of man," and thereby avoid being cruel, the Court said, it cannot be excessive. Trop, 356 U.S. at 100. And excessiveness requires that the punishment avoid "the unnecessary and wanton infliction of pain," and "not be grossly out of proportion to the severity of the crime." Gregg, 428 U.S. at 173 (plurality opinion).
+(32.) Gregg, 428 U.S. at 175 ("[T]he constitutional test is intertwined with an assessment of contemporary standards and the legislative judgment weighs heavily in ascertaining such standards.").
+(33.) Id. at 176.
+(34.) Id. at 182 (citing Trop, 356 U.S. at 100).
+(35.) Id. at 182-83.
+(36.) Id. at 183-87.
+(37.) See id. at 176-79.
+(38.) Id. at 187.
+(39.) Id. at 179-82.
+(40.) Id. at 187.
+(41.) 433 U.S. 584 (1977).
+(42.) Id. at 592 (plurality opinion).
+(43.) Id.
+(44.) Id.
+(45.) Id. at 593.
+(46.) Id. at 593-96.
+(47.) Id. at 596-97.
+(48.) Id. at 597.
+(49.) Id. at 597-98 ("[Rape] is highly reprehensible.... Short of homicide, it is the 'ultimate violation of self.' It is also a violent crime.... Because it undermines the community's sense of security, there is public injury as well. Rape is without doubt deserving of serious punishment; but ... it does not compare with murder, which does involve the unjustified taking of human life.") (footnote omitted).
+(50.) [U]nder Georgia law, death may not be imposed for any capital offense, including rape, unless the jury or judge finds one of the statutory aggravating circumstances and then elects to impose that sentence... . For the rapist to be executed in Georgia, it must therefore be found not only that he committed rape but also that one or more ... aggravating circumstances were present ... [I]n Georgia a person commits murder when he unlawfully and with malice aforethought ... causes the death of another human being. He also commits that crime when in the commission of a felony he causes the death of another human being, irrespective of malice. But even where the killing is deliberate, it is not punishable by death absent proof of aggravating circumstances. Id. at 598-600.
+(51.) Id. at 600.
+(52.) 445 U.S. 263 (1980).
+(53.) Id. at 270-71.
+(54.) Id. at 272. The Court nevertheless engaged the substance of Rummel's claim, invoking the Coker reformulation for support. First, the Court rejected Rummel's interjurisdictional analysis, which asserted a nationwide trend against mandatory life sentences toward lighter, discretionary sentences. Id. at 279-84. Next, it rejected Rummel's attempt to diminish the comparative gravity of his offense, both in substance, and on the merits of the judiciary engaging in such an inquiry:
+
+Rummel points to certain characteristics of his offenses that
+allegedly render them "petty." He cites, for example, the absence
+of violence in his crimes. But the presence or absence of violence
+*| does not always affect the strength of society's interest in | 
+*| deterring a particular crime or in punishing a particular | 
+*| criminal.... Additionally, Rummel cites the "small" amount of money | 
+*| taken in each of his crimes. But to recognize that the State of | 
+*| Texas could have imprisoned Rummel for life if he had stolen | 
+*| $5,000, $50,000, or $500,000, rather than the $120.75 that a jury | 
+*| convicted him of stealing, is virtually to concede that the lines | 
+*| to be drawn are indeed "subjective," and therefore properly within | 
+*| the province of legislatures, not courts. | 
+Id. at 275-76. Finally, the Court rejected both the merits and propriety of interjurisdictional comparison in proportionality analysis:
+
+The dissent draws some support for its belief that Rummel's
+sentence is unconstitutional by comparing it with punishments
+imposed by Texas for crimes other than those committed by Rummel.
+*| Other crimes, of course, implicate other societal interests, making | 
+*| any such comparison inherently speculative. Embezzlement, dealing | 
+*| in "hard" drugs, and forgery, to name only three offenses, could be | 
+*| denominated "property related" offenses, and yet each can be viewed | 
+*| as an assault on a unique set of societal values as defined by the | 
+*| political process.... The highly placed executive who embezzles | 
+*| huge sums from a state savings and loan association, causing many | 
+*| shareholders of limited means to lose substantial parts of their | 
+*| savings, has committed a crime very different from a man who takes | 
+*| a smaller amount of money from the same savings and loan at the | 
+*| point of a gun. Yet rational people could disagree as to which | 
+*| criminal merits harsher punishment. By the same token, a State | 
+*| cannot be required to treat persons who have committed three | 
+*| "minor" offenses less severely than persons who have committed one | 
+*| or two "more serious" offenses. If nothing else, the threetime | 
+*| offender's conduct supports inferences about his ability to conform | 
+*| with social norms that are quite different from possible inferences | 
+*| about first- or second-time offenders. | 
+Id. at 282 n.27. In the absence of objective evidence to the contrary, the majority held that Texas was entitled to make its own judgment as to how many years imprisonment was appropriate for a recidivist felon like Rummel. Id. at 295. The dissent argued that proportionality analysis in capital and noncapital cases alike should be informed by "(i) the nature of the offense; (ii) the sentence imposed for commission of the same crime in other jurisdictions; and (iii) the sentence imposed upon other criminals in the same jurisdiction." Id. at 295 (citations omitted).
+(55.) 458 U.S. 782 (1982).
+(56.) Id. at 787.
+(57.) Id. at 789-96.
+(58.) Id. at 797-801.
+(59.) Id. at 798.
+(60.) Although the Court agreed robbery was a serious offense, it concluded that "'[i]t does not compare with murder.... The murderer kills; the [robber], if no more than that, does not.'" Id. at 797 (citations omitted).
+(61.) Id. at 798 ("[U]nder Florida law death was an authorized penalty because Enmund aided and abetted a robbery in the course of which murder was committed. It is fundamental that 'causing harm intentionally must be punished more severely than causing the same harm unintentionally.' Enmund did not kill or intend to kill and thus his culpability is plainly different from that of the robbers who killed; yet the State treated them alike and attributed to Enmund the culpability of those who killed the Kerseys." (citations omitted)).
+(62.) Id. at 797 ("[W]e have the abiding conviction that the death penalty, which is 'unique in its severity and irrevocability,' is an excessive penalty for the robber who, as such, does not take human life." (citations omitted)).
+(63.) 463 U.S. 277 (1983).
+(64.) Id. at 283-84.
+(65.) Id. at 292.
+
+First, we look to the gravity of the offense and the harshness of
+the penalty. In Enmund, for example, the Court examined the
+circumstances of the defendant's crime in great detail. In Coker
+*| the Court considered the seriousness of the crime of rape, and | 
+*| compared it to other crimes, such as murder. In Robinson the | 
+*| emphasis was placed on the nature of the "crime." And in Weems, the | 
+*| Court's opinion commented in two separate places on the pettiness | 
+*| of the offense. Of course, a court must consider the severity of | 
+*| the penalty in deciding whether it is disproportionate. | 
+Id. at 290-91 (citations omitted).
+(66.) Id. at 292; see also id. at 291 ("Thus in Enmund the Court noted that all of the other felony murderers on death row in Florida were more culpable than the petitioner there. The Weems Court identified an impressive list of more serious crimes that were subject to less serious penalties.") (citations omitted).
+(67.) Id. at 292.
+(68.)
+
+The Constitution requires us to examine Helm's sentence to
+determine if it is proportionate to his crime. Applying objective
+criteria, we find that Helm has received the penultimate sentence
+*| for relatively minor criminal conduct. He has been treated more | 
+*| harshly than other criminals in the State who have committed more | 
+*| serious crimes. He has been treated more harshly than he would have | 
+*| been in any other jurisdiction, with the possible exception of a | 
+*| single State. We conclude that his sentence is significantly | 
+*| disproportionate to his crime, and is therefore prohibited by the | 
+*| Eighth Amendment. Id. at 303 | 
+(69.) 481 U.S. 137 (1987).
+(70.) Id. at 152.
+(71.) Id.
+(72.)
+
+The largest number of States still fall into the two intermediate
+categories discussed in Enmund.... [But, the] substantial and
+recent legislative authorization of the death penalty for the crime
+*| of felony murder regardless of the absence of a finding of an | 
+*| intent to kill powerfully suggests that our society does not reject | 
+*| the death penalty as grossly excessive under these circumstances. | 
+Id. at 152-54. And, apparent consensus in states that substantial participation in a violent felony under circumstances likely to result in the loss of innocent human life may justify the death penalty even in the absence of the intent to kill. Id. at 154.
+(73.) Id. at 156-58.
+(74.) Id. at 158-59.
+(75.) Id. at 168 (Brennan, J., dissenting).
+(76.) Id. at 179.
+(77.) Id. at 179-80 (quoting Solem v. Helm, 463 U.S. 277, 292 (1983)).
+(78.) Id. at 180.
+(79.) Id. at 182.
+(80.) 487 U.S. 815 (1988).
+(81.) Id. at 823-33.
+(82.) Id. at 836-38 (citing Gregg v. Georgia, 428 U.S. 153, 183 (1976)).
+(83.) Id. at 833 (asking "whether the juvenile's culpability should be measured by the same standard as that of the adult").
+(84.)
+
+"But youth is more than a chronological fact. It is a time and
+condition of life when a person may be most susceptible to
+influence and to psychological damage...." [T]he Court has already
+*| endorsed the proposition that less culpability should attach to a | 
+*| crime committed by a juvenile than to a comparable crime committed | 
+*| by an adult. The basis for this conclusion is too obvious to | 
+*| require extended explanation. Inexperience, less education, and | 
+*| less intelligence make the teenager less able to evaluate the | 
+*| consequences of his or her conduct while at the same time he or she | 
+*| is much more apt to be motivated by mere emotion or peer pressure | 
+*| than is an adult. | 
+Id. at 834-35.
+(85.) Id. at 836-38.
+(86.) Id. at 849, 857-58 (holding that in the peculiar circumstances of a legislature failing to set a minimum age for execution either without realizing its ultimate effect or without giving the question serious thought, the State could not execute people under the age of sixteen under the Eighth Amendment).
+(87.) Stanford v. Kentucky, 492 U.S. 361, 369 (1989) (quoting Coker v. Georgia, 433 U.S. 584, 592 (1977)).
+(88.) Id. at 370.
+(89.) Id. at 370-73.
+(90.) Id. at 378. Justice Scalia's appropriation of the Thompson reformulation to defeat a similar claim signaled the growing divide on the Court in Eight Amendment proportionality cases. By 1991, it became clear that a successful proportionality claim outside the capital sentencing context would be rare. In Harmelin v. Michigan, 501 U.S. 957 (1991), a divided Court rejected the defendant's claim that his sentence of life imprisonment without parole was disproportionate to the crime of possession of more than 650 grams of cocaine. The Court, however, could not agree on why his proportionality argument failed. See Ewing v. California, 538 U.S. 11, 23 (2003). In Harmelin, Justice Scalia wrote that proportionality was an aspect of death penalty jurisprudence, and not general sentences. See Harmelin, 501 U.S. at 985-96. But he could only command a majority for the part of his opinion that articulated the Court's individualized sentencing doctrine did not apply outside of the capital context. Id. at 995-96.
+Justice Kennedy, in his concurrence joined by Justices O'Connor and Souter, distilled four common principles from the Court's proportionality cases, implicitly rejecting the Gregg/Coker/Thompson approaches outside of capital sentencing. Id. at 998-1000 (Kennedy, J., concurring). After examining these four factors, the concurrence rejected Harmelin's claim. Id. at 1009.
+Justice White, joined by Justices Blackmun and Stevens in dissent, admonished both approaches. The dissent criticized Justice Scalia for seeking "to deliver a swift death sentence to Solem," and Justice Kennedy for "eviscerat[ing] it, leaving only an empty shell." Id. at 1018 (White, J., dissenting). Instead, "the use of an intrajurisdictional and interjurisdictional comparison of punishments and crimes has long been an integral part of our Eighth Amendment jurisprudence." Id. at 1019. And, by abandoning the second and third factors of the Solem test, Justice Kennedy made "any attempt at an objective proportionality analysis futile." Id. at 1020. Any court to attempt such an assessment "would have no basis for its determination that a sentence was--or was not--disproportionate, other than the 'subjective views of individuals [judges],' which is the very sort of analysis our Eighth Amendment jurisprudence has shunned." Id. at 1020 (internal citations omitted). The dissent then applied the three factors and found that the defendant's punishment was disproportionate to his crime. Id. at 1021-27.
+(91.) 128 S. Ct. 2641 (2008).
+(92.) Id. at 2650-58.
+(93.) Id. at 2658-64.
+(94.) See infra Part IV; On Petition for Rehearing at 3-4, Kennedy v. Louisiana, 128 S. Ct. 2641 (2008) (No. 07-343), available at . ("This case, too, involves the application of the Eighth Amendment to civilian law; and so we need not decide whether certain considerations might justify differences in the application of the Cruel and Unusual Punishments Clause to military cases . . . .").
+(95.) "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted." U.S. CONST. amend. VIII.
+(96.) Atkins v. Virginia, 536 U.S. 304 (2002).
+(97.) Id. at 311-13.
+(98.) Id. at 314-16.
+(99.) See id. at 316 n.21.
+(100.) Id. at 318.
+(101.) Id. at 313, 318-21.
+(102.) Id. at 317-18 ("Their deficiencies do not warrant an exemption from criminal sanctions, but they do diminish their personal culpability.").
+(103.) For example, persons who have the mental age of a minor, as argued in Penry v. Lynaugh, 492 U.S. 302 (1989).
+(104.) Atkins, 536 U.S. at 319-20.
+(105.) Id. at 319.
+(106.) Id. at 319-20.
+(107.) Id. at 319 (citing Gregg v. Georgia, 428 U.S. 153 (1976); Godfrey v. Georgia, 446 U.S. 420, 433 (1980)).
+(108.) Id.
+(109.) Id. at 319-20.
+(110.) Id. at 320.
+(111.) Id. at 320-21.
+(112.) See id.
+(113.) See id.
+(114.) Id. at 319-21.
+(115.) Id. at 317 (citations omitted).
+(116.) 477 U.S. 399 (1986).
+(117.) Id. at 418-19 (Powell, J., concurring) (noting that the majority opinion did not address the constitutional meaning of insanity in the context of criminal executions, and turning to common-law principles and the modern practices of state legislatures to provide that meaning).
+(118.) Id. at 422 ("Accordingly, I would hold that the Eighth Amendment forbids the execution only of those who are unaware of the punishment they are about to suffer and why they are to suffer it.").
+(119.) See statutes cited infra note 120.
+(120.) Responses to the Ford opinion on the state level have varied widely. In the wake of that opinion, four states maintained a general prohibition on executing the insane, see, e.g., CONN. GEN. STAT. [section] 54-101 (2001); one state maintained a standard substantially similar to Justice Powell's, see FLA. STAT. ANN. [section] 922.07 (West 2001); and eight states maintained a standard that was substantially similar to Justice Powell's, but that also included a competency provision, see, e.g., N.C. GEN. STAT. [section] 15A-1001 (2007). In addition, one state adopted a general prohibition on executing the insane, see N.H. REV. STAT. ANN. [section] 4:24 (2003); fifteen states adopted Justice Powell's standard, see, e.g., GA. CODE ANN. [section] 17-10-60 (2004); and four states adopted a standard that was substantially similar to Justice Powell's, but that also included a competency provision, see, e.g., S.D. CODIFIED LAWS [section] 23A-10A-1 (2004). Four states have not formally provided either a statutory or common law prohibition on executing the insane. See, e.g., 730 ILL. COMP. STAT. 5/5-2-3)(a) (1992) (prohibiting execution of defendant unable to understand nature and purpose of his sentence) (repealed Jan. 1, 1994). Thirteen states currently prohibit the death penalty altogether. See, e.g., Jeremy W. Peters, Corzine Signs Bill Ending Executions, Then Commutes Sentences of 8, N.Y. TIMES, Dec. 18, 2007, at B3.
+(121.) 127 S. Ct. 2842 (2007).
+(122.) Id. at 2874 (Thomas, J., dissenting).
+(123.) See Developments in the Law--The Law of Mental Illness, 121 HARV. L. REV. 1114, 1162 (2008).
+(124.) Id.
+(125.) Atkins v. Virginia, 536 U.S. 304, 317 (2002) (emphasis added) (footnote omitted).
+(126.) Id. at 318 (emphasis added) (footnote omitted).
+(127.) Id. at 317.
+(128.) For examples of the Court rejecting the use of medical criteria to formulate a single definition of legal insanity, see Clark v. Arizona, 126 S. Ct. 2709, 2722 (2006) ("[M]edical definitions devised to justify treatment, like legal ones devised to excuse from conventional criminal responsibility, are subject to flux and disagreement. There being such fodder for reasonable debate about what the cognate legal and medical tests should be, due process imposes no single canonical formulation of legal insanity.") (citations omitted), and Leland v. Oregon, 343 U.S. 790, 801 (1952) ("[C]hoice of a test of legal sanity involves not only scientific knowledge but questions of basic policy as to the extent to which that knowledge should determine criminal responsibility.").
+(129.) "The statutory definitions of mental retardation are not identical, but generally conform to the clinical definitions set forth in n. 3, supra." Atkins, 536 U.S. at 317 n.22.
+(130.) 536 U.S. 304.
+(131.) See CAL. PENAL CODE [section] 1376 (West Supp. 2007) (requiring "significantly subaverage general intellectual functioning existing concurrently with deficits in adaptive behavior and manifested before the age of 18"); DEL. CODE ANN. tit. 11, [section] 4209(d)(3)(d) (2007) (defining serious mental retardation as "significantly subaverage intellectual functioning that exists concurrently with substantial deficits in adaptive behavior and both the significantly subaverage intellectual functioning and the deficits in adaptive behavior were manifested before the individual became 18 years of age"); IDAHO CODE ANN. [section] 19-2515A(1)(a) (2004) (defining mentally retarded as "significantly subaverage general intellectual functioning" accompanied with limitations in adaptive functioning, and requiring onset before the age of 18); 725 ILL. COMP. STAT. 5/114-15(d) (2006) (requiring age of onset by 18, and allowing an IQ score of 75 or below to serve as presumptive evidence of mental retardation, when accompanied by significant deficits in adaptive behavior); LA. CODE CRIM. PROC. ANN. art. 905.5.1(H) (2008) (using medical diagnostic criteria, including age of onset before 18, while excluding other similar conditions from definition of mental retardation); NEV. REV. STAT. ANN. [section] 174.098 (West Supp. 2008) (adopting clinical definition requiring "significant subaverage general intellectual functioning which exists concurrently with deficits in adaptive behavior and manifested during the developmental period"); UTAH CODE ANN. [section][section] 77-15a-101 to -102 (2003) (allowing age of onset before 22, but otherwise comporting with traditional medical diagnostic criteria); VA. CODE ANN. [section] 19.2-264.3:1.1 (A) (2008) (using medical diagnostic criteria including age of onset before 18).
+(132.) See ARIZ. REV. STAT. ANN. [section] 13-753 (2006); ARK. CODE ANN. [section] 5-4-618 (2006); CONN. GEN. STAT. [section] 1-1(g) (2007); FLA. STAT. ANN. [section] 921.137 (West 2006); GA. CODE ANN. [section] 17-7-131(i) (2004); IND. CODE ANN. [section][section] 35-36-9-1 to -7 (West 2004); KAN. STAT. ANN. [section] 21-4623 (2007); KY. REV. STAT. ANN. [section] 532.130-140 (West 2007); MD. CODE ANN., CRIM. LAW [section] 2-202(b) (LexisNexis 2002); MO. REV. STAT. [section] 565.030 (Supp. 2007); NEB. REV. STAT. [section] 28-105.01 (Supp. 2006); N.M. STAT. [section] 31-20A-2.1 (Supp. 2008); N.Y. CRIM. PROC. LAW [section] 400.27(12) (McKinney 2005); N.C. GEN. STAT. [section] 15A-2005(a)(1) (2007); S.D. CODIFIED LAWS [section] 23A-27A-26.1 (2004); TENN. CODE ANN. [section] 39-13-203 (2006); WASH. REV. CODE [section] 10.95.030(2) (2002). In 1994, Congress also adopted legislation to ban the execution of mentally retarded individuals before Atkins; however, the statute does not define mental retardation or discuss at what stage in the criminal proceedings the determination of mental retardation must be made. See 18 U.S.C. [section] 3596(c) (2000).
+(133.) In 2006, the American Association on Mental Retardation (AAMR) changed its name to the American Association on Intellectual and Developmental Disabilities (AAIDD). See Press Release, Am. Ass'n on Mental Retardation, World's Oldest Organization on Intellectual Disability Has a Progressive New Name (Nov. 2, 2006), .
+(134.) AM. ASS'N ON MENTAL RETARDATION, MENTAL RETARDATION: DEFINITION, CLASSIFICATION, AND SYSTEMS OF SUPPORTS 5 (Ruth Luckasson et al. eds., 9th ed. 1992).
+(135.) AM. PSYCHIATRIC ASS'N, DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS 39-40 (4th ed. 1994).
+(136.) See American Association on Intellectual and Developmental Disabilities, Frequently Asked Questions on Intellectual Disability and the AAIDD Definition,  (last visited Feb. 20, 2009).
+(137.) Joseph A. Nese, Jr., The Fate of Mentally Retarded Criminals: An Examination of the Propriety of Their Execution Under the Eighth Amendment, 40 DUQ. L. REV. 373, 375 (2002).
+(138.) AM. ASS'N ON MENTAL RETARDATION, supra note 134.
+(139.) James W. Ellis, Mental Retardation and the Death Penalty: A Guide to State Legislative Issues 7-8 (2002), available at .
+(140.) Id. at 9-10.
+(141.) The best argument advocates of the age of onset criterion can muster is that without a clear boundary requiring onset before eighteen, defendants will be able to fake mental retardation and escape the ultimate sentence for their crimes. Cf. Michael Welner, Lose Brain, Save Life (July 23, 2001), . The argument is that to feign mental retardation would be difficult where school records and health records from early childhood are required. Most states therefore rely on onset before the age of eighteen to counter concerns about malingering. See Lyn Entzeroth, Putting the Mentally Retarded Criminal Defendant to Death: Charting the Development of a National Consensus to Exempt the Mentally Retarded from the Death Penalty, 52 ALA. L. REV. 911, 916 (2001). While malingering is a danger whenever psychiatric diagnoses are at issue, one could employ psychological tests for malingering rather than narrowly circumscribing the constitutional protection afforded. Moreover, as Part IV, infra, of the Article demonstrates, the Court has now recognized that the mentally retarded have a fundamental right to not be executed under the Eighth Amendment. It is unlikely that a fear of feigning a medical condition would suffice as a compelling state interest to require only those medical conditions with an age of onset before eighteen be included within the legal definition of mental retardation.
+(142.) AM. PSYCHIATRIC ASS'N, DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS xxxii-iii (4th ed., text rev. 2000).
+(143.) Id. at xxxvii.
+(144.) Terri A. Edwards-Lee & Ronald E. Saul, Neuropsychiatry of the Right Frontal Lobe, in THE HUMAN FRONTAL LOBES: FUNCTIONS AND DISORDERS 304, 304 (Bruce L. Miller & Jeffrey L. Cummings eds., 1st ed. 1999) (citation omitted).
+(145.) Id.
+(146.) Bonnie Brookshire et al., Components of Executive Function in Typically Developing and Head-Injured Children, 25 DEVELOPMENTAL NEUROPSYCHOLOGY 61, 62 (2004).
+(147.) See, e.g., Rodger L. Wood & Christina Liossi, Neuropsychological and Neurobehavioral Correlates of Aggression Following Traumatic Brain Injury, 18 J. NEUROPSYCHIATRY & CLINICAL NEUROSCIENCES 333 (2006).
+(148.) Edwards-Lee & Saul, supra note 144, at 311.
+(149.) Id.
+(150.) Id. at 313.
+(151.) Two other frontal lobe conditions, frontal lobe tumors and fronto-temporal lobar degeneration (FTLD), share significant overlap with medically diagnosed mental retardation.
+1. Frontal lobe tumors can result in both psychiatric and behavioral deficiencies, although behavioral limitations vary based on the location of the tumor in the brain. Tomoko Y. Nakawatase, Frontal Lobe Tumors, in THE HUMAN FRONTAL LOBES: FUNCTIONS AND DISORDERS, supra note 144, at 436, 440-41. Frontal lobe tumors often present themselves as mood disorders in a psychiatric evaluation, and induce hallucinations, delusions, catatonia, mania, schizophreniform psychosis, and depression. Id. at 440. Orbitofrontal tumors, for example, tend to cause an individual to act disinterested in a socially inappropriate way and cause "irritability, profanity, and jocularity." Id. at 441. Tumors in the left hemisphere can cause decreased verbosity, decreased fluency, and circumlocutory speech with frequent word-finding pauses. Id. Individuals with tumors in the "dorsolateral convexity ... demonstrate apathy, reduced drive, depressed mentation, and poor planning." Id.
+2. FTLD is a "neurodegenerative disease that selectively attacks the frontal and anterior temporal regions" of the brain. Pei-Ning Wang & Bruce L. Miller, Clinical Aspects of Frontotemporal Dementia, in THE HUMAN FRONTAL LOBES: FUNCTIONS AND DISORDERS 365, 365 (Bruce L. Miller & Jeffrey L. Cummings eds., 2d ed. 2007). Although the typical age of onset is between fifty and sixty years, it can occur as early as the twenties. Id. Incidence of FTLD varies with age, ranging from 8.9 per 100,000 in the sixty to sixty-nine age group, to 2.2 per 100,000 in the forty to forty-nine age group. Id. Individuals with FTLD exhibit personality changes reflecting a loss of impulse control that include disinhibition, loss of respect for personal boundaries, overfriendliness with strangers, and verbal outbursts. Id. at 368. Because individuals with FTLD have poor impulse control, they are at a high risk of antisocial and criminal behavior. Id. at 369. These individuals also exhibit a loss of concern for others, become self-centered, and are unable to comprehend the emotions of others. Id. Individuals with FTLD also suffer from impaired communication, not only because of their impulsivity, but also because many develop language barriers ranging from hesitant, broken speech to mutism. Id. at 369-70. Individuals with FTLD also lose executive functioning, which results in the severe impairment of "multitasking, ... abstracting, making sound judgments, planning, and problem solving." Id. Some develop aggressive and psychotic features with bizarre and grandiose hallucinations. Id. at 369.
+Individuals with FTLD, like the medically diagnosed mentally retarded, have diminished capacities to communicate, engage in logical reasoning, control impulses, understand the reactions of others, and act according to a plan. They are unable to function in everyday life on their own due to loss of empathy, apathy, diminished insight, and inappropriate social behaviors. Id. Yet legislative enactments exempting the mentally retarded from the death penalty exclude even those individuals most severely impacted by FTLD.
+(152.) Elsa Arroyos-Jurado et al., Traumatic Brain Injury in School-Age Children Academic and Social Outcome, 38 J. SCH. PSYCHOL. 571, 571 (2000).
+(153.) Id.
+(154.) Id.
+(155.) Nat'l Inst. of Neurological Disorders and Stroke, Traumatic Brain Injury: Hope Through Research,  (last visited Mar. 9, 2008).
+(156.) Arroyos-Jurado, supra note 152, at 572.
+(157.) Id.
+(158.) Id. at 573-74.
+(159.) Nat'l Inst. of Neurological Disorders and Stroke, supra note 155.
+(160.) Id.
+(161.) Arroyos-Jurado, supra note 152, at 574-75.
+(162.) Id. at 574.
+(163.) Jonathan H. Pincus, Aggression, Criminality, and the Frontal Lobes, in THE HUMAN FRONTAL LOBES: FUNCTIONS AND DISORDERS, supra note 144, at 547, 553.
+(164.) Brookshire et al., supra note 146, at 63.
+(165.) Arroyos-Jurado, supra note 152, at 574.
+(166.) For example, the court in State v. Grell, 66 P.3d 1234, 1238-40 (Ariz. 2003), recognized that the defendant presented sufficient evidence for the trial court to find that he suffered from organic brain damage, and that he had significant cognitive impairments as a result. Because he did not satisfy the specific "adaptive functioning" limitations required by the medical diagnostic criteria cited "with approval" in the Atkins opinion, however, Grell did not satisfy the required definition of mental retardation. Id. at 1238-41.
+Another court opinion suggests a more permissive approach. On appeal from his capital conviction and sentence, the defendant in Hillhouse v. Warden of San Quentin State Prison filed an amended petition alleging that he had "a mental age of between two and twelve" and thus was mentally retarded and could not be executed under Atkins. No. CIV S-03-0142 MCE CMK P., 2007 WL 1247103, at *16 (E.D. Cal. Apr. 18, 2007). Because he was seeking an amendment to his petition for habeas relief, his original claim had to relate back to his original petition in order for relief to be granted. The original petition did not allege mental retardation but did mention that the defendant had "temporal and frontal lobe brain damage, which impairs his ability to control his emotions." Id. The court held that "the facts of brain damage and inability to control emotions are simply a different way of saying that petitioner is mentally challenged," and allowed the amendment. Id.
+(167.) The Louisiana Code of Criminal Procedure sets the following limits on "mental retardation": "'Mental retardation' means a disability characterized by significant limitations in both intellectual functioning and adaptive behavior as expressed in conceptual, social, and practical adaptive skills. The onset must occur before the age of eighteen years." LA. CODE CRIM. PROC. ANN. art. 905.5.1(H)(1) (2008). This article further provides that
+[a] diagnosis of one or more of the following conditions does not necessarily constitute mental retardation:
+(a) Autism.
+(b) Behavioral disorders.
+(c) Cerebral palsy and other motor deficits.
+(d) Difficulty in adjusting to school.
+(e) Emotional disturbance.
+(f) Emotional stress in home or school.
+(g) Environmental, cultural, or economic disadvantage.
+(h) Epilepsy and other seizure disorders.
+(i) Lack of educational opportunities.
+(j) Learning disabilities.
+(k) Mental illness.
+(l) Neurological disorders.
+(m) Organic brain damage occurring after age eighteen.
+(n) Other handicapping conditions.
+(o) Personality disorders.
+(p) Sensory impairments.
+(q) Speech and language disorders.
+(r) A temporary crisis situation.
+(s) Traumatic brain damage occurring after age eighteen.
+Id. art. 905.5.1(H)(2).
+(168.) No. CV 97-1331-PHX-JAT, 2007 WL 864415 (D. Ariz. Mar. 20, 2007).
+(169.) Id. at *7.
+(170.) Id.
+(171.) Id. The court found both that his claim did not relate back to his original claim, and was thus procedurally barred, and that even if it were not procedurally barred, it would nevertheless have failed on the merits. Id.
+(172.) Id.
+(173.) Id.
+(174.) 599 S.E.2d 156 (Ga. 2004), cert. denied, 542 U.S. 953 (2004).
+(175.) Id. at 156 (Fletcher, C.J., dissenting).
+(176.) Id. (majority opinion).
+(177.) Id. at 156-57 (Fletcher, C.J., dissenting).
+(178.) Hicks v. Schofield, 542 U.S. 953 (2004).
+(179.) U.S. National Library of Medicine, Medline Plus,  article/000739.htm (last visited Mar. 9, 2008).
+(180.) Id.
+(181.) AM. PSYCHIATRIC ASS'N, supra note 135, at 134.
+(182.) Id. at 137.
+(183.) Christine Kennard, Is Dementia Age Related?,  age_dementia.htm (last visited Mar. 5, 2008).
+(184.) See Aaron McMurtray et al., Early-Onset Dementia: Frequency and Causes Compared to Late-Onset Dementia, 21 DEMENTIA & GERIATRIC COGNITIVE DISORDERS 59, 62 (2006).
+(185.) See AM. PSYCHIATRIC ASS'N, supra note 135, at 139-50 (discussing symptoms of various types of dementia).
+(186.) Id. at 151.
+(187.) Id. at 134.
+(188.) Id.
+(189.) Id. at 135.
+(190.) Id. at 134.
+(191.) Id. at 136.
+(192.) Id. at 134.
+(193.) No. 02 MC 8001 CV W NKL, 2006 WL 1128803 (W.D. Mo. Apr. 27, 2006).
+(194.) Id. at *41.
+(195.) Id. at *42-43. See also MO. REV. STAT. [section] 565.030(6) (West 2008) (providing that "'mental retardation'" "refer[s] to a condition involving substantial limitations in general functioning characterized by significantly subaverage intellectual functioning with continual extensive related deficits and limitations in two or more adaptive behaviors such as communication, self-care, home living, social skills, community use, self-direction, health and safety, functional academics, leisure and work, which conditions are manifested and documented before eighteen years of age").
+(196.) Clayton, 2006 WL 1128803, at *43.
+(197.) Id.
+(198.) No. Civ.A. 603CV224, 2005 WL 1606437 (E.D. Tex. July 1, 2005), vacated on reh'g on other grounds sub nom. Moore v. Quarterman, 491 F.3d 213, 215 (5th Cir. 2007).
+(199.) Id. at *15. See also People v. Superior Court, 28 Cal. Rptr. 3d 529, 541 n.15 (Ct. App. 2005), rev'd on other grounds, 155 P.3d 259 (Cal. 2007) ("If a person falls into the mentally retarded range as a result of brain damage incurred after he or she reaches adulthood, the diagnosis is dementia, not mental retardation.").
+(200.) Ex parte Tennard, 960 S.W.2d 57, 65 (Tex. Crim. App. 1997) (Meyers, J., concurring).
+(201.) Less severe, but also impactful, is the pervasive developmental disorder attention deficit hyperactivity disorder (ADHD), which is characterized by persistent inattention, hyperactivity-impulsivity, and evidence of clinically significant impairment in "social, academic, or occupational functioning." AM. PSYCHIATRIC ASS'N, supra note 135, at 78. ADHD may also be related to temper outbursts, demoralization, rejection by peers, and poor self-esteem. Id. at 80. Particularly when ADHD is accompanied by a comorbid condition, like psychosis, a learning disability, or a head injury, the cognitive deficit is more pronounced. David J. Bridgett & Michael E. Walker, Intellectual Functioning in Adults with ADHD: A Meta-Analytic Examination of Full Scale IQ Differences Between Adults With and Without ADHD, 18 PSYCHOL. ASSESSMENT 1, 10 (2006).
+Between three to seven percent of all children have now been diagnosed with ADHD. Child Trends Databank, ADHD,  (last visited Feb. 19, 2009). While the severity of deficits varies across this population, at least those individuals with moderate or severe ADHD manifest the deficits identified by the Court in Atkins. Individuals with severe ADHD, for example, suffer cognitive impairments, including deficits in executive and adaptive functioning. Erik G. Willcutt et al., Validity of the Executive Function Theory of Attention-Deficit/Hyperactivity Disorder: A Meta-Analytic Review, 57 BIOLOGICAL PSYCHIATRY 1336, 1336 (2005). Even if IQ scores are within the normal range of the population, other executive functioning skills suffer. A meta-analysis of eighty-three studies (encompassing 3,734 individuals with ADHD and 2,969 individuals without ADHD) associated ADHD with significant deficits in several executive functioning domains, including "response inhibition, vigilance, spatial working memory, and ... measures of planning." Id. at 1336, 1342. Other studies suggest that individuals with ADHD also suffer deficits in adaptive functioning and academic performance, which may be related to limitations in executive functioning. Cheryl Clark et al., The Relationship Between Executive Function Abilities, Adaptive Behaviour, and Academic Achievement in Children with Externalising Behaviour Problems, 43 J. CHILD PSYCHOL. & PSYCHIATRY 785, 786 (2002).
+Individuals with ADHD also suffer impaired social competence levels and adaptive functioning skills. A study of adolescents with ADHD found that these adolescents suffer more limitations than individuals with other behavioral problems or no behavioral problems in terms of their adaptive communication skills and reading abilities. Id. at 791. A study examining adaptive functioning of children with ADHD, children with attention deficit disorder (ADD), and children with pervasive developmental disorders or mild mental retardation found that adaptive functioning was well below average for all three groups. Mark A. Stein et al., Adaptive Skills Dysfunction in ADD and ADHD Children, 36 J. CHILD PSYCHOL. & PSYCHIATRY 663, 666 (1995).
+Defendants with ADD and ADHD have also fared poorly when raising an Atkins-based claim. In Howard v. State, 153 S.W.3d 382 (Tex. Crim. App. 2004), for example, the state's expert witness testified that the defendant's poor performance in school "stemmed solely from his attention-deficit disorder," and as a result he was not mentally retarded and could not avail himself of the Atkins rule. Id. at 387. The defendant in State v. Ross, 849 A.2d 648 (Conn. 2004), claimed it would be cruel and unusual punishment to execute him because of his mental disabilities, including his ADD. Id. at 714, 735-36. The court rejected his claim, in part, because the defendant could not "point to any trend in [any] other jurisdictions toward exempting persons with such mental disorders from the death penalty." Id. at 736. And in State v. Scott, 800 N.E.2d 1133 (Ohio 2004), the defendant used evidence of his ADD to raise a mental retardation claim. Id. at 1149. The court held that because the defendant's IQ did not fit within the range for medically diagnosed mental retardation, he did not fit within the definition of mental retardation. Id. at 1151. Relying on narrow legislative classifications of mental retardation, courts have thereby excluded defendants with ADHD from a legal classification of mental retardation.
+(202.) NAT'L INST. OF MENTAL HEALTH, AUTISM SPECTRUM DISORDERS: PERVASIVE DEVELOPMENTAL DISORDERS 1-2 (2004), available at  autism/nimhautismspectrum.pdf.
+(203.) Help with Autism, Asperger's Syndrome & Related Disorders, / (last visited Dec. 16, 2008). Childhood disintegrative disorder is another condition that underscores the inequality between the legal treatment of disorders of this type and mental retardation. Childhood disintegrative disorder is characterized by apparently normal development, including age-appropriate cognitive and social behavior, for at least the first two years after birth. AM. PSYCHIATRIC ASS'N, supra note 135, at 74-75. After age two, and prior to age ten, afflicted individuals experience loss in at least one of the following areas: expressive or receptive language, social skills or adaptive behavior, bowel or bladder control, play, and motor skills. Id. As a result, affected individuals suffer from impaired social interaction, communication deficits, restricted, repetitive, and stereotyped patterns of behavior, interests, and activities, including motor stereotypes and mannerisms. Id. Thus, these individuals share the characteristics identified by the Supreme Court in Atkins, and yet also fall outside medical criteria for mental retardation.
+(204.) Asperger's syndrome is a milder form of autism, but is another relevant condition involving a "triad" of social, communication, and restricted/stereotyped interests deficits. Barbara G. Haskins & J. Arturo Silva, Asperger's Disorder and Criminal Behavior: Forensic-Psychiatric Considerations, 34 J. AM. ACAD. PSYCHIATRY & L. 374, 374-75 (2006). Affected persons are unable to respond appropriately in social interactions, and engage in "stereotyped, excessively focused, and repetitive activities." Id. at 375. The DSM-IV criteria for Asperger's syndrome specifies that the individual must have "severe and sustained impairment in social interaction (Criterion A) and the development of restricted, repetitive patterns of behavior, interests and activities," that must "cause clinically significant impairment in social, occupational, or other important areas of functioning." AM. PSYCHIATRIC ASS'N, supra note 135, at 75. Recent studies suggest that individuals with Asperger's syndrome appear more frequently in forensic populations than in the general public. Haskins & Silva, supra, at 377. The behavioral traits associated with Asperger's syndrome may predispose afflicted individuals to accidental criminal behavior. See id. at 377-82.
+The defendant in Schoenwetter v. State, 931 So. 2d 857 (Fla. 2006), raised Asperger's syndrome as a factor for mitigating his subjection to the death penalty. Id. at 865 n.4. In an amicus brief in the case, More Advanced Persons with Autism and Asperger's Syndrome (MAAP) argued the inequity of treating Asperger's differently than medically diagnosed mental retardation under the Eighth Amendment. Brief of MAAP Services for Autism and Asperger Spectrum et al. as Amici Curiae in Supporting Petitioner, at 10-11, Schoenwetter, 931 So. 2d 857 (No. SC04-53). The United States Supreme Court denied certiorari. Schoenwetter v. Florida, 127 S. Ct. 587 (2006) (mem.). Other defendants with Asperger's syndrome have pled guilty to avoid a death penalty trial. See Herb Frazier, Handyman Pleads Guilty in Tradd Street Killing in Bid to Avoid Death Penalty, POST & COURIER (Charleston, S.C.), July 13, 2004, at 1A.
+(205.) See generally NATIONAL AUTISTIC SOCIETY, AUTISM: A GUIDE FOR CRIMINAL JUSTICE PROFESSIONALS, available at  (last visited Dec. 15, 2008).
+(206.) Richard McNally, State Bar of Michigan, Autism and the Courts, DISABILITIES PROJECT NEWSLETTER, Vol. 2, Issue 1, (2005), .
+(207.) Eric Fombonne, Epidemiological Surveys of Autism and Other Pervasive Developmental Disorders: An Update, 33 J. AUTISM & DEVELOPMENTAL DISORDERS 365, 379 (2003).
+(208.) Eric Fombonne, Epidemiology of Autistic Disorder and Other Pervasive Developmental Disorders, 66 J. CLIN. PSYCHIATRY 3, 4 (Supp. 10 2005).
+(209.) COMMITTEE ON DISABILITY DETERMINATION FOR MENTAL RETARDATION, MENTAL RETARDATION: DETERMINING ELIGIBILITY FOR SOCIAL SECURITY BENEFITS 255 (Daniel J. Reschly et al. eds., 2002).
+(210.) AM. PSYCHIATRIC ASS'N, supra note 135, at 70.
+(211.) Id. at 66.
+(212.) Id. at 71.
+(213.) Id. at 67-68.
+(214.) Id. at 67.
+(215.) NAT'L INST. OF MENTAL HEALTH, supra note 202, at 6-7.
+(216.) AM. PSYCHIATRIC ASS'N, supra note 135, at 70.
+(217.) NAT'L INST. OF MENTAL HEALTH, supra note 202, at 7.
+(218.) LA. CODE CRIM. PROC. ANN. art. 905.5.1(H)(2)(a) (2008); see also State v. Turner, 936 So. 2d 89, 103 (La. 2006) (rejecting trial court's finding that Louisiana's mental retardation statute is "unconstitutionally vague, denies ... defendant[s] compulsory process[,] and requires ... defendant[s] to relinquish [their] Fifth Amendment rights"); State v. Brown, 907 So. 2d 1, 32 (La. 2005) (finding that defendant failed to satisfy Louisiana's statutory requirement for mental retardation, despite brain damage suffered as a result of a gunshot to the eye and expert testimony that this brain damage deprived defendant of the "ability to make reasonable choices").
+(219.) See, e.g., Smith v. Mitchell, 348 F.3d 177, 185 n.2, 193 (6th Cir. 2003) (where expert testified that defendant had a history of developmental, cognitive, and other mental disorders, and that his thinking at times bordered on the autistic).
+(220.) About Cerebral Palsy, Central Nervous System Dysfunction, http://www.about-cerebralpalsy. org/definition/central-nerve-dysfunction.html (last visited Mar. 13, 2008). 221. Id.
+(222.) Other conditions of the CNS may likewise meet a legal classification of mental retardation:
+1. Viral Infections. Up to 7.4 cases of viral encephalitis per 100,000 persons occur in the United States each year. Francisco de Assis Aquino Gondim, Viral Encephalitis, EMEDICINE, Jan. 11, 2007, . Viral encephalitis can cause impairments in communication, impulse control, planning, and IQ. Although several different viruses can cause encephalitis, two of the most common ones are the HIV and Herpes zoster viruses. Id. at tbl.1.
+Encephalitis caused by HIV can result in HIV dementia, which has both cognitive and behavioral aspects. Alex Tselis & John Booss, Behavioral Consequences of Infections of the Central Nervous System: With Emphasis on Viral Infections, 31 J. AM. ACAD. PSYCHIATRY & L. 289, 296 (2003). "Cognitive dysfunction in HIV dementia consists of inability to sustain attention, forgetfulness, and disorganization of thought." Id. at 297. Cognitive dysfunction can become severe enough that individuals with HIV dementia may get lost or confused about such simple matters as getting groceries, or forget how to drive home. Id. Personality and behavior changes in individuals with HIV dementia can include withdrawal from social interactions, irritability, antisocial behavior, and "dependence on others for their daily existence." Id.
+Herpes zoster, the same virus that causes chicken pox, can also cause viral encephalitis. Although encephalitis is a rare result of infection, it can result in exactly the kind of impairments that the Atkins court listed as diminishing the culpability of the mentally retarded. Cognitively, individuals with herpes zoster encephalitis have lower IQ scores, exhibit memory impairment, and even dementia in some cases. Laura Hokkanen et al., Subcortical Type Cognitive Impairment in Herpes Zoster Encephalitis, 244 J. NEUROLOGY 239, 239-40, 243 (1997). Behaviorally, individuals with herpes zoster encephalitis show impulsivity, impaired planning and behavioral control, and flat emotional affect. Id. at 242, 244. Although the condition is treatable, not all individuals recover, even with the help of antiviral medication. Laura Hokkanen & Jyrki Launes, Cognitive Outcome in Acute Sporadic Encephalitis, 10 NEUROPSYCHOLOGY REV. 151, 157-58 (2000).
+2. Inherited Metabolic Disorders. "Inherited [metabolic disorders] affect virtually all parts of the nervous system." Pieter R. Kark, Inherited Metabolic Disorders, EMEDICINE, Dec. 8, 2006, . Some of these disorders are fatal in infancy, while others are compatible with a long life when properly treated. Id. Phenylketonuria (PKU) is the most prominent example of a disorder that, with appropriate environmental intervention, can be compatible with a long life. Id.
+Because individuals with PKU are unable to break down certain metabolites, these metabolites accumulate in the blood and lead to microcephaly, epilepsy, and severe mental retardation. Joachim Pietz, Neurological Aspects of Adult Phenylketonuria, 11 CURRENT OPINION NEUROLOGY 679, 679 (1998). Neonatal screening identifies most individuals with PKU in the United States, enabling the use of a restrictive diet to prevent the ingestion of the metabolites that these individuals are unable to break down. Id. However, in the undiagnosed case, or in cases where dietary treatment has been discontinued, severe neurological deterioration, similar to that in untreated individuals, may occur. Id. at 682. Consequently, adults with PKU who are unable to continue a restrictive diet may witness decay in their cognitive, communication, and adaptive abilities. Id. These individuals will exhibit the same impairments as one medically diagnosed with mental retardation. Because their age of onset may occur much later than eighteen, they fall outside of the legislative classifications for mental retardation under Atkins.
+(223.) Jose E. Cavazos, Seizures and Epilepsy: Overview and Classification, EMEDICINE, Nov. 30, 2007, .
+(224.) Norberto Alvarez, Epilepsy in Children with Mental Retardation, EMEDICINE, Aug. 29, 2007, .
+(225.) Brian G.R. Neville, Reversible Disability Associated with Epilepsy, 21 BRAIN & DEV. 82, 82 (1999).
+(226.) Bernd Huber et al., Seizure Freedom with Different Therapeutic Regimens in Intellectually Disabled Epileptic Patients, 14 SEIZURE 381, 382 (2005).
+(227.) Id. at 384.
+(228.) Id.
+(229.) Id.
+(230.) Heather Harris Wright et al., Maintenance of Communication Abilities in Epilepsy: A Clinical Report, 11 J. MED. SPEECH-LANGUAGE PATHOLOGY 157, 157 (2003).
+(231.) Maria Teresa Hernandez et al., Deficits in Executive Functions and Motor Coordination in Children with Frontal Lobe Epilepsy, 40 NEUROPSYCHOLOGIA 384, 395 (2002).
+(232.) Hazel J. Reynders et al., Investigation of Social and Emotion Information Processing in Temporal Lobe Epilepsy with Ictal Fear, 7 EPILEPSY & BEHAV. 419, 425 (2005).
+(233.) Id.
+(234.) See, e.g., Huber et al., supra note 226, at 382.
+(235.) 157 P.3d 973 (Cal. 2007).
+(236.) Id. at 986-87.
+(237.) Id. at 1015.
+(238.) Id. at 1016.
+(239.) Id.
+(240.) Id.
+(241.) See, e.g., Amnesty Int'l, Document - USA (Oklahoma): Death Penalty, Garry Thomas Allen (May 3, 2005),  en.html (noting that the Oklahoma Parole and Review Board recommended by a 4-1 vote that the Oklahoma governor commute the death sentence of capital defendant Gary Allen, owing in significant part to his epileptic condition).
+(242.) Vicki Anderson et al., Cognitive and Executive Function 12 Years After Childhood Bacterial Meningitis: Effect of Acute Neurologic Complications and Age of Onset, 29 J. PEDIATRIC PSYCHOL. 67, 68 (2004).
+(243.) Id. (citations omitted).
+(244.) Id.
+(245.) Michael T. Fitch & Diederik van de Beek, Emergency Diagnosis and Treatment of Adult Meningitis, 7 LANCET INFECTIOUS DISEASES 191, 191 (2007).
+(246.) Anderson et al., supra note 242, at 68.
+(247.) Id. at 76.
+(248.) Keith Grimwood et al., Twelve Year Outcomes Following Bacterial Meningitis: Further Evidence for Persisting Effects, 83 ARCHIVES DISEASE CHILDHOOD 111, 114 (2000).
+(249.) Anderson et al., supra note 242, at 68.
+(250.) Helen Bedford et al., Meningitis in Infancy in England and Wales: Follow up at Age 5 Years, 323 BMJ 1, 2-3 (2001).
+(251.) Id.
+(252.) Grimwood et al., supra note 248, at 114.
+(253.) 918 So. 2d 636 (Miss. 2005).
+(254.) Id. at 659.
+(255.) Id. at 660 (quoting Chase v. State, 873 So. 2d 1013, 1029 (Miss. 2004)).
+(256.) 487 U.S. 815 (1988).
+(257.) "No state shall make or enforce any law which shall ... deny to any person within its jurisdiction the equal protection of the laws." U.S. CONST. amend. XIV, [section] 1.
+(258.) Gideon v. Wainwright, 372 U.S. 335, 341 (1963) (emphasis added) (referring to its fundamental nature for purposes of incorporation under the Fourteenth Amendment).
+(259.) Jeffrey Abramson, Death-is-Different Jurisprudence and the Role of the Capital Jury, 2 OHIO ST. J. CRIM. L. 117, 118-19 (2004).
+(260.) See NOWAK & ROTUNDA, supra note 16; San Antonio Indep. Sch. Dist. v. Rodriguez, 411 U.S. 1, 17 (1973) ("We must decide, first, whether the Texas system of financing public education operates to the disadvantage of some suspect class or impinges upon a fundamental right explicitly or implicitly protected by the Constitution, thereby requiring strict judicial scrutiny."); United States v. Carolene Prods. Co., 304 U.S. 144, 152 n.4 (1938) ("There may be narrower scope for operation of the presumption of constitutionality when legislation appears on its face to be within a specific prohibition of the Constitution, such as those of the first ten amendments, which are deemed equally specific when held to be embraced within the Fourteenth."); cf. City of Dallas v. Stanglin, 490 U.S. 19, 23, 26 (1989) (finding that age ordinance was not subject to strict scrutiny because dance hall patrons were not engaged in fundamental right of association guaranteed by First Amendment, but instead subject to rational basis review, the most relaxed and tolerant form of review).
+(261.) E.g., Burlington N. R.R. v. Ford, 504 U.S. 648, 651 (1992); Bernal v. Fainter, 467 U.S. 216,
+219-20 (1984) (holding that where strict scrutiny applies, a statute that does not both advance a compelling state interest by the least restrictive means available must be struck down). See also Maher v. Roe, 432 U.S. 464, 487 (1977) (Brennan, J., dissenting) (arguing that where a fundamental right is impinged upon, the statute must be justified by a compelling state interest and narrowly drawn to express those interests).
+(262.) 316 U.S. 535 (1942).
+(263.) Id. The statute involved was Oklahoma's Habitual Criminal Sterilization Act, in effect at the time:
+
+That Act defines an "habitual criminal" as a person who, having
+been convicted two or more times for crimes "amounting to felonies
+involving moral turpitude," either in an Oklahoma court or in a
+*| court of any other State, is thereafter convicted of such a felony | 
+*| in Oklahoma and is sentenced to a term of imprisonment in an | 
+*| Oklahoma penal institution. [section] 173. Machinery is provided | 
+*| for the institution by the Attorney General of a proceeding against | 
+*| such a person in the Oklahoma courts for a judgment that such | 
+*| person shall be rendered sexually sterile. [section][section] 176, | 
+*| 177.... If the court or jury finds that the defendant is an | 
+*| "habitual criminal" and that he "may be rendered sexually sterile | 
+*| without deteriment [sic] to his or her general health," then the | 
+*| court "shall render judgment to the effect that said defendant be | 
+*| rendered sexually sterile" ([section] 182) by the operation of | 
+*| vasectomy in case of a male and of salpingectomy in case of a | 
+*| female. [section] 174. Only one other provision of the Act is | 
+*| material here, and that is [section] 195, which provides that | 
+*| "offenses arising out of the violation of the prohibitory laws, | 
+*| revenue acts, embezzlement, or political offenses, shall not come | 
+*| or be considered within the terms of this Act." | 
+Id. at 536-37.
+(264.) Id. at 537.
+(265.) Id. at 541.
+(266.) Id. at 541-42 (citation omitted).
+(267.) Id.
+(268.) Id.
+(269.) Id. at 542.
+(270.) Id. at 542-43.
+(271.) Abramson, supra note 259, at 118-19.
+(272.) Atkins v. Virginia, 536 U.S. 304 (2002).
+273. See generally VICTORIA F. NOURSE, IN RECKLESS HANDS: SKINNER V. OKLAHOMA AND THE NEAR-TRIUMPH OF AMERICAN EUGENICS (2008); see also DANIEL J. KEVLES, IN THE NAME OF EUGENICS 160, 346 n.20 (1985).
+(274.) Skinner, 316 U.S. at 543.
+(275.) Id. at 541.
+(276.) NOWAK & ROTUNDA, supra note 16, at 570.
+
+Classifications can relate to government "ends" in any one of five
+ways, any one of which may be determined to be constitutional or
+unconstitutional depending on the nature of the legislation in the
+*| specific case. First, the classification could be perfect in that | 
+*| it treats all similar persons in a similar manner. Second, the | 
+*| classification could be totally imperfect in that it selects | 
+*| exactly the wrong class for a burden or a benefit while excluding | 
+*| the class of persons who do relate to the legitimate purpose of the | 
+*| statute. Third, the classification can be under-inclusive in that | 
+*| it includes a small number of persons who fit the purpose of the | 
+*| statute but excludes some who are similarly situated. Fourth, the | 
+*| classification can be over-inclusive in that it treats in a similar | 
+*| manner not only those persons whose characteristics similarly | 
+*| relate to the purpose of the law but also some additional persons | 
+*| who do not share the legitimately distinguishing characteristic. | 
+*| Fifth, there can be a mixed relation of over and under-inclusions. | 
+Id. at 571 (footnote omitted).
+(277.) E.g., Madsen v. Women's Health Ctr., Inc., 512 U.S. 753, 762 (1994) (holding that absent a compelling state interest, an injunction prohibiting free speech must be struck down).
+A state may no more create an underinclusive statute, one that fails truly to promote its purported compelling interest, than it may create an overinclusive statute, one that encompasses more protected conduct than necessary to achieve its goal. In the latter circumstance, the broad scope of the statute is unnecessary to serve the interest, and the statute fails for that reason. In the former situation, the fact that allegedly harmful conduct falls outside the statute's scope belies a governmental assertion that it has genuinely pursued an interest "of the highest order."
+Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520, 577 (1993) (Blackmun, J., concurring) (citing Wisconsin v. Yoder, 406 U.S. 205, 215 (1972)); see also NOWAK & ROTUNDA, supra note 16, at 572 ("An under-inclusive classification contains all similarly situated people but excludes some people who are similar to them in terms of the purpose of the law."). Any government classification that is so underinclusive or overinclusive as to be irrational implicates constitutional guarantees of equal protection.
+(278.) 473 U.S. 432 (1985).
+(279.) Id. at 442-47.
+(280.) See id. at 440-42 (rejecting mental retardation as a suspect class).
+(281.) 399 F.3d 315 (4th Cir. 2005).
+(282.) Id. at 328 (Gregory, J., concurring in part and dissenting in part) (citation omitted).
+(283.) No. 2006-KA-2987, 2008 WL 4146364 (La. 2008).
+(284.) Id. at *3.
+(285.) Id. at *5.
+(286.) Id. at *4.
+(287.) Id. at *6.
+(288.) Id. at *40.
+(289.) Id. at *6.
+(290.) Id. at *7.
+(291.) Another way of understanding the issue is as an implied version of Akhil Amar's "intratextualism." See Akhil Reed Amar, Intratextualism, 112 HARV. L. REV. 747 (1999) (defining the concept of intratextualism). Before Atkins, the Court read the Cruel and Unusual Punishments Clause as person-neutral: "nor cruel and unusual punishments inflicted." Post-Atkins, the Court implicitly reads persons into the clause, "nor cruel and unusual punishments inflicted" upon (categories of) persons, a word that also appears in the Fourteenth Amendment. Thus cruel and unusual punishment cannot be inflicted upon a category of person(s), and the state cannot deny any person(s) within its jurisdiction the equal protection of the laws. This implied reading of persons into the Eighth Amendment creates an implied intratextual interaction.
+(292.) Of course, the Court could have also done so by recognizing the Eighth Amendment itself to have an equality principle demanding such an analysis. See generally Laurence Claus, The Anti-discrimination Eighth Amendment, 28 HARV. J.L. & PUB. POL'Y (2004) (arguing that the context and history of "nor cruel and unusual punishments inflicted" reveals a purpose to prevent invidiously discriminatory punishment).
+(293.) See supra Part II.B.3.
+(294.) Atkins v. Virginia, 536 U.S. 304, 318 (2002) (footnote omitted).
+(295.) 458 U.S. 782 (1982).
+(296.) 481 U.S. 137 (1987).
+(297.) 536 U.S. 304 (2002).
+(298.) 543 U.S. 551 (2005).
+(299.) 477 U.S. 399 (1986).
+(300.) 127 S. Ct. 2842 (2007).
+(301.) City of Cleburne v. Cleburne Living Ctr., Inc., 473 U.S. 432, 441 (1985).
+(302.) 543 U.S. 551 (2005).
+(303.) 492 U.S. 302 (1989).
+(304.) On Petition for Rehearing, Kennedy v. Louisiana, 128 S. Ct. 2641 (2008) (No. 07-343), available at .
+(305.) Id. at 3 (Statement of Kennedy, J.).
+NITA A. FARAHANY, Assistant Professor of Law, Assistant Professor of Philosophy, Vanderbilt University. Dartmouth College, B.A., 1998; Duke University, J.D./M.A., 2004, Ph.D., 2006; Harvard University, A.L.M., 2007. Thanks to Guyora Binder, James F. Blumstein, Lisa Schultz Bressman, Rebecca Brown, James E. Coleman, Jr., John C.P. Goldberg, Nancy J. King, Robert Mikos, Richard A. Nagareda, Charles J. Ogletree, Jr., Nicholas Quinn Rosenkranz, and Suzanna Sherry. Thanks also to the workshop participants at Amherst College's Law and Science series, the Duke Law School faculty, the Vanderbilt Law School faculty, and the Stanford Law School faculty, who provided comments on earlier drafts. Jonathan Hardin, Brandon Martin, Feras Sadik, Byron Sarhangian, John Benjamin Schrader, and Leon Wolf provided invaluable research assistance.
+
+TABLE 1: COMPARISON OF DEFICITS BETWEEN THE SUPREME COURT
+DESCRIPTION OF MENTAL RETARDATION AND SIMILAR CONDITIONS
+Potential Deficits
+*|  | Cognition | Communication | Mental | 
+*|  |  |  | Health & | 
+*|  |  |  | Behavior | 
+*| Mental | Logical | Communication | Direct | 
+*| Retardation | reasoning, | with others | actions and | 
+*| (per Atkins) |  | understanding | self-control, | 
+*|  |  | & processing | impulsive | 
+*|  |  |  | information | 
+*| Frontal Lobe |  |  |  | 
+*| Dysfunction |  |  |  | 
+*| TBI | Logical | Communication | Direct or | 
+*|  | reasoning, | with others, | modify actions, | 
+*|  | thinking, | expression | self-control, | 
+*|  | general | and | social | 
+*|  | cognition | understanding | appropriateness | 
+*| Dementia | Learning, | Communication | Self-control, | 
+*|  | remembering, | with others, | socialization, | 
+*|  | executive | comprehending | conforming to | 
+*|  | functioning, | written and | social | 
+*|  | abstract | spoken | conventions of | 
+*|  | thought, | language, | conduct | 
+*|  |  | planning | speech | 
+*|  |  |  | content | 
+*| Pervasive |  |  |  | 
+*| Developmental |  |  |  | 
+*| Disorders |  |  |  | 
+*| Autism | Intellectual | Communication | Direct or | 
+*|  | abilities, | with others, | modify actions, | 
+*|  | executive | development | self-control, | 
+*|  | functioning | of language, | impulse | 
+*|  |  | speech | control, | 
+*|  |  | content | avoiding self- | 
+*|  |  |  | injurious | 
+*| Central Nervous |  |  | behavior | 
+*| System |  |  |  | 
+*| Dysfunction |  |  |  | 
+*| Epilepsy | Learning, | Communication | Impulse | 
+*|  | intellectual | with others, | control, mental | 
+*|  | abilities, | language, | flexibility | 
+*|  |  | executive | naming, | 
+*|  |  | functioning, | discourse | 
+*|  |  | planning | production | 
+*| Bacterial | Learning, | Communication | Direct and | 
+*| Meningitis | verbal | with others, | control actions | 
+*|  |  | ability, | speech and | 
+*|  |  | motor skills, | language | 
+*|  |  |  | executive | 
+*|  |  |  | functioning | 
+*|  |  | Judgment | Adaptive | 
+*|  |  |  | skills | 
+*| Mental |  | Abstract from | Care for | 
+*| Retardation |  | mistakes, | oneself | 
+*| (per Atkins) |  |  | learn from | 
+*|  |  |  | experience | 
+*| Frontal Lobe |  |  |  | 
+*| Dysfunction |  |  |  | 
+*| TBI |  | Learn from | Care for | 
+*|  |  | experience, | oneself, | 
+*|  |  | judgment | social | 
+*|  |  |  | functioning | 
+*| Dementia |  | Perceive | Care for | 
+*|  |  | social cues, | oneself, | 
+*|  |  | adopt social | social | 
+*|  |  | conventions | functioning, | 
+*|  |  |  | occupational | 
+*|  |  |  | functioning | 
+*| Pervasive |  |  |  | 
+*| Developmental |  |  |  | 
+*| Disorders |  |  |  | 
+*| Autism |  | Abstract from | Routines or | 
+*|  |  | mistakes, | habits, | 
+*|  |  | learn | social | 
+*|  |  | experience, | functioning | 
+*|  |  |  | perceive | 
+*|  |  |  | social cues | 
+*| Central Nervous |  |  |  | 
+*| System |  |  |  | 
+*| Dysfunction |  |  |  | 
+*| Epilepsy |  | Recognition | Daily living, | 
+*|  |  | of emotion in | social | 
+*|  |  | others, | functioning | 
+*|  |  |  | perception of | 
+*|  |  |  | fear | 
+*| Bacterial |  | Perception, | Social | 
+*| Meningitis |  | judgment | functioning | 
+
+Load-Date: November 12, 2009
+
+
+End of Document

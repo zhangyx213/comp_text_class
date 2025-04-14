@@ -1,0 +1,32 @@
+
+
+
+
+
+The New York Times 
+March 22, 2017 Wednesday 00:00 EST
+
+
+Copyright 2017 The New York Times Company All Rights Reserved
+Section: WELL; live
+Length: 406 words
+Byline: NICHOLAS BAKALAR
+Highlight: A $5 cellphone add-on provides a quick and easy measure of your sperm count and motility.
+Body
+
+
+Will getting an accurate sperm count in the privacy of your home one day be as easy as a home pregnancy test?
+Researchers have developed a device costing less than $5 to make that attaches to your cellphone and provides a quick and easy semen analysis. The device is still in development, but a  concludes that it is just as accurate as the elaborate computer-assisted semen analysis machines costing tens of thousands of dollars in measuring sperm concentration, sperm motility, total sperm count and total motile cells.
+The device uses an optical attachment for magnification and a disposable microchip for handling the semen sample. With two lenses that require no manual focusing and an inexpensive battery, it slides onto the smartphone’s camera. Total cost for manufacturing the equipment: $4.45, including $3.59 for the optical attachment and 86 cents for the microfluidic chip that contains the semen sample.
+And getting the sperm count? Of course, there’s an app for that. The software is designed with a simple interface that guides the user through the test with onscreen prompts. After the sample is inserted, the app can photograph it, create a video and report the results in less than five seconds. The test results are stored on the phone so that semen quality can be monitored over time.
+The inventors hope to have the device approved by the Food and Drug Administration within the next two years.
+“We recruited untrained users with no science background and had them test the device using semen samples, and then measured the accuracy,” said the senior author, Hadi Shafiee, an assistant professor of medicine at Harvard. “It’s just as easy as a home pregnancy test.”
+“Couples try to conceive,” Dr. Shafiee added. “They get stressed out. They talk to friends. There are ovulation test kits for women, but so far nothing for men. With this device at home, a man can avoid the embarrassment and stress of providing a sample in a doctor’s office. This can be the next step.”
+Dr. Shafiee said the device could also be useful for men who get vasectomies, who are supposed to return to the urologist for semen analysis twice in the six months after the procedure. Compliance is typically poor, but with this device, a man could perform his own semen analysis at home and email the result to the urologist.
+Related Articles
+
+
+Load-Date: March 23, 2017
+
+
+End of Document

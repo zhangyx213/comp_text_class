@@ -1,0 +1,94 @@
+
+
+
+
+
+Newstex Blogs 
+411mania.com
+July 26, 2021 Monday 4:07 AM EST
+
+
+Copyright 2021 Newstex LLC All Rights Reserved
+Length: 2806 words
+Byline: Jed Shaffer
+Body
+
+
+Jul 26, 2021( 411mania.com:  Delivered by Newstex)  
+ Before we begin  
+ The Gamer Parent's Strategy Guide Podcast![1] Last week, I interviewed Geoffrey Golden, a narrative designer that's worked with Capcom and Ubisoft. We discussed the realities of game design, what kids who are really interested in it should do to prepare, and what parents can do to help their kids. Go listen, would ya? 
+ Me on Twitter![2] 
+ The column and podcast, on Facebook![3] 
+ The email![4]. 
+ This week's business. 
+ Here we go again. 
+ You'd have to be living off-planet to have missed Call Of Duty. The franchise has existed since 2003, with eighteen core titles, five mobile installments, and several other side games on various platforms. It has consistently ranked in the top ten best selling games of the year, often at #1. While the games usually have a single-player campaign, the primary draw is the multiplayer component. It is more omnipresent than a VPN sponsorship on a YouTube video, and for people who don't play shooters, it is as impenetrable as a Gary Busey TED Talk. 
+
+THE WISDOM I'M SHARING WITH YOU TODAY I GOT FROM HEDY LAMARR OVER THE RADIO IN MY PANCREAS! 
+ On the off-chance there's non-gamer parents reading that have managed to exist in a bubble oh these many years, here's what Call Of Duty is all about: it's a military-themed first-person shooter. You're a soldier. You shoot enemy combatants in different settings, usually limited to modern day or World War II. It's the AC/DC of video game franchises. Its detractors point to the repetitive design, and yearly releases that have little to no variance between them. It also has a reputation for having an unwelcoming fanbase for new players, with plenty of 11 year olds ready to tell you what they plan on doing with your mother, or what she does with others. Another common criticism is how its single-player campaign has gone from a selling point to a hilarious afterthought; while it gets positive reviews, its short length and perfunctory nature makes it the marzipan of the game's box of mixed chocolates. 
+ For seven days, I will be playing Call of Duty: Black Ops 4, trying out all the game modes, and determining what you, the gamer parent who doesn't play it, should know about it. Is it as bad as the haters say, or is there fun to be had? Is the fanbase really that toxic? Does it have anything to offer new fans, or is it shambling on through a zombie-like existence solely on momentum and name value? 
+
+Presented without comment. 
+ Only one way to find out. 
+ Day Zero 
+ I'm all set to download it. The game is free this month via PS+, which is a huge factor in me choosing this for the diary (otherwise, it was going to be either Roblox or Minecraft). Unless I sense that my fanbase is strong enough to support a Patreon (and provided I can think of some Patreon rewards for those who'd be willing to give me money), there's no way in hell I'm paying for a game for journalistic purposes. 
+ This is when I discover that my compulsion to amass a backlog that will keep me playing the PS4 until the heat death of the universe has now come back to haunt me. My external hard drive has maybe 80 gigs of free space remaining. I knew this day was coming, but, like hitting the age where prostate exams are a necessity, I didn't think it was coming so soon, and it hurts. Off to Target I go for an upgrade. I then look up how to transfer data from one HD to another, and HOLY SHIT, SONY, way to fuck me dry with a sandpaper dildo. Seeking political asylum is less laborious. You can't just hook up two drives to a PS4 and move the data from one to the other. Because of the proprietary file format, you can't use a PC either. No, you have to: 
+ 1) Transfer some of the data onto the console itself 2) Shut down the PS4 (and I mean a full shutdown, not sleep mode) 3) Unplug the old external hard drive 4) Plug in the new HD 5) Swap the data from the console onto the new hard drive 6) Shut down again 7) Unplug the new HD 8) Plug the old one back in and go back to 1. 
+ Transferring 400 or so gigs of data - the max amount of free space I had on the system's internal drive - took around 90-100 minutes, and that's on or off. To get everything I have to the new hard drive, it took six transfers. NINE HOURS IT TOOK. Thanks, Sony. That's the entire run time of the Lord Of The Rings movies spent just making room for this game. 
+
+YOU SHALL NOT HAVE A LOGICAL USER INTERFACE FOR DATA STORAGE!!! 
+ This had better exceed expectations. Considering I do not like the first-person perspective, my expectations are somewhere around 'get through it without swallowing enough ibuprofen to knock out a cow', so the bar is low. Laying on the dirt low. 
+ Day One 
+ I recently saw a movie called This Film Is Not Yet Rated, about the MPAA. In it, they mention how the the MPAA has an arrangement with the Pentagon that, if a military movie production wants access to authentic military materiel (planes, ships, uniforms, etc.), the script has to be approved by the Pentagon in advance, and the movie has to be screened before release, and re-edited to the specifications of the Department of Defense. I bring this up because I've heard how Activision and the military have a relationship[5] (even if it isn't always a positive one[6]), so I was expecting some adherence to reality. At least a passing nod. I mean, there is a zombies mode, so, you know, 'reality' has some elasticity here. 
+ It came to mind because, once I click on the game, the splash screen of some mammoth, Bill Kazmaier-looking fellow, with a certainly-not-military-approved mohawk[7], and even more not-to-military-regulations set of skull tattoos[8]. It's like the United States Military, if brought to you by Mark Ecko and Red Bull. 
+
+Yeah, about where I set that bar  
+ The game loads up, and I look at the options in the menu screen, and I'm not seeing anything called 'campaign' or 'single player'. There's a whole bunch of options, and not a single pop-up or info box to define them. Just names like 'leagues', 'specialist HQ', 'blackout'. Some of the headers have pictures, some don't, but the pictures are as helpful as having rods as a measurement on a map. There's 'zombies', but it's BELOW a picture of zombies; the pic has its own name inside the box, something like 'aether'. And doesn't that belong in Final Fantasy XV, and not Axe Body Spray: The Game? 
+ I grab my phone and look up how to access the game's single-player campaign. 
+ There isn't one. It's multiplayer only. 
+
+I have made a significant under-estimation. 
+ So I start poking around. I know my rookie status will make me a marked man in anything competitive, so I figure the zombie mode should be fine. I'll even have teammates backing me up! And there's a tutorial, so I choose that. Good way to get your feet wet when you haven't touched an FPS since the birth of 'Han shot first'. 
+ this this takes place on the fucking TITANTIC?!? And I can wield Thor's hammer?!? There's magic and mystical artifacts and seriously, what did I do here. Who did I piss off. Did Activision make a stealth Bioshock sequel? 
+ Oh, yeah, the game. I mean, it plays fine. I made it through 8 waves before my team and I died. I was not plagued by homophobic, necrophiliac epithets or anything. In fact, nobody on my team talked at all. We all just kinda went our own ways, tried to stay alive, and died after a while. 
+ That's enough for one day. Maybe tomorrow, we'll go with something a little more military in nature, perhaps with guidance from one of the twins. That zombies mode that's just wrong. 
+ Day Two 
+ Today, I try Blackout mode. It's CoD's version of Fortnite. There's your standard repertoire of solo, duos, trios and squads, but there's another mode that even Fortnite doesn't have, likely for good reason. It mashes up solo, duos, trios and squads into one game with no regard for balance or appropriateness, like the world's lamest basket on Chopped. 
+
+I'll use the fruit skewers to stab out the eyes of the devs at Treyarch. It'll give their blindness a nice citrus note. 
+ First, I do a few solo games, and get wasted pretty quick. The first game was short, shorter than than song about Wienerschnitzel by The Descendents. I made it to 56th place on the second game, mostly by running my ass off, but the first-person perspective is the bane of my existence. I need to see the context of where I am in the world. 
+ I try the mash-up mode and get dumped into a squad. One person never speaks, one person utters only a couple things, and the third is some 10 year old who WILL NOT SHUT UP. To my surprise, not once is he profane, homophobic, racist or otherwise offensive. To my sadness, I have to consider that some kind of moral victory, because that's how little I expect from online players[9]. 
+ I still get my ass kicked. Three games and I've yet to even SHOOT at an opponent. I wasn't this ineffective at dating in high school .This makes that jump in Ninja Gaiden look like jumping over the goomba in 1-1. 
+ My kids want to play with me, which I'm happy to indulge, just because they get a kick out of me playing their games. But well, not too get too graphic or over-share, but I had a vasectomy about a decade ago. That only lasted a half hour, and involved an injection in my sack, and it's still less painful or drawn out than this assignment. Fortnite was tedious and repetitive, but it was more vibrant to look at, and the Creative mode at least injected some variety. Clicking on the game's icon inspires in me the kind of dread one feels when the words 'Michael Bay' and 'reboot' are used in a sentence. 
+ Sigh. Several more days of this. 
+ [embedded content] 
+ Still as appropriate as the last time. 
+ The rest of the week 
+ Yup. I'm summarizing the rest of my time, and with a damned good reason. 
+ This game is like Groundhog Day, only longer[10]. I can make small changes, but in the end, it's still all the same, and I have to do it again. Multiplayer in a deathmatch arena is multiplayer in a battle royale arena. I'm either facing people I don't know, or teaming with people I don't know against bots. The bots are either soldiers or zombies. 
+ It all functions fine, because the root gameplay is the same everywhere. It's not like, say, the first Uncharted, where the platforming is stellar, but the shooting is less than stellar. It's like putting a beautiful picture of a sunset on five different colored backgrounds; the accenting color might be better or worse, but in the end, it's the same damned picture. 
+ That's Call Of Duty. They can change the rules of the game, but it's like deciding whether or not to play Monopoly with the Free Parking house rule. 
+
+While you'd think something from Groundhog Day would be thematically appropriate, there is no moment that expresses my feeling right now more than this. 
+ Final thoughts 
+ Earlier, I made a passing comparison between Call of Duty and AC/DC. It was said as a joke, but to my surprise, it could not be more apt, and that can be taken as a compliment and an insult. Don't get me wrong, I enjoy AC/DC. 'Back In Black', 'Thunderstruck', 'Highway To Hell', if those songs don't get your fists pumping, check your pulse. But AC/DC have become one of those legacy bands that still make new music, and while it sounds like the classic stuff, it just doesn't feel classic. They've put out so many albums with so little variation between them, new material isn't necessary anymore. If they stuck to the hits, nobody would complain. When they play something off any album since, I don't know, 1995, everybody looks at their watch. 
+ That's Call Of Duty. Even within a single game, all its modes feel like variations on a theme. They do that theme well, but they ONLY do that theme. Maybe a better comparison is the Simpsons episode 'Lisa The Iconoclast'. There's a scene where she's ordering fliers at a printer. She asks for '25 on goldenrod, 25 on canary, 25 on saffron, and 25 on paella', and the employee responds with 'okay, 100 yellow'. THAT'S what I felt playing Call Of Duty's many modes. Fortnite's gameplay loop between battle royale modes is repetitive, but Creative was there for a burst of fresh air. Scavenger hunts, obstacle courses, survival horror, the kinds of user-created content is wide open. They're not deep 'games'; nobody's gonna mistake them for professionally developed games, but, for fan-man stuff made with pre-rendered assets, it's not bad. CoD has nothing to break up the run/shoot loop. Even the zombies mode, as bizarre as the surface level trappings are, just boils down to 'survive waves of enemies'. The new DLC for Streets of Rage 4 does that, but at least it randomizes the enemies and settings and boosts, so your strategy has to change over time. After two days, I'd exhausted variations in gameplay; only the setting differed. 
+ Do I see why kids gravitate to this game? Absolutely. It plays into the competitive nature many kids have, and it is a well-put together game. Controls are tight and responsive, gameplay is smooth and polished. Unlike Fortnite, it hasn't monetized and fetishized character skins to the point of turning them into cult objects and popularity measuring sticks. And you won't find any trendy, out-of-place cross-promotions like LeBron James and Travis Scott. 
+
+No, they'll hide a skin behind a paywall that actually gives players an advantage in poorly lit areas. This IS an Activision game. 
+ But what I don't see is what makes this so popular compared to other games in the genre. Military shooters are as original as a sunrise, and, at least to my eye, it does nothing different from its contemporaries. I still loathe the first-person perspective, but if I were going to embrace it, I'd want something that doesn't feel like a million other games. Doom, at least, takes place in some weird merger of Mars and Hell. Wolfenstein has the alternate reality setting. Even Fallout 4, as buggy and janky as that is, gives you some variance in load-out, setting and visuals to make it stand out. Could it be solved with a version of CoD where they choose a setting that ISN'T World War II or modern day? I wouldn't say it'd be a panacea, but it couldn't hurt. Try Vietnam, or World War I. Something where the technology of the time period will impact the gameplay and force the game to feel different. 
+ And for crying out loud, a SINGLE PLAYER CAMPAIGN. PLEASE. As silly as it sounds, it makes all the difference in the world for giving the game a different feeling. No matter how many ways you change the world around multiplayer, it's still multiplayer; you're either working with or against others in what amounts to a game of tag. A single-player campaign gives the player purpose. A series of goals. 
+ So, what should you, dear parent, think when your kids want this? Eh. There's a lot worse they could play. You may want your kids to play something artful and story-driven like The Last Of Us or Ori and the Blind Forest, but those kinds of games don't play to your average kid. Teenagers, especially teenage boys, are driven to define themselves against their peers, and this game facilitates that. The online fanbase is nothing I'm thrilled with, but nothing unique from Overwatch, DOTA 2 or just about any other online game. Maybe don't let the younger ones play it - say, south of 12 - but, beyond that there's worse. A lot worse. 
+
+This is when I might open a Patreon, because if I'm going to subject myself to this cesspool, you people will OWE ME. 
+ And in closing  
+ Don't have a plan for the next one. Got two ideas, we'll see which hits better. 
+ And yes, no Angry Wife joke. I couldn't find a place. I feel dirty as you are disappointed. 
+ If you haven't tuned in to the podcast yet, hey, give me a click and a listen, eh? If you like what you hear, a subscribe and a review too. Would be lovely of you. I know, I feel tacky asking that here, but if you like the column, supporting the podcast isn't much more of a lift. PLEEEEEEEEEEEASE. 
+ Okay, that's enough shameless begging. See you in two. 
+ [ 1]:  [ 2]:  [ 3]:  [ 4]:  [ 5]:  [ 6]: / [ 7]: / [ 8]: / [ 9]:  [ 10]:  
+
+Load-Date: July 26, 2021
+
+
+End of Document

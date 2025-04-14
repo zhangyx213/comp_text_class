@@ -1,0 +1,110 @@
+
+
+
+
+
+Washingtonian
+September 2009
+
+
+Copyright 2009 Washington Magazine, Inc.
+Section: Pg. 42-49
+Length: 2913 words
+Byline: By Emily Leaman
+Highlight: Scientists at the National Zoo are using high-tech ways to breed animals and save some from extinction
+Body
+
+
+By Emily Leaman
+Ninety minutes outside Washington are National Zoo animals that few visitors ever get to see. Gone are the lines of tourists, gift shops, and ice-cream carts. In their place are wild animals that live and roam in the shadow of the Blue Ridge Mountains.
+The National Zoo's Conservation and Research Center is perched on the side of a mountain in Front Royal. From a grassy clearing, you can watch cars wind along Skyline Drive, the drivers unaware of the cheetahs, red pandas, and 400 other exotic animals nearby.
+The center is nearly 20 times larger than the zoo's DC location. There are a state-of-the-art veterinary hospital, half a dozen research labs, a satellite-imagery lab, and acre after acre of enclosures for animals.
+Just inside the front gate is a pair of clouded leopards-cats with extra-long tails, large paws, and spotted coats. These animals made headlines twice this year when the female, Jao Chu, gave birth to a pair of cubs in March and another cub in July-the first clouded leopards born at the National Zoo in 16 years.
+To the right are a dozen red pandas. These shy, sleepy animals, which look like foxes crossed with teddy bears, keep watch from perches in their silo-like enclosures. Keepers say the animals feel safest when they have room to climb.
+Farther up the mountain, you pass the crane yard, which holds different endangered species of the oversize bird. In the rolling pastures beyond are Persian onagers, Przewalski's horses, and antlered Eld's deer.
+The new cheetah facility is the last stop. Built in 2007, the nine-acre compound is a network of indoor/outdoor spaces with room for up to a dozen adults and their offspring. It includes living quarters, an exercise yard, and what one keeper calls "lovers' lane," a side yard for males to parade in front of interested females.
+In many ways, the research center is like a real-life Jurassic Park. More than half of the animals are endangered. Scientists here study wildlife reproduction and develop techniques to make captive breeding easier and more successful. They chart hormone levels, tweak diets and habitats, and monitor animal behavior in large-scale settings that wouldn't be possible at the DC zoo. Their goal is to save animals from extinction.
+Many National Zoo scientists have been credited with making big strides toward that goal-artificially impregnating a giant panda, for example-and rightly so. But two decades ago, one unlikely scientist helped set the stage for almost everything they've been able to accomplish.
+In 1973, Jon Ballou entered the University of Virginia to study political science. The son of a Foreign Service officer, he'd grown up in Asia. His father worked at embassies in Singapore, Japan, Hong Kong, and Beijing. Jon Ballou dreamed of working at the United Nations.
+But late in high school, his father gave him a copy of Robert Ardrey's The Hunting Hypothesis. The book, which draws parallels between animal and human behavior, fascinated Ballou. He signed up for an animal-behavior class at the University of Virginia and, as a sophomore, declared a major in animal-behavior science.
+After graduating in 1977, Ballou read a story in the Washington Postabout National Zoo volunteers who were conducting behavior studies. "I don't recall thinking it would lead to anything," says the 53-year-old with a salt-and-pepper beard. "It was something to do while I looked for jobs."
+The zoo already had started practicing conservation biology, a field that's rife with controversy today. "The core struggle is between scientists who say we've lost the war against wildlife extinction and those who believe we haven't," says acting director Steve Monfort. "We're the optimists."
+That's the stance the zoo has taken since it hired its first scientist in the late 1960s. Most zoos then didn't have a science mandate, much less the budget to support research. Even today, very few zoos have scientists on staff; the National Zoo has 35.
+As a volunteer at the zoo, Ballou was put in charge of monitoring the Indian rhinos. After a few months, he was offered a $6,000 yearlong contract to do data analysis. He accepted.
+Ballou didn't know it then, but he had gotten his foot in the door at a time when zoos were on the brink of a major change.
+In 1989, 33-year-old Ballou presented a paper at a conference at the Conservation Research Center. He stood in front of a roomful of colleagues and wrote four equations on an overhead projector.
+For ten years, Ballou had been searching for the best way to manage the gene pools of animals in captivity. He had a theory that if you could identify animals with the most underrepresented genes and breed them with the right mates, you could maintain a healthy level of genetic diversity. Using family trees, he thought he could come up with a formula to identify the most genetically valuable animals. He had narrowed it down to four possible equations.
+Ballou remembers his eureka moment. He was standing behind a lectern, explaining the equations one by one, when he felt a surge of adrenaline: "One of the formulas just made sense," he says. "It clicked."
+His formula was dubbed "mean kinship"-a measure of the relatedness of captive animals. It yields a numerical value between 0 and 1 for each animal; the closer the number is to zero, the less related an animal is to others in a population of its species. Its genes are the rarest.
+Ballou and two colleagues developed software to crunch the numbers. The program is called Population Management 2000. It yields lists of all the breeding animals in a population, ranking them according to their genetic value. Scientists can then make recommendations for breeding pairs that will best maintain or improve a population's diversity. The software is now used for more than a hundred species at zoos around the world. 
+The idea that zoos need to run breeding programs is relatively recent. In the early 20th century, zoos were menageries with animals on display for public entertainment. Conditions were crude, cages often were cramped, and animals were bred based on the bottom line: Zoo babies brought visitors. The result was a lot of inbreeding.
+In 1979, Ballou and his adviser, Kathy Ralls, published a paper on the dangers of inbreeding-among them, a higher mortality rate. The paper pushed zoos to adopt a more responsible approach to wildlife reproduction. Ballou's mean-kinship method gave zoos the tools to focus on conservation.
+Think of zoos today as reserve banks, Steve Monfort says. If a species is threatened, animals from the captive population can reproduce and eventually be reintroduced into their natural habitats. In effect, zoos are an insurance policy against extinction.
+"This model can only work if the captive population is genetically healthy," says Budhan Pukazhenthi, a reproductive biologist at the National Zoo. If an inbred animal were to be reintroduced, it could bring genetic mutations into the wild population and hasten a species's extinction.
+The reserve-bank model depends on cooperation across zoos-that's where the Species Survival Plan program comes in. SSPs are working groups of specialists and scientists from zoos around the country who monitor a species's captive population. Most of the animals in SSPs have pedigrees-"We know the mom and dad for each," says Pukazhenthi-and Ballou's mean-kinship formula is used to identify breeding partners.
+"It's like eHarmony for animals," says Monfort, who oversees the SSP for the Przewalski's horse, the last remaining wild horse species. "It tells us, genetically speaking, this is the ideal mate for this animal."
+Only those animals most severely threatened in the wild are enrolled in SSPs. The Red List of Threatened Species-which is coordinated by the International Union for Conservation of Nature-helps zoos determine which species to focus on. The most recent Red List was published in October 2008. Of the 5,487 mammal species evaluated, 1,141 were deemed threatened-a 4-percent increase since 1996.
+There are 113 SSPs managed in the United States, accounting for 10 percent of threatened species. Jon Ballou, who has overseen the SSP for golden lion tamarins for nearly two decades, says someone needs to sound the alarm before people will act. "We have examples of species that have gone into decline because nobody was paying attention," he says. "Every species needs a champion."
+The passenger pigeon was championed too late. Once believed to be the most abundant bird in North America, it became extinct in the early 1900s due to habitat loss and over-hunting. The last known passenger pigeon, Martha, died at the Cincinnati Zoo in 1914.
+Martha's body was donated to the Smithsonian, where it was mounted and put in a display case. Next to it was a plaque with these words: 
+"Martha, last of her species, died at 1 pm, 1 September 1914, age 29, in the Cincinnati Zoological Garden. Extinct."
+It's a cold spring morning in Front Royal, and Wynne Collins, a reproductive scientist at the research center, is doing her morning rounds. Her first stop: the Przewalski's horses.
+Three or four herds of mares graze in grassy pastures divided by a chainlink fence. Collins unhooks the latch and lets herself into the paddock. She's greeted by the horses' caretakers and a zoo volunteer, who are here for a training session in "the chutes," a maze of stalls leading to a hydraulic lift that restrains the horses during reproductive exams.
+The $30,000 machine is clunky and loud, but it's the best way for Collins to do her work. Unlike domestic horses, Przewalski's horses-P-horses for short-aren't accustomed to human interaction. The stocky, stubborn animals stand about as tall as ponies.
+The four mares from New Mexico are the most difficult. Referred to by numbers rather than their Chinese names-Collins never mastered the Chinese pronunciations-horses 11 through 14 have been at the research center for 16 months. Inside the chutes, they buck and charge at the doors. The wooden stalls shake.
+Collins waits for number 11 to quiet down before sending her to the hydraulic lift. "Door," she says softly, as if speaking to a toddler. The barrier slides open, and the horse surges forward. Another door shuts behind the mare, penning her into the machine. It whirs for a minute before 11 is released and sent galloping back to the paddock.
+All this for a gynecological exam. During breeding season, Collins conducts regular exams to monitor the horses' reproductive cycles, and for nearly five years she has collected urine samples to measure their hormones. As in humans, spikes and declines of certain hormones can signal pregnancy. Collins stores hundreds of vials of urine in a freezer in the lab.
+Because P-horses' mating was never studied closely in their natural habitat, scientists know little about reproduction within the species beyond what they've observed of the animals in captivity. It's a limited sample set: All of the P-horses in the US captive population can be genetically traced to just 14 horses. Today there are about 1,500 P-horses in zoos around the world; the National Zoo holds 26.
+Steve Monfort is a longtime champion of the species, which was close to extinction 40 years ago. In 1986, he founded the zoo's endocrine-research lab, a workspace for scientists to study reproductive health and monitor hormones in wildlife species. Monfort's first research subjects were P-horses.
+Over the next decade, Monfort and his team studied P-horse reproduction. They've charted estrus cycles in mares to determine the best time for breeding. They performed the first successful reverse vasectomy, allowing valuable genes of a P-horse stallion to reenter the population. Last year, the zoo saw the births of two foals-the first in nine years. Another was born in July.
+Thanks in part to the zoo's work with the captive population, P-horses began to be reintroduced into the wild in 2001. Today more than 400 roam in sanctuaries in China, Mongolia, and Kazakhstan. Scientists in the National Zoo's satellite-imagery lab monitor the horses. Last year, the species's status was downgraded from "extinct in the wild" to "critically endangered."
+"Research is sometimes mind-bogglingly slow," says Collins. "But it feels good to see our hard work finally pay off."
+With every discovery comes a new challenge. Monfort says the next step is to develop tools to make breeding easier. Moving animals from one zoo to another for breeding can be risky and expensive, and it doesn't always result in pregnancy.
+Lots of techniques could be helpful, such as artificial insemination, but scientists have found that methods that work with one species don't necessarily translate to others. Wynne Collins has tried for years to artificially inseminate the zoo's Przewalski's horses, but so far she's been unsuccessful. In Asian elephants, the technique has yielded results-Kandula, the only Asian elephant born at the National Zoo, was the product of artificial insemination.
+So was the zoo's poster cub, Tai Shan, the only giant panda born at the National Zoo. His mother, Mei Xiang, was artificially inseminated in March 2005.
+Giant pandas are notoriously hard to breed in captivity-doing so requires a perfect storm of environment and timing-and they're prone to pseudopregnancies. During false pregnancy, a panda's hormone levels and behavior are identical to the patterns in a real pregnancy. Scientists can't determine a pseudopregnancy until the animal's hormones return to normal without a birth. This makes early pregnancy detection very hard.
+Tai Shan was born on July 9, 2005, much to the delight of zoo scientists. He was the zoo's first giant panda cub to survive birth and the first to result from artificial insemination.
+Another useful tool is a semen-freezing technique called sperm cryopreservation. It was first used for cattle in the 1940s but has been adapted for wildlife over the last 30 years. Budhan Pukazhenthi is at the forefront in developing the method for the Eld's deer, an endangered species from Asia that looks like a heartier version of the white-tailed deer. The goal is to build a library of samples that can be used now and in the future to mate ideal pairs. Says Pukazhenthi: "You can reintroduce genes into a population long after an animal is gone."
+The concept of freezing semen is pretty basic-mix it with chemicals to prevent icing, freeze it, then thaw it and hope the cells aren't damaged-but the trick is finding the right combination of chemicals for each species. Scientists have been able to create workable compounds for the Eld's deer and a number of wild cats, but Pukazhenthi says the process is trial and error. He's currently working on sperm cryopreservation for P-horses and Asian elephants.
+The technique has seen impressive results for the black-footed ferret, one of the world's most endangered animals. Indigenous to the Great Plains, the species was considered extinct until 1981, when a small population was found in Wyoming.
+The National Zoo was the first facility outside Wyoming to take part in a breeding program. For more than ten years, Pukazhenthi and other scientists have maintained a Black-Footed Ferret Genome Resource Bank, a repository of semen from the most valuable males. Last year, they successfully inseminated two ferrets with frozen sperm-specimens taken more than a decade ago from males that died in 1999 and 2000.
+With the help of an SSP, the genome bank, artificial insemination, and other breeding methods, the zoological community has brought the population of black-footed ferrets back from 18 in 1981 to more than 800 in the wild today.
+"It's not black magic," says Pukazhenthi. "There are times when we get discouraged and times when we have success. All of those experiences serve as steppingstones for the next time."
+Like Pukazhenthi, Jon Ballou downplays his contributions. He talks at length about breeding programs and genetics but clams up when it comes to discussing his impact on zoo science. Asked why he didn't name the mean-kinship equation after himself, he laughs and says shyly, "I didn't even think of it."
+How does it feel to know he's helped save hundreds of wildlife species from extinction?
+"Well," he says slowly, as if searching for the right words, "I guess I feel useful." 
+SIDEBAR:
+For Math and Science Fans
+Jon Ballou's "mean kinship" equation helps zoos manage their breeding programs. The formula measures the relationships among animals. In mathematical terms, it's expressed like this: 
+MK(i) = Sum[K(ij)] / N
+MK(i) is the mean-or average-kinship of individual i. 
+K(ij) is the kinship between animals i and j. 
+N is the number of animals in the population. 
+Individuals are assigned numerical values based on how closely they're related to other animals in the population. For example, siblings i and j have a kinship (K) of 0.25; a grandchild has a kinship to its grandparent of 0.125. Unrelated animals are assigned a value of zero.
+Once the relationships are tallied for each pair of animals in a group, you add the numbers and take the average. The animals with the lowest mean-kinship value are the most valuable. Animals with the highest kinship averages have usually been bred enough times, and their genes are well represented. 
+Zoo scientists aim to achieve genetic diversity, so they restock the pool with genes that are underrepresented. Based on the mean-kinship formula, scientists aim to breed only those animals with the lowest genetic kinship. The process helps zoos minimize inbreeding. 
+
+Graphic
+
+ 
+The National Zoo's Jon Ballou has come up with new approaches that are helping save more than 100 species from extinction.
+Photograph by Matthew Worden
+About a dozen red pandas live at the National Zoo's Conservation and Research Center in Front Royal. Five cubs were born in a three-week stretch this summer, part of a baby boom at the zoo.
+Photograph by Mehgan Murphy
+Kandula, who turns eight in November, was only the second Asian elephant in the world born through artificial insemination.
+Photograph of elephant by Jessie Cohen
+The zoo maintains a stock of frozen sperm from black-footed ferrets. Last year, two ferrets were successfully inseminated with sperm from males that had died.
+Photograph by Mehgan Murphy
+The zoo hopes to bring more cheetahs from Africa to its Conservation and Research Center. A nine-acre facility there can hold up to 12 adult cheetahs and their offspring.
+Photograph by Jessie Cohen
+The research center sits on 3,200 acres and is nearly 20 times larger than the zoo's DC location.
+Photograph by Jessie Cohen
+Three clouded-leopard cubs were born at the Conservation and Research Center this year, the first the zoo has produced in 16 years.
+Photograph of clouded leopard by Mehgan Murphy
+Thanks in part to the zoo's work, the Przewalski's horse was downgraded from "extinct in the wild" to "critically endangered." Today more than 400 roam through sanctuaries in China, Mongolia, and Kazakhstan.
+Photograph of Przewalski's horses by Jessie Cohen
+
+Load-Date: August 25, 2009
+
+
+End of Document

@@ -1,0 +1,50 @@
+
+
+
+
+
+Newstex Blogs 
+JD Supra
+May 23, 2024 Thursday 6:01 PM EST
+
+
+Delivered by Newstex LLC. All Rights Reserved.
+Copyright 2024 JD Supra 
+Length: 1130 words
+Byline: Akerman LLP - Health Law Rx
+Body
+
+
+May 23rd, 2024 (   - Delivered by   )
+It is critical for employers and plan fiduciaries/administrators to stay informed of HIPAA privacy and security-related legal developments because most employer sponsored group health plans - regardless of the employer's industry or size - are considered covered entities under the Health Insurance Portability and Accountability Act of 1996 (HIPAA). Therefore, individually identifiable medical information that group health plans create, use, store, or transmit is 'protected health information' (PHI) pursuant to HIPAA. This update narrowly focuses on the enhanced HIPAA rules in the nationwide politically charged space of 'reproductive health information' within group health plans, including attempted access by state law enforcement agencies. 
+The U.S. Department of Health and Human Services Office for Civil Rights (OCR) recently published a final rule updating the HIPAA Privacy Rule to address the privacy of 'reproductive health information' (  ).
+Below is a summary of the Final Rule that is effective June 25, 2024 . Covered entities, including group health plans, and their business associates, like outside administrators (collectively, Regulated Entities), have until December 23, 2024 to comply with the Final Rule, except for the Notice of Privacy Practices (NOPP) requirements, which must be in place by February 16, 2026. Plan sponsors will need to contractually obligate certain outside service providers of their plans to comply with the Final Rule by the applicable deadlines and will need to watch for the sample OCR attestation language that is expected to be released later this year.
+New Definition of 'Reproductive Health Care' - As of June 25, 2024
+Technically the new definition - which is exceedingly broad and includes certain male as well as female reproductive healthcare - is on the books as of June 25, 2024, when the Final Rule takes effect. The Final Rule defines 'reproductive health care' as 'health care that affects the health of an individual in matters relating to the reproductive system and its functions and processes.' According to commentary from OCR, reproductive healthcare includes services such as contraception, preconception screening and counseling, pregnancy screening, miscarriage management, fertility and infertility diagnosis and treatment, and broad care related to the reproductive system (e.g., perimenopause, menopause, and mammography).
+Again, this definition is quite broad and absent additional clarification to the contrary, arguably includes male reproductive healthcare services such as vasectomies and erectile dysfunction treatments.
+Restrictions on Using Reproductive Health Care Information for Investigations - As of December 23, 2024
+Under the new Final Rule, Regulated Entities may NOT use or disclose PHI for either of the following purposes:
+To conduct a criminal, civil, or administrative investigation into or to impose criminal, civil, or administrative liability on any person for the mere act of seeking, obtaining, providing, or facilitating 'reproductive health care,' where such healthcare is lawful under the circumstances in which it is provided.
+To identify any person for the purpose of conducting such investigation or imposing such liability.
+To address concerns about Regulated Entities being obligated to determine whether reproductive healthcare provided by others is lawful, the Final Rule creates a presumption that the reproductive healthcare was lawful under the circumstances in which such care was provided when it was provided by someone other than the Regulated Entity receiving the request. To illustrate the presumption, OCR describes a scenario where an investigator requests information from a health plan about claims for coverage of certain reproductive healthcare provided by a particular physician. In this case, the health plan must presume that the reproductive healthcare was lawful and cannot release the information unless the plan has actual knowledge that care in question was not lawful or the investigator provides the plan with documentation sufficient to overcome the presumption.
+Interestingly, the additional restrictions on the use and disclosure of this particular type of PHI within the Privacy Rule apply directly to covered entities and business associates. This is noteworthy because the Privacy Rule has not generally applied directly to business associates in the past; rather the historic Privacy Rule obligations are imposed through business associate agreements. This means that health plan TPAs, cloud service providers, health and welfare consultants, and other vendors will have direct responsibility for complying with the Final Rule.   Employer group health plans contracting with these types of businesses should update their service agreements and Business Associate Agreements by December 23, 2024, to comply with the Final Rule and to insulate themselves from such responsibility. Employer group health plans should also ask their business associates about policies and procedures they have in place to identify PHI that is 'potentially related to reproductive health care' so all parties can comply with the Final Rule. Given the expansive definition of 'reproductive health care,' this may be a challenge for plans and their business associates.
+Obligations of Regulated Entities - As of December 23, 2024
+Once the Final Rule takes effect, upon receiving a request for PHI potentially related to reproductive healthcare for:
+health oversight activities,
+judicial and administrative proceedings,
+law enforcement purposes, and/or
+authorized duties and activities of coroners and medical examiners,
+the Regulated Entity must obtain a signed, written attestation from the person or entity making the request that the intended use or disclosure of the requested PHI is not for one of the prohibited purposes described above. The attestation must be a standalone document. OCR has said it will publish a model form of attestation before the December 2024 compliance date.  
+Revisions to the Notice of Privacy Practices - Due February 16, 2026
+This action item has a longer timeframe, so employer plan sponsors should simply monitor the area for developments over time. Covered entities, including group health plans, must eventually update their NOPPs to include certain additional information, including detailed information about the prohibitions on uses and disclosures of PHI related to reproductive healthcare. 
+This is an evolving and politically charged area. We expect that there will be legal challenges to the Final Rule that could delay the compliance dates. Akerman Employee Benefits and Healthcare lawyers will be monitoring the situation as it develops.
+
+
+Notes
+
+The views expressed in any and all content distributed by Newstex and its re-distributors (collectively, the "Newstex Authoritative Content") are solely those of the respective author(s) and not necessarily the views of Newstex or its re-distributors. Stories from such authors are provided "AS IS," with no warranties, and confer no rights. The material and information provided in Newstex Authoritative Content are for general information only and should not, in any respect, be relied on as professional advice. Newstex Authoritative Content is not "read and approved" before it is posted. Accordingly, neither Newstex nor its re-distributors make any claims, promises or guarantees about the accuracy, completeness, or adequacy of the information contained therein or linked to from such content, nor do they take responsibility for any aspect of such content. The Newstex Authoritative Content shall be construed as author-based content and commentary. Accordingly, no warranties or other guarantees are offered as to the quality of the opinions, commentary or anything else appearing in such Newstex Authoritative Content. Newstex and its re-distributors expressly reserve the right to delete stories at its and their sole discretion.
+
+Load-Date: May 23, 2024
+
+
+End of Document

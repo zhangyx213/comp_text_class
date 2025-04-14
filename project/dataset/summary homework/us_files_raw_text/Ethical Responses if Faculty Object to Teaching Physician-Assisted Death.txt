@@ -1,0 +1,38 @@
+
+
+
+
+
+Medical Ethics Advisor
+December 14, 2023 Thursday 11:39 AM EST
+
+
+Copyright 2023 Thompson Media Group, LLC d/b/a AHC Media LLC All Rights Reserved
+Length: 1196 words
+Body
+
+
+Multiple recent papers focus on the ethics of conscious objection of providers participating in medical aid in dying (MAID).1-3 "However, we weren't aware of any recommendations or guidelines to conscientious objection to teaching MAID," says David Wendler, MA, PhD, head of the section of research ethics at NIH Clinical Center.
+Recently, the chief of a palliative care consultation service team that trains fellows from all over the country included training on MAID, which is legal in some form in many jurisdictions. "The challenge was that a number of clinicians on her team were personally skeptical of, or opposed to, MAID," says Wendler. This presented a conflict between the need to ensure that fellows got the necessary training and the need to respect the views of the individuals who objected. Wendler and colleagues examined the ethics of conscientious objection to teaching physician-assisted death to trainees in palliative care programs.4 "Some may say teaching is different because the individual isn't actively participating, and is just teaching somebody else what's involved. We thought that required a separate analysis on to what extent people should be allowed to opt out to teaching something like MAID," says Wendler.
+It probably is not necessary to allow faculty to opt out altogether from teaching MAID, the authors assert. Teaching about the history of MAID and presenting arguments for and against the practice are different from teaching how to do the procedure. If the institution does allow faculty to opt out of teaching some aspects of MAID (or altogether), there's a need to ensure sufficient education for trainees. "Palliative care training already tends to be pretty collaborative in most institutions," notes Wendler. Thus, it probably would be possible for other faculty to step in, even internally or outside the institution, to cover the aspects of MAID to which the faculty member objects.
+Some argue that clinicians have a professional obligation to provide whatever medical interventions are legal in the jurisdiction in which they are practicing. "The problem with that is that it seems like it at least potentially doesn't offer sufficient respect for the personal values of clinicians," says Wendler. For academic institutions, it is a similar ethical balancing act. There's an obligation to ensure trainees get a good education. "But it's also important to respect educators' values and work hard to not undermine their clinical, professional, and personal integrity," says Wendler.
+Institutions would not necessarily need a formal policy for faculty opting out of teaching MAID, according to the authors. It could take the form of recommendations or a guidance. The important aspect is for institutions to consider the issue ahead of time. "Our hope is that in doing that, it will help institutions to avoid making mistakes - either by undermining education or by putting faculty in a position where they have to do things that go against their values," says Wendler.
+MAID remains a controversial issue, both within the medical community and in society more broadly, observes Jacob M. Appel, MD, JD, MPH, HEC-C, director of ethics education in psychiatry at Icahn School of Medicine at Mount Sinai and an attending physician at Mount Sinai Health System. Some form of MAID is legal in 10 states and the District of Columbia.5 "The current legislative landscape suggests the number of jurisdictions that permit MAID will only increase," notes Appel. However, some physicians object to participating, and some medical students and residents wish to be excused from learning about MAID. "Conscientious objection raises ethical challenges for medical schools. It is worth noting that this situation is not novel," adds Appel.
+Some trainees object to learning about or engaging in elective pregnancy terminations or elective vasectomies. Abortion and sterilization are covered by specific federal statutes known as the Church Amendments, enacted in the 1970s to protect the conscience rights of healthcare providers. "Society has created legal carve-outs excusing trainees from engaging in these areas, and will likely do so for MAID as well. However, it should be noted that the legal resolution is not the same as the ethical one," says Appel.
+Physicians may have a moral duty to serve the public in ways that lawyers, accountants, or barbers do not. As long as a sufficient number of providers offer services in these areas, ethical concerns are minimized.
+However, if a practice like MAID or non-therapeutic abortion were legal, but no providers (or very few) are willing to offer it, it would raise ethical concerns about patients' right to access those services. "Balancing the goal of ensuring that people from all cultural and religious groups can become doctors and the goal of ensuring access to care, even for controversial interventions, is not an easy one," says Appel.
+The related ethical issue is whether faculty must teach about controversial procedures. "Even though I am opposed to capital punishment, when I teach a class on constitutional law, I am expected to teach the case law related to the death penalty. That is my job," notes Appel.
+Similarly, medical faculty are expected to offer instruction on the subjects which they are hired to teach. "Of course, that does not mean endorsing these practices or demonstrating them in their own clinical work," says Appel. A medical school might choose to allow a faculty member to opt out of teaching a particular subject.
+Additionally, The Coats Amendment of 1996 allows an entire program not to teach about abortion. "If the program chooses to do so, they will find someone else to teach the subject. That is the legal rule as it applies to abortion specifically," Appel explains. "But in other areas, such as MAID, this practice is discretionary for the medical school."
+Another option is for medical school faculty to add a disclaimer stating that they personally object to the procedure in question before teaching about it. "However, teaching medical students is a privilege, not a right, and it comes with responsibilities," argues Appel. "One of those responsibilities is serving the general public by training future physicians in the skills that society has determined are important for the greater welfare."
+REFERENCES
+Martins-Vale M, Pereira HP, Marina S, Ricou M. Conscientious objection and other motivations for refusal to treat in hastened death: A systematic review. Healthcare (Basel) 2023;11:2127.
+White BP, Jeanneret R, Close E, Willmott L. The impact on patients of objections by institutions to assisted dying: A qualitative study of family caregivers' perceptions. BMC Med Ethics 2023;24:22.
+Panchuk J, Thirsk LM. Conscientious objection to medical assistance in dying in rural/remote nursing. Nurs Ethics 2021;28:766-775.
+Berens N, Mahon MM, Roth K, et al. The ethics of conscientious objection to teaching physician-assisted death. Am J Hosp Palliat Care 2023 Oct 17:10499091231208024. doi: 10.1177/10499091231208024. [Epub ahead of print.]
+Lawry DR. Rethinking medical aid in dying: What does it mean to 'do no harm?' J Adv Pract Oncol 2023;14:307-316.
+
+Load-Date: December 19, 2023
+
+
+End of Document

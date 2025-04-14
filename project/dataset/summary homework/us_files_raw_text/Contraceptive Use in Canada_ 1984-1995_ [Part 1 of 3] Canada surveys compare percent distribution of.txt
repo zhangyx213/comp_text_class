@@ -1,0 +1,367 @@
+
+
+
+
+
+Family Planning Perspectives
+March 2000
+
+
+Copyright 2000 Gale Group, Inc.
+Tablebase
+Copyright 2000 The Alan Guttmacher Institute
+Section: Pg. 65; Vol. 32; No. 2; ISSN: 0014-7354
+Length: 3848 words
+Highlight: In Canada, wide availability and low cost of contraception has contributed to Canadian fertility decline, however, recent concerns about STDs and AIDS now have contraception regulating fertility, as well as providing protection [Part 1 of 3]
+Body
+
+
+Context: In every country, contraceptive behavior has important implications for fertility and the prevalence of sexually transmitted diseases (STDs). There has been relatively little attention to contraceptive practices in Canada, however, particularly how patterns of method use may have changed.
+Methods: Data on contraceptive use were collected from 5,315 women in the 1984 Canadian Fertility Survey, and from 3,220 women and 3,449 men in the 1995 General Social Survey.
+Results: Among Canadian women aged 15-49, current contraceptive use declined from 69% to 60% between 1984 and 1995. Pill use dropped from 19% to 17%, and IUD use declined from 6% to 3%. However, during the same period, condom use increased from 6% to 10%; tubal ligation declined from 24% to 17%, while vasectomy increased. In addition, the proportion of women sterilized for reasons other than contraception rose between 1984 and 1995. Men were less likely to rely on sterilization than were women (31% vs. 40%). Men reported higher levels of condom use (22%), but lower levels of pill use among their partners (9%), than did women (10% and 17%, respectively).
+Conclusions: Contraceptive behavior in Canada is unique: The decline in contraceptive use over the last decade has left Canada's overall contraceptive prevalence among the lowest in the industrialized world, and the rate of sterilization among the highest. These changes in contraceptive behavior complicate efforts to plan for social and health needs, particularly policy decisions focusing on reducing infections with STDs.
+Family Planning Perspectives, 2000, 32(2):65-73
+Contraception should meet the physical, mental and social health needs of individuals throughout their lives.[1] While the wide availability and low cost of contraception have contributed to the decline in Canadian fertility over the past two decades, recent concerns regarding sexually transmitted diseases (STDs), including HIV and AIDS, have complicated contraceptive issues. Thus, contemporary contraceptive practice is often undertaken both to regulate fertility and to provide protection from STDs.
+There has been relatively little scientific scrutiny of Canadian contraceptive practices, however. The 1984 Canadian Fertility Survey (CFS) was the first national study of the fertility of women in their childbearing years in Canada. Prior to this survey, patterns of contraceptive use had not been extensively researched in Canada, nor had the issues of HIV and AIDS been brought to general public attention. While the 1984 CFS provided an extensive account of women's contraceptive use in Canada in the mid-1980s, we know virtually nothing about contraceptive use among Canadians during the 1990s.[2]
+The 1995 General Social Survey (GSS-95) collected detailed information on contraceptive use, as well as fertility and union histories, from a nationally representative sample of Canadian women and men aged 15 and older. The main objective of this article is to use these data to update our knowledge of contraceptive use in Canada in the 1990s. Thus, we provide a descriptive account of contraceptive practices among women and men of all marital statuses and focus on changes in their contraceptive choices over the past decade. Moreover, as few fertility surveys have collected information on men's contraceptive use, the GSS-95 provides a rare opportunity to study men's contraceptive behavior.
+Data and Methods
+Data
+The 1984 CFS was the only in-depth national fertility survey conducted in Canada. The target population was all women aged 18-49, regardless of their marital status. The survey excluded women living in the Yukon and Northwest Territories,[*] institutionalized women, women living in households without telephones and those unable to speak either English or French. Telephone survey methods were used to collect the data. A total of 5,315 women aged 18-49 completed interviews, a 70% response rate.
+In the CFS, women were asked to provide detailed information about their childbearing intentions and experiences, contraceptive practices and other socioeconomic characteristics. Information regarding sexual activity was not collected, as it was deemed too sensitive for telephone interviews.[3]
+The GSS-95, which was administered by Statistics Canada, was the 10th cycle of the General Social Survey series. The survey used a national probability sample of 5,914 women and 4,835 men aged 15 and older (N=10,749). As in the CFS, telephone interview techniques were used to collect the data, and the overall response rate was 81%. Residents of the Yukon and Northwest Territories and institutionalized residents were excluded.
+The GSS-95 focused on the family. It collected detailed information on marital and childbearing histories, reproductive intentions, contraceptive practices and demographic characteristics. While both surveys collected data on contraceptive use, the CFS had a more restricted sample selection by limiting the survey to women aged 18-49. In order to study the change in contraceptive use, we restricted the GSS-95 sample to women aged 18-49 and men aged 18 and older. With these restrictions, our GSS sample included 3,220 women and 3,449 men.
+In both surveys, information on contraceptive use was collected by asking respondents what contraceptive method (or methods) they (or their partner) were currently using and how long they had been using that method. While the CFS collected information on multiple method use, only the most effective current birth control method was retained in the data set that was released for public use. The GSS simply asked respondents to report their primary contraceptive method.
+In the CFS, tubal ligation and vasectomy were classified as methods of contraception, whereas hysterectomy and other noncontraceptive surgical sterilization were treated as instances of sterilization for medical purposes. However, in the GSS, respondents were asked if they or their partner had been sterilized to prevent pregnancy or for medical purposes. Those who responded "yes" or "both" were considered sterilized for contraceptive reasons, while those who responded "no" were considered medically sterilized. When a respondent reported that both partners in a couple were sterilized for contraceptive or medical purposes, only the information concerning the respondent's sterilization was retained.
+In this analysis, we focus on the contraceptive method that the respondent reported relying upon. This choice does not necessarily reflect the method used by the respondent personally. Because most contraceptive methods are gender-specific (only women use the pill, while only men have vasectomies), the method the respondent reported may well be the contraceptive method used by his or her partner.
+In this article, most measurements of socioeconomic and demographic characteristics are generally self-explanatory. However, we used family income as an indicator of socioeconomic status in this study, and in order to make meaningful comparisons across time, we measured income in four quartiles. Thus, quartile 1 includes respondents whose family income was in the lowest quarter of the population, while quartile 4 consists of those with a family income in the highest quarter.
+Overall Findings
+Aggregate Trends
+In 1984, 36% of women of childbearing age were using reversible contraceptive methods, while 40% were protected by nonreversible methods--33% by contraceptive sterilization and 7% by sterilization for medical reasons (Table 1). Nearly 21% of nonpregnant women in their childbearing years did not practice contraception in 1984. The level of overall contraceptive practice including nonreversible methods) in Canada in 1984 was among the highest in the world, and use of sterilization for contraception was also at one of the highest levels among industrialized countries.[4]
+Women's contraceptive practices in 1995 were similar to those in 1984. In both years, reliance on nonreversible methods was more common than use of reversible ones, and nonuse was the least common alternative for women of childbearing age. However, overall contraceptive practice has changed somewhat in Canada since 1984. For women of reproductive age, the proportion using reversible methods declined to 32% in 1995, whereas the share using nonreversible methods remained virtually unchanged. Levels of voluntary sterilization remain high in Canada when compared with other developed countries.[5]
+The proportion of women who were not using any contraceptive method increased from 21% to 25%. Overall contraceptive prevalence (including tubal ligation and vasectomy, but excluding noncontraceptive sterilization) declined from 69% to 60%.
+Among all reversible methods, the pill and condom remained the most popular choices among women. While pill use declined from 19% to 17% between 1984 and 1995, condom use increased from 6% to 10%. The use of all other reversible methods declined somewhat during this time period, with IUD use falling from 6% to 3%. Levels of sterilization remained similar, but the type of sterilization changed dramatically: There was a substantial decline in tubal ligation (from 24% to 17%) and an increase in vasectomy and in sterilization for medical reasons.
+There were gender differences in sterilization as well. The level of sterilization (whether the respondent reported being personally sterilized or relying on medical sterilization) was generally lower among men than among women (31% vs. 40%). While women were more likely than men were to report relying on female sterilization, the reverse was true for vasectomy. As would be expected, the level of sterilization for medical reasons was also higher for women than for men.
+Age Patterns
+In 1984, oral contraceptive use was much less common among women older than age 29 than among younger women (Table 2). By 1995, pill use among Canadian women remained common until after age 35. This may be attributable to the more recent marketing of pill formulations with lower estrogen levels that are safer for older women.[6]
+Condom use was higher among all age-groups in 1995 than in 1984, with the exception of women aged 45-49. In this age-group, the prevalence of condom use declined from about 6% in 1984 to 1% in 1995. IUD use declined among all age-groups, again with the exception of women aged 45-49, whose use of the IUD increased. Prevalence rates for the diaphragm, foam, rhythm and withdrawal all generally declined during this period.
+Among women younger than 30, reversible methods predominated in 1984 and 1995; in both surveys, rates of sterilization rose as women aged. In terms of specific methods of sterilization, the prevalence of tubal ligation declined substantially among all age-groups between 1984 and 1995; in contrast, vasectomy increased somewhat among women aged 30-49. Sterilization for medical reasons also increased in all age-groups up to age 45.
+The proportion of respondents who reported not having used a contraceptive method increased in all age-groups between 1984 and 1995. The increase was particularly apparent in older age-groups. While the rise in nonuse could reflect an increased demand for children, the stable fertility during this period (a total fertility rate of about 1.6 lifetime births per woman)[7] lends little support to this hypothesis. Differences in contraceptive prevalence may also reflect variations in the two surveys' content and structure.
+Users and Nonusers
+While age is an important determinant of contraceptive use, patterns of contraceptive practice may also vary according to other factors, such as education and marital status.[8] A comparison of users and nonusers by selected individual-level characteristics reveals that with few exceptions, levels of contraceptive use differed significantly between various social groups (as indicated by the chi-square values in Table 3, page 68).
+For both genders, the rate of contraceptive use increased with age until the late 30s and declined thereafter. While the rate of contraceptive use decreased among women of all age-groups between 1984 and 1995, the largest decrease occurred among women aged 30-44. The highest proportions of nonusers in 1995 were among women aged 18-24 (46%) and among women aged 45 and older (45%). For men, the highest proportion of nonusers was among 18-24-year-olds (46%). While there were no discernible differences by gender in patterns of contraceptive use until age 44, the higher rate of use among men aged 45 and older than among comparable women may reflect greater reliance on vasectomy in 1995 among men than among women (see Table 1).
+Contraceptive users are more likely to be married or living with a partner, reflecting in part a generally higher level of sexual activity among married and cohabiting couples. Indeed, in an unreported analysis of data from the 1996 National Population Health Survey, we found that more than 97% of married men and women had had sexual intercourse within the past 12 months, compared with only 83% of those who had never married and 66% of those who had been previously married. The higher rate of contraceptive use among married and cohabiting couples may also reflect a higher proportion of older married women in their family planning years, or women who have reached their desired family size.[9] However, between 1984 and 1995, contraceptive use fell for women of all marital statuses, most conspicuously among formerly married women (from 65% to 49%). This may be due to women's increased level of sterilization for medical reasons.[*]
+In 1984, contraceptive use increased with parity and was high among individuals who did not desire additional children (Table 3). In 1995, for men and for women, there was little difference in use between those with no children and those with one child, although contraceptive use was considerably greater among those with two or more children. While there was no marked gender difference in contraceptive use across parities, women's contraceptive use fell between 1984 and 1995 at all parities. The reduction was particularly evident for women with children.
+Contraceptive use did not vary significantly by women's educational status in the CFS sample, but education and contraceptive use were positively associated for both men and women in the GSS sample. Consistent with the well-known negative relationship between higher education and fertility, we found that contraceptive use increased with educational attainment. More educated women may know more about their contraceptive options and may better understand the health implications of various methods.
+The 1995 data suggest a positive association between income and contraceptive use. Moreover, the rate of contraceptive use varied according to men's employment status, with increased use among men working outside the home.
+While recent research has suggested that the role of religious affiliation in determining childbearing decisions has weakened, church attendance was considered an influential determinant of Canadian fertility in 1984.[10] Our findings are consistent with earlier studies suggesting that contraceptive use decreases with religious attendance. While contraceptive practice did not vary much according to religious denomination, prevalence was highest among people with no religious affiliation. Further, between 1984 and 1995, the rate of contraceptive use declined in all religious groups, as well as at all levels of church attendance.
+Some researchers have suggested that immigrant status may influence contraceptive practice, because some immigrants may be less comfortable with medical practices in the receiving country and may continue the contraceptive behavior that was common in their native country.[11] While the CFS data showed no significant association between contraceptive use and immigrant status, in the GSS only half of immigrant women were practicing contraception, compared with 62% of non-immigrant women. Similar patterns were also observed for men.
+Demographic behavior is known to differ between the province of Quebec and the rest of Canada.[12] Dramatic social changes in the past four decades have fundamentally transformed Quebec from a rural conservative society to the most liberal part of Canada.[13] As a result, levels of sterilization and contraceptive use increased rapidly in Quebec during the 1970s and 1980s, to levels higher than those seen throughout Canada; thus, fertility levels in Quebec have become among the lowest in the country.[14] It would appear, then, that this trend in method use had reached its peak in 1984, as there was little difference in contraceptive use between the Quebecois and the rest of Canadians in 1995.
+Kelly Martin is a graduate student and Zheng Wu is associate professor, both in the Department of Sociology, University of Victoria, Victoria, British Columbia, Canada. The authors thank Randy Hart for editorial assistance.
+
+Table 1. Percentage distribution of respondents, by current
+contraceptive use, according to sex, 1984 Canadian Fertility
+*| Study (CFS) and 1995 General Social survey (GSS) | 
+*| Status | 1984 CFS | 1995 GSS |  | 
+*|  | Women |  |  | 
+*|  | (N=5,315) | Women | Men | 
+*|  |  | (N=3,220) | (N=3,449) | 
+*| Using reversible method | 35.6 | 32.1 | 34.8 | 
+*| Pill | 19.2 | 16.9 | 9.1 | 
+*| Condom | 6.2 | 9.5 | 22.4 | 
+*| IUD | 5.7 | 2.6 | 1.3 | 
+*| Diaphragm | 1.2 | 0.3 | 0.1 | 
+*| Foam | 0.5 | 0.3 | 0.3 | 
+*| Rhythm | 1.6 | 0.8 | 0.6 | 
+*| Withdrawal | 0.8 | 0.5 | 0.1 | 
+*| Other[a] | 0.4 | 1.2 | 1.2 | 
+*| Using nonreversible | 39.9 | 40.4 | 31.1 | 
+*| method | 
+*| Female sterilization | 24.2 | 17.3 | 10.6 | 
+*| (tubal ligation) | 
+*| Male sterilization | 8.7 | 10.6 | 13.1 | 
+*| (vasectomy) | 
+*| Sterilized for medical | 7.0 | 12.5 | 7.7 | 
+*| reasons | 24.6 | 27.5 | 33.8 | 
+*| Other | 3.8 | 2.4 | 4.0 | 
+*| Pregnant/not using | 
+*| contraceptive method[b] | 20.8 | 25.1 | 29.8 | 
+*| Total | 100.0 | 100.0 | 100.0 | 
+*| [a] The CFS includes douche; the GSS includes sponge. | 
+*| Note: All percentages are weighted; all Ns are unweighted. | 
+
+Table 2. Percentage distribution of women aged 18-49, by
+current contraceptive practice, according to age-groups and
+*| year of survey | 
+*| Status | 18-24 |  | 25-29 |  | 
+*|  | 1984 | 1995 | 1984 | 1995 | 
+*|  | (N=1,318) | (N=600) | (N=990) | (N=491) | 
+*| Using reversible method | 54.8 | 53.2 | 51.4 | 49.7 | 
+*| Pill | 43.7 | 38.0 | 26.7 | 29.8 | 
+*| Condom | 4.6 | 12.6 | 9.8 | 11.5 | 
+*| IUD | 3.5 | 0.8 | 8.2 | 4.1 | 
+*| Diaphragm | 0.4 | 0.0 | 2.6 | 0.5 | 
+*| Foam | 0.2 | 0.4 | 0.7 | 0.5 | 
+*| Rhythm | 1.0 | 0.3 | 1.6 | 0.6 | 
+*| Withdrawal | 0.9 | 0.2 | 1.4 | 0.9 | 
+*| Other[a] | 0.5 | 0.9 | 0.4 | 1.8 | 
+*| Using nonreversible | 
+*| method | 2.6 | 3.6 | 18.3 | 14.6 | 
+*| Female sterilization | 
+*| (tubal ligation) | 1.3 | 0.6 | 11.1 | 4.8 | 
+*| Male sterilization | 
+*| (vasectomy) | 0.9 | 0.5 | 5.3 | 4.0 | 
+*| Sterilized for medical | 
+*| reasons | 0.4 | 2.5 | 1.9 | 5.8 | 
+*| Other | 42.8 | 43.4 | 30.3 | 35.7 | 
+*| Pregnant/not using | 
+*| contraceptive method[b] | 42.8 | 43.4 | 30.3 | 35.7 | 
+*| Total | 100.0 | 100.0 | 100.0 | 100.0 | 
+*| Status | 30-34 |  | 35-39 |  | 
+*|  | 1984 | 1995 | 1984 | 1995 | 
+*|  | (N=924) | (N=582) | (N=847) | (N=574) | 
+*| Using reversible method | 35.7 | 40.5 | 21.8 | 23.5 | 
+*| Pill | 13.1 | 20.9 | 5.1 | 6.1 | 
+*| Condom | 7.5 | 11.8 | 5.7 | 10.9 | 
+*| IUD | 10.0 | 2.9 | 6.7 | 3.8 | 
+*| Diaphragm | 1.1 | 0.1 | 1.4 | 0.0 | 
+*| Foam | 0.8 | 0.5 | 0.5 | 0.2 | 
+*| Rhythm | 2.1 | 1.3 | 1.7 | 1.2 | 
+*| Withdrawal | 0.7 | 0.7 | 0.4 | 0.6 | 
+*| Other[a] | 0.4 | 2.3 | 0.3 | 0.7 | 
+*| Using nonreversible | 
+*| method | 42.7 | 33.0 | 65.1 | 54.9 | 
+*| Female sterilization | 
+*| (tubal ligation) | 26.6 | 11.6 | 42.4 | 25.6 | 
+*| Male sterilization | 
+*| (vasectomy) | 12.5 | 13.5 | 13.9 | 16.1 | 
+*| Sterilized for medical | 
+*| reasons | 3.6 | 7.9 | 8.8 | 13.2 | 
+*| Other | 21.6 | 26.6 | 13.1 | 21.6 | 
+*| Pregnant/not using | 
+*| contraceptive method[b] | 21.6 | 26.6 | 13.1 | 21.6 | 
+*| Total | 100.0 | 100.0 | 100.0 | 100.0 | 
+*| Status | 40-44 |  | 45-49 |  | 
+*|  | 1984 | 1995 | 1984 | 1995 | 
+*|  | (N=643) | (N=518) | (N=593) | (N=455) | 
+*| Using reversible method | 12.7 | 13.1 | 10.7 | 6.6 | 
+*| Pill | 2.1 | 1.2 | 0.1 | 1.9 | 
+*| Condom | 3.5 | 6.7 | 5.6 | 1.4 | 
+*| IUD | 2.8 | 1.9 | 1.0 | 2.4 | 
+*| Diaphragm | 1.0 | 1.1 | 0.5 | 0.0 | 
+*| Foam | 0.6 | 0.1 | 0.7 | 0.0 | 
+*| Rhythm | 2.0 | 0.5 | 1.6 | 0.5 | 
+*| Withdrawal | 0.5 | 0.3 | 0.7 | 0.2 | 
+*| Other[a] | 0.2 | 1.3 | 0.5 | 0.2 | 
+*| Using nonreversible | 
+*| method | 77.6 | 70.7 | 77.4 | 74.2 | 
+*| Female sterilization | 
+*| (tubal ligation) | 46.7 | 29.5 | 42.8 | 36.1 | 
+*| Male sterilization | 
+*| (vasectomy) | 16.5 | 17.6 | 9.9 | 12.8 | 
+*| Sterilized for medical | 
+*| reasons | 14.4 | 23.6 | 24.7 | 25.3 | 
+*| Other | 9.7 | 16.2 | 12.0 | 19.3 | 
+*| Pregnant/not using | 
+*| contraceptive method[b] | 9.7 | 16.2 | 12.0 | 19.3 | 
+*| Total | 100.0 | 100.0 | 100.0 | 100.0 | 
+*| [a] The CFS includes douche and the GSS includes the sponge. | 
+*| [b] Includes pregnant women. Note: see note to Table 1. | 
+
+Table 3. Percentage distribution of respondents, by
+contraceptive use or nonuse and by year, according to
+*| selected socioeconomic and demographic characteristics | 
+*| Characteristic | 1984 CFS |  |  |  | 
+*|  | Women |  |  |  | 
+*|  | Users | Nonusers[a] |  |  | 
+*|  | (N=3,637) | (N=1,678) |  |  | 
+*| Age | 
+*| 18-24 | 56.8 | 43.2 |  |  | 
+*| 25-29 | 67.8 | 32.2 |  |  | 
+*| 30-34 | 74.9 | 25.1 |  |  | 
+*| 35-39 | 78.1 | 21.9 |  |  | 
+*| 40-44 | 75.9 | 24.1 |  |  | 
+*| >45 |  | 63.3 | 36.7 |  | 
+*| Chi-square (df=5) | 160.7[***] |  |  |  | 
+*| Marital status | 
+*| Married/cohabiting | 74.2 | 25.8 |  |  | 
+*| Formerly married | 65.1 | 34.9 |  |  | 
+*| Never-married | 50.9 | 49.1 |  |  | 
+*| Chi-square (df=2) | 222.9[***] |  |  |  | 
+*| No. of children | 
+*| 0 | 54.9 | 45.1 |  |  | 
+*| 1 | 62.7 | 37.3 |  |  | 
+*| > or = 2 |  | 79.9 | 20.1 |  | 
+*| Chi-square (df=2) | 330.6[***] |  |  |  | 
+*| Intend to have more | 
+*| children | 
+*| Yes | 56.4 | 43.6 |  |  | 
+*| No | 75.3 | 24.7 |  |  | 
+*| Chi-square (df=1) | 204.5[***] |  |  |  | 
+*| Education | 
+*| Elementary school | 68.4 | 31.6 |  |  | 
+*| High school | 67.1 | 32.9 |  |  | 
+*| Some college/university | 69.6 | 30.4 |  |  | 
+*| Chi-square (df=2) | 2.6 |  |  |  | 
+*| Income | 
+*| Quartile 1 | 67.3 | 32.7 |  |  | 
+*| Quartile 2 | 73.2 | 26.8 |  |  | 
+*| Quartile 3 | 62.9 | 37.1 |  |  | 
+*| Quartile 4 | 73.6 | 26.4 |  |  | 
+*| Chi-square (df=3) | 50.6[***] |  |  |  | 
+*| Currently working | 
+*| Yes | 70.3 | 29.7 |  |  | 
+*| No | 65.8 | 34.2 |  |  | 
+*| Chi-square (df=1) | 11.9[***] |  |  |  | 
+*| Religious affiliation | 
+*| Catholic | 66.9 | 33.1 |  |  | 
+*| Protestant | 69.8 | 30.2 |  |  | 
+*| Other | 62.5 | 37.5 |  |  | 
+*| None | 72.4 | 27.6 |  |  | 
+*| Chi-square (df=3) | 10.0[*] |  |  |  | 
+*| Religious attendance | 
+*| Weekly | 61.1 | 38.9 |  |  | 
+*| Sometimes | 70.2 | 29.8 |  |  | 
+*| Rarely/never | 71.8 | 28.2 |  |  | 
+*| Chi-square (df=2) | 47.3[***] |  |  |  | 
+*| Nativity | 
+*| Foreign-born | 66.3 | 33.7 |  |  | 
+*| Canadian-born | 68.8 | 31.2 |  |  | 
+*| Chi-square (df=1) | 1.8 |  |  |  | 
+*| Region | 
+*| Quebec | 70.5 | 29.5 |  |  | 
+*| Rest of Canada | 67.6 | 32.4 |  |  | 
+*| Chi-square (df=1) | 4.1[*] |  |  |  | 
+*| Characteristic | 1995 GSS |  |  |  | 
+*|  | Women |  |  |  | 
+*|  | Users | Nonusers[a] |  |  | 
+*|  | (N=1,932) | (N=1,288) |  |  | 
+*| Age | 
+*| 18-24 | 54.2 | 45.8 |  |  | 
+*| 25-29 | 58.5 | 41.5 |  |  | 
+*| 30-34 | 65.5 | 34.5 |  |  | 
+*| 35-39 | 65.2 | 34.8 |  |  | 
+*| 40-44 | 60.2 | 39.8 |  |  | 
+*| >45 |  | 55.4 | 44.6 |  | 
+*| Chi-square (df=5) | 26.7[***] |  |  |  | 
+*| Marital status | 
+*| Married/cohabiting | 66.7 | 33.3 |  |  | 
+*| Formerly married | 49.2 | 50.8 |  |  | 
+*| Never-married | 45.2 | 54.8 |  |  | 
+*| Chi-square (df=2) | 124.7[***] |  |  |  | 
+*| No. of children | 
+*| 0 | 49.9 | 50.1 |  |  | 
+*| 1 | 50.8 | 49.2 |  |  | 
+*| > or = 2 |  | 69.7 | 30.3 |  | 
+*| Chi-square (df=2) | 128.6[***] |  |  |  | 
+*| Intend to have more | 
+*| children | 
+*| Yes | 52.1 | 47.9 |  |  | 
+*| No | 63.9 | 36.1 |  |  | 
+*| Chi-square (df=1) | 41.3[***] |  |  |  | 
+*| Education | 
+*| Elementary school | 53.5 | 46.5 |  |  | 
+*| High school | 60.1 | 39.9 |  |  | 
+*| Some college/university | 61.8 | 38.2 |  |  | 
+*| Chi-square (df=2) | 12.4[**] |  |  |  | 
+*| Income | 
+*| Quartile 1 | 58.2 | 41.8 |  |  | 
+*| Quartile 2 | 53.4 | 46.6 |  |  | 
+*| Quartile 3 | 60.7 | 39.3 |  |  | 
+*| Quartile 4 | 68.6 | 31.4 |  |  | 
+*| Chi-square (df=3) | 38.6[***] |  |  |  | 
+*| Currently working | 
+*| Yes | 60.2 | 39.8 |  |  | 
+*| No | 59.7 | 40.3 |  |  | 
+*| Chi-square (df=1) | 0.1 |  |  |  | 
+*| Religious affiliation | 
+*| Catholic | 58.1 | 41.9 |  |  | 
+*| Protestant | 61.2 | 38.8 |  |  | 
+*| Other | 56.6 | 43.4 |  |  | 
+*| None | 63.6 | 36.4 |  |  | 
+*| Chi-square (df=3) | 6.5[*] |  |  |  | 
+*| Religious attendance | 
+*| Weekly | 54.8 | 45.2 |  |  | 
+*| Sometimes | 59.4 | 40.6 |  |  | 
+*| Rarely/never | 62.2 | 37.8 |  |  | 
+*| Chi-square (df=2) | 10.1[**] |  |  |  | 
+*| Nativity | 
+*| Foreign-born | 50.9 | 49.1 |  |  | 
+*| Canadian-born | 62.1 | 37.9 |  |  | 
+*| Chi-square (df=1) | 26.1[***] |  |  |  | 
+*| Region | 
+*| Quebec | 61.6 | 38.4 |  |  | 
+*| Rest of Canada | 59.5 | 40.5 |  |  | 
+*| Chi-square (df=1) | 1.1 |  |  |  | 
+*| Characteristic |  |  |  | Total | 
+*|  | Men |  |  |  | 
+*|  | Users | Nonusers[a] |  |  | 
+*|  | (N=2,019) | (N=1,430) |  |  | 
+*| Age | 
+*| 18-24 | 54.3 | 45.7 |  | 100.0 | 
+*| 25-29 | 56.2 | 43.8 |  | 100.0 | 
+*| 30-34 | 57.4 | 42.6 |  | 100.0 | 
+*| 35-39 | 63.1 | 36.9 |  | 100.0 | 
+*| 40-44 | 59.6 | 40.4 |  | 100.0 | 
+*| >45 |  | 60.9 | 39.1 | 100.0 | 
+*| Chi-square (df=5) | 13.0[***] |  |  |  | 
+*| Marital status | 
+*| Married/cohabiting | 63.6 | 36.4 |  | 100.0 | 
+*| Formerly married | 49.8 | 50.2 |  | 100.0 | 
+*| Never-married | 49.7 | 50.3 |  | 100.0 | 
+*| Chi-square (df=2) | 63.6[***] |  |  |  | 
+*| No. of children | 
+*| 0 | 49.9 | 50.1 |  | 100.0 | 
+*| 1 | 47.9 | 52.1 |  | 100.0 | 
+*| > or = 2 |  | 70.6 | 29.4 | 100.0 | 
+*| Chi-square (df=2) | 157.5[***] |  |  |  | 
+*| Intend to have more | 
+*| children | 
+*| Yes | 48.9 | 51.1 |  | 100.0 | 
+*| No | 65.2 | 34.8 |  | 100.0 | 
+*| Chi-square (df=1) | 90.2[***] |  |  |  | 
+*| Education | 
+*| Elementary school | 52.0 | 48.0 |  | 100.0 | 
+*| High school | 57.5 | 42.5 |  | 100.0 | 
+*| Some college/university | 60.9 | 39.1 |  | 100.0 | 
+*| Chi-square (df=2) | 17.1[***] |  |  |  | 
+*| Income | 
+*| Quartile 1 | 56.5 | 43.5 |  | 100.0 | 
+*| Quartile 2 | 52.1 | 47.9 |  | 100.0 | 
+*| Quartile 3 | 62.6 | 37.4 |  | 100.0 | 
+*| Quartile 4 | 62.7 | 37.3 |  | 100.0 | 
+*| Chi-square (df=3) | 27.4[***] |  |  |  | 
+*| Currently working | 
+*| Yes | 60.6 | 39.4 |  | 100.0 | 
+*| No | 51.3 | 48.7 |  | 100.0 | 
+*| Chi-square (df=1) | 20.7[***] |  |  |  | 
+*| Religious affiliation | 
+*| Catholic | 58.0 | 42.0 |  | 100.0 | 
+*| Protestant | 57.4 | 42.6 |  | 100.0 | 
+*| Other | 43.0 | 57.0 |  | 100.0 | 
+*| None | 64.0 | 36.0 |  | 100.0 | 
+*| Chi-square (df=3) | 24.8[***] |  |  |  | 
+*| Religious attendance | 
+*| Weekly | 50.2 | 49.8 |  | 100.0 | 
+*| Sometimes | 55.9 | 44.1 |  | 100.0 | 
+*| Rarely/never | 61.9 | 38.1 |  | 100.0 | 
+*| Chi-square (df=2) | 26.7[***] |  |  |  | 
+*| Nativity | 
+*| Foreign-born | 51.9 | 48.1 |  | 100.0 | 
+*| Canadian-born | 59.9 | 40.1 |  | 100.0 | 
+*| Chi-square (df=1) | 13.0[***] |  |  |  | 
+*| Region | 
+*| Quebec | 57.1 | 42.9 |  | 100.0 | 
+*| Rest of Canada | 59.1 | 40.9 |  | 100.0 | 
+*| Chi-square (df=1) | 1.0 |  |  |  | 
+*| [*] p < .10. [**] p | < | or = .01. [***] p | < | or = .001. | 
+*| [a] Including pregnant women and surgically sterile women. | 
+*| Note: see note to Table 1. | 
+
+Notes
+
+Data on contraceptive use were collected from 5,315 women in the 1984 Canadian Fertility Survey, and from 3,220 women and 3,449 men in the 1995 General Social Survey administered by Statistics Canada.
+
+Load-Date: June 24, 2005
+
+
+End of Document

@@ -1,0 +1,54 @@
+
+
+
+
+
+Labor Department Documents and Publications
+March 21, 2012
+
+
+Copyright 2012 Federal Information and News Dispatch, Inc.
+Section: EMPLOYEE BENEFITS SECURITY ADMINISTRATION
+Length: 1515 words
+Body
+
+
+SUMMARY: This advance notice of proposed rulemaking announces the intention of the Departments of Health and Human Services, Labor, and the Treasury to propose amendments to regulations regarding certain preventive health services under provisions of the Patient Protection and Affordable Care Act (Affordable Care Act). The proposed amendments would establish alternative ways to fulfill the requirements of section 2713 of the Public Health Service Act and companion provisions under the Employee Retirement Income Security Act and the Internal Revenue Code when health coverage is sponsored or arranged by a religious organization that objects to the coverage of contraceptive services for religious reasons and that is not exempt under the final regulations published February 15, 2012. This document serves as a request for comments in advance of proposed rulemaking on the potential means of accommodating such organizations while ensuring contraceptive coverage for plan participants and beneficiaries covered under their plans (or, in the case of student health insurance plans, student enrollees and their dependents) without cost sharing.
+EFFECTIVE DATE: Comments are due on or before June 19, 2012.
+ADDRESSES: Written comments may be submitted as specified below. Any comment that is submitted will be shared with the other Departments. Please do not submit duplicate comments.
+All comments will be made available to the public. Please Note: Do not include any personally identifiable information (such as name, address, or other contact information) or confidential business information that you do not want publicly disclosed. All comments are posted on the Internet exactly as received, and can be retrieved by most Internet search engines. No deletions, modifications, or redactions will be made to the comments received, as they are public records. Comments may be submitted anonymously.
+In commenting, please refer to file code CMS-9968-ANPRM. Because of staff and resource limitations, the Departments cannot accept comments by facsimile (FAX) transmission.
+You may submit comments in one of four ways (please choose only one of the ways listed):
+1. Electronically. You may submit electronic comments on this ANPRM to . Follow the instructions under the "More Search Options" tab.
+2. By regular mail. You may mail written comments to the following address only: Centers for Medicare and Medicaid Services, Department of Health and Human Services, Attention: CMS-9968-ANPRM, P.O. Box 8016, Baltimore, MD 21244-1850.
+Please allow sufficient time for mailed comments to be received before the close of the comment period.
+3. By express or overnight mail. You may send written comments to the following address only: Centers for Medicare and Medicaid Services, Department of Health and Human Services, Attention: CMS-9968-ANPRM, Mail Stop C4-26-05, 7500 Security Boulevard, Baltimore, MD 21244-1850.
+4. By hand or courier. If you prefer, you may deliver (by hand or courier) your written comments before the close of the comment period to either of the following addresses:
+a. For delivery in Washington, DC--Centers for Medicare and Medicaid Services, Department of Health and Human Services, Room 445-G, Hubert H. Humphrey Building, 200 Independence Avenue SW., Washington, DC 20201.
+(Because access to the interior of the Hubert H. Humphrey Building is not readily available to persons without Federal government identification, commenters are encouraged to leave their comments in the CMS drop slots located in the main lobby of the building. A stamp-in clock is available for persons wishing to retain a proof of filing by stamping and retaining an extra copy of the comments being filed.)
+b. For delivery in Baltimore, MD--Centers for Medicare and Medicaid Services, Department of Health and Human Services, 7500 Security Boulevard, Baltimore, MD 21244-1850.
+If you intend to deliver your comments to the Baltimore address, call (410) 786-9994 in advance to schedule your arrival with one of our staff members.
+Inspection of Public Comments: All comments received before the close of the comment period are available for viewing by the public, including any personally identifiable or confidential business information that is included in a comment. The Departments post all comments received before the close of the comment period on the following Web site as soon as possible after they have been received: . Follow the search instructions on that Web site to view public comments.
+Comments received timely will also be available for public inspection as they are received, generally beginning approximately three weeks after publication of a document, at the headquarters of the Centers for Medicare and Medicaid Services, 7500 Security Boulevard, Baltimore, Maryland 21244, Monday through Friday of each week from 8:30 a.m. to 4 p.m. EST. To schedule an appointment to view public comments, call 1-800-743-3951.
+FOR FURTHER INFORMATION CONTACT: Amy Turner or Beth Baum, Employee Benefits Security Administration (EBSA), Department of Labor, at (202) 693-8335; Karen Levin, Internal Revenue Service, Department of the Treasury, at (202) 927-9639; Jacob Ackerman, Centers for Medicare and Medicaid Services (CMS), Department of Health and Human Services (HHS), at (410) 786-1565.
+Customer Service Information: Individuals interested in obtaining information from the Department of Labor concerning employment-based health coverage laws may call the EBSA Toll-Free Hotline at 1-866-444-EBSA (3272) or visit the Department of Labor's Web site (). In addition, information from HHS on private health insurance for consumers can be found on the CMS Web site (           ), and information on health reform can be found at            .
+SUPPLEMENTARY INFORMATION:
+I. Background
+The Patient Protection and Affordable Care Act, Public Law 111-148, was enacted on March 23, 2010; the Health Care and Education Reconciliation Act of 2010, Public Law 111-152, was enacted on March 30, 2010 (collectively, the Affordable Care Act). The Affordable Care Act reorganizes, amends, and adds to the provisions of part A of title XXVII of the Public Health Service Act (PHS Act) relating to group health plans and health insurance issuers in the group and individual markets. The Affordable Care Act adds section 715(a)(1) to the Employee Retirement Income Security Act (ERISA) and section 9815(a)(1) to the Internal Revenue Code (Code) to incorporate the provisions of part A of title XXVII of the PHS Act into ERISA and the Code, and make them applicable to group health plans.
+Section 2713 of the PHS Act, as added by the Affordable Care Act and incorporated into ERISA and the Code, requires that non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage provide benefits for certain preventive health services without the imposition of cost sharing. These preventive health services include, with respect to women, preventive care and screening provided for in the comprehensive guidelines supported by the Health Resources and Services Administration (HRSA) that were issued on August 1, 2011 (HRSA Guidelines). /1/ As relevant here, the HRSA Guidelines require coverage, without cost sharing, for "[a]ll Food and Drug Administration [(FDA)] approved contraceptive methods, sterilization procedures, and patient education and counseling for all women with reproductive capacity," as prescribed by a provider. /2/ Except as discussed below, non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage are required to provide coverage consistent with the HRSA Guidelines, without cost sharing, in plan years (or, in the individual market, policy years) beginning on or after August 1, 2012. /3/ These guidelines were based on recommendations of the independent Institute of Medicine, which undertook a review of the scientific and medical evidence on women's preventive services.
+FOOTNOTE 1 The HRSA Guidelines are available at: . END FOOTNOTE
+FOOTNOTE 2 Note: This excludes items and services such as vasectomies and condoms. END FOOTNOTE
+FOOTNOTE 3 The interim final regulations published by the Departments on July 19, 2010, generally provide that plans and issuers must cover a newly recommended preventive service starting with the first plan year (or, in the individual market, policy year) that begins on or after the date that is one year after the date on which the new recommendation or guideline is issued. 26 CFR 54.9815-2713T(b)(1); 29 CFR 2590.715-2713(b)(1); 45 CFR 147.130(b)(1). END FOOTNOTE
+--This is a summary of a Federal Register article originally published on the page number listed below--
+Advance notice of proposed rulemaking (ANPRM).
+CFR Part: "26 CFR Part 54"
+RIN Number: "RIN 0938-AR42"
+Citation: "77 FR 16501"
+Document Number: "RIN 1210-AB44"
+Federal Register Page Number: "16501"
+"Proposed Rules"
+
+Load-Date: March 21, 2012
+
+
+End of Document

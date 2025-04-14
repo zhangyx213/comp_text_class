@@ -1,0 +1,50 @@
+
+
+
+
+
+Health and Human Services Department Documents and Publications
+July 14, 2015
+
+
+Copyright 2015 Federal Information and News Dispatch, Inc.
+Section: CENTERS FOR MEDICARE & MEDICAID SERVICES
+Length: 1604 words
+Body
+
+
+SUMMARY: This document contains final regulations regarding coverage of certain preventive services under section 2713 of the Public Health Service Act (PHS Act), added by the Patient Protection and Affordable Care Act, as amended, and incorporated into the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code. Section 2713 of the PHS Act requires coverage without cost sharing of certain preventive health services by non-grandfathered group health plans and health insurance coverage. These regulations finalize provisions from three rulemaking actions: Interim final regulations issued in July 2010 related to coverage of preventive services, interim final regulations issued in August 2014 related to the process an eligible organization uses to provide notice of its religious objection to the coverage of contraceptive services, and proposed regulations issued in August 2014 related to the definition of "eligible organization," which would expand the set of entities that may avail themselves of an accommodation with respect to the coverage of contraceptive services.
+DATES: Effective Date: These final regulations are effective on September 14, 2015.
+Applicability Date: These final regulations are applicable beginning on the first day of the first plan year (or, for individual health insurance coverage, the first day of the first policy year) that begins on or after September 14, 2015.
+FOR FURTHER INFORMATION CONTACT: David Mlawsky, Centers for Medicare and Medicaid Services (CMS), Department of Health and Human Services (HHS), at (410) 786-1565; Amy Turner or Elizabeth Schumacher, Employee Benefits Security Administration (EBSA), Department of Labor, at (202) 693-8335; or Karen Levin, Internal Revenue Service (IRS), Department of the Treasury, at (202) 927-9639.
+Customer Service Information: Individuals interested in obtaining information from the Department of Labor concerning employment-based health coverage laws may call the EBSA Toll-Free Hotline at 1-866-444-EBSA (3272) or visit the Department of Labor's Web site (). Information from HHS on private health insurance coverage can be found on CMS's Web site (           ), and information on health care reform can be found at            .
+SUPPLEMENTARY INFORMATION: The Patient Protection and Affordable Care Act (Pub. L. 111-148) was enacted on March 23, 2010. The Health Care and Education Reconciliation Act of 2010 (Pub. L. 111-152) was enacted on March 30, 2010. These statutes are collectively known as the Affordable Care Act. The Affordable Care Act reorganizes, amends, and adds to the provisions of part A of title XXVII of the Public Health Service Act (PHS Act) relating to group health plans and health insurance issuers in the group and individual markets. The Affordable Care Act adds section 715(a)(1) to the Employee Retirement Income Security Act of 1974 (ERISA) and section 9815(a)(1) to the Internal Revenue Code (Code) to incorporate the provisions of part A of title XXVII of the PHS Act into ERISA and the Code, and to make them applicable to group health plans and health insurance issuers providing health insurance coverage in connection with group health plans. The sections of the PHS Act incorporated into ERISA and the Code are sections 2701 through 2728.
+Section 2713 of the PHS Act, as added by the Affordable Care Act and incorporated into ERISA and the Code, requires that non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage provide coverage of certain specified preventive services without cost sharing. These preventive services include:
+* Evidence-based items or services that have in effect a rating of "A" or "B" in the current recommendations of the United States Preventive Services Task Force (Task Force) with respect to the individual involved.
+* Immunizations for routine use in children, adolescents, and adults that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention (Advisory Committee) with respect to the individual involved. A recommendation of the Advisory Committee is considered to be "in effect" after it has been adopted by the Director of the Centers for Disease Control and Prevention (CDC). A recommendation is considered to be for "routine use" if it appears on the Immunization Schedules of the CDC.
+* With respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in the comprehensive guidelines supported by the Health Resources and Services Administration (HRSA).
+* With respect to women, preventive care and screenings provided for in comprehensive guidelines supported by HRSA (not otherwise addressed by the recommendations of the Task Force), including all Food and Drug Administration (FDA)-approved contraceptives, sterilization procedures, and patient education and counseling for women with reproductive capacity, as prescribed by a health care provider (collectively, contraceptive services). /1/
+FOOTNOTE 1 The HRSA Guidelines exclude services relating to a man's reproductive capacity, such as vasectomies and condoms. END FOOTNOTE
+The complete list of recommendations and guidelines that are required to be covered under these final regulations can be found at: . Together, the items and services described in these recommendations and guidelines are referred to in this preamble as "recommended preventive services."
+The Departments of Labor, Health and Human Services, and the Treasury (the Departments) /2/ have issued rulemaking to implement these requirements:
+FOOTNOTE 2 Note, however, that in sections under headings listing only two of the three Departments, the term "Departments" generally refers only to the two Departments listed in the heading. END FOOTNOTE
+* Interim final regulations on July 19, 2010, at 75 FR 41726 (July 2010 interim final regulations), implemented the preventive services requirements of PHS Act section 2713;
+* Interim final regulations amending the July 2010 interim final regulations on August 3, 2011, at 76 FR 46621, provided HRSA with the authority to exempt group health plans established or maintained by certain religious employers (and group health insurance coverage provided in connection with those plans) from the requirement to cover contraceptive services consistent with the HRSA Guidelines; /3/
+FOOTNOTE 3 On the same date, HRSA exercised this authority in the HRSA Guidelines to exempt group health plans established or maintained by these religious employers (and group health insurance coverage provided in connection with such plans) from the HRSA Guidelines with respect to contraceptive services. END FOOTNOTE
+* Final regulations on February 15, 2012, at 77 FR 8725 (2012 final regulations), finalized the definition of religious employer in the 2011 amended interim final regulations without modification; /4/
+FOOTNOTE 4 Contemporaneous with the issuance of the 2012 final regulations, HHS, with the agreement of the Departments of Labor and the Treasury, issued guidance establishing a temporary safe harbor from enforcement of the contraceptive coverage requirement by the Departments for group health plans established or maintained by certain nonprofit organizations with religious objections to contraceptive coverage (and group health insurance coverage provided in connection with such plans) originally issued on February 10, 2012, and reissued on August 15, 2012, and June 28, 2013; available at: . The guidance clarified, among other things, that plans that took some action before February 10, 2012, to try, without success, to exclude or limit contraceptive coverage were not precluded from eligibility for the safe harbor. The temporary enforcement safe harbor was also available to student health insurance coverage arranged by nonprofit institutions of higher education with religious objections to contraceptive coverage that met the conditions set forth in the guidance. See Student Health Insurance Coverage, 77 FR 16457 (Mar. 21, 2012). END FOOTNOTE
+* An advance notice of proposed rulemaking (ANPRM) on March 21, 2012, at 77 FR 16501, solicited comments on how to provide for coverage of recommended preventive services, including contraceptive services, without cost sharing, while simultaneously ensuring that certain nonprofit organizations with religious objections to contraceptive coverage would not be required to contract, arrange, pay, or refer for that coverage;
+* Proposed regulations on February 6, 2013, at 78 FR 8456, proposed to simplify and clarify the definition of "religious employer" for purposes of the religious employer exemption, and proposed accommodations for group health plans established or maintained by certain nonprofit religious organizations with religious objections to contraceptive coverage (and group health insurance coverage provided in connection with those plans) and for insured student plans arranged by certain nonprofit religious organizations that are institutions of higher education with religious objections to contraceptive coverage;
+--This is a summary of a Federal Register article originally published on the page number listed below--
+Final rules.
+CFR Part: "26 CFR Part 54"
+RIN Number: "RIN 0938-AS50"
+Citation: "80 FR 41318"
+Document Number: "RIN 1210-AB67"
+Federal Register Page Number: "41318"
+"Rules and Regulations"
+
+Load-Date: July 14, 2015
+
+
+End of Document
