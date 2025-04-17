@@ -1,0 +1,2 @@
+"0","# append month information for aggregation"
+"0","textdata$month <- paste0(substr(textdata$date_utc, 0, 3), ""0"")"

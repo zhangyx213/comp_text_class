@@ -1,0 +1,541 @@
+---
+title: "4B Movement Project_ Web Page"
+author: "Yiran Zhang"
+date: "2025-04-14"
+output: html_document
+---
+
+## Project Description
+
+This page introduces my project on 4B movement in North America.
+
+The 4B movement is a radical feminist movement that originated in South Korea between 2017 to 2019. It advocates for no marriage, no childbirth, no date with men, and no sex with men. This movement aims to reject traditional gender roles and patriarchal culture in South Korea. During the 2024 presidential election, this movement spreads to the US. In this project, I aim to study the trends, themes, and emotions of North American media in reporting on the 4B movement.
+
+## Data & Method
+
+This study draws on data from newspaper articles. I searched “4B movement” in NexisUni and retrieved 317 English articles that was published in the North America. After cleaning the data and deleting the duplicate ones, the final sample size is 242.
+
+The analysis includes two parts. First, I clean the data and provide the descriptive results of my sample. Second, for the preliminary analysis, I conducted bigrams and sentiment analysis, content analysis and topic analysis.
+
+#### Bigrams and sentiment analysis
+
+Research Questions: RQ1: What are the most common word pairs in the reports on 4B movement? RQ2: What sentiments can be identified?
+
+#### Content analysis
+
+RQ1: What percentage of coverage was a) prior to the presidential election; b) during the election period; and c) after the election? RQ2: What percentage of those sentences portrayed 4B movement in a negative way? And what percentage portrayed it in a positive way? RQ3: What percentage of the coverage was opinion? And what percentage of them are news?
+
+Codebook:
+
+RQ1: The cutoff data for presidential election: a) prior_election: publication data was before 10-31-2024 b) during_election: publication data was from 11-1-2024 to 11-30-2024 c) after_election: publication data was after 12-1-2024.
+
+RQ2: The presence of specific negative or positive words: a) negative_frame: sentence include negative keywords of “hate”, “extreme”, “crazy”, “selfish”, “toxic”, “anti-family”, “anti-men”, “anti-social”, and “against tradition”. b) positive_frame: sentence include positive keywords of “brave”, “independent”, “empowered”, “rational”, “modern”, “free”, “freedom”, “autonomy”, “self-determined”, and “social progress”.
+
+RQ3: The type of coverage: a) news: section contains the keywords of news; b) opinion: section contains the keywords of opinion.
+
+#### Topic analysis
+
+Research Questions RQ1: What are the key themes among those articles on the 4B movement? RQ2: How do these key themes vary across time periods (before, during, and after the presidential election)?
+
+## Sample & descriptive statistics
+
+```{r}
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+# load packages
+here::here()
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(readtext)
+library(janitor)             
+#topic modeling
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+# from tutorial packages
+library(DT)
+library(knitr) 
+library(kableExtra) 
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+
+```
+
+```{r}
+#Import spreadsheet using rio::import and clean the names
+
+project <- import("FullArticles_4.14.csv")
+
+```
+
+```{r}
+names(project)
+project <- clean_names(project)
+
+project <- project %>%
+  mutate(date_clean = mdy(str_remove(published_date, " \\w+$")),
+         year = year(date_clean))
+
+```
+
+
+#### Introduce my sample
+
+```{r}
+print(paste0("My sample contains ", nrow(project), " rows and ", ncol(project), " columns with ", n_distinct(project$title), " unique articles."))
+
+```
+
+#### Frequency Tables
+
+The frequency table for the top 10 location is:
+
+```{r}
+# By Locations
+project %>%
+  group_by(title) %>%
+  slice_head(n = 1) %>% 
+  ungroup() %>%
+  count(publication_location, sort = TRUE) %>%
+  head(10)
+```
+
+The frequency table for the top 10 publishers is:
+
+```{r}
+# By Publishers
+project %>%
+  group_by(title) %>%
+  slice_head(n = 1) %>% 
+  ungroup() %>%
+  count(publication_4, sort = TRUE) %>%
+  head(10)
+```
+
+#### Trends over time
+
+The distribution of the 4B movements articles over time
+
+```{r}
+project %>%
+  group_by(title) %>%
+  slice_head(n = 1) %>%
+  ungroup() %>%
+  count(year) %>%
+  ggplot(aes(x = year, y = n)) +
+  geom_col(fill = "steelblue") +
+  labs(title = "4B Movement Reports in the North America by Year",
+       subtitle = "Source: NexisUni",
+       caption = "Graphic by Yiran Zhang, 4-14-2025",
+       y="Number of Reports",
+       x="Year") +
+  theme_minimal()
+
+
+```
+
+Since most of those articles were published between 2023 and 2025, I filtered the dataset to only include articles that were published during this time.
+
+```{r}
+project %>%
+  group_by(title) %>%
+  slice_head(n = 1) %>%
+  ungroup() %>%
+  filter(year >= 2023 & year <= 2025) %>%
+  count(date_clean) %>%
+  ggplot(aes(x = date_clean, y = n)) +
+  geom_col(fill = "red") +
+  labs(title = "4B Movement Reports in North America by Date",
+       subtitle = "Reports during 2023-2025: Source: NexisUni",
+       caption = "Graphic by Yiran Zhang, 4-14-2025",
+       y = "Number of Reports",
+       x = "Dates") +
+  theme_minimal()
+
+```
+
+## Preliminary Result
+
+#### Bigrams & Sentiment Analysis
+
+```{r}
+sentence <- str_replace_all(project$sentence, "- ", "")
+sentence_tk <- tibble(sentence,)
+
+sentence_tokenized <- sentence_tk %>%
+  unnest_tokens(word,sentence)
+
+sentence_tokenized
+
+stopwords <- stop_words
+stopwords
+
+stopwords |> 
+  count(lexicon)
+
+data(stop_words)
+
+sentence_tokenized <- sentence_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+# Word Count
+
+sentence_word_ct <- sentence_tokenized %>%
+  count(word, sort=TRUE)
+
+sentence_word_ct
+
+write_csv(sentence_word_ct, "sentence_word_ct.csv")
+
+```
+
+```{r}
+bigrams <- sentence_tk %>%
+  unnest_tokens(bigram, sentence, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams2 <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |>
+  filter(!is.na(word1)) |>
+  filter(!is.na(word2)) 
+
+bigram3 <- bigrams2 %>%
+  count(word1, word2, sort = TRUE)
+
+bigram3
+
+```
+
+Based on these high-frequency bigrams, I found several key themes in this dataset. The first group of keywords focuses on what the movement is and what its key concerns are, such as “4B movement,” “feminist movement,” “radical feminist,” “gender equality,” “sex strike,” “abortion rights,” “reproductive rights,” etc. The second group of keywords is about countries and context, which includes “South Korea,” “Korean women,” “American women,” and “American people.” The third group of keywords is about political figures and events, such as “Donald Trump,” “Kamala Harris,” “Joe Biden,” “White House,” “President Elect,” “Yoon Suk,” etc., suggesting that the emergence of the 4B Movement in the U.S. is highly related to the political context, especially the presidential election.
+
+#### Sentiment Analysis
+
+Tokenize sentence into a df, remove stopwords
+
+```{r}
+# cite this lexicon
+#install.packages("textdata")
+nrc_sentiments <- get_sentiments("nrc")
+afinn_sentiments <- get_sentiments("afinn")
+
+nrc_sentiments %>%
+  count(sentiment, sort = TRUE)
+
+sentiments_all <- sentence_tokenized %>%
+  inner_join(nrc_sentiments, by = "word")  
+
+sentence_tokenized %>%
+  inner_join(nrc_sentiments) %>%
+  count(word, sort = TRUE)
+
+sentiments_all %>%
+  count(sentiment, sort = TRUE)
+
+over_sen <-sentiments_all %>%
+  count(sentiment, sort = TRUE)
+```
+
+```{r}
+ggplot(over_sen, aes(x = reorder(sentiment,n), y = n, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  labs(title = "NRC Sentiment Analysis for 4B Movements Reports",
+       x = "Sentiment",
+       y = NULL)
+```
+
+```{r}
+
+sentiments_all %>%
+  count(sentiment, word) %>%
+  group_by(sentiment) %>%
+  slice_max(n, n = 10) %>%  
+  ungroup() %>%
+  mutate(word = reorder_within(word, n, sentiment)) %>%  
+  ggplot(aes(n, word, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sentiment, scales = "free_y") +  
+  scale_y_reordered() + 
+  labs(x = "Contribution to sentiment",
+       y = NULL)
+
+```
+
+```{r}
+library(wordcloud)
+
+sentence_tokenized %>%
+  anti_join(stop_words) %>%
+  count(word) %>%
+  with(wordcloud(word, n, max.words = 100))
+```
+
+```{r}
+library(reshape2)
+
+sentence_tokenized %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = c("gray20", "gray80"),
+                   max.words = 100)
+```
+
+#### Content Analysis
+
+Create variables for time period and sentiment.
+
+```{r}
+project <- project |> 
+  mutate(RQ1 = case_when(
+    date_clean < ymd("2024-11-01") ~ "prior_election",
+    date_clean >= ymd("2024-11-01") & date_clean <= ymd("2024-11-30") ~ "during_election",
+    date_clean >= ymd("2024-12-01") ~ "after_election",
+    TRUE ~ "unknown"
+  ))
+```
+
+```{r}
+project <- project |> 
+  mutate(RQ2_positive = case_when(
+  str_detect(sentence, "brave|independent|empowered|rational|modern|free|freedom|autonomy|self[- ]?determined|social progress") ~ 1,
+  TRUE ~ 0
+  ))
+
+project <- project |> 
+  mutate(RQ2_negative = case_when (
+  str_detect(sentence, "hate|extreme|crazy|selfish|toxic|anti[- ]?family|anti[- ]?men|anti[- ]?social|against tradition") ~ 1,
+  TRUE ~ 0
+  ))
+
+```
+
+```{r}
+project <- project %>%
+  mutate(type = case_when(
+    str_detect(tolower(section), "op") ~ "opinion",
+    str_detect(tolower(section), "news") ~ "news"
+  ))
+
+project %>%
+  count(type, sort = TRUE)
+```
+
+```{r}
+project %>%
+  group_by(title) %>%
+  slice_head(n = 1) %>%
+  ungroup() -> article_level
+article_level <- project %>%
+  group_by(title) %>%
+  slice_head(n = 1) %>%
+  ungroup()
+
+print(paste0(
+  "RQ1: The percentage of coverage published prior to the presidential election was ",  round(prop.table(table(article_level$RQ1))["prior_election"] * 100, 1), "%; ",  "during the election period was ",  round(prop.table(table(article_level$RQ1))["during_election"] * 100, 1), "%; ",  "after the election was ",  round(prop.table(table(article_level$RQ1))["after_election"] * 100, 1), "%."
+))
+
+
+```
+
+```{r}
+print(paste0(
+  "RQ2: The percentage of sentence that portrayed 4B movement in a negative way was ",  round(prop.table(table(project$RQ2_negative))[["1"]]*100, 1), "%; ",  "in a positive way was ",  round(prop.table(table(project$RQ2_positive))[["1"]]* 100, 1), "%."
+))
+```
+
+```{r}
+
+print(paste0(
+  "RQ3: The percentage of opinion coverage was ",  round(prop.table(table(article_level$type))["opinion"] * 100, 1), "%; ",  " the percentage of news coverage was ",  round(prop.table(table(article_level$type))["news"] * 100, 1), "%. " 
+))
+
+```
+
+#### Topic Analysis:
+
+```{r}
+textdata <- project %>% 
+  select(filename, sentence, date_clean) %>% 
+  as.data.frame() %>% 
+  rename(doc_id = filename, text= sentence)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(textdata))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+#processedCorpus <- tm_map(processedCorpus, removeNumbers) Because 4B movement has numbers in the name, so I skip this
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+```
+
+```{r tm3a}
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+textdata <- textdata[sel_idx, ]
+
+```
+
+```{r}
+textdata <- textdata |> 
+  mutate(time = case_when(
+    date_clean < ymd("2024-11-01") ~ "prior_election",
+    date_clean >= ymd("2024-11-01") & date_clean <= ymd("2024-11-30") ~ "during_election",
+    date_clean >= ymd("2024-12-01") ~ "after_election",
+    TRUE ~ "unknown"
+  ))
+
+articles_time <- textdata %>% 
+  distinct(doc_id, .keep_all=TRUE) %>% 
+  count(time) %>% 
+  mutate(pct_total= (n/sum(n))) %>% 
+  mutate(pct_total= formattable::percent(pct_total)) %>% 
+  # mutate(pct_total = round(pct_total, 1)) %>% 
+  arrange(desc(time))
+
+library(kableExtra)
+articles_time %>%
+  kbl(caption = "4B Articles by time", font_size = 30) %>%
+  kable_classic(full_width = F, html_font = "Cambria") %>% 
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "5em") %>% 
+  column_spec(3, width = "5em", background = "yellow") 
+
+#Fact check 9589 articles
+#sum(articles_times$n)
+```
+
+```{r tm12}
+# number of topics
+K <- 4
+# set random number generator seed
+set.seed(9999)
+#Latent Dirichlet Allocation, LDA
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 500, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+```
+
+```{r}
+# Step 1: Check dimensions
+n_theta <- nrow(theta)
+n_textdata <- length(textdata$time)
+
+cat("Number of rows in theta: ", n_theta, "\n")
+cat("Number of documents in textdata: ", n_textdata, "\n")
+
+# Check if textdata contains all the documents in theta
+common_ids <- intersect(rownames(theta), textdata$doc_id) # Assuming textdata has a 'doc_id' column
+
+# Filter textdata to include only the documents present in theta
+textdata_filtered <- textdata[textdata$doc_id %in% common_ids, ]
+
+# Check dimensions after filtering
+n_textdata_filtered <- nrow(textdata_filtered)
+cat("Number of documents in filtered textdata: ", n_textdata_filtered, "\n")
+
+# Ensure the lengths match now
+if (n_theta != n_textdata_filtered) {
+  stop("The number of rows in 'theta' still does not match the length of 'textdata_filtered$time'.")
+}
+
+# Align rownames of theta with filtered textdata
+theta_aligned <- theta[rownames(theta) %in% textdata_filtered$doc_id, ]
+
+# Optional: Verify the order of documents
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  # If the order doesn't match, reorder one to match the other
+  textdata_filtered <- textdata_filtered[match(rownames(theta_aligned), textdata_filtered$doc_id), ]
+}
+
+# Ensure they are now aligned and can be combined
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  stop("The document IDs still do not match. Please check the data alignment.")
+}
+
+# Step 2: Combine data
+topic_data <- data.frame(theta_aligned, time = textdata_filtered$time)
+
+# Step 3: Aggregate data
+topic_proportion_per_time <- aggregate(. ~ time, data = topic_data, FUN = mean)
+
+# get mean topic proportions per time
+# set topic names to aggregated columns
+colnames(topic_proportion_per_time)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame <- melt(topic_proportion_per_time, id.vars = "time")
+
+```
+
+```{r}
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics
+```
+
+```{r}
+
+#add categories
+
+vizDataFrame <- vizDataFrame %>% 
+  mutate(category = case_when(
+    str_detect(variable,  "trump peopl presid donald hanniti time state biden elect democrat") ~ "Political_figure_event",
+    str_detect(variable, "south movement women korea content korean newstex men feminist marriag") ~ "4B_movement",
+    str_detect(variable, "million group year busi 2008 student rate share capit decemb") ~ "Capitalism",
+    str_detect(variable, "women men movement sex trump date elect polit young abort") ~ "Gender_issues",
+    ))
+
+```
+
+```{r}
+# plot topic proportions per time as bar plot
+ggplot(vizDataFrame, aes(x=time, y=value, fill=category)) + 
+  geom_bar(stat = "identity") + ylab("proportion") + 
+  scale_fill_manual(values = paste0(alphabet(20), "FF"), name = "time") + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+   scale_fill_manual(values=c("#9933FF",
+                              "red",
+                              "darkblue",
+                              "green"))+
+  labs(title = "Common Narratives in 4B Movement News Coverage",
+       subtitle = "Four probable topics in press sample",
+       caption = "Aggregate mean topic proportions per time. Graphic by Yiran Zhang, 4-14-2025")
+
+```
+
+Based on topic analysis, I identified four major topics in 4B movements reports. First, 4B_movement_context, talks about the definition and background of the movement. Second, capitalism, refers to discussions of economic conditions and the job market. The third topic is gender_issues, which focuses on the movement’s core concerns, such as abortion rights. And the last topic is political_figure_event, mainly focusing on the political backgrounds.
+
+I found that prior to the 2024 presidential election, the proportions of capitalism, gender_issues, and political_figure_event were relatively similar. During the election period, most of media focused on political figures and events. After the election, the dominant theme on 4B movement became capitalism.
