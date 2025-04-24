@@ -1,0 +1,8 @@
+"0","#136596 rows of text"
+"0","articles_text <-  rio::import(""https://www.dropbox.com/scl/fi/0xej3ebt6kuiwxa0czpq4/moley_cleaned_perspective_text.csv?rlkey=wo7akc0jl99uxnzrru9hrrh5a&st=4wclfmx3&dl=0&raw=1"") |> "
+"0","    mutate(year = as.numeric(year),"
+"0","         date = as.Date(pubdate, format=""%b %d, %Y""))"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"

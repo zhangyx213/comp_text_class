@@ -1,0 +1,7 @@
+"0",""
+"0","llm_text <- articles_text[1:1000, ]"
+"0",""
+"0","llm_text <- llm_text |> "
+"0","  mutate(sentence = gsub(""\n"", "" "", sentence)) |> "
+"0","  mutate(sentence = gsub(""\\s+"", "" "", sentence))"
+"0",""
