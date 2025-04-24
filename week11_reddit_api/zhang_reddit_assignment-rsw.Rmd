@@ -1,0 +1,472 @@
+---
+title: "zhang_reddit_assignment"
+output: html_document
+date: "2025-04-17"
+---
+
+```{r message=TRUE, warning=TRUE, include=FALSE}
+library(RedditExtractoR)
+library(tidyverse)
+library(tidytext)
+library(lubridate)
+```
+
+# Search for URLs
+
+### Combining keywords search within the subreddit
+
+```{r}
+top_vas_urls <- find_thread_urls(subreddit="abortion", keywords = "vasectomy", sort_by="top")
+str(top_vas_urls)
+
+```
+
+#subreddit url search
+
+```{r}
+top_abort_urls <- find_thread_urls(subreddit="abortion", sort_by="top")
+str(top_abort_urls)
+```
+
+# Save the results from 2025.4.17
+
+
+```{r}
+#write.csv(top_abort_urls,"top_abort_urls_2025417.csv")
+top_abort_urls = read.csv("top_abort_urls_2025417.csv")
+
+#write.csv(top_vas_urls,"top_vas_urls_2025417.csv")
+top_vas_urls = read.csv("top_vas_urls_2025417.csv")
+
+```
+
+# Tokenize posts and produce a list of the top 20 bigrams
+
+### 1. Tokenize the whole abortion subreddit and produce the list of its top 20 bigram
+
+```{r}
+#Tokenize the text column
+abort_text <- str_replace_all(top_abort_urls$text, "- ", "")
+abort_text_df <- tibble(abort_text,)
+
+abort_tokenized <- abort_text_df %>%
+  unnest_tokens(word,abort_text)
+
+#remove stop words
+data(stop_words)
+abort_tokenized <- abort_tokenized%>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+bigrams <- abort_text_df %>%
+  unnest_tokens(bigram, abort_text, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams2 <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!is.na(word1)) %>%
+  filter(!is.na(word2))
+
+# word count and top 20 bigram
+bigram3 <- bigrams2 %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(20, n)
+
+bigram3
+
+```
+
+#rsw comment - some good results with the bigrams.
+
+
+
+### 2. Tokenize the vasectomy posts in the abortion subreddit and produce the list of its top 20 bigram
+
+```{r}
+#Tokenize the text column
+vas_text <- str_replace_all(top_vas_urls$text, "- ", "")
+vas_text_df <- tibble(vas_text,)
+
+vas_tokenized <- vas_text_df %>%
+  unnest_tokens(word,vas_text)
+
+#remove stop words
+data(stop_words)
+vas_tokenized <- vas_tokenized%>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+bigrams_vas <- vas_text_df %>%
+  unnest_tokens(bigrams_vas, vas_text, token="ngrams", n=2)
+
+bigrams_vas
+
+#Filter out stop words.
+
+bigrams_vas1 <- bigrams_vas %>%
+  separate(bigrams_vas, c("word1", "word2"), sep = " ")
+
+bigrams_vas2 <- bigrams_vas1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!is.na(word1)) %>%
+  filter(!is.na(word2))
+
+# word count and top 20 bigram
+bigrams_vas3 <- bigrams_vas2 %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(20, n)
+
+bigrams_vas3
+```
+
+#rsw comment - these results above arent that useful - basically all are one bigram except for pregnancy terminated and surgical abortion
+
+# Filter weeks, days, minutes, and hours for the both bigrams of abortion and vas posts
+
+### 1. Abortion
+
+```{r}
+bigrams2_filter <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!word1 %in% c("weeks", "week","days","hours","minutes")) %>%
+  filter(!word2 %in% c("weeks", "week","days","hours","minutes")) %>%
+  filter(!is.na(word1)) %>%
+  filter(!is.na(word2))
+
+# word count and top 20 bigram
+bigram3_filter <- bigrams2_filter %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(20, n)
+
+bigram3_filter
+```
+
+### 2. Vas posts
+
+```{r}
+bigrams_vas2_filter <- bigrams_vas1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!word1 %in% c("weeks", "week","days","hours","minutes")) %>%
+  filter(!word2 %in% c("weeks", "week","days","hours","minutes")) %>%
+  filter(!is.na(word1)) %>%
+  filter(!is.na(word2))
+
+# word count and top 20 bigram
+bigrams_vas3_filter <- bigrams_vas2_filter %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(20, n)
+
+bigrams_vas3_filter
+```
+
+This bigram looks still noisy probably because the posts are very few.
+
+## Plot the posts over time
+
+Idk why my chart turns out to be in Chinese ;( - #rsw comment - it prints in english on my computer :-)
+
+```{r echo=TRUE}
+abort_time <- top_abort_urls %>%
+  mutate(date = date(date_utc)) %>%  
+  group_by(date) %>%
+  summarise(count = n()) %>%
+  ungroup()
+
+p <- ggplot(abort_time, aes(x = date, y = count)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  labs(title = "Distribution of Posts in Abortion Subreddit Over Time",
+       x = "Date",
+       y = "Number of Posts",
+       caption = "Produced by: Yuxiao Zhang | Data Source: Reddit via RedditExtractoR") +
+  theme_minimal()
+print(p)
+```
+
+## Run a topic model
+
+### Load packages
+
+```{r message=TRUE, warning=TRUE}
+# set options
+options(stringsAsFactors = F)         # no automatic data transformation
+options("scipen" = 100, "digits" = 4) # suppress math annotation
+# load packages
+here::here()
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(readtext)
+#topic modeling
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+# from tutorial packages
+library(DT)
+library(knitr) 
+library(kableExtra) 
+library(reshape2)
+library(ggplot2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+
+
+```
+
+### Process it into corpus
+
+```{r}
+textdata <- top_abort_urls %>% 
+  select(title, text, date_utc) %>% 
+  rename(doc_id = title) %>%
+  as.data.frame()
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(textdata))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+
+```
+
+```{r}
+#DTM: rows correspond to the documents in the corpus. Columns correspond to the terms in the documents. Cells correspond to the weights of the terms. (Girder)
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+textdata <- textdata[sel_idx, ]
+```
+
+## Topic proportions over time {.unnumbered}
+
+We examine topics in the data over time by aggregating mean topic proportions per decade. These aggregated topic proportions can then be visualized, e.g. as a bar plot.
+
+```{r}
+# append month information for aggregation
+textdata$month <- paste0(substr(textdata$date_utc, 0, 3), "0")
+```
+
+Articles per month
+
+```{r}
+#install.packages("formattable")
+library(formattable)
+
+articles_date <- textdata %>% 
+  distinct(doc_id, .keep_all = TRUE) %>% 
+  mutate(date = as.Date(date_utc)) %>%      
+  count(date) %>%                           
+  mutate(pct_total = n / sum(n)) %>% 
+  mutate(pct_total = formattable::percent(pct_total)) %>% 
+  arrange(desc(date))
+
+library(kableExtra)
+articles_date %>%
+  kbl(caption = "Abortion posts by Day (n=81, 04/17/2025", font_size = 30) %>%
+  kable_classic(full_width = F, html_font = "Cambria") %>% 
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "5em") %>% 
+  column_spec(3, width = "5em", background = "yellow") 
+
+
+
+#Fact check 81 articles
+#sum(articles_month$n)
+```
+
+```{r}
+# number of topics
+# K <- 20
+K <- 6
+# set random number generator seed
+set.seed(9161)
+#Latent Dirichlet Allocation, LDA, Gibbs is the sampling method 
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 500, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+```
+
+### Mean topic proportions per date
+
+```{r}
+# Step 1: Check dimensions
+n_theta <- nrow(theta)
+n_textdata <- length(textdata$date_utc)
+
+cat("Number of rows in theta: ", n_theta, "\n")
+cat("Number of documents in textdata: ", n_textdata, "\n")
+
+# Check if textdata contains all the documents in theta
+common_ids <- intersect(rownames(theta), textdata$doc_id) # Assuming textdata has a 'doc_id' column
+
+# Filter textdata to include only the documents present in theta
+textdata_filtered <- textdata[textdata$doc_id %in% common_ids, ]
+
+# Check dimensions after filtering
+n_textdata_filtered <- nrow(textdata_filtered)
+cat("Number of documents in filtered textdata: ", n_textdata_filtered, "\n")
+
+# Ensure the lengths match now
+if (n_theta != n_textdata_filtered) {
+  stop("The number of rows in 'theta' still does not match the length of 'textdata_filtered$decade'.")
+}
+
+# Align rownames of theta with filtered textdata
+theta_aligned <- theta[rownames(theta) %in% textdata_filtered$doc_id, ]
+
+# Optional: Verify the order of documents
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  # If the order doesn't match, reorder one to match the other
+  textdata_filtered <- textdata_filtered[match(rownames(theta_aligned), textdata_filtered$doc_id), ]
+}
+
+# Ensure they are now aligned and can be combined
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  stop("The document IDs still do not match. Please check the data alignment.")
+}
+
+# Step 2: Combine data
+topic_data <- data.frame(theta_aligned, date = textdata_filtered$date_utc)
+
+# Step 3: Aggregate data
+topic_proportion_per_date <- aggregate(. ~ date, data = topic_data, FUN = mean)
+
+
+# get mean topic proportions per month
+# topic_proportion_per_month <- aggregate(theta, by = list(month = textdata$month), mean)
+# set topic names to aggregated columns
+colnames(topic_proportion_per_date)[2:(K+1)] <- topicNames
+# reshape data frame
+vizDataFrame <- melt(topic_proportion_per_date, id.vars = "date")
+
+
+```
+
+#Examine topic names
+
+```{r}
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics
+```
+
+### Fact-checking
+
+Example: for topic 1: feel babi abort pregnant time don\\031 life \\031ve year child
+
+```{r}
+# Assuming `theta` is a dataframe related to topics
+theta2 <- as.data.frame(theta)
+
+# Extract and rename relevant column for topic 
+abort_topic <- theta2 %>%
+  rename(abort_topic = '1') %>%   
+  top_n(20, abort_topic) %>%
+  arrange(desc(abort_topic)) %>% 
+  select(abort_topic)
+
+# Apply rownames_to_column to include story IDs
+abort_topic <- tibble::rownames_to_column(abort_topic, "doc_id")
+
+# Clean up doc_id if necessary (e.g., removing "X" or other unwanted characters)
+abort_topic$doc_id <- gsub("X", "", abort_topic$doc_id)
+
+# Check the top 20 story IDs
+head(abort_topic$doc_id, 20)
+# Now it’s validated for DEI topics
+```
+
+### Add categories to each topics after fact-checking
+
+```{r}
+vizDataFrame <- vizDataFrame %>%
+  mutate(category = case_when(
+        str_detect(str_squish(variable), "feel babi abort pregnant time don\031 life \031ve year child") ~ "Emotional Conflict",
+    str_detect(variable, "bleed clot blood day cramp week pass dose normal miso") ~ "Physical Symptoms",
+    str_detect(variable, "pill abort week wow process scare pregnant decid state day") ~ "Decision-Making & Legal Anxiety",
+    str_detect(variable, "procedur experi call day appoint wait room medic back week") ~ "Clinical Procedure Experience",
+    str_detect(variable, "week abort day period test pregnanc pill pregnant don\031 ago") ~ "Timing, Tests",
+    str_detect(variable, "pain cramp pill hour felt start feel bleed day bad") ~ "Personal Narratives",
+  ))
+
+```
+
+#rsw comment - Catherine, FYI, here are AI generated topics. I trust your decisions but this might offer some insight
+<!-- Here are three-word category summaries for each abortion-related topic from your Reddit discourse analysis: -->
+<!-- Topic 1: "Pregnancy Symptoms/Testing" -->
+<!-- Topic 2: "Emotional Decision Making" -->
+<!-- Topic 3: "Medical/Legal Access" -->
+<!-- Topic 4: "Medication Timeline/Experience" -->
+<!-- Topic 5: "Physical Symptoms/Bleeding" -->
+<!-- Topic 6: "Procedure/Recovery Experience" -->
+
+
+#Figure of the topics
+
+```{r}
+#library(scales)
+vizDataFrame$date <- as.Date(vizDataFrame$date)
+
+ggplot(vizDataFrame, aes(x = date, y = value, fill = category)) + 
+  geom_bar(stat = "identity") +
+  ylab("Proportion") +
+  # scale_fill_manual(values = c("#9933FF", "cyan", "red", "yellow", "darkblue", "green")) +
+  scale_fill_manual(values = c("#9933FF", "#00FFFF", "#FF0000", "#FFFF00", "#00008B", "#008000")) +
+  scale_x_date(date_breaks = "1 week", date_labels = "%b %d") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(
+    title = "Common Narratives in Abortion Subreddit Coverage",
+    subtitle = "Six probable topics in sample. n=989",
+    caption = "Aggregate mean topic proportions per month\nGraphic by Catherine Zhang, 04-17-2024",
+    fill = "Topic Category"
+  )
+```
+
+# Summary of the findings
+
+Write a 300 summary of what you discovered and tell me whether Reddit will be a useful supplement for your final project. Or not.
+
+Based on the Reddit data pulled from the abortion subreddit, this analysis reveals the diversity of experiences and concerns people share when discussing abortion online.
+
+Using topic modeling, six core themes emerged: Clinical Procedure Experience, Decision-Making & Legal Anxiety, Emotional Conflict, Personal Narratives, Physical Symptoms, and Timing, Tests. The bar plot visualization shows how these topics fluctuate in proportion over time, with Emotional Conflict and Decision-Making concerns appearing prominently and consistently across weeks.
+
+The post distribution chart shows a gradual increase in abortion-related discussions over time, though this trend may be partially influenced by Reddit’s default sorting of newer posts at the top. Nonetheless, the sustained volume of posts suggests that abortion remains a hot and emotionally charged topic. The discourse is highly reactive to external events and deeply shaped by personal storytelling, which aligns with the model’s emphasis on emotionally and physically descriptive themes.
+
+Among the most frequent bigrams are references to pregnancy timing (e.g., "6 weeks," "4 weeks," "3 weeks"), reflecting how users often situate their experiences in relation to gestational age. This likely ties into both the timing of clinical procedures and legal restrictions surrounding abortion access. When filtering out general time expressions (e.g., “weeks,” “days,” “hours”), the most prominent bigrams—such as “medical abortion,” “birth control,” and “pregnancy test”—highlight the dominance of medical and decision-related language in the posts. These word pairings reinforce the thematic findings by revealing how users frame their experiences through a blend of clinical processes, emotional responses, and logistical concerns.
+
+Reddit appears to be a valuable supplementary source for my project, particularly for understanding real-time public discourse around reproductive health. Its unfiltered and user-driven narratives offer authentic insight into how people frame and experience abortion, which can complement more formal news coverage or public health messaging. For a project exploring risk perception, health communication, or emotional response to reproductive decisions, Reddit is not only relevant but rich in usable content.
