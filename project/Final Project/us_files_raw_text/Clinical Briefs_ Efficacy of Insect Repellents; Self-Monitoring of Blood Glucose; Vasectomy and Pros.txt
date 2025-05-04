@@ -1,0 +1,37 @@
+
+
+
+
+
+Internal Medicine Alert
+August 15, 2002
+
+
+Copyright 2002 AHC Media LLC All Rights Reserved
+Length: 816 words
+Body
+
+
+Clinical Briefs
+Comparative Efficacy of Insect Repellents Against Mosquito Bites
+  Mosquitoes are typically viewed as nuisance pests, though in the United States they are responsible for a variety of types of encephalitis, and globally, for malaria. Since mosquito bites are potentially consequential, insect repellant (IRP) efficacy is a clinically relevant issue. Testing was performed by having volunteers insert an arm into a cage containing 10 unfed mosquitoes, and measuring the time until a first bite was received. For instance, subjects would place an untreated arm into the cage, record the time to first bite, and then insert an IRP-treated arm. If the arm was not bitten within 20 minutes, it was reinserted for 1 minute every 15 minutes until a bite occurred.
+*| By Louis Kuritzky, MD | 
+  DEET provided the longest protection, but this was a concentration-related phenomenon, with a 24% DEET solution providing complete protection for 302 minutes, compared with only 88.4 minutes for a 4.75% DEET formulation. On the other hand, controlled-release DEET did not appear to favorably affect performance. 
+  Non-DEET formulations, such as soy-based oil and citronella, were unable to provide comparable protection to high-concentration DEET. For instance, citronella provided less than 20 minutes protection. Repel Lemon Eucalyptus Insect Repellant (marketed after this study was completed), was also tested, and provided substantially less protection than high-concentration DEET, but more than citronella and soy-based products. Despite consumer assertions to the contrary, Skin-So-Soft provided only 9.6 minutes of protection. Fradin and Day conclude that DEET should remain the gold standard for mosquito bite protection, and that the product is safe and well tolerated when used as indicated.
+Fradin MS, Day JF. N Engl J Med. 2002;347:13-18.
+Reduction in Self-Monitoring of Blood Glucose in Type 2 Diabetes Results in Cost Savings and  No Change in Glycemic Control
+  Nationally, in the US Veterans Administration (VA) population, diabetes (DM) is responsible for 24% of pharmacy costs. The Northern California Health Care System VA (data source for this study) alone has expended as much as $450,000 annually for glucose testing strips. In an effort to examine the effect of reduced self-monitoring of blood glucose (SMBG) in type-2 diabetes (DM2), which comprises 95% of the diabetic population, the VA instituted a policy of 50 SMBG strips each 90-day period. This constituted an approximate halving of previous testing strip use. Clinicians were able to "override" the reduced number of testing strips for persons requiring more frequent monitoring in special circumstances (eg, monitoring hypoglycemia, concurrent illness days). Adequacy of control was measured by monitoring of A1C over time for 1 year.
+  Reduced frequency of SMBG had no measurable effect on A1C. Cost savings averaged $8800 per month, even when clinicians used their "override" privilege to provide extra testing strips. The ideal frequency of SMBG remains uncertain, but prescribing of 50 strips per 90 days does not appear to compromise glucose control in a population previously using twice that amount.
+Meier JL, et al. Am J Manag Care.  2002;8:557-565.
+Vasectomy and Risk of Prostate Cancer
+  Beginning about 1990, case-control data suggested that vasectomy (VAS) was associated with an increased risk of prostate cancer (PCA). Subsequently (1993), 2 large cohort studies indicated a doubling of PCA risk when measured 20 years postsurgery. Such information prompted some clinicians to screen vasectomized men for PCA with greater vigor, and to suggest that men with strong PCA family history consider alternative contraceptive methods.
+  There remains still some public and professional uncertainty about whether VAS is associated with increased PCA risk.
+  Because New Zealand has the highest VAS prevalence in the world, and maintains a national registry of PCA, it provides an appropriate resource for clarification of the VAS:PCA relationship. From 1996-1998, the New Zealand National Cancer Registry identified 923 new cases of PCA in men aged 40-74, which were compared with 1224 age-matched controls. Although family history (first-degree relative) was positively associated with an increased PCA risk, VAS was not. In fact, there was a trend toward PCA being LESS frequent in those with history of VAS.
+  Cox and colleagues indicate that the large size of the study population provided a statistical power of 99% to detect a statistically significant relative risk of 1.5 or greater. The fact that data had followed patients up to 25 years is additional reassurance that VAS does not increase risk of PCA, even after an extremely long lag period. 
+Cox B, et al. JAMA. 2002;287: 3110-3115.
+Dr. Kuritzky, Clinical Assistant Professor, University of Florida, Gainesville, is Associate Editor of Internal Medicine Alert.
+
+Load-Date: May 28, 2010
+
+
+End of Document

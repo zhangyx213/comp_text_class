@@ -1,0 +1,36 @@
+
+
+
+
+
+Dayton Daily News (Ohio)
+October 15, 2017 Sunday
+
+
+Copyright 2017 Dayton Newspapers, Inc.
+Section: ; Pg. A21
+Length: 466 words
+Byline: By Kristen Jordan Shamus
+Body
+
+
+Scientists at Michigan State University might have uncovered the key to developing an effective male birth control pill.
+In studying the causes of male fertility and infertility and using a new gene editing technology, researchers discovered that they can effectively block the gene that controls sperm production in mice, rendering them infertile.
+Chen Chen PhD., an assistant professor of animal science at MSU, said his team's discovery is a first step in finding drug treatments that could similarly block the genetic expression of this gene, called PNLDC1, in humans.
+"More than 500,000 men get vasectomies every year," Chen said. "There's a huge market for this research, and now we further understand the genetic underpinnings of sperm development in mammals.
+"I think for the general public there is great need in another male contraceptive method."
+The genetic editing technology knocked out or completely blocked the PNLDC1 expression in male mice embryos, making the male mice infertile.
+Since mice are mammals and use many of the same genes as humans in reproduction, it suggests a similar approach could be used in developing a form of human male contraception.
+In the mice Chen and his team studied, the sterilization was permanent.
+"If you delete the gene from birth, it would cause permanent sterility," he said. "However, because the system we are studying functions both neonatally and post-natally, there is a good chance that if you block the same protein function later on, it would have the same effect ... but it's not affecting permanent sperm production. In order to have a permanent sterilization, you would need to ablate the stem cell pool because the stem cells are the progenitors (of ) mature sperm."
+The hope, would be that they would be able to find a drug treatment that could block the function of that gene temporarily, allowing patients to block healthy sperm production for a short time, and then allow for the return of healthy sperm production later, if they choose.
+The hormone testosterone, Chen said, is known to be effective for limiting sperm production. But, he said, its side effects make it a poor candidate for widespread use.
+"Testosterone can act on other tissues and organs and not every single man would respond the same way," he said.
+"So for the field, it's better to develop a nonhormonal target. It does not mess with hormones and metabolism. In this case, PNLDC1 is interesting because it primarily is expressed in germ cells, but not in normal tissue like the brains or heart or liver. It's not expressed in those organs.
+Genetically altered mice who've been part of the PNLDC1 studies have been shown to have smaller testes, but that appears to be the only physiological difference.
+It doesn't appear to have any effect on sexual function, Chen said.
+
+Load-Date: October 15, 2017
+
+
+End of Document

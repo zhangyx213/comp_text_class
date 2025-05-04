@@ -1,0 +1,37 @@
+
+
+
+
+
+The Dartmouth: Dartmouth College
+February 2, 2017 Thursday
+
+
+University Wire
+Copyright 2017 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 511 words
+Byline: Brendan Dooley
+Body
+
+
+In his lecture, "Implantable Medical Devices: Security and Privacy for Pervasive, Wireless Healthcare," Fu explained that these devices are at risk for both accidental malfunctions and "intentional" malfunctions caused by malicious parties disrupting the network.
+Unintentional malfunctions in medical technology have been a problem for several years, with large numbers of people being hurt or killed as a result, Fu said.
+Kevin Fu, an associate professor at the University of Massachusetts, Amherst, spoke about implanted medical devices on Wednesday.
+Fu cited a case in which a software failure caused a radiation therapy machine to give patients fatal dosages of radiation approximately 100 times the intended dose as an example of the potentially disastrous effects of malfunctions in medical technology.
+Even in controlled environments, these accidental malfunctions can have negative consequences, he said. The uncertainty of possible failures triggered by a malicious party pose a far more difficult problem to address.
+"Today we are dealing with problems of getting technology to work well in favorable conditions, so getting the technology to work well in adversarial conditions will be that much more difficult," Fu said.
+Fu highlighted several past incidents as examples of malicious acts committed by people when "given the opportunity." He cited the 1982 Chicago Tylenol murders, in which seven people died from taking pain-relief capsules laced with cyanide.
+Fu also told of a nonprofit epilepsy foundation web site that was hacked in 2008 to display flashing computer animations, which triggered migraines and seizures in epileptics.
+"We need certain measures to protect against this kind of maliciousness," he said.
+In their study of the vulnerabilities of current pacemaker and implantable defibrillator technology, Fu and his team of researchers discovered a variety of ways in which the devices can be tampered with by outside parties.
+Malicious individuals can manipulate pacemakers and defibrillators operating in an unsecure network with relative ease, enabling them to access private patient information programmed into the device, drain the device's battery and turn off programmed responses designed to address potentially fatal cardiac arrhythmias.
+Fu suggested the incorporation of authentication and encryption devices separate from pacemakers and other devices that would serve as a "gatekeeper" against malicious commands transmitted from unauthorized programmers to increase the safety of implanted medical devices.
+In light of a wide variety of new implanted medical devices including artificial pancreases, programmable vasectomies and insulin-regulating devices the use of wireless technology presents significant security and privacy issues, Fu said.
+"All of these kinds of trends breed risks," Fu said. "They must be kept in check."
+Congress currently only allows the Food and Drug Administration to regulate the safety of medical technology, not security or privacy. This adds another source of vulnerability for wireless medical devices, Fu said.
+
+Load-Date: February 2, 2017
+
+
+End of Document

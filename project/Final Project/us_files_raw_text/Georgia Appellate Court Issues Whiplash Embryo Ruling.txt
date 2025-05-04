@@ -1,0 +1,44 @@
+
+
+
+
+
+Above the Law
+September 20, 2023 Wednesday 6:48 PM EST
+
+
+Copyright 2023 Breaking Media, Inc.  All Rights Reserved
+
+
+Length: 1176 words
+Byline: Ellen Trachman
+Body
+
+
+On Monday, September 18, 2023, the Court of Appeals of Georgia issued a  in the case of Smith v. Smith. The fact pattern will sound like the familiar classic circumstances. The divorcing couple married in 2019 and started fertility treatment in early 2020. The husband had two adult children from a prior relationship and underwent a vasectomy reversal for his new wife. The wife, on the other hand, had no prior children and was advised that she needed fertility treatment to fulfill her hopes of conceiving. So the wife went all in. She changed her diet, received numerous injections, and underwent surgeries. In the end, the treatments resulted in a single viable embryo — the subject of the Court of Appeals’ ruling.
+When the couple divorced in 2022, included among disputed property was the single embryo. As an issue of first impression in Georgia, the trial court — as many courts around the country have done — looked to various embryo dispute approaches used throughout the United States. The court acknowledged the three leading approaches used when determining who should be awarded an embryo upon the dissolution of a marriage: 1) the contractual approach, 2) the balancing approach, and 3) the contemporaneous mutual consent approach. In following the majority approach of looking at any contractual agreement between the parties and, failing that, balancing the parties’ interests, the court first focused on the IVF clinic consent form signed by both parties.
+The Blue/Gold Dress Of Contracts
+Prior to beginning the IVF process in 2020, the Smiths executed an “Agreement for Cryopreservation of Embryos and or Oocyte,” which, depending on your interpretation of its provisions, can put you on opposite sides of this dispute. In pertinent part, the contract confusingly had multiple, possibly overlapping, sections concerning the potential future of the embryos under various scenarios.
+Broad Language
+One provision was as follows:“DISPOSITION OF EMBRYO(S): We intend to have these embryos thawed and transferred back to the female partner’s uterus. However, if we should change our decision in this regard for any reason, we understand that we have three options:” The contract then laid out the three options: 1) embryo donation to another couple, 2) cell culture and degeneration/disposal, and 3) scientific study. Then the form provided as follows: “The possibility of one or both of our deaths, disappearance, incapacity, inability to agree on disposition in the future, or any other unforeseen circumstance that may result in neither of us being able to determine the fate of any stored embryo(s) requires that we now indicate our wishes. We understand that one of three decisions explained above must be made. In the event we are unable to make a decision later, we now indicate our desire to have any or all of our embryos in frozen storage disposed of as follows: Please select one option.” The parties initialed next to “Embryo Donation.”
+Narrow Language
+Further below, the consent form provided even more language on the topic, stating, “In the event of divorce, separation, or marriage dissolution we understand the legal ownership of any stored embryo(s) must be determined in a property settlement and will be released as directed by order of a court o[f] competent jurisdiction.”
+The Trial Court Liked The Provision With Narrow Language
+The trial court determined that the later provision, specific to an event of divorce, required that the decision be made by the court outside of the agreement choices. The trial court then went on to weigh the interests of the parties, apply the “equitable division of property” doctrine, and awarded the embryo to the wife, who the court concluded had made significant contributions to the embryo’s creation and who had testified that due to her age (38) and medical diagnosis, presented her likely only chance at a biological child.
+The husband, not satisfied with the trial court’s logic, opted to appeal the ruling.
+The Court Of Appeals Likes The Provision With Broad Language
+The Court of Appeals reversed the trial court, ignoring the divorce-specific provision and finding that the broader provision as to an “inability to agree on disposition in the future, or any other unforeseen circumstance that may result in neither of us being able to determine the fate of any stored embryo,” applied to the current divorce situation, and the parties’ choice of embryo donation must be enforced. So that was a win for the husband.
+The Split
+The Court of Appeals’ ruling was not unanimous. But in a 2-1 split, the husband prevailed. Interestingly, the sole female judge on the panel ruled in favor of the wife, while the two male judges ruled for the husband. In her dissent, Presiding Judge Barnes agreed with the trial court that the agreement specifically excluded divorce from the disposition clauses, and she believed that the trial court did not err in applying Georgia’s marital property doctrine to determine ownership of the couple’s embryo.
+The Lessons 
+I had a chance to speak with Georgia adoption and assisted reproductive technology law expert  (also a prior guest of the podcast on the episode “”). Bradley was not surprised by the ruling after watching oral arguments, but she was sympathetic to the parties. She works with clients on a daily basis who are navigating the deeply personal and meaningful path of whether to have a genetic child. Bradley explained some important takeaways from the decision.
+Clinics can do better. As noted in the dissent, the agreement at issue was signed by the husband, wife, and a representative of the clinic. “It was not a separate agreement binding during the proceeding but was …intended to protect the clinic.” But it’s not in a clinic’s interest to have its patients’ embryos subject to litigation. The clinic, as a holder of the embryos, is left stuck in the middle. The clearer the consent forms are, the better for everyone.
+Patients need to look out for themselves. Bradley recommends that all couples going through in vitro fertility treatment resulting in stored genetic material should consult with legal counsel. The couple should include the frozen gametes and embryos in a postnuptial or similar agreement that clearly lays out the intentions and agreement of both parties as to their disposition in the case of divorce or separation. Don’t subject yourself to the roll of the dice as to which way a judge may read a clinic consent form.
+What’s Next? 
+Is the Supreme Court of Georgia next up for this case? Time will tell. In the meantime, for clinics and those at the beginning of their fertility journey, steps can be taken to have clear documentation of disposition choices — both in case of divorce and any other unforeseen circumstances.
+Ellen Trachman is the Managing Attorney of , a Denver-based law firm specializing in assisted reproductive technology law, and co-host of the podcast . You can reach her at .
+
+Load-Date: September 20, 2023
+
+
+End of Document

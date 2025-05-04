@@ -1,0 +1,53 @@
+
+
+
+
+
+Contraceptive Technology Update
+February 1, 2005
+
+
+Copyright 2005 AHC Media LLC All Rights Reserved
+Length: 1264 words
+Body
+
+
+Male contraceptives    are gaining momentum
+Methods hold potential    for greater safety
+ The first male contraceptives    to make it to the market likely will be hormonal-based birth control, similar    to what has worked well for female contraceptives for the past four decades.    However, there are serious difficulties with hormonal contraceptives for men,    so the possibilities that are beginning to excite researchers working in the    contraceptive field are the nonhormonal methods.
+ "We have to consider all    of the possibilities," says Deborah O'Brien, PhD, an associate professor    at the University of North Carolina School of Medicine in the department of    cell and developmental biology in Chapel Hill.
+ There is a need for a variety    of contraceptive options for men and women, she says. "Non-hormonal and post-testicular    methods are what we're shooting for," she says. "We'd like to inhibit sperm    specifically and not have side effects elsewhere."
+ O'Brien has been working    on a contraceptive target involving novel sperm glycolytic enzymes.1
+ "There are two potential    advantages of this kind of approach," O'Brien says. "One is they're expressed    only in germ cells, and two, enzymes are considered [potential] drugs by the    pharmaceutical industry."
+ The hypothesis is that    glycolysis is required for sperm motility and male fertility; so if a drug could    inhibit glycolytic enzymes necessary for the production of sperm, then fertility    would be compromised.1
+ "We have good evidence    from studies that if we can eliminate one of the sperm-specific enzymes then    sperm are infertile," O'Brien says. "We've proved proof of principle that it    will work; it's been done in mice."
+ O'Brien's investigations    have shown that the germ cell-specific isozyme, glyceraldehyde 3-phosphate dehydrogenase-S    can be eliminated, resulting in sperm having no forward motility.1
+ "Researchers have a good    idea of how you would go about designing inhibitors and other kinds of interactions    - like protein interactions also are potential targets - but we don't have drugs    yet that work that way," O'Brien says. "We can conceive of ways to inhibit it,    but it's not like having an enzyme or [other products] already targeted in the    pharmaceutical industry."
+ The bad news is that it    will take a while to get from this proof of principle to actual male contraceptive    drugs, O'Brien notes.
+ Another potential target    for nonhormonal male contraceptives involves ion channels, which control the    excitability of cells.
+ In 2001, Boston investigators    discovered an ion channel, named CatSper for cation channel of sperm that was    located only in mature sperm in the tail.2
+ "It was no where else in    the body, and it didn't get put into cell membranes by cells until the sperm    were mature," says David E. Clapham, MD, PhD, one of the investigators    and an Aldo R. Castaneda professor of cardiovascular research and an investigator    at the Howard Hughes Medical Institute and professor of neurobiology at Harvard    Medical School and the Children's Hospital of Boston.
+CatSper discovered accidentally
+ Clapham discovered CatSper    by accident since he primarily works in cardiology and neurobiology. When he    and co-investigators discovered the ion channel, they tracked it down to discover    what it did and found that it was only present in sperm, which seemed to make    it an obvious novel target for a contraceptive, he recalls.
+ "When we knocked out the    ion channel in mice, the gene that encoded it, the mice were completely infertile,"    he recalls. "Then we studied the mice sperm and found they had a small defect    in motility, but they're mainly unable to hyperactivate, which is required for    fertilization."
+ Hyperactivation gives sperm    greater force that is needed to penetrate the protective cells around an egg    and then penetrate the egg, Clapham points out.
+ Researchers hypothesize    that CatSpers bring calcium into the sperm and that they are used to initiate    movement and change of movement of the tail, he says.
+ "So the significance for    contraception is that ion channels are good targets for drugs because they're    on the surface of cells," Clapham explains. "Since this channel is only present    in mature sperm, if you blocked it specifically, it would not have effects on    any other tissues."
+ As a specific blocker,    the contraceptive would work only on cells that potentially would die or fertilize,    so it would have no long-term effect on a man's reproduction, he adds.
+ A biotechnology company    named Hydra of Cambridge, MA, has licensed this potential target and is working    on trying to develop a small molecule blocker of CatSper, Clapham says.
+ Comparable pharmaceutical    solutions are the calcium channel-blocking drugs that are used to treat hypertension,    he notes.
+ "The analogy here would    be to find a small molecule that would block only this calcium channel and not    any others, and that should block hyperactivation," Clapham explains.
+ While hormonal contraceptives    for men are the furthest along in development, they are not as promising an    approach for the long term, he says.
+ "I think that's an unlikely    approach because I don't think many men will take a hormone that will affect    their fertility for unknown duration and which has other side effects," Clapham    says. "You have to worry if it's going to be reversible and make sure it doesn't    affect your offspring."
+ All contraceptives have    to have a very high safety margin because they're used for changing a lifestyle    and not for treating a disease, and so the approaches that are more likely to    affect sperm formation in the long term are riskier, he says.
+ While research into male    contraceptives is a positive development, there already are two male contraceptives    that are cheap, safe, and effective, but they've been underutilized in the 100    years that they've been available: condoms and vasectomy, says Robert Hatcher,    MD, MPH, senior author of Contraceptive Technology, and professor of    gynecology and obstetrics at Emory University School of Medicine in Atlanta.    He is the chairman of the editorial advisory board for Contraceptive Technologies    Update.
+ "In the world today, there    are only four nations, the Netherlands, Bhutan, New Zealand, and Great Britain,    where more men get vasectomies than women get tubal sterilization in spite of    the fact that vasectomy is less expensive, safer, and is the most effective    contraceptive of all, and it can be verified with semen analysis," Hatcher says.    Condoms have pretty good effectiveness against many sexually transmitted diseases    and are very effective against HIV, for example, and they are the only means    of preventing infections if you have high-risk couples, Hatcher says. "But what    contribution is this method making in the world today?" he says. "In many locations,    [it is] minimal, and in some societies, moderate, but in no place is it excellent."
+ Given the history of men    not using condoms and vasectomy as much as they could, Hatcher says he doesn't    see much potential for the new male contraceptives.
+References
+ 1. O'Brien DA. Novel sperm    glycolytic enzymes as contraceptive targets. Presented at the Future of Male    Contraception conference. Seattle; Sept. 29-Oct. 2, 2004.
+ 2. Clapham DE. The CatSper    family of sperm-specific ion channels. Presented at the Future of Male Contraception    conference. Seattle; Sept. 29-Oct. 2, 2004. 
+
+Load-Date: May 28, 2010
+
+
+End of Document

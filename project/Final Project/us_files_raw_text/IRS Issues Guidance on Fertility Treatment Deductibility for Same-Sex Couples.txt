@@ -1,0 +1,59 @@
+
+
+
+
+
+Newstex Blogs 
+National Law Review
+August 12, 2021 Thursday 8:16 PM EST
+
+
+Copyright 2021 Newstex LLC All Rights Reserved
+Length: 1623 words
+Byline: McDermott Will & Emery
+Body
+
+
+Aug 12, 2021( National Law Review:  Delivered by Newstex)  
+ Article By John T. Lutz[1]  
+McDermott Will &#38; Emery [2] +Insights[3] OVERVIEW 
+
+On April 9, 2021, the Internal Revenue Service (IRS) releasedPLR 202114001[4](PLR), which provides guidance on the deductibility of medical costs under Section 213 of the Internal Revenue Code (Code) relating to fertility expenses for same-sex couples. While the PLR disallows most of the costs incurred by a same-sex couple wishing to have a child, the IRS' distinction between deductible costs for medical procedures attributable to the taxpayer and non-deductible costs for medical procedures attributable to third parties raises unique concerns about the equitable treatment of different taxpayers. 
+ IN-DEPTH 
+
+The PLR responded to a request for a ruling on the deductibility of medical costs arising from egg donation, in vitro fertilization (IVF) procedures and gestational surrogacy for a male same-sex couple (Taxpayers A and B, collectively the Taxpayers). The Taxpayers were legally married and wished to have a child with as much of their representative DNA as possible. As such, the Taxpayers planned for Taxpayer A to donate sperm and for Taxpayer B's sister to donate the egg, with an unrelated third party used as a gestational surrogate to carry the resulting child to term. The Taxpayers sought a ruling under Section 213, authorizing deductions for costs and fees relating to egg retrieval, sperm donation, sperm freezing, IVF medical procedures, surrogate childbirth expenses, surrogate medical insurance, legal and agency fees relating to the surrogacy and other medical expenses arising from the surrogacy. 
+
+The IRS concluded that the costs and fees related to egg donation, IVF procedures and gestational surrogacy would not qualify as deductible medical expenses under Section 213 when they are incurred for third parties, such as Taxpayer B's sister and the proposed surrogate. In contrast, medical costs and fees directly attributable to the taxpayers are deductible within the limitations of Section 213, including sperm donation and sperm freezing. 
+ LEGAL BACKGROUND 
+ The IRS considered several key authorities before arriving at its conclusion. Establishing the statutory structure for the deductions, Section 213(a) of the Code allows a deduction of expenses paid for medical care of the taxpayer to the extent they exceed 7.5% of the their adjusted gross income. Critically, 'medical care of the taxpayer' is read to include only those costs and fees directly attributable to the taxpayer, the taxpayer's spouse or the taxpayer's dependents, thus excluding third-party egg donors or gestational surrogates. 
+
+Section 213(d)(1)(A) of the Code provides that medical care includes amounts paid for the diagnosis, cure, mitigation, treatment or prevention of disease or for the purpose of affecting any structure or function of the body. Medical care is thus divided into two distinct qualifying definitions: Those amounts paid to treat a medical condition or defect and those amounts paid for the purpose of affecting any structure or function of the body. 
+
+The PLR provides multiple authorities that examine the contours of the medical expense deduction under the first qualifying definition of care relating to a medical condition. For instance,Atkinson v. Commissioner, 44 T.C. 39 (1965) andMagdalin v. Commissioner, T.C. Memo 2008-293,aff'd without published opinion, 105 A.F.T.R.2d (RIA) 2010-442 (1st Cir. 2009) both support the general proposition that the deduction has historically been construed narrowly. 
+
+Under the second qualifying definition of medical care relating to the structure and function of the body, Revenue Ruling 73-201 (1973-1 CB 140) and Revenue Ruling 73-603 (1973 CB 76) are referenced to provide additional guidance in the specific context of medical treatments affecting fertility. These rulings hold that the costs associated with vasectomies and operations that render a woman incapable of having children affect a structure or function of the body and therefore qualify as a deductible medical expense within the limitations of Section 213. 
+
+The IRS finally provides a number of illustrative cases. InMagdalin, the US Tax Court considered surrogacy and egg donor expenses claimed by a single, heterosexual male and held that costs incurred in fathering children through unrelated egg donors and gestational carriers are not deductible medical expenses under Section 213. The deductions were denied because there was not a causal relationship between an underlying medical condition or defect and the taxpayer's expenses nor were the costs incurred for the purpose of affecting a structure or function of the taxpayer's body.Longino v. Commissioner, T.C. Memo 2013-90,aff'd593 Fed. Appx. 965 (11th Cir. 2014) ruled similarly, with the Tax Court holding that a taxpayer cannot deduct IVF costs of an unrelated person if the taxpayer does not have a defect which prevents them from naturally conceiving children. InMorrissey v. United States, 871 F.3d 1260 (11th Cir. 2017), a male taxpayer in a same-sex union sought to deduct costs he incurred to retain, compensate and care for the woman serving as the egg donor and gestational surrogate. Morrissey characterized himself as 'effectively,' if not medically, infertile because he is homosexual, prompting the court to consider whether the expenses were incurred for the purpose of affecting Morrissey's bodily reproductive function. The court found that the IVF costs were not deductible under Section 213(d) because the costs were not for materially influencing or altering an action for which the taxpayer's own body was specifically fitted, used or responsible. Since the IVF and surrogacy procedures did not materially affect the structure and function of the taxpayer's body, they did not qualify under the second definition of 'medical expenses.' 
+ POLICY OUTLOOK 
+ Providing guidance on the deductibility of medical costs could not have been an easy task for the IRS. The current legal regime under Section 213 presents a consistent and structured analytical framework for examining the deductibility of costs associated with fertility-related medical procedures. However, it also introduces certain equity concerns between taxpayers. 
+
+The PLR is somewhat rare in that the Taxpayers were advised that the IRS would likely issue an adverse ruling and choose to proceed with their request. This decision explicitly highlights the complex nature of this portion of the Code, raising the possibility that it may need to be revisited to ensure taxpayers receive fair treatment. Where this cannot be accomplished through IRS or US Department of the Treasury guidance, it may indicate the need for a legislative solution. 
+
+Mechanically, it might be argued that limiting the applicability of the deduction prevents income shifting between various taxpayers. Under the PLR, unless the taxpayer is medically infertile, only third-party egg donors and surrogates can deduct medical costs relating to IVF procedures because of the affect such a process would have on the structure and function of their body. If such a deduction were allowed to taxpayers without medical infertility, it might be favorable to shift the deduction between the couple and the surrogate depending on their financial circumstances. Thus, the limitation on the deduction may ensure equitable tax treatment between the various parties by preventing income shifting. 
+
+Conversely, because of the structure of Section 213 and the definition of 'medical costs' as interpreted by the PLR, couples seeking the same medical procedures for the same purpose of conceiving a child may face different tax treatment depending on their medical circumstances or family structure. 
+
+For example, a different-sex couple experiencing medical infertility would likely find their medical costs relating to IVF procedures deductible under the PLR framework. A different-sex couple that does not experience medical infertility but is faced with other legitimate medical reasons for pursuing IVF procedures, such as dormant genetic disorders at risk of passing on to the child, would likely find the same medical costs non-deductible. Thus, while both couples are presented with the option between conceiving naturally or through IVF procedures, the PLR framework would likely only allow the deduction to the first couple despite the second couple's legitimate reasons for pursuing IVF procedures. 
+
+Even stranger results may arise in the context of same-sex couples. The existing legal regime seems to imply that a same-sex couple faced with medical infertility would likely find their medical costs relating to IVF procedures deductible. In comparison, a same-sex couple that does not experience medical infertility would likely find the same costs non-deductible. From a practical point of view, neither couple would be capable of directly conceiving a child together. However, simply because of the differences in their medical circumstances, one couple would be able to access a deduction while the other would not. 
+
+In light of social and legal developments surrounding same-sex couples—and confronted by the practical realities of modern families—a reassessment of this analytical framework may be necessary for equitable treatment between taxpayers. 
+
+Anthony Teng, a summer associate in the New York office, also contributed to this article. 
+ 2021 McDermott Will &#38; Emery 
+ [ 1]:  [ 2]:  [ 3]:  [ 4]:  
+
+Load-Date: August 13, 2021
+
+
+End of Document

@@ -1,0 +1,82 @@
+
+
+
+
+
+Financial Markets Regulatory Wire
+June 4, 2014 Wednesday
+
+
+Copyright  2014 CQ-Roll Call, Inc.	All Rights Reserved
+All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ Transcriptions. You may not alter or remove any trademark, copyright or other notice from copies of the content.
+Body
+
+
+EVENT DATE: June 4, 2014
+TYPE: NEWS PROGRAM
+SPEAKER: DEREK HALPENNY, EUROPEAN HEAD OF CURRENCY RESEARCH, BANK OF TOKYO- MITSUBISHI,
+TOM KEENE, HOST, BLOOMBERG SURVEILLANCE: There's a small confab in Frankfurt tomorrow. We need perspective from Derek Halpenny with Bank of Tokyo-Mitsubishi in London. Derek, good morning.  
+      DEREK HALPENNY, EUROPEAN HEAD OF CURRENCY RESEARCH, BANK OF 
+TOKYO-MITSUBISHI: Good morning, Tom.  
+KEENE: Did you just play chess all day waiting for early morning tomorrow and then New York time, that 8:30 am press conference? Or is there something to do today before the ECB meeting?  
+HALPENNY: Well, yes, you're right in terms of there has been a lot of talk about this, and a lot of build up. So we're nearly there, and I think most people in my position are looking forward to getting it over with because it has certainly been spoken about quite a lot.  
+KEENE: What part of the hype is most valuable? What should we focus on to benefit what Lord Draghi says?  
+HALPENNY: Well, I think the focus has to be on not necessarily what he does tomorrow, because I think pretty much whatever he does is more or less factored into the market, but whether or not he gives any kind of signal in terms of where we go from here. So in that sense, perhaps the inflation forecasts will be important to some degree.   
+      And then secondly, assuming like I do that they don't take any quantitative easing action, what kind of discussion is there around the idea of quantitative easing perhaps through the after tax (ph) securities market. It will be those areas that the markets will take its queue from in terms of market price action in the hours and days after the meeting.  
+      MICHAEL MCKEE, ECONOMICS EDITOR, BLOOMBERG TELEVISION/BLOOMBERG 
+RADIO: What's the bear minimum that the ECB has to do tomorrow to avoid having investors all over Europe go, oh, hell, they've screwed up again and reacting?  
+HALPENNY: Well, I think the bear minimum is obviously 10 to 15 basis points off the key official interest rates, and some form of market liquidity measure. The market is fully expecting (inaudible) term that a targeted LTRO, something perhaps along the lines of the Olympics game in the U.K., perhaps some broader market liquidity step like ending the securities market program or scrapping the reserve requirements.  
+MCKEE: Well, the securities market -- I mean any sterilization of that?  
+HALPENNY: Yes, indeed. So, you know, at the moment, there is EUR560-odd billion and they're only managing to withdraw a touch over EUR100 billion. So they've missed, I think, full (inaudible) absorption for eight weeks on the 12th.   
+      So, yes, there is -- some grands are arguing that given the fact that they're missing on such a large amount at the moment, then they could effectively scrap it. But politically, that is very difficult, so I'm not so sure they're going to take that road.  
+KEENE: The level of jargon I just heard there was off the chart. You got my attention with the word "sterilization." This is vasectomy economics, folks, with Derek Halpenny.   
+      Please explain, Derek, what McKee was talking about when he talks about the affect of sterilization by monetary authorities in Europe.  
+HALPENNY: Well, essentially when the securities market program was launched, it would have been deemed as quantitative easing if it were not for the fact that the ECB decided that all the liquidity involved in the purchases of the periphery debt that built up to a little less than EUR200 billion initially, that the money that is actually injected into the market because of those purchases is then withdrawn on a weekly basis through a term deposit facility, which essentially offers markets the opportunity to place that money on deposit. They've actually taken the money back out.  
+      And for a good chunk of the period of time in which the securities market program has been in place, they have managed to fully withdraw that liquidity. But as I said, that hasn't fully been taking place -  
+MCKEE: Let me ask you about the rate cuts. You were talking about in the benchmark, a number taking it down close to zero and then a negative deposit rate.  
+HALPENNY: That's correct, yes, yes. So -  
+MCKEE: What is the negative deposit rate going to be?  
+HALPENNY: Well, I -- my hunch is that it's not going to mean very much in terms of any kind of dramatic behavior in the way in which banks operate at the moment. In other words, my view is that in all likelihood the banks that are currently placing will probably continue to do that and this actually will simply take the hit and pay the effective charge.   
+      Is a 15 basis point chart going to be enough to alter the behavior and encourage banks to take on credit risk? My guess is not. And if we look at the example of Denmark, and although we shouldn't compare them completely, they're slightly different.   
+      But nonetheless, the usage of the deposit account when the negative interest rate was in place in Denmark didn't really alter the usage of that account. And my guess is that we could benefit (inaudible) this time around.  
+KEENE: Let's come back -   
+HALPENNY: The real reason -- the real reason for the negative deposit rate is forward guidance. That's where the ECB believes is the power in taking this position.  
+KEENE: Well, let's come back on the rhetoric of forward guidance with Derek Halpenny of Bank of Tokyo-Mitsubishi.  
+      8:37  
+      (BREAK)  
+      8:52  
+KEENE: Derek Halpenny with us in London with Bank of Tokyo- Mitsubishi as we look towards the ECB meeting tomorrow. If you were at the Eccles Building in Washington, Derek Halpenny, how would you monitor the press conference tomorrow? What would you look for after the routine headlines at 8:30 am?  
+HALPENNY: Obviously the whole tone in which Draghi gives his presentation and the type of words he uses in terms of how explicit he is in regard to the potential for some form of quantitative easing program, I think for sure everybody in the market is going to be waiting for that element of what's said -- of what he says.   
+      But we're running at the (inaudible) -  
+KEENE: Yes.  
+HALPENNY: - at 12:45 London time. And then the press conference is at 1:30 pm. And then we're going to get whatever unorthodox measures -  
+KEENE: Right.  
+HALPENNY: - at length during the press conference.   
+KEENE: But, Mike, I think the critical point here, Mike, is we've had a Draghi of rhetoric, and now we're going to have a Draghi of action. Do I have that right, Michael McKee?  
+MCKEE: Draghi has sort of got his back against the wall. If doesn't, the market reaction probably will be a lot more -- in the wrong direction, put it that way, than he would like to see. But that doesn't mean he has to, as Derek says, do a lot, and I'm wondering if he is sort of a prisoner of timing here in that what you mentioned is they want to stimulate lending either through some sort of funding for a lending scheme or an LTRO, or additional liquidity.   
+      But you've got banks facing the tougher stress tests now, and now they may make them even tougher to add in the possibility of fines from American regulators. Aren't they just going to put aside the money and sit on it because they want to make sure they have enough money to pay whatever they need to pay or the capital that they need to have?  
+HALPENNY: Exactly. I must say I'm very skeptical of that kind of a targeted LTRO having any major impact. At the end of the day, banks can get as much money as they want every week at the weekly money supplying operations at the ECB for 0.25 percent.   
+      What -- you know, what targeted LTRO is going to ultimately dramatically change the conditions of the market? And it's actually a bank is still going to have credit capital costs related to any extension of loan through any targeted LTRO.   
+      So it is at the margin. And I think you're right, I think really this is a delaying tactic in the hope that the U.S. economy and U.S. yields start to pick up more notably in the second half of the year, -  
+KEENE: Yes.  
+HALPENNY: - and the euro-dollar moves down for dollar reasons, not euro reasons.  
+KEENE: And, Michael, this is very much what we heard from Martin Feldstein in the previous hour. Martin Feldstein was very suspect about true action on the part of Mario Draghi.  
+MCKEE: How would a funding for lending scheme work there given that you have a lot of different sovereign governments as opposed to the U.K. and it's just one?  
+HALPENNY: Yes, again, that's another added complication in terms of any -- any plan that is put in place. And to be honest with you, I don't have the answer to that.   
+      I certainly know that from the comments we've had over at least four to five months that something has been in discussion over that period of time. And perhaps it will have to be done at a national level and through the national central banks. And there could be differences in the way in which it is implemented from country to country.  
+MCKEE: Well, we're right now in -- we've seen the euro go down, but it doesn't go down very much, and certainly not to the level people would like to see it. What would you have to do to bring it down to a level that starts to produce some inflation and growth?  
+HALPENNY: Well, through FX alone, if you use the rule of thumb that Draghi himself stated a while back, you're talking about a ten percent trade weighted movement result in something in the region of 0.4 to a 0.5 percentage points change in inflation, which actually is quite high. I'd be thinking it's a little bit less than that.  
+      So in that sense, from an FX perspectivce alone, you really need to see, if you take 1.4 percent as the starting point, levels down to 1.25 percent, certainly 1.25 percent, 1.3 percent, to have any kind of potential notable impact on inflation going forward.  
+      And again, you've got to go back to excess demand, spare capacity. And the euro zone economy isn't getting rid of that as being the ultimately driver of lifting inflation going forward. And again, that brings us back to the U.S. economy and that (inaudible) is that we see stronger growth there.  
+MCKEE: Derek Halpenny, thank you very much for being with us, Bank of Tokyo-Mitsubishi.  
+      8:57  
+      (BREAK)        
+ ***END OF TRANSCRIPT***  
+      THIS TRANSCRIPT MAY NOT BE 100% ACCURATE AND MAY CONTAIN MISSPELLINGS AND OTHER INACCURACIES. THIS TRANSCRIPT IS PROVIDED "AS IS," WITHOUT EXPRESS OR IMPLIED WARRANTIES OF ANY KIND. BLOOMBERG RETAINS ALL RIGHTS TO THIS TRANSCRIPT AND PROVIDES IT SOLELY FOR YOUR PERSONAL, NON-COMMERCIAL USE. BLOOMBERG, ITS SUPPLIERS AND THIRD-PARTY AGENTS SHALL HAVE NO LIABILITY FOR ERRORS IN THIS TRANSCRIPT OR FOR LOST PROFITS, LOSSES OR DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES IN CONNECTION WITH THE FURNISHING, PERFORMANCE, OR USE OF SUCH TRANSCRIPT. NEITHER THE INFORMATION NOR ANY OPINION EXPRESSED IN THIS TRANSCRIPT CONSTITUTES A SOLICITATION OF THE PURCHASE OR SALE OF SECURITIES OR COMMODITIES. ANY OPINION EXPRESSED IN THE TRANSCRIPT DOES NOT NECESSARILY REFLECT THE VIEWS OF BLOOMBERG LP.  
+      (Copy: Content and programming copyright 2013 BLOOMBERG, LP.  ALL RIGHTS RESERVED. Copyright 2013 CQ-Roll Call, Inc.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.)  
+      END      
+
+Load-Date: June 4, 2014
+
+
+End of Document

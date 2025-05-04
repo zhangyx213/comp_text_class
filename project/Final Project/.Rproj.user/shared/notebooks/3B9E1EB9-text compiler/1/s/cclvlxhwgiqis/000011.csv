@@ -1,0 +1,5 @@
+"0","#enframe(): Converts a named list into a dataframe."
+"0","topics3 <- enframe(topicNames3, name = ""number"", value = ""text"") %>% "
+"0","  unnest(cols = c(text)) "
+"0","  "
+"0","topics3"

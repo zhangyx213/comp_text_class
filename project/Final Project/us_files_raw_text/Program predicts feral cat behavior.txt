@@ -1,0 +1,45 @@
+
+
+
+
+
+Tribune-Review (Greensburg, PA)
+January 25, 2016 Monday
+
+
+Copyright 2016 Tribune Review Publishing Company All Rights Reserved
+Length: 842 words
+Byline: by PATRICK VARINE
+Body
+
+
+A Duquesne University student has found a mathematical way of dealing with nuisance animal populations like those in Export involving stray and feral cats. 
+The plan by junior Timothy Ireland, 19, of Bucks County, came after students in his differential equations math class were charged with coming up with a project to benefit communities. 
+He was paired with Duquesne professor Becky Morrow, who works with Frankie's Friends Cat Rescue to trap, neuter and release stray and feral cats. 
+"We didn't configure the model for a particular colony, but rather for a number of scenarios that Dr. Morrow sees in her work," said mathematics professor Rachael Neilan, who secured a grant to expand Ireland's work from a class project to one he spent the summer and fall fine-tuning. 
+The program predicts how a group of feral cats will behave based on variables such as breeding, migration and other behaviors. 
+"We can use statistics to analyze our data and predict the behavior of a group of cats," Ireland said. "Our goal was to get information on the types of scenarios we see. Male cats, for example, migrate frequently looking for mates, so we looked at different ways to address that scenario." 
+With the idea of helping Morrow in her work with Frankie's Friends, Ireland and Neilan ran thousands of simulations to compare how two approaches to controlling groups of nuisance animals would impact populations in the long term. 
+The researchers found that neutering animals before their release after being trapped reduced nuisance behaviors better than performing hysterectomies or vasectomies before letting them go. Both methods were effective at controlling population numbers, the researchers found. 
+In Export's case, Ireland said it would be possible to adapt the program to address the group of roughly 20 cats that have led the borough council to consider putting a feral or stray cat feeding ban on the books.  
+Groups of feral cats "” like those in Export "” can be simulated by inputting values such as the number of cats, location and approximate age of each, and whether or not they have been spayed or neutered. The model can then provide an estimate of population size and distribution of the cats five to 10 years later. 
+"It can even simulate different effects of population control," Ireland said. "We can simulate what would happen if you caught, say, 90 percent of the cats, (had them fixed), and what effect that would have on the population." 
+By using information provided by the program, those with an animal nuisance issue can better determine the most effective way to curb or eliminate the problem, the researchers said. 
+Neilan said while Export's proposed feeding ban was not part of the program, it is another variable that could be added and studied to determine how effective it would be in solving the cat problem. 
+"We could add that to the model and predict, with some certainty, how it will affect the population of a colony," she said. 
+Ireland presented the results of his work in the fall at the National Institute of Mathematical and Biological Synthesis Undergraduate Symposium in Knoxville, Tenn., and he and Neilan have submitted it for publication in science journals. 
+Both said they are excited that their work crosses several academic disciplines. 
+"This has shown us a lot about how biology, (public) policy and mathematics can help one another out," Ireland said. "For me as a student, it's shown a lot in terms of how math can relate to a lot of other scientific disciplines." 
+For Morrow, Ireland's work lends credence to her own. 
+"It validated what I've been hypothesizing," Morrow said. "I tell people that (population control) makes sense to do in a particular way, and having a mathematical model was an excellent choice, rather than trying to track these cat populations over a 15-year period." 
+Since the model provides a framework for evaluating control of nuisance populations, the trio would next like to turn to a different animal: deer, specifically the problems deer populations have caused in the Mt. Lebanon area. 
+Working with Duquesne's forensic science department, Ireland, Neilan and Morrow are looking to integrate data about migration patterns in the modeling, a crucial step for understanding how deer or feral cats move in response to their environment or other animals, and the role migration plays in population control.  
+"Using that, we could create much deeper analysis on specific areas and (groups)," Ireland said. 
+Neilan said that, along with new modeling variables "” including lethal control through such methods as an archery hunt suggested by some Mt. Lebanon commissioners "” the program could be extremely useful in finding a workable solution for residents of the municipality.  
+"A lot of those Mt. Lebanon deer meetings were really emotional, and there's no emotion in computer modeling," Neilan said. "To me, science speaks a lot, and I think we can use it to really help the community." 
+Patrick Varine is a Tribune-Review staff writer. Reach him at 724-850-2862 or  
+
+Load-Date: January 27, 2016
+
+
+End of Document

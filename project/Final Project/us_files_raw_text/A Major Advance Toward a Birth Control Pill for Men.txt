@@ -1,0 +1,38 @@
+
+
+
+
+
+Atlantic Online
+August 16, 2012 Thursday
+
+
+Copyright 2012 Atlantic Monthly Group, Inc. All Rights Reserved
+Length: 888 words
+Byline: Lindsay Abrams
+Body
+
+
+     In the search for a cancer cure, researchers have developed a molecule that could function as a non-hormonal, reversible form of male birth control. 
+Juan Gaertner/
+Potentially huge news published today in the journal             is the result of two years of collaboration between teams lead by Jay Bradner of the Dana-Farber Cancer Institute and Martin     Matzuk Baylor College of Medicine. 
+     Bradner, who is also an assistant professor of medicine at Harvard Medical School, explains the origins of this research as an attempt to block a     cancer-causing gene. Put simply, all of an individual's cells contain the same DNA, and so different cells, such as blood cells or liver cells, "remember"     what type they are and what their function is with the help of proteins, which Bradner describes as little bookmarks at the molecular level. 
+     The molecule he developed, JQ1, is intended to inhibit these proteins, removing the bookmarks and basically causing cancer cells to "forget" that they're     cancerous. The results, so far, have been promising. And as it turns out, JQ1 can, by the same mechanism, inhibit the testicular protein responsible for producing sperm (identified last year by Debra Wolgemuth and her team at Columbia University). 
+     JQ1 is unusual in its ability to traverse the blood-testis barrier. The body's germ cells are blocked by a cellular barrier that prevents toxins in the     bloodstream from reaching them and damaging the genome. Normally, Bradner explains, this is a challenge for drug development, but JQ1 can travel freely     across this barrier and can even concentrate in the testes. 
+     In trials conducted on mice, prolonged exposure to JQ1 caused a significant decline in testicular volume. Three weeks of daily JQ1 treatment was revealed to     cause a 4.5-fold reduction in the mice's sperm motility, with their sperm count reduced to 28 percent of the control group. After 6 weeks, sperm count was     at 11 percent, and only 5 percent of them remained motile. 
+     The successful development of JQ1 as a male contraceptive could be groundbreaking in several key ways: 
+Non-hormonal -- "The hormonal manipulation of female fertility is one of the most important discoveries in modern medicine," said Bradner, but similar methods are     significantly less well-tolerated in men. JQ1 does not have any effect on hormone levels, so it would not be likely to inhibit sexual performance. 
+     Reversible --      In mice, discontinuation of JQ1 treatment lead to full restoration of their reproductive abilities. Men would therefore be able to control their fertility     without undergoing a vasectomy. Speaking of which... 
+     Orally administered -- This also gives it an advantage over  --     reversible inhibition of sperm under guidance -- a surgical intervention currently undergoing trials in India. 
+Safe for offspring     -- JQ1 alters gene expression, not the actual genes. The mice babies born after treatment was discontinued were perfectly healthy, and they had no problem     having mice babies of their own. 
+     Still, at this early stage, some caveats are already apparent: 
+     Compliance --      The testicles, in their non-interrupted state, are constantly making sperm. Lots and lots of it. Bradner acknowledges that more studies will have to be     done to determine just how often JQ1 treatment can be skipped while remaining effective, but he predicts that men are going to have to be extremely     responsible about continuously taking the pill. 
+     Effectiveness --      The female birth control pill is about 95 percent effective. Male condoms, when used perfectly, have 98 percent effectiveness. But it's estimated     that out of every 100 couples who use condoms as their main form of birth control each year, 11 to 16 will end up becoming pregnant. To be a     viable contender, JQ1 will have to be at least as reliable as these other common forms of reversible birth control. 
+     STI Protection --      Like the female pill, this won't protect from infections. Even though sperm production is inhibited, men will still ejaculate semen, and will thus be capable of     transmitting disease. 
+Actually getting it --      "The definitive development of a contraceptive agent will require more chemistry," said Bradner. As JQ1 is currently entering clinical trials with cancer     patients, researchers might be able to study its reproductive side effects in human subjects for the first time. If it proves to be as effective in the     patients as it was in mice, the next step would be to work on getting it to perform specifically as a form of birth control. Matzuk's lab has already     initiated research toward a third generation JQ1 molecule that would be selective for the testicular protein -- his recently received funding from the     National Institutes of Health toward this end. 
+     That this important development was arrived at more or less accidentally is surprising, as an oral, non-hormonal form of male birth control can have huge     implications for reproductive health. Giving men more control over their fertility can potentially reduce the number of unintended births and change the     current conversation about contraception rights. For now, it's still years away, but these first steps are promising. 
+
+Load-Date: March 3, 2014
+
+
+End of Document

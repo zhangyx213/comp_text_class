@@ -1,0 +1,47 @@
+
+
+
+
+
+USNEWS.com
+August 16, 2012 Thursday
+
+
+Copyright 2012 U.S. News & World Report All Rights Reserved
+Section: NEWS; Vol.; No.
+Length: 651 words
+Byline: Jason Koebler
+Highlight: A medical breakthrough could lead to a male birth control pill without side effects
+Body
+
+
+Alexander Fleming's accidental discovery of penicillin was one of the most important--and fortunate--mistakes of the 20th century. Nearly 100 years later, James Bradner thinks he and his colleagues may have stumbled on something that could be similarly world-changing: A molecule that could lead to the world's first effective male birth control pill, which could be ready for human testing within a year.
+Bradner, of Harvard's Dana-Farber Cancer Institute, says he was working on creating an inhibitor molecule that could make cancer cells "forget" they were cancer, leading to potential new treatments for lung and blood cancers. But in doing so, he realized the molecule, named JQ1, can also inhibit a protein in the testes that is imperative to fertility.
+[]
+"In mating studies, JQ1 accomplishes a complete and reversible contraceptive effect in males without adversely affecting testosterone levels or mating behaviors and without prompting obvious [birth defects] in offspring," Bradner and Martin Matzuk, of the Baylor College of Medicine write in their study, published in the journal  on Thursday. In other words, they may have found the "holy grail" of male birth control.
+JQ1 is known as a "small molecule," meaning it can effectively pass through the blood stream and into the testes. Once there, it binds to BRDT, a protein integral in sperm production.
+"These cells effectively forget how to make mature sperm," he says. "The result is a profound decrease in sperm count and impared motility, leading to a complete contraceptive effect. It's really stunning."
+According to Bradner, the molecule could be delivered via a pill, injectable, or topical solution.
+"As early as next year, we may have a sense of how well this works in humans," he says. And the molecule still shows promise as a cancer treatment. "What was initially a side project in our laboratory has become a major focus of our research...we're still aggressively advancing a derivative of it as a cancer drug."
+[]
+In live mouse studies, the molecule effectively made them infertile and after a couple weeks off the molecule, fertility returned. The only side effect measured might not be such a bad one, Bradner jokes.
+"The only significant side effect we've seen has been mild weight loss," he says. "For sure, some people would not be too upset with this."
+Though "the pill" has been available for women for more than 50 years, male birth control methods have remained irreversible (vasectomy), inconvenient (condoms), or unreliable (withdrawal). Most attempts to develop a "male pill" have focused on hormonal therapy, which can have adverse side effects. As William Bremner of the University of Washington writes in an editorial accompanying the research, it's much easier to stop a woman's once-a-month ovulation than it is to stop the millions of sperm created by men every day.
+"The difficulty of fully suppressing these millions of spermatozoa produced daily compared to the relative ease of preventing the production of one ovum per month in the female," has been a problem, he writes.
+[]
+Bradner says the team will go "back to the fume hood" to optimize the molecule and will proceed to dog studies before ultimately making its way to humans. If all goes according to plan, the molecule could be included in drugs that can be taken daily, weekly, or even monthly.
+"We've yet to consider the ideal properties of this medication," he says. "But we could very likely respond to the demands of men interested in this type of therapy."
+Jason Koebler is a science and technology reporter forU.S. News & World Report. You can follow him on Twitter or reach him at 
+--
+--
+--
+
+Graphic
+
+ 
+Picture, (iStockPhoto)
+
+Load-Date: August 17, 2012
+
+
+End of Document

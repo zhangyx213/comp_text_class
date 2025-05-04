@@ -1,0 +1,907 @@
+---
+title: "text compiler redo with 2000"
+author: "Catherine Zhang"
+date: "2025-04-14"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(striprtf)
+```
+
+
+# Reformat .RTF files
+
+```{r}
+
+# Set the paths for your folders
+input_folder <- "./us_files_random_2000" 
+output_folder <- "./us_files_raw_text"
+
+# Create output folder if it doesn't exist
+if (!dir.exists(output_folder)) {
+  dir.create(output_folder)
+}
+
+# Get a list of all .rtf files in the input folder
+rtf_files <- list.files(path = input_folder, pattern = "\\.RTF$", full.names = TRUE)
+
+# Convert each .rtf file to .txt
+for (file in rtf_files) {
+  # Extract the file name without extension
+  file_name <- tools::file_path_sans_ext(basename(file))
+  
+  # Read the RTF content
+  rtf_content <- read_rtf(file)
+  
+  # Create output file path
+  output_file <- file.path(output_folder, paste0(file_name, ".txt"))
+  
+  # Write the content to a .txt file
+  writeLines(rtf_content, output_file)
+  
+  # Print progress
+  cat("Converted:", file, "to", output_file, "\n")
+}
+
+cat("Conversion complete!\n")
+```
+
+# Raw text compiler
+
+```{r include=FALSE}
+#This creates an index with the file path to the stories. And then it compiles the stories into a dataframe
+#####################
+# Begin SM Code #####
+#####################
+
+###
+# List out text files that match pattern .txt, create DF
+###
+
+#Adjust thisline for your file name
+files <- list.files("./us_files_raw_text", pattern="*.txt") %>% 
+  as.data.frame() |> 
+  rename(filename = 1) |> 
+  #create an matching file name
+  mutate(index = str_replace_all(filename, ".txt", "")) %>%
+  mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", index))) |> 
+  mutate(index = tolower(index)) |> 
+  mutate(index = str_sub(index, 1, 25)) |> 
+  distinct(index, .keep_all = TRUE)
+
+
+#Join the file list to the index
+
+final_data <- rio::import("Results list us.XLSX") |> 
+  clean_names() |> 
+   #create an matching file name
+  mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", title))) |> 
+  mutate(index = tolower(index)) |> 
+  mutate(index = str_sub(index, 1, 25)) |> 
+  distinct(index, .keep_all = TRUE)
+```
+
+### Check for duplicate entries
+
+```{r}
+final_data |> 
+  count(title) |> 
+  arrange(desc(n))
+```
+
+# why did it drop?
+
+```{r}
+dupe_data <- rio::import("Results list us.XLSX") |> 
+  clean_names() |> 
+   #create an matching file name
+  mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", title))) |> 
+  mutate(index = tolower(index)) |> 
+  mutate(index = str_sub(index, 1, 25))
+```
+
+```{r}
+dupe_data |> 
+  count(title) |> 
+  arrange(desc(n))
+```
+
+
+
+
+```{r}
+
+final_index <- final_data |> 
+  inner_join(files, c("index")) |> 
+#you need the actual hard-coded path on this line below to the text
+  mutate(filepath = paste0("./us_files_raw_text/", filename))
+
+head(final_index)
+
+```
+
+#Fact Check
+
+```{r}
+anti_final_index <- final_data |> 
+  anti_join(files, c("index"))
+```
+
+#Checking for duplicates
+
+```{r}
+final_index |> 
+  count(title) |> 
+  arrange(desc(n))
+
+```
+
+#Text compiler
+
+```{r}
+create_article_text <- function(row_value) {
+  
+  #row_value is the single argument that is passed to the function
+  # Take each row of the dataframe
+  temp <- final_index %>%
+    slice(row_value)
+  
+  # Store the filename for  use in constructing articles dataframe
+  temp_filename <- temp$filename
+  
+  # Create a dataframe by reading in lines of a given textfile
+  # Add a filename column 
+  articles_df_temp <- read_lines(temp$filepath) %>%
+    as_tibble() %>%
+    mutate(filename = temp_filename)
+  
+  # Bind results to master articles_df
+  # <<- returns to global environment
+  articles_df <<- articles_df %>%
+    bind_rows(articles_df_temp)
+}
+
+###
+# Create elements needed to run function
+###
+
+# Create empty tibble to store results
+articles_df <- tibble()
+#running once to test
+#create_article_text(2) 
+# Create an array of numbers to loop through, from 1 to the number of rows in our index dataframe 
+row_values <- 1:nrow(final_index)
+
+###
+# Execute function using lapply
+# This loops through each row of the dataframe and append results to master file
+###
+
+lapply(row_values, create_article_text)
+
+###
+# Clean up articles_df and join to index dataframe
+###
+
+articles_df <- articles_df %>%
+  select(filename, sentence=value) %>%
+  inner_join(final_index)
+
+write.csv(articles_df, "./us_article_df.csv")
+
+
+```
+
+
+Bigram:
+
+#load tidyverse, tidytext, rio, janitor libraries
+library(tidyverse)
+library(janitor)
+library(rio)
+library(tidytext)
+
+```{r}
+#Import spreadsheet using rio::import and clean the names
+
+vas <- rio::import("article_df.csv") 
+vas <- vas |> 
+  clean_names()
+```
+# Tokenize the hlead column
+
+Copy the code from the in-class bigrams exercise and tokenize just the hlead column from your dataframe
+
+Hint: you're changing just one variable
+
+```{r}
+vas_scent <- str_replace_all(vas$sentence, "- ", "")
+vas_scent_df <- tibble(vas_scent,)
+
+vas_tokenized <- vas_scent_df %>%
+  unnest_tokens(word,vas_scent)
+
+vas_tokenized
+
+
+```
+
+#Remove stopwords and count the words
+```{r}
+
+data(stop_words)
+
+vas_tokenized <- vas_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+# Word Count
+
+word_ct <- vas_tokenized %>%
+  count(word, sort=TRUE)
+
+word_ct
+```
+
+# Create Bigrams
+
+```{r}
+bigrams <- vas_scent_df %>%
+  unnest_tokens(bigram, vas_scent, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams2 <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |>
+  filter(!is.na(word1)) |>
+  filter(!is.na(word2))
+
+# Word Count
+bigram3 <- bigrams2 %>%
+  count(word1, word2, sort = TRUE)
+
+bigram3
+
+
+```
+
+
+
+#### Topic Analysis of chinese articles:
+
+```{r include=FALSE}
+#import text files that were compiled into a df  
+vascn2 <- read_csv("./cn_article_df.csv")
+
+vascn2 <- vascn2 %>%
+  mutate(year = year(published_date))
+```
+
+
+```{r}
+textdata2 <- vascn2 %>% 
+  select(filename, sentence, year) %>% 
+  as.data.frame() %>% 
+  rename(doc_id = filename, text= sentence)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+
+custom_stop_wordscn <- bind_rows(
+  tibble(word = c("China", "date", "english", "language", "china", "copyright", 
+                  "end", "document", "word", "length","kong","hong","year","south","morning","post","news","reserve","xinhua"),
+         lexicon = rep("custom", 19)), 
+  stop_words
+)
+# create corpus object
+corpuscn <- Corpus(DataframeSource(textdata2))
+# Preprocessing chain
+processedCorpuscn <- tm_map(corpuscn, content_transformer(tolower))
+processedCorpuscn <- tm_map(processedCorpuscn, removeWords, english_stopwords)
+processedCorpuscn <- tm_map(processedCorpuscn, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpuscn <- tm_map(processedCorpuscn, removeNumbers) 
+processedCorpuscn <- tm_map(processedCorpuscn, stemDocument, language = "en")
+processedCorpuscn <- tm_map(processedCorpuscn, stripWhitespace)
+processedCorpuscn <- tm_map(processedCorpuscn, removeWords, custom_stop_wordscn$word) 
+
+```
+
+```{r tm3a}
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM2 <- DocumentTermMatrix(processedCorpuscn, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM2)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM2) > 0
+DTM2 <- DTM2[sel_idx, ]
+textdata2 <- textdata2[sel_idx, ]
+```
+
+```{r tm12}
+K <- 4
+# set random number generator seed
+set.seed(9161)
+#Latent Dirichlet Allocation, LDA
+topicModel3 <- LDA(DTM2, K, method="Gibbs", control=list(iter = 500, verbose = 25, alpha = 0.2))
+tmResult3 <- posterior(topicModel3)
+theta3 <- tmResult3$topics
+beta3 <- tmResult3$terms
+topicNames3 <- apply(terms(topicModel3, 10), 2, paste, collapse = " ")  
+```
+
+
+```{r}
+# Step 1: Check dimensions
+n_theta3 <- nrow(theta3)
+n_textdata2 <- length(textdata2$year)
+
+cat("Number of rows in theta: ", n_theta3, "\n")
+cat("Number of documents in textdata: ", n_textdata2, "\n")
+
+# Check if textdata contains all the documents in theta
+common_ids3 <- intersect(rownames(theta3), textdata2$doc_id) 
+
+# Filter textdata to include only the documents present in theta
+textdata2_filtered <- textdata2[textdata2$doc_id %in% common_ids3, ]
+
+# Check dimensions after filtering
+n_textdata2_filtered <- nrow(textdata2_filtered)
+cat("Number of documents in filtered textdata2: ", n_textdata2_filtered, "\n")
+
+# Ensure the lengths match now
+if (n_theta3 != n_textdata2_filtered) {
+  stop("The number of rows in 'theta' still does not match the length of 'textdata2_filtered$year'.")
+}
+
+# Align rownames of theta with filtered textdata
+theta_aligned3 <- theta3[rownames(theta3) %in% textdata2_filtered$doc_id, ]
+
+# Optional: Verify the order of documents
+if (!all(rownames(theta_aligned3) == textdata2_filtered$doc_id)) {
+  # If the order doesn't match, reorder one to match the other
+  textdata2_filtered <- textdata2_filtered[match(rownames(theta_aligned3), textdata2_filtered$doc_id), ]
+}
+
+# Ensure they are now aligned and can be combined
+if (!all(rownames(theta_aligned3) == textdata2_filtered$doc_id)) {
+  stop("The document IDs still do not match. Please check the data alignment.")
+}
+
+# Step 2: Combine data
+topic_data3 <- data.frame(theta_aligned3, year = textdata2_filtered$year)
+
+# Step 3: Aggregate data
+topic_proportion_per_year3 <- aggregate(. ~ year, data = topic_data3, FUN = mean)
+
+
+# get mean topic proportions per decade
+# topic_proportion_per_decade <- aggregate(theta, by = list(decade = textdata$decade), mean)
+# set topic names to aggregated columns
+colnames(topic_proportion_per_year3)[2:(K+1)] <- topicNames3
+# reshape data frame
+vizDataFrame3 <- melt(topic_proportion_per_year3, id.vars = "year")
+```
+
+
+```{r}
+#enframe(): Converts a named list into a dataframe.
+topics3 <- enframe(topicNames3, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics3
+
+```
+
+*Topic 1 - classif bodi agenc wild sterilis anim releas monkey central publication-type newspap*
+
+```{r}
+theta4 <- as.data.frame(theta3)
+
+topic1_1 <- theta4 %>% 
+  rownames_to_column(var = "file") |>
+  mutate(file = str_remove(file, "^X"),  
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>  
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic1_1 = '1') |> 
+  top_n(20, topic1_1) |> 
+  arrange(desc(topic1_1)) |>  
+  select(file, line, topic1_1) 
+
+```
+
+
+
+```{r}
+topic4_4 <- theta4 %>% 
+  rownames_to_column(var = "file") |>
+  mutate(file = str_remove(file, "^X"),  
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>  
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic4_4 = '4') |> 
+  top_n(20, topic4_4) |> 
+  arrange(desc(topic4_4)) |>  
+  select(file, line, topic4_4) 
+
+```
+
+
+
+
+```{r}
+
+#add categories
+
+vizDataFrame3 <- vizDataFrame3 %>% 
+  mutate(category = case_when(
+    str_detect(variable,  "health reproduct public depart surgeri govern famili transplant sexual medic") ~ "State Regulation/policy",
+    str_detect(variable, "contracept vasectomi women male effect control sperm hospit condom research") ~ "Medical development",
+    str_detect(variable, "famili plan children popul birth child govern coupl zhang vasectomi") ~ "Reproductive Governance",
+    str_detect(variable, "morn classif reserv bodi publish inform daili time media monday") ~ "Symbolic Masculinity/Reproductive Responsibility",
+    ))
+
+```
+
+```{r}
+# plot topic proportions per time as bar plot
+ggplot(vizDataFrame3, aes(x=year, y=value, fill=category)) + 
+  geom_bar(stat = "identity") + ylab("proportion") + 
+  scale_fill_manual(values = paste0(alphabet(20), "FF"), name = "time") + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+   scale_fill_manual(values=c("#9933FF",
+                              "red",
+                              "darkblue",
+                              "green"))+
+  labs(title = "Common Narratives in Vasectomy News Coverage 2000-2025",
+       subtitle = "Four probable topics in China news sample. n=76",
+       caption = "ggregate mean topic proportions per year. Graphic by Catherine Zhang, 05-04-2025")
+
+#ggsave(here::here("./Figure_CN_topics_05_04_2025.png"),device = "png",width=9,height=6, dpi=800)
+
+```
+
+
+
+
+```{r}
+#Tokenize the sentence column
+vasus_bigram <- str_replace_all(vascn_sent$sentence, "- ", "")
+vasus_bigram_df <- tibble(vasus_bigram,)
+
+vasus_tokenized <- vasus_bigram_df %>%
+  unnest_tokens(word,vasus_bigram)
+
+#remove stop words
+data(stop_words)
+vasus_tokenized <- vasus_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+usbigrams <- vasus_bigram_df %>%
+  unnest_tokens(bigram, vasus_bigram, token="ngrams", n=2)
+
+#Filter out stop words.
+
+usbigrams1 <- usbigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+usbigrams2 <- usbigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!is.na(word1), !is.na(word2)) %>%
+  filter(!word1 %in% c("newspaper", "type","china","south","reserved","morning","copyright","type","publication","language","english","load","date")) %>%
+  filter(!word2 %in% c("newspaper", "type","china","south","reserved","morning","copyright","type","publication","language","english","load","date"))
+ # filter(!str_detect(word1, "^\\d+$")) %>%
+  # filter(!str_detect(word2, "^\\d+$")) %>%
+
+# word count and top 30 bigram
+usbigram3 <- usbigrams2 %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(30, n)
+
+usbigram3
+```
+
+
+
+
+```{r}
+#Tokenize the sentence column
+vasus_bigram <- str_replace_all(vascn$hlead, "- ", "")
+vasus_bigram_df <- tibble(vasus_bigram,)
+
+vasus_tokenized <- vasus_bigram_df %>%
+  unnest_tokens(word,vasus_bigram)
+
+#remove stop words
+data(stop_words)
+vasus_tokenized <- vasus_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file") %>%
+  filter(word != "stories_corpus") %>%
+  filter(!grepl('[0-9]', word))
+
+usbigrams <- vasus_bigram_df %>%
+  unnest_tokens(bigram, vasus_bigram, token="ngrams", n=2)
+
+#Filter out stop words.
+
+usbigrams1 <- usbigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+usbigrams2 <- usbigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  filter(!is.na(word1), !is.na(word2)) 
+
+# word count and top 30 bigram
+usbigram3 <- usbigrams2 %>%
+  count(word1, word2, sort = TRUE)%>%
+  top_n(30, n)
+
+usbigram3
+```
+
+
+
+Kwic
+```{r}
+vasuskwic <- vascn_sent %>%
+  mutate(file_id = as.numeric(factor(title)))
+
+vasuskwic  <- vasuskwic %>%
+  mutate(unique_file_id = paste0(file_id, "_", row_number()))
+
+index <- vascn %>%
+  mutate(file_id = as.numeric(factor(title)))
+# Now create the corpus with the new unique identifier
+kwic_corpus <- corpus(vasuskwic, text_field = "sentence", 
+                       docid_field = "unique_file_id")
+
+# Tokenize the corpus：a word per row
+vasuskwic_tokens <- tokens(kwic_corpus)
+
+```
+
+
+
+```{r}
+kwic_results <- kwic(
+  vasuskwic_tokens,
+  phrase(c("vasectomy","vasectomies","reproductive","male contraception", "male birth","birth control")),
+  window = 50, valuetype = "regex"
+) %>% 
+  as.data.frame() 
+
+```
+
+
+```{r}
+colnames(vascn)
+```
+
+
+```{r}
+#Strips out unique file name from article index 
+kwic_results <- kwic_results |>  
+    mutate(matchrow = str_extract(docname, "^[^_]+[^_]+"))
+
+metadata <- index
+
+# Join KWIC results with metadata 
+metadata$file_id <- as.character(metadata$file_id)
+
+kwic_with_metadata <- kwic_results %>%
+  inner_join(metadata, by = c("matchrow"="file_id")) |> 
+  distinct(docname, .keep_all= TRUE) |> 
+  select(matchrow, title, published_date, publication_location, publication_4,publication_type_5, length, section, word_count, countries, byline, agg_copyright, cite, company, headline, hlead, publication_16, publication_type_17, pub_copyright, show, term, ticker, from, to, pre, keyword, post, pattern, docname)
+
+```
+
+
+```{r}
+
+#Eliminate duplication
+kwic_with_metadata_clean  <- kwic_with_metadata  %>% 
+  distinct(docname, pre, keyword, post,published_date, publication_location, publication_4) %>% 
+  rename('Beginning of Passage' = pre, 'End of Passage' = post, Location = publication_location, Newspaper = publication_4, Date =  published_date) 
+
+kwic_with_metadata_csv <- kwic_with_metadata_clean  %>%
+  add_column(Code = NA) %>% 
+  add_column(Comments = NA) %>% 
+  select(docname, Newspaper, Date, 'Beginning of Passage', keyword, 'End of Passage', Code, Comments)
+
+write_csv(kwic_with_metadata_csv, "kwic_with_metadata_cn.csv")
+
+```
+
+
+```{r}
+library(wordcloud)
+
+kwic_data <- read_csv("kwic_with_metadata_cn.csv")
+kwic_context <- paste(kwic_data$`Beginning of Passage`, kwic_data$`End of Passage`)
+corpus <- Corpus(VectorSource(kwic_context))
+
+corpus_clean <- corpus %>%
+  tm_map(content_transformer(tolower)) %>%
+  tm_map(removePunctuation) %>%
+  tm_map(removeNumbers) %>%
+  tm_map(removeWords, stopwords("en")) %>%
+  tm_map(stripWhitespace)
+
+dtm <- TermDocumentMatrix(corpus_clean)
+m <- as.matrix(dtm)
+word_freq <- sort(rowSums(m), decreasing = TRUE)
+word_freq_df <- data.frame(word = names(word_freq), freq = word_freq)
+
+set.seed(123)
+wordcloud(words = word_freq_df$word,
+          freq = word_freq_df$freq,
+          min.freq = 2,
+          max.words = 50,
+          random.order = FALSE,
+          colors = brewer.pal(8, "Paired"))
+```
+
+
+
+Sentiment
+
+
+```{r}
+#Tokenize sentences
+
+vas_scent_df <- tibble(sentence = str_replace_all(vascn_sent$sentence, "- ", ""),
+                       year = vascn_sent$year)
+
+vas_tokenized <- vas_scent_df %>%
+  unnest_tokens(word, sentence)
+
+#remove stop words
+
+data(stop_words)
+
+vas_tokenized <- vas_tokenized %>%
+  anti_join(stop_words, by = c("word" = "word")) %>%
+  filter(word != "temp_file", word != "stories_corpus") %>%
+  filter(!grepl("[0-9]", word))
+
+```
+
+Overall Sentiment analysis by year using AFINN
+
+```{r}
+#install.packages("textdata")
+nrc_sentiments <- get_sentiments("nrc")
+afinn_sentiments <- get_sentiments("afinn")
+
+afinn_sentiment <- vas_tokenized %>%
+  inner_join(afinn_sentiments, by = "word")
+
+afinn_yearly <- afinn_sentiment %>%
+  group_by(year) %>%
+  summarise(mean_sentiment = mean(value, na.rm = TRUE))
+
+ggplot(afinn_yearly, aes(x = year, y = mean_sentiment, fill = mean_sentiment > 0)) +
+  geom_col() +
+  scale_fill_manual(values = c("TRUE" = "firebrick", "FALSE" = "forestgreen"),
+                    labels = c("Negative", "Positive")) +
+  labs(title = "Average Sentiment of Vasectomy Coverage, China (AFINN)",
+       x = "Year",
+       y = "Mean Sentiment Score",
+       fill = "Sentiment") +
+  theme_minimal()
+```
+
+
+Multi-facet sentiment analysis using NRC
+
+```{r}
+nrc_sentiments %>%
+  count(sentiment, sort = TRUE)
+
+sentiments_all <- vas_tokenized %>%
+  inner_join(nrc_sentiments, by = "word")  
+
+vas_tokenized %>%
+  inner_join(nrc_sentiments) %>%
+  count(word, sort = TRUE)
+
+sentiments_all %>%
+  count(sentiment, sort = TRUE)
+
+over_sen <-sentiments_all %>%
+  count(sentiment, sort = TRUE)
+```
+
+```{r}
+ggplot(over_sen, aes(x = reorder(sentiment,n), y = n, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  labs(title = "NRC Sentiment Analysis for Vasectomy Reportings, China",
+       x = "Sentiment",
+       y = NULL)
+```
+
+```{r}
+
+sentiments_all %>%
+  count(sentiment, word) %>%
+  group_by(sentiment) %>%
+  slice_max(n, n = 10) %>%  
+  ungroup() %>%
+  mutate(word = reorder_within(word, n, sentiment)) %>%  
+  ggplot(aes(n, word, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sentiment, scales = "free_y") +  
+  scale_y_reordered() + 
+  labs(x = "Contribution to sentiment",
+       y = NULL)
+
+```
+
+
+```{r}
+
+vas_tokenized %>%
+  inner_join(get_sentiments("bing")) %>%
+  count(word, sentiment, sort = TRUE) %>%
+  acast(word ~ sentiment, value.var = "n", fill = 0) %>%
+  comparison.cloud(colors = c("forestgreen", "firebrick"), max.words = 100)
+```
+
+
+
+```{r}
+library(widyr)
+library(tidyverse)
+library(tidytext)
+library(igraph)
+library(ggraph)
+library(tidygraph)
+
+df <- read_csv("cn_article_df.csv")
+
+df_article <- df %>%
+  group_by(filename) %>%
+  summarise(text = paste(sentence, collapse = " ")) %>%
+  ungroup()
+
+# Step 3: 分词 & 清洗
+data("stop_words")
+tokens <- df_article %>%
+  unnest_tokens(word, text) %>%
+  filter(!word %in% stop_words$word) %>%
+  filter(!str_detect(word, "^[0-9]+$")) %>%
+  filter(!word %in% c("temp_file", "stories_corpus", "newspaper", "type","china","south","reserved","morning","copyright","type","publication","language","geographic","length", "na","subject","industry","document","body","words","classification","english","load","date", "byline","news","post","section"))
+
+# Step 4: 计算词对共现（按文章 ID）
+co_words <- tokens %>%
+  pairwise_count(item = word, feature = filename, sort = TRUE, upper = FALSE)
+
+# Step 5: 查看前30个常共现词对
+head(co_words,30)
+
+top_co_words <- co_words %>%
+  filter(n >= 10) %>%
+  rename(from = item1, to = item2, weight = n)
+
+# 转换为 network 对象（无向图）
+co_graph <- as_tbl_graph(top_co_words, directed = FALSE)
+
+# 添加节点属性：degree 中心性（近似于词频）
+co_graph <- co_graph %>%
+  mutate(freq = centrality_degree()) %>%
+  filter(freq > 2)
+
+# 可视化：节点大小 = 词频
+ggraph(co_graph, layout = "kk") +
+  geom_edge_link(aes(width = weight), alpha = 0.3, color = "gray60") +
+  geom_node_point(aes(size = freq), color = "steelblue", alpha = 0.8) +
+  geom_node_text(aes(label = name), repel = TRUE, size = 3) +
+  scale_size(range = c(3, 10)) +  # 控制节点大小范围
+  theme_void() +
+  labs(title = "Keyword Co-occurrence Network (Node Size = Word Frequency)",
+       subtitle = "Based on Chinese Media Articles")
+
+```
+导出到gephi
+
+```{r}
+
+library(readr)
+library(dplyr)
+
+co_words_export <- co_words %>%
+  rename(Source = item1, Target = item2, Weight = n)
+
+#write_csv(co_words_export, "vasectomy_co_word_edges_cn.csv")
+
+
+```
+
+
+us data full
+```{r}
+df <- read_csv("us_article_df.csv")
+
+df_article <- df %>%
+  group_by(filename) %>%
+  summarise(text = paste(sentence, collapse = " ")) %>%
+  ungroup()
+
+# Step 3: 分词 & 清洗
+data("stop_words")
+tokens <- df %>%
+  unnest_tokens(word, text) %>%
+  filter(!word %in% stop_words$word) %>%
+  filter(!str_detect(word, "^[0-9]+$")) %>%
+  filter(!word %in% c("temp_file", "stories_corpus", "newspaper", "type","nw", "york", "times", "ave", "reserved", "st", "load", "date","reserved","copyright","type","publication","language","geographic","length", "na","subject","industry","document","body","words","classification","english","load","date","pg", "byline","news","post","section"))
+
+# Step 4: 计算词对共现（按文章 ID）
+co_words <- tokens %>%
+  pairwise_count(item = word, feature = filename, sort = TRUE, upper = FALSE)
+
+# Step 5: 查看前30个常共现词对
+head(co_words,30)
+
+co_words_export <- co_words %>%
+  rename(Source = item1, Target = item2, Weight = n)
+
+#write_csv(co_words_export, "vasectomy_co_word_edges_usfull.csv")
+
+```
+
+
+U.s. Data Hlead
+
+```{r}
+df <- read_excel("Results list us.xlsx", 
+    col_types = c("text", "date", "text", 
+        "text", "text", "numeric", "text", 
+        "numeric", "numeric", "text", "numeric", 
+        "text", "text", "text", "text", "text", 
+        "text", "numeric", "numeric", "numeric", 
+        "numeric"))
+
+df<- janitor::clean_names(df)
+
+
+# Step 3: 分词 & 清洗
+data("stop_words")
+tokens <- df %>%
+  unnest_tokens(word,hlead) %>%
+  filter(!word %in% stop_words$word) %>%
+  filter(!str_detect(word, "^[0-9]+$")) %>%
+  filter(!word %in% c("temp_file", "stories_corpus", "newspaper", "type","nw", "york", "times", "ave", "reserved", "st", "load", "date","reserved","copyright","type","publication","language","geographic","length", "na","subject","industry","document","body","words","classification","english","load","date","pg","newstex","http", "byline","news","post","section",""))
+
+# Step 4: 计算词对共现（按文章 ID）
+co_words <- tokens %>%
+  pairwise_count(item = word, feature = title, sort = TRUE, upper = FALSE)
+
+# Step 5: 查看前30个常共现词对
+head(co_words,30)
+```
+
+```{r}
+co_words_export <- co_words %>%
+  rename(Source = item1, Target = item2, Weight = n)
+
+#write_csv(co_words_export, "vasectomy_co_word_edges_ushlead.csv")
+```
+

@@ -1,0 +1,43 @@
+
+
+
+
+
+Specialty Pharmacy Times
+October 10, 2012
+
+
+Copyright 2012 MJH Life Sciences® All Rights Reserved
+
+
+Section: NEWS
+Length: 861 words
+Body
+
+
+The FDA approved Erivedge (vismodegib) for the treatment of basal cell carcinoma in adult patients.
+The FDA approved Genentech's Erivedge (vismodegib) capsules for the treatment of adult patients with metastatic basal cell carcinoma (BCC) or with locally advanced BCC that has recurred following surgery, and for patients who are not candidates for radiation.1 BCC is the most common form of skin cancer in the United States, Europe, and Australia, and is usually curable if the cancer is limited to a small area of skin. 
+Advanced BCC, however, may invade into adjacent areas, including sensory organs, bone, or other tissue. Some cases may cause disfigurement, and surgery or radiation may lead to the loss of sensory organs or their functions.2 An estimated 2.8 million cases of BCC are diagnosed in the United States each year.3 Erivedge carries a boxed warning regarding the risk of embryo-fetal death and severe birth defects (see Contraindications, Warnings, and Precautions).1 
+PHARMACOLOGY AND PHARMACOKINETICS 
+Erivedge exerts its effect through inhibition of the Hedgehog pathway by binding to and inhibiting Smoothened, a transmembrane protein that is involved in Hedgehog signal transduction. 1 The Hedgehog pathway helps to regulate proper growth and development in the early stages of life, but becomes less active during adulthood. More than 90% of BCC cases are associated with abnormal Hedgehog signaling. 2 
+More than 98% of circulating Erivedge is the parent drug. Erivedge and its metabolites are eliminated predominantly by the hepatic route. Its estimated elimination half-life is 4 days after continuous daily dosing and 12 days after a single dose. The effect of hepatic or renal impairment upon the pharmacokinetics of Erivedge has not been studied. Weight, creatinine clearance, and gender did not affect the pharmacokinetics of Erivedge. Therapeutic doses of Erivedge have not been shown to affect the QTc interval. 1 
+DOSAGE AND ADMINISTRATION 
+Erivedge should be administered orally as 150 mg once a day until either disease progression or unacceptable toxicity occurs. Erivedge may be taken with or without food. The capsule should be swallowed whole and never opened or crushed. 1 
+CLINICAL TRIALS 
+Erivedge was evaluated in an international, single-arm, multicenter, 2-cohort, open-label, Phase II study. Of the 104 patients included in the study, 33 had metastatic BCC and 71 had locally advanced BCC. The major efficacy outcome of the study was objective response rate (ORR) as assessed by an independent review facility. ORR was achieved by 30% of patients with metastatic BCC and 43% of patients with locally advanced BCC. The median duration of response was 7.6 months. 1,2 
+CONTRAINDICTIONS, WARNINGS, AND PRECAUTIONS 
+Erivedge carries a boxed warning regarding the risk of embryo-fetal death and severe birth defects. It is embryotoxic and teratogenic in animals, with teratogenic effects including severe midline defects, missing digits, and other irreversible malformations. Pregnancy status must be verified prior to initiation of treatment with Erivedge. Female patients should be advised of the need for contraception and male patients should be advised of the potential risk of Erivedge exposure through semen. 
+Female patients with a negative pregnancy test within 7 days of initiating treatment should begin a highly effective form of contraception (failure rate of less than 1%) prior to the first dose of Erivedge. Highly effective contraception should be continued throughout treatment and for 7 months after the last dose of Erivedge. If pregnancy occurs during treatment, it should be reported to Genentech. Male patients, even those with vasectomy, should use condoms with spermicide during intercourse with female partners throughout treatment with Erivedge and for at least 2 months after treatment is discontinued. 
+There are no contraindications to treatment with Erivedge. Patients should be advised to avoid donation of blood or blood products while using Erivedge and for at least 7 months after their last dose of Erivedge. Erivedge should not be used in patients who are breast-feeding. Erivedge is not approved for use in pediatric patients. 
+The most common adverse reactions (≥10%) are muscle spasms, alopecia, dysgeusia, weight loss, fatigue, nausea, diarrhea, decreased appetite, constipation, arthralgias, vomiting, and ageusia. 1 
+References: 
+1. Erivedge complete prescribing information. . Accessed June 2012. 
+2. FDA approves Erivedge (vismodegib) capsule, the first medicine for adults with advanced basal cell carcinoma. . Accessed June 2012. 
+3. The Skin Cancer Foundation: basal cell carcinoma. . Accessed June 2012. 
+About the Author 
+Monica Holmberg, PharmD, BCPS, earned her PharmD from the University of Connecticut and completed an ambulatory care residency at the Phoenix VA Healthcare System. Her practice has also included pediatrics and inpatient mental health. She resides in Phoenix, Arizona.
+
+Load-Date: May 30, 2023
+
+
+End of Document

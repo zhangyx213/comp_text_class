@@ -1,0 +1,7 @@
+"0",""
+"0","sentiments_all <- vas_tokenized %>%"
+"0","  inner_join(nrc_sentiments, by = ""word"")  "
+"0",""
+"0","vas_tokenized %>%"
+"0","  inner_join(nrc_sentiments) %>%"
+"0","  count(word, sort = TRUE)"

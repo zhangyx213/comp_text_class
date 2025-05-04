@@ -1,0 +1,78 @@
+
+
+
+
+
+ 
+Wireless News
+June 16, 2013 Sunday
+
+
+Copyright 2013 Close-Up Media, Inc. All Rights Reserved
+
+
+Length: 2231 words
+Body
+
+
+Celgene International Sarl, a subsidiary of Celgene Corp., announced updated data from MM-003, the Company's phase III international study evaluating Pomalyst (pomalidomide) plus low-dose dexamethasone versus high-dose dexamethasone.
+In a release dated June 3, the Company said that the study was in relapsed or refractory multiple myeloma patients who had received at least two prior treatment regimens, failed both lenalidomide and bortezomib and had demonstrated disease progression on their last therapy, were presented in a June 3 oral session at the American Society of Clinical Oncology 2013 Annual Meeting in Chicago.
+In the study, presented by Katja Weisel, Department of Medicine, University Hospital Tubingen, Tubingen, Germany, 455 patients were randomized to receive either pomalidomide plus low-dose dexamethasone (n=302) or high-dose dexamethasone (n=153). The primary analysis was performed at a median follow-up of four months; patients in the pomalidomide plus low-dose dexamethasone arm had a significantly longer median progression-free survival (3.6 vs. 1.8 months HR=0.45, p<0.001) and overall survival (not reached vs. 7.8 months HR=0.53, p<0.001, crossing O'Brien-Fleming superiority boundary) compared to patients who received high-dose dexamethasone. At this updated analysis with a median follow-up of 10 months, PFS and OS continued to show significant advantage in favor of pomalidomide plus low-dose dexamethasone (PFS median 4 vs. 1.9 months, HR=0.48, p<0.001; OS median 12.7 vs. 8.1 months, HR=0.74, p=0.028), The investigator-assessed overall response rate for patients in the pomalidomide plus low-dose dexamethasone arm was 31 percent compared to 10 percent in the high-dose dexamethasone arm.
+The most common grade 3/4 adverse events for pomalidomide plus low-dose dexamethasone and high-dose dexamethasone, respectively, were neutropenia (48 percent vs. 16 percent), anemia (33 percent vs. 37 percent), infections (30 percent vs. 24 percent), thrombocytopenia (22 percent vs. 26 percent), pneumonia (13 percent vs. 8 percent) and febrile neutropenia (9 percent vs. 0 percent).
+Pomalyst in patients with renal impairment
+An additional study (MM-008) was presented by Jeffrey Matous, of the Colorado Blood Cancer Institute, evaluating Pomalyst (pomalidomide) in patients with renal impairment, a common co-morbidity in multiple myeloma.
+In the study, patients with relapsed or refractory multiple myeloma and creatine clearance of at least 60 ml/min (cohort A) or severe renal impairment with creatine clearance less than 30 ml/min (cohort B) not requiring dialysis were enrolled.
+Cohort A received 4 mg of pomalidomide, and cohort B received 2mg or 4mg of pomalidomide on days 1-21 of each 28-day cycle following a standard 3 + 3 dose-escalation design. Both cohorts received 40 mg of dexamethasone (20 mg for patients older than 75) on days 1, 8, 15 and 22 of each 28=day cycle. A third planned cohort will evaluate patients with severe renal impairment requiring dialysis.
+As of February 2013, 1one patients had been treated (8 in cohort A and 3 in cohort B at 2 mg). In cohort A, 7 patients had received more than one cycle of therapy with three patients receiving at least three cycles. All patients in cohort B had received more than one cycle of therapy with one patient having received at least three cycles. No dose limiting toxicities had been reported and dose escalation was planned in cohort B.
+Overall, three of 11 (27 percent) patients had achieved at least a partial response.
+The most common grade 3/4 adverse events in cohort A were neutropenia (n=4), anemia (n=2) and infection (n=2), and infection (n=2) in cohort B. Dose reduction due to adverse events occurred in three patients, all in cohort A.
+Pomalyst oral therapy comprises pomalidomide, an IMiDs compound. Pomalyst and other IMiDs compounds continue to be evaluated in over 100 clinical trials.
+Pomalyst (pomalidomide) is indicated in the United States for patients with multiple myeloma who have received at least two prior therapies including lenalidomide and bortezomib and have demonstrated disease progression on or within 60 days of completion of the last therapy. Approval is based on response rate. Clinical benefit, such as improvement in survival or symptoms, has not been verified.
+Important Safety Information
+Warning: Embryo-Fetal Toxicity And Venous Thromboembolism
+Embryo-Fetal Toxicity
+-Pomalyst is contraindicated in pregnancy. Pomalyst is a thalidomide analogue. Thalidomide is a known human teratogen that causes severe birth defects or embryo-fetal death. In females of reproductive potential, obtain 2 negative pregnancy tests before starting Pomalyst treatment
+-Females of reproductive potential must use two forms of contraception or continuously abstain from heterosexual sex during and for four weeks after stopping Pomalyst treatment
+Pomalyst is only available through a restricted distribution program called Pomalyst REMS.
+Venous Thromboembolism
+-Deep Venous Thrombosis and Pulmonary Embolism occur in patients with multiple myeloma treated with Pomalyst. Prophylactic anti-thrombotic measures were employed in the clinical trial. Consider prophylactic measures after assessing an individual patient's underlying risk factors
+Contraindications: Pregnancy
+-Pomalyst can cause fetal harm and is contraindicated in females who are pregnant. If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus
+-Pomalidomide is a thalidomide analogue and is teratogenic in both rats and rabbits when administered during the period of organogenesis.
+Warnings and Precautions
+Embryo-Fetal Toxicity
+-Females of Reproductive Potential: Must avoid pregnancy while taking Pomalyst and for at least four weeks after completing therapy. Must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control, beginning four weeks prior to initiating treatment with Pomalyst, during therapy, during dose interruptions and continuing for four weeks following discontinuation of Pomalyst therapy. Must obtain 2 negative pregnancy tests prior to initiating therapy.
+-Males: Pomalidomide is present in the semen of patients receiving the drug. Males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking Pomalyst and for up to 28 days after discontinuing Pomalyst, even if they have undergone a successful vasectomy. Males must not donate sperm
+-Blood Donation: Patients must not donate blood during treatment with Pomalyst and for one month following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to Pomalyst
+Pomalyst REMS Program
+Because of the embryo-fetal risk, Pomalyst is available only through a restricted distribution program under a Risk Evaluation and Mitigation Strategy called "Pomalyst REMS." Prescribers and pharmacists must be certified with the program; patients must sign an agreement form and comply with the requirements. Further information about the Pomalyst REMS program is available at [celgeneriskmanagement.com] or by telephone at 1-888-423-5436.
+Venous Thromboembolism: Patients receiving Pomalyst have developed venous thromboembolic events reported as serious adverse reactions. In the trial, all patients were required to receive prophylaxis or antithrombotic treatment. The rate of DVT or PE was 3 percent. Consider anticoagulation prophylaxis after an assessment of each patient's underlying risk factors.
+Hematologic Toxicity: Neutropenia of any grade was reported in 50 percent of patients and was the most frequently reported Grade 3/4 adverse event, followed by anemia and thrombocytopenia. Monitor patients for hematologic toxicities, especially neutropenia, with complete blood counts weekly for the first eight weeks and monthly thereafter. Treatment is continued or modified for Grade 3 or 4 hematologic toxicities based upon clinical and laboratory findings. Dosing interruptions and/or modifications are recommended to manage neutropenia and thrombocytopenia.
+Hypersensitivity Reactions: Patients with a prior history of serious hypersensitivity associated with thalidomide or lenalidomide were excluded from studies and may be at higher risk of hypersensitivity.
+Dizziness and Confusional State: 18 percent of patients experienced dizziness and 12 percent of patients experienced a confusional state; 1 percent of patients experienced grade 3/4 dizziness, and 3 percent of patients experienced grade 3/4 confusional state. Instruct patients to avoid situations where dizziness or confusion may be a problem and not to take other medications that may cause dizziness or confusion without adequate medical advice.
+Neuropathy: 18 percent of patients experienced neuropathy (approximately 9 percent peripheral neuropathy). There were no cases of grade 3 or higher neuropathy adverse reactions reported.
+Risk of Second Primary Malignancies: Cases of acute myelogenous leukemia have been reported in patients receiving Pomalyst as an investigational therapy outside of multiple myeloma.
+Adverse Reactions
+In the clinical trial of 219 patients who received Pomalyst alone (n=107) or Pomalyst + low-dose dexamethasone (low-dose dex) (n=112), all patients had at least one treatment-emergent adverse reaction.
+-In the Pomalyst alone versus Pomalyst + low dose dexamethasone arms, respectively, most common adverse reactions included fatigue and asthenia, neutropenia, anemia, constipation, nausea, diarrhea, dyspnea, upper respiratory tract infection, back pain, and pyrexia
+-90 percent of patients treated with Pomalyst alone and 88 percent of patients treated with Pomalyst + low-dose dex had at least one treatment-emergent NCI CTC Grade 3 or 4 adverse reaction
+-In the Pomalyst alone versus Pomalyst + low dose dexamethasone arms, respectively, most common Grade 3/4 adverse reactions included neutropenia, anemia, thrombocytopenia, and pneumonia. For other Grade 3 or 4 toxicities besides neutropenia and thrombocytopenia, hold treatment and restart treatment at 1 mg less than the previous dose when toxicity has resolved to less than or equal to Grade 2 at the physician's discretion
+-67 percent of patients treated with Pomalyst and 62 percent of patients treated with Pomalyst + low-dose dex had at least one treatment-emergent serious adverse reaction
+-In the Pomalyst alone versus Pomalyst + low dose dexamethasone arms, respectively, most common serious adverse reactions were pneumonia, renal failure, dyspnea, sepsis, pyrexia, dehydration, hypercalcemia, urinary tract infection, and febrile neutropenia
+Drug Interactions
+No formal drug interaction studies have been conducted with Pomalyst. Pomalidomide is primarily metabolized by CYP1A2 and CYP3A. Pomalidomide is also a substrate for P-glycoprotein (P-gp). Coadministration of Pomalyst with drugs that are strong inhibitors or inducers of CYP1A2, CYP3A, or P-gp should be avoided. Cigarette smoking may reduce pomalidomide exposure due to CYP1A2 induction. Patients should be advised that smoking may reduce the efficacy of pomalidomide.
+Use In Specific Populations
+Pregnancy: If pregnancy does occur during treatment, immediately discontinue the drug and refer patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling. Report any suspected fetal exposure to Pomalyst to the FDA via the MedWatch program at 1-800-332-1088 and also to Celgene Corp. at 1-888-423-5436.
+Nursing Mothers: It is not known if pomalidomide is excreted in human milk. Pomalidomide was excreted in the milk of lactating rats. Because many drugs are excreted in human milk and because of the potential for adverse reactions in nursing infants from Pomalyst, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Pediatric Use: Safety and effectiveness of Pomalyst in patients under the age of 18 have not been established.
+Geriatric Use: No dosage adjustment is required for Pomalyst based on age. Patients greater than or equal to 65 years of age were more likely than patients less than or equal to 65 years of age to experience pneumonia.
+Renal and Hepatic Impairment: Pomalidomide is metabolized in the liver. Pomalidomide and its metabolites are primarily excreted by the kidneys. The influence of renal and hepatic impairment on the safety, efficacy, and pharmacokinetics of pomalidomide has not been evaluated. Avoid Pomalyst in patients with a serum creatinine >3.0 mg/dL. Avoid Pomalyst in patients with serum bilirubin >2.0 mg/dL and AST/ALT >3.0 x ULN.
+Please see full Prescribing Information, including Boxed Warnings, Contraindications, Warnings and Precautions, and Adverse Reactions.
+Pomalyst (pomalidomide) is indicated for patients with multiple myeloma who have received at least two prior therapies including lenalidomide and bortezomib and have demonstrated disease progression on or within 60 days of completion of the last therapy. Approval is based on response rate. Clinical benefit, such as improvement in survival or symptoms, has not been verified.
+Celgene Corp. is an integrated pharmaceutical company.
+((Comments on this story may be sent to ))
+
+Load-Date: June 15, 2013
+
+
+End of Document

@@ -1,0 +1,50 @@
+
+
+
+
+
+IRB Advisor
+May 1, 2011
+
+
+Copyright 2011 AHC Media LLC All Rights Reserved
+Length: 1041 words
+Body
+
+
+TMI in informed consent?
+Contraceptive knowledge study raises issues about how much to tell participants
+Can the informed consent process actually provide too much information? That's the contention of HIV researcher Susan Allen, who points to a recent study she tried to conduct in Zambia of participants' knowledge about contraceptive options.
+She says that IRB-mandated additions to the informed consent gave away too much of the educational content of her study, making it impossible to discern how much participants learned about contraceptive methods from the program she was testing.
+Allen says that when reviewing studies such as this one, which test participants' knowledge, attitudes and behaviors, IRBs need to be alert to the possibility of contaminating the group being studied.
+"I have always been above and beyond the call of duty when it comes to what education you provide (in informed consent)," she says. "But when you're actually trying to test an intervention and then you muddy the waters by having to give information like that in the consent, it's really a problem."
+Allen, MD, MPH, DTM&H, is currently director of the Rwanda Zambia HIV Research Group, based at Emory University in Atlanta, GA. However, her experience with the study in question occurred with an IRB at another institution.
+She was studying knowledge about contraceptive options among two types of couples in Zambia – those where both partners were infected with the HIV virus and those couples where one partner was infected and the other wasn't (called sero-discordant couples).
+The plan was to test couples' baseline knowledge of different contraceptive methods, including pills, injectables, implants, IUDs, tubal ligation and vasectomy.
+The couples were randomized to interventions that included a video showing family planning information and a control group video that provided other health information. Participants then were retested to see how well the family planning education worked.
+Adding to the consent
+Allen says the Zambian IRB approved the study without reservations. But the American IRB raised concerns that some participants would not receive family planning information during the course of the study. As a result, the IRB required that contraceptive information be disclosed to all participants in the informed consent video they viewed beforehand.
+"We said, 'Wait a minute, that's part of the intervention,'" Allen says. "If educating people about the different family planning options is included in the informed consent, then we're really not going to have a control group."
+And she noted that even if participants didn't view the family planning video, they were being provided with an alternate video that talked about important health issues such as nutrition and malaria prevention.
+But she says the IRB argued that in a low-resource country such as Zambia, this might be participants' only chance to receive family planning information
+"Their position was that since they could not get those methods elsewhere, it would be unethical to withhold that information."
+So Allen's team went forward with the study as approved by the IRB, but also found a way to create a control group to look at the effects of the changed informed consent, by looking at results from a separate observational study of sero-discordant couples in Zambia. That group had not been given family planning information in their informed consent.
+The results were as Allen had predicted – despite any significant differences between the two groups of couples, those who had viewed the family planning study's informed consent video had much higher levels of knowledge about some of the contraceptive methods.
+Allen says that by creating that higher baseline knowledge in those who watched the family planning informed consent video, it became impossible to accurately measure the effects of the later family planning video education.
+"The informed consent changed things before the intervention even began," she says.
+In discussing the aftermath of the study, Allen says that it might have been possible to craft a debriefing after the family planning study that could have brought control group participants up to speed on contraceptive methods without contaminating the sample.
+But she says this study is an example of a more widespread tendency among American IRBs to want to give research participants in poor countries such as Zambia greater access to health care resources found in countries such as the United States, even to the detriment of research that might improve public health in those poorer nations.
+"IRBs need to get comfortable with the idea that in low-resource settings, people are not getting a lot of things," Allen says. "The standard of care in these settings is often pretty poor.
+"Your research study is going to change that for a couple thousand people, but it's not going to change it for the other 2 million people. Asking researchers to make a little cocoon for the 2,000 people while doing a disservice to the 2 million is not a good thing."
+Couples testing option
+Ironically, Allen herself lobbies vigorously for enhancing informed consent in HIV studies in Africa, saying that it should include information about voluntary couples HIV testing, which she calls a low-cost, high-impact intervention.
+Compared to interventions such as male circumcision and vaginal microbicides, couples testing works just as well, she says. But Allen says informed consents for trials of these other interventions usually fail to discuss couples testing as an option.
+"How can you enroll women into your study when you know that 75 percent of them are married and that their greatest risk of getting HIV is from their husbands?" she asks.
+"I've really been trying to advocate that you must include two or three sentences in your informed consent that say: 'If you are married, your greatest risk of HIV comes from your spouse. We strongly encourage you to be tested with your spouse and we will either provide that service for you or we will refer you to a place that provides it.'"
+Reference
+Stephenson R, Grabbe K, Allen S. The influence of informed consent content on study participants' contraceptive knowledge and concerns. Stud Fam Plann 2010 Sep 1;41(3):217-224.
+
+Load-Date: May 16, 2011
+
+
+End of Document

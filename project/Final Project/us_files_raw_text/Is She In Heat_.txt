@@ -1,0 +1,84 @@
+
+
+
+
+
+Beef
+February 1, 2009
+
+
+Copyright 2009 Penton Business Media, Inc. All Rights Reserved
+
+
+Section: Pg. 18; ISSN: 0005-7738
+Length: 1667 words
+Byline: BY ALAINA BURT, MANAGING EDITOR
+Body
+
+
+Ask any reproductive physiology graduate student what their least favorite activity is and they'll likely say, "heat detecting." That's because it's less interesting than breeding or preg-checking cattle, says George Perry, South Dakota State University beef reproduction and management specialist.
+But for Perry, who specializes in understanding how cows respond to synchronization protocols, it's the other way around. "You've got to detect them in heat before you can breed them," he says.
+Regardless if you love or loathe the job, heat-detection aids can make it easier to identify cattle that have stood to be mounted (also known as standing heat).
+"The only positive sign of estrus is standing to be mounted," Perry says, and cows need to be in estrus in order to get pregnant. Secondary signs include clear mucus from the vulva, roughed up hair on the tailhead, bawling, walking fencelines and licking.
+When heat detecting, Perry looks for cattle that stand to be mounted or have mucus; both represent a physiological change in the body. "If they're producing mucus, they're somewhere around estrus," Perry says. "All the other signs of estrus are a lot harder to pick up."
+He adds that experience goes a long way when heat detecting. "The more often people get out and watch their animals, the better they're able to pick up on secondary signs."
+But what if it's not possible to watch cattle consistently for signs of estrus? After all, more than 500 animals constantly monitored in three separate trials found that 55.9% exhibited standing estrus from 6 p.m. to 6 a.m. (Table 1).
+Observing cattle during evening hours can be difficult, particularly in a pasture. "You can't be out there all the time," Perry says. "Heat-detection aids do a tremendous job because they tell you 'she stood.' That's all any of them can tell you, except the electronic ones."
+If producers completely rely on aids for heat detection, the question becomes: when exactly did she come into standing heat? For instance, if cattle are observed twice daily, and an animal's aid was not activated at the first, 7 a.m. check, but is activated at the second, 7 p.m. check, when did she stand? Following the 12-hour rule of breeding, a female in standing heat in the morning should be bred that evening; one activated in the evening should be bred the following morning.
+On the ranch
+Using visual heat-detection aids is a big part of the breeding success experienced at Spickler Ranch near Glenfield, ND. The 550-head Angus cowherd (450 spring calving, 100+ fall-calving) has a strict 67-day breeding season, beginning with one round of artificial insemination (AI), followed by three cycles with a clean-up bull. This year their spring herd had a 95.6% success rate within that window.
+"We don't run a lot of bulls when we clean up, so it's very important that we cover cows by AI-ing," says Justin Spickler, who with his brother, Nathan, own and manage the ranch.
+They've used mechanical heat-detection aids for more than fifteen years because they're able to manage their labor better and manage big breeding groups. This year they had 250 females and 65 embryo recipients in heat simultaneously in 100-acre pastures half a mile apart.
+"If we suspect a female is coming into heat, we can walk away and come back four hours later and know she came in while we were gone," Justin says, adding that they try to visually observe every female stand.
+Up until last year, the Spicklers spent three weeks heat detecting and breeding off of natural heats. This past year, drought forced them to graze AI pastures early, necessitating a tighter AI breeding season.
+After consulting with fellow Angus breeder Troy Vollmer, Wing, ND, the Spicklers chose a synchronization protocol where they heat detected and bred cows for five days. With such large, active groups, Justin says they spent an entire day heat detecting.
+The change in protocol worked better than they expected. "It allowed us to concentrate our labor into five days instead of every day for three weeks," Justin says.
+Over time, they've also come to favor aids that activate after multiple mounts, because "they're a little more accurate in terms of mismarks," Justin says, noting some aids can be activated by cows bumping into each other or being ridden only once.
+Bottom line, Justin says, "It's a tool we use to help us handle more numbers and help us not to have to be there every single minute."
+Economics of aids
+Sandy Johnson, Kansas State University (KSU) livestock production specialist in Colby, has attempted to put a price tag on breeding system costs by modeling scenarios. Both she and Perry say the economics of heat-detection aids are difficult and situation-dependent.
+A 2001 KSU white paper estimated farm labor compensation. From that data, a value of $10.77/hour for heat detection was used in the breeding systems model. That doesn't take into account opportunity cost; for example, the value of your time when there's hay to be put up during heat detection. Models have no way of analyzing such unknown variables.
+"If you can provide or hire the labor, I can show you (AI) breeding systems that will produce pregnancies at lower cost than natural service," Johnson says.
+In her model the total costs of one round of AI followed by a cleanup bull vs. natural service breeding alone are compared. A key assumption Johnson makes is placing a $25 premium on the AI-sired calf, be it from age, value or genetics.
+"If I'm going to implement an AI system, I need to be very clear and motivated in how I will capture the genetic value I'm investing in the AI program," Johnson says. "If you can't do that, maybe you can't justify the time and expense of AI."
+Using Johnson's model, a mount-activated, heat-detection aid costing $1.10/head added an average 29?/cwt. on the breakeven of a 500-lb. weaned calf.
+"Or put another way, the AI-sired calves now needed to be valued at $27.75/head more than natural service-sired calves to be at the same cost without the aid," Johnson says.
+She sympathizes with producers who don't want to pay an extra $1/cow cash upfront for a heat-detection aid. "But if that investment is allowing them put up hay and AI cows," Johnson says, "then it is a good thing."
+Johnson's model doesn't put a figure on higher-priced electronic aids, but Perry knows producers who made the system pencil by running separate spring and fall calving herds with 200-300 head to breed.
+Determining if heat-detection aids are appropriate in your breeding system requires an evaluation of each operation's time and the other opportunity costs vying for that time. Either way, the goal is to maximize the number of pregnancies - detecting estrus is the first step in that important equation.
+
+Table 1. Time of day when cows exhibit standing estrus
+*| Time of day | % of cows exhibiting standing estrus | 
+*| 6 a.m. to noon | 26.0% | 
+*| Noon to 6 p.m. | 18.1% | 
+*| 6 p.m. to midnight | 26.9% | 
+*| Midnight to 6 a.m. | 29.0% | 
+*| Source: Adapted from Hurnik and King, Xu et al and G.A. Perry | 
+Helpful Hints
+Detection methods
+George Perry, South Dakota State University reproduction and management specialist, details four heat-detection methods:
+* Visual - A trained person observes cattle for signs of estrus. Depending on how you value your time, Kansas State University pegs this chore at $10.77/hour.
+* Marking animals - Gomer bulls fitted with a chin-ball marker leave paint evidence on a cow's rump when she's in standing heat. Also, bulls can be kept from breeding by an epididymectomy, vasectomy or penile deviation.
+* Mounting-activity detectors - Also called mechanical aids, these are applied to the female's rump and smudge, change color or light up when the animal stands to be mounted. Perry cites products such as tail paint, Estrotect, Kamar and Bovine Beacons. It can be as cheap as latex paint, or $1-$2/animal. Make sure to properly affix these aids to the animal.
+* Electronic - Affixed to the female's rump, these transmitters send an electronic signal when pressure is applied. They also will record multiple mounts and possibly the time of each mount. Commercially available aids include Mount Count, HeatWatch and Tattle Tail. A base price for the computer program is $3,950, Perry says, with transmitters $65/each.
+Equation of reproduction
+Management plays a huge role in breeding-program success, be it artificial insemination (AI) or natural service. George Perry, South Dakota State University reproductive and management specialist, says it boils down to a reproductive equation comprised of four areas.
+*
+Percentage of animals detected in standing estrus and inseminated.
+In an AI system, this consists of looking for changes in animal behavior where a cow/heifer will stand to be mounted by a bull or another cow/heifer. In a natural-service program, this refers to the bull's libido, or desire to detect cows in estrus.
+*
+Inseminator efficiency.
+With natural service, inseminator efficiency is influenced by the ability of a bull to service a cow, and is appraised during the physical portion of a breeding soundness exam (BSE). Efficiency in an AI program comprises semen handling and the ability to deposit the semen in the correct location within the female.
+*
+Fertility level of the herd.
+Possibly the hardest area to evaluate, it includes cycling status, protocol compliance, embryonic mortality, body condition and disease.
+Fertilization rates range from 90-100% when semen is present at the time ovulation occurs. Conception rates, however, range from 60-70% for natural service or AI. Nature contributes to part of this loss, but management can also increase embryonic mortality.
+Heat and shipping stress can be detrimental. The most critical points for an embryo are between days 5 and 42, which can cause a 10% decrease in pregnancy rate. A 6% loss can result from days 45 to 60. Perry recommends shipping between days 1-4, or after 45-60 days of fertilization.
+*
+Semen's fertility level.
+Natural-breeding programs determine semen quality during a BSE. AI semen providers package semen to optimize fertility.
+
+Load-Date: January 28, 2009
+
+
+End of Document
