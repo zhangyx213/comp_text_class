@@ -66,6 +66,10 @@ health, gender
 
 ------------------------------------------------------------------------
 
+# Literature Review
+
+------------------------------------------------------------------------
+
 # **Dataset Description**
 
 **Data Source:** Nexis Uni
@@ -281,7 +285,7 @@ distinct concepts are linked in U.S. and Chinese media contexts.
 
 ------------------------------------------------------------------------
 
-# **Results**
+# Results
 
 ## **Load useful packages and datasets**
 
@@ -303,7 +307,7 @@ library(readtext)
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
 #impotying U.S. data
-vasus <- read_excel("./dataframes/Results list us.xlsx", 
+vasus <- read_excel("Results list us.xlsx", 
     col_types = c("text", "date", "text", 
         "text", "text", "numeric", "text", 
         "numeric", "numeric", "text", "numeric", 
@@ -321,7 +325,7 @@ print(paste0("The number of rows in the dataset is ", nrow(vasus), " and the num
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
 #impotying China data
-vascn <- read_excel("./dataframes/Results list cn.xlsx", 
+vascn <- read_excel("Results list cn.xlsx", 
     col_types = c("text", "date", "text", 
         "text", "text", "numeric", "text", 
         "numeric", "numeric", "text", "numeric", 
@@ -348,14 +352,14 @@ stories.
 
 ### **1. The coverage of vasectomy over time**
 
-#### **U.S. Dataset**
+#### U.S. Dataset
 
 According to Nexis Uni, for the 4279 U.S. articles, the coverage of
 vasectomy over time can see as below:
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
 library(readr)
-Coverus <- read_csv("us_charts_nexis/CoverageoverTime_vasectomyvasectomies.csv")
+Coverus <- read_csv("us_charts/CoverageoverTime_vasectomyvasectomies.csv")
 Coverus <- janitor::clean_names(Coverus)
 Coverus <- Coverus %>%
   mutate(covertime = as.Date(coverage_over_time))
@@ -363,10 +367,10 @@ Coverus <- Coverus %>%
 p <- ggplot(Coverus, aes(x = covertime, y = coverage)) +
   geom_line(color = "blue", size = 1) +
   geom_point(color = "red", size = 2) +
-  labs(title = "Coverage of Vasectomy/Vasectomies Over Time, U.S.(n=4279)",
+  labs(title = "Coverage of Vasectomy/Vasectomies Over Time, U.S.",
        x = "Year",
        y = "Number of Articles",
-        caption = "Data source: Nexis Uni, accessed on May 3, 2025. Graphic created by Yuxiao Zhang"
+        caption = "Data source: Nexis Uni, accessed on May 3, 2025"
   ) +
   theme_minimal() +
   theme(
@@ -396,10 +400,10 @@ vas_time <- vasus %>%
 
 p2 <- ggplot(vas_time, aes(x = year, y = count)) +
   geom_bar(stat = "identity", fill = "steelblue") +
-  labs(title = "Distribution of Articles Over Time, U.S. (n=2000)",
+  labs(title = "Distribution of Articles Over Time",
        x = "Year",
        y = "Number of Articles",
-       caption = "Data source: Nexis Uni, accessed on May 3, 2025. Graphic created by Yuxiao Zhang") +
+       caption = "Data source: Nexis Uni, accessed on May 3, 2025") +
   theme_minimal()
 print(p2)
 
@@ -411,13 +415,13 @@ and stable from 2000 to 2010, followed by a moderate increase between
 overturning of *Roe v. Wade*. This further proves that the subtracted
 dataset fully represent the full 4279 dataset.
 
-#### **China Dataset**
+#### China Dataset
 
 According to Nexis Uni, for the 76 China articles, the coverage of
 vasectomy over time can see as below:
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
-Covercn <- read_csv("cn_charts_nexis/CoverageoverTime_vasectomyvasectomies.csv")
+Covercn <- read_csv("cn_charts/CoverageoverTime_vasectomyvasectomies.csv")
 Covercn <- janitor::clean_names(Covercn)
 Covercn <- Covercn %>%
   mutate(covertime = as.Date(coverage_over_time))
@@ -425,10 +429,10 @@ Covercn <- Covercn %>%
 c <- ggplot(Covercn, aes(x = covertime, y = coverage)) +
   geom_line(color = "blue", size = 1) +
   geom_point(color = "red", size = 2) +
-  labs(title = "Coverage of Vasectomy/Vasectomies Over Time, China (n=76)",
+  labs(title = "Coverage of Vasectomy/Vasectomies Over Time, China",
        x = "Year",
        y = "Number of Articles",
-      caption = "Data source: Nexis Uni, accessed on May 3, 2025. Graphic created by Yuxiao Zhang") +
+      caption = "Data source: Nexis Uni, accessed on May 3, 2025") +
   theme_minimal()
 
 c
@@ -449,7 +453,7 @@ While the dataset used in this study captures only English-language
 reporting by Chinese media—limiting its ability to reflect the full
 spectrum of domestic discourse—it nonetheless reveals meaningful trends.
 From 2000 to 2025, media coverage of vasectomy in China remains sparse
-and inconsistent. As shown in figure, the annual number of articles
+and inconsistent. As shown in gigure, the annual number of articles
 rarely exceeds single digits, with only a few notable peaks, such as in
 2010 and 2014, which loosely align with the initial stages of policy
 loosening. Interestingly, coverage appears to increase slightly during
@@ -470,33 +474,33 @@ contraceptive responsibility primarily to women.
 
 ### **2. The top publications of vasectomy related coverage**
 
-#### **U.S. Dataset**
+#### U.S. Dataset
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
-top_pub <- read_csv("us_charts_nexis/TopPublications_vasectomyvasectomies.csv")
+top_pub <- read_csv("us_charts/TopPublications_vasectomyvasectomies.csv")
 
 ggplot(top_pub, aes(x = reorder(Publication, Coverage), y = Coverage)) +
   geom_col(fill = "steelblue") +
-  labs(title = "Top Publications for Vasectomy/Vasectomies, U.S.(n=4279)",
+  labs(title = "Top Publications for Vasectomy/Vasectomies, U.S.",
        x = "Publication",
        y = "Count",
-        caption = "Data source: Nexis Uni, accessed on May 3, 2025. Graphic created by Yuxiao Zhang") +
+        caption = "Data source: Nexis Uni, accessed on May 3, 2025") +
   coord_flip() +
   theme_minimal()
   
 ```
 
-#### **China Dataset**
+#### China Dataset
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
-top_pubcn <- read_csv("cn_charts_nexis/TopPublications_vasectomyvasectomies.csv")
+top_pubcn <- read_csv("cn_charts/TopPublications_vasectomyvasectomies.csv")
 
 ggplot(top_pubcn, aes(x = reorder(Publication, Coverage), y = Coverage)) +
   geom_col(fill = "steelblue") +
-  labs(title = "Top Publications for Vasectomy/Vasectomies, China (n=76)",
+  labs(title = "Top Publications for Vasectomy/Vasectomies, China",
        x = "Publication",
        y = "Count",
-        caption = "Data source: Nexis Uni, accessed on May 3, 2025. Graphic created by Yuxiao Zhang") +
+        caption = "Data source: Nexis Uni, accessed on May 3, 2025") +
   coord_flip() +
   theme_minimal()
   
@@ -513,6 +517,54 @@ reflect broader structural differences in media systems: China’s
 state-led communication model limits the diversity and volume of
 discourse, while the U.S. media landscape facilitates more expansive and
 decentralized engagement with reproductive health topics.
+
+### **3. The top subjects covered by vasectomy related reporting**
+
+#### U.S. Dataset
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+library(treemapify)
+
+subus <- read_csv("us_charts/TopSubjectsCovered_vasectomyvasectomies.csv")
+ggplot(subus, aes(
+  area = Coverage,             
+  fill = `Top Subjects Covered`,           
+  label = `Top Subjects Covered`          
+)) +
+  geom_treemap() +
+  geom_treemap_text(
+    colour = "white", 
+    place = "centre", 
+    grow = TRUE, 
+    reflow = TRUE
+  ) +
+  labs(title = "Top Subjects Covered, U.S.",
+       caption = "Data source: Nexis Uni, accessed on May 3, 2025") +
+  theme_minimal()
+
+```
+
+#### China Dataset
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+subcn <- read_csv("cn_charts/TopSubjectsCovered_vasectomyvasectomies.csv")
+ggplot(subcn, aes(
+  area = Coverage,             
+  fill = `Top Subjects Covered`,           
+  label = `Top Subjects Covered`          
+)) +
+  geom_treemap() +
+  geom_treemap_text(
+    colour = "white", 
+    place = "centre", 
+    grow = TRUE, 
+    reflow = TRUE
+  ) +
+  labs(title = "Top Subjects Covered, China",
+       caption = "Data source: Nexis Uni, accessed on May 3, 2025") +
+  theme_minimal()
+
+```
 
 The treemap comparison highlights clear differences in basic thematic
 framing between Chinese and U.S. media coverage of vasectomy. In both
@@ -604,7 +656,7 @@ files <- list.files("./us_files_raw_text", pattern="*.txt") %>%
 
 #Join the file list to the index
 
-final_data <- rio::import("./dataframes/Results list us.XLSX") |> 
+final_data <- rio::import("Results list us.XLSX") |> 
   clean_names() |> 
    #create an matching file name
   mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", title))) |> 
@@ -622,7 +674,7 @@ final_data |>
 ```
 
 ```{r eval=FALSE}
-dupe_data <- rio::import("./dataframes/Results list us.XLSX") |> 
+dupe_data <- rio::import("Results list us.XLSX") |> 
   clean_names() |> 
    #create an matching file name
   mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", title))) |> 
@@ -722,9 +774,9 @@ articles_df <- articles_df %>%
 
 ------------------------------------------------------------------------
 
-### **2. Topic Modeling**
+### 2. Topic Modeling
 
-#### **U.S. Data**
+#### U.S. Data
 
 ```{r echo=TRUE, results='hide', message=FALSE, warning=FALSE}
 # set options
@@ -754,17 +806,17 @@ library(SnowballC)
 library(flextable)
 ```
 
-### **Import Data**
+### Import Data
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE}
 #import text files that were compiled into a df  
-vasus_sent <- read_csv("./dataframes/us_article_df.csv")
+vasus_sent <- read_csv("./us_article_df.csv")
 
 #add a year column
 vasus_sent <- vasus_sent %>%
   mutate(year = year(published_date))
 
-vascn_sent <- read_csv("./dataframes/cn_article_df.csv")
+vascn_sent <- read_csv("./cn_article_df.csv")
 
 #add a year column
 vascn_sent <- vascn_sent %>%
@@ -903,14 +955,9 @@ topics
 ```
 
 **Review the topics and determine a 1-2 word label after reading the
-source documents.** To achieve this, I used the code below to extract
-the top 10 articles associated with each topic. I then reviewed these
-articles to identify key similarities and differences, which allowed me
-to validate and assign a concise 1–2 word label that best captures the
-essence of each topic.
+source documents.**
 
-**Topic 1 - abort health women peopl plan care law govern servic
-countri**
+*Topic 1 - abort health women peopl plan care law govern servic countri*
 
 ```{r}
 theta2 <- as.data.frame(theta)
@@ -933,8 +980,8 @@ highlight how male sterilization is politicized—used symbolically in
 legislation, population policies, or as a measure of gendered
 responsibility in contraception.
 
-**Topic 2 - women patient contracept vasectomi birth control pregnanc
-studi health procedur**
+*Topic 2 - women patient contracept vasectomi birth control pregnanc
+studi health procedur*
 
 ```{r}
 topic2 <- theta2 %>% 
@@ -953,7 +1000,7 @@ equity. They highlight how structural or psychological factors—such as
 coercion, trauma, or population control policies—impact individuals'
 access to and control over contraceptive decisions.
 
-**Topic 3 - time day children peopl famili life love feel live told**
+*Topic 3 - time day children peopl famili life love feel live told*
 
 ```{r}
 topic3 <- theta2 %>% 
@@ -975,8 +1022,7 @@ humorously, it serves as a symbolic marker of male reproductive control.
 This may reflect that in cultural storytelling, male contraception
 remains more of a punchline than a subject of serious reflection.
 
-**Topic 4 - univers time york compani john citi michael edit david
-march**
+*Topic 4 - univers time york compani john citi michael edit david march*
 
 ```{r}
 
@@ -998,8 +1044,8 @@ dramatic irony. This may reflect the broader tendency to marginalize
 male contraception and treat it as a symbolic or comedic device rather
 than a serious subject.
 
-**Topic 5 - word length right newstex content inform court employe
-provid law**
+*Topic 5 - word length right newstex content inform court employe provid
+law*
 
 ```{r}
 topic5 <- theta2 %>% 
@@ -1019,8 +1065,8 @@ or reproductive rights—shape, restrict, or provoke personal bodily
 decisions, highlighting tensions between institutional authority and
 individual autonomy.
 
-**Topic 6 - special ave bodi surgeri document fairfax rockvill diseas
-arlington bethesda**
+*Topic 6 - special ave bodi surgeri document fairfax rockvill diseas
+arlington bethesda*
 
 ```{r}
 topic6 <- theta2 %>% 
@@ -1046,12 +1092,12 @@ than a cultural or political statement.
 vizDataFrame <- vizDataFrame %>%
   mutate(variable = str_to_lower(variable),variable = str_squish(variable)) %>%
   mutate(category = case_when(
-    variable == "abort health women peopl plan care law govern servic countri" ~ "Politics",
-    variable == "women patient contracept vasectomi birth control pregnanc studi health procedur" ~ "Gender Equality",
-    variable == "time day children peopl famili life love feel live told" ~ "Symbolic Meaning/Satire",
-    variable == "univers time york compani john citi michael edit david march" ~ "Rhetoric and Humorous Meaning",
-    variable == "word length right newstex content inform court employe provid law" ~ "Law and Rights",
-    variable == "special ave bodi surgeri document fairfax rockvill diseas arlington bethesda" ~ "Medical",
+    variable == "abort health women peopl plan care law govern servic countri" ~ "politics",
+    variable == "women patient contracept vasectomi birth control pregnanc studi health procedur" ~ "gender equality",
+    variable == "time day children peopl famili life love feel live told" ~ "symbolic meaning/satire",
+    variable == "univers time york compani john citi michael edit david march" ~ "rhetoric and humours meaning",
+    variable == "word length right newstex content inform court employe provid law" ~ "law and rights",
+    variable == "special ave bodi surgeri document fairfax rockvill diseas arlington bethesda" ~ "medical",
     TRUE ~ "other"
   ))
 
@@ -1059,34 +1105,42 @@ vizDataFrame <- vizDataFrame %>%
 
 **Sample Fact Check and Validate Topics**
 
-+---------------+------------------------------+------------------+
-| Nu mber       | Keywords                     | Catergory        |
-+===============+==============================+==================+
-| Topic 1       | abort health women peopl     | Politics         |
-|               | plan care law govern servic  |                  |
-|               | countri                      |                  |
-+---------------+------------------------------+------------------+
-| Topic 2       | women patient contracept     | Gender Equality  |
-|               | vasectomi birth control      |                  |
-|               | pregnanc studi health        |                  |
-|               | procedur                     |                  |
-+---------------+------------------------------+------------------+
-| Topic 3       | time day children peopl      | Symbolic         |
-|               | famili life love feel live   | Meaning/Satire   |
-|               | told                         |                  |
-+---------------+------------------------------+------------------+
-| Topic 4       | univers time york compani    | Rhetoric &       |
-|               | john citi michael edit david | Humorous Meaning |
-|               | march                        |                  |
-+---------------+------------------------------+------------------+
-| Topic 5       | word length right newstex    | Law and Rights   |
-|               | content inform court employe |                  |
-|               | provid law                   |                  |
-+---------------+------------------------------+------------------+
-| Topic 6       | special ave bodi surgeri     | Medical          |
-|               | document fairfax rockvill    |                  |
-|               | diseas arlington bethesda    |                  |
-+---------------+------------------------------+------------------+
++--------------------+--------------------+--------------------+
+| Nu mber            | Keywords           | Catergory          |
++====================+====================+====================+
+| T opic 1           | abort health women | Politics           |
+|                    | peopl plan care    |                    |
+|                    | law govern servic  |                    |
+|                    | countri            |                    |
++--------------------+--------------------+--------------------+
+| T opic 2           | women patient      | Gender Equality    |
+|                    | contracept         |                    |
+|                    | vasectomi birth    |                    |
+|                    | control pregnanc   |                    |
+|                    | studi health       |                    |
+|                    | procedur           |                    |
++--------------------+--------------------+--------------------+
+| T opic 3           | time day children  | Symbolic Mea ni    |
+|                    | peopl famili life  | ng/Satire          |
+|                    | love feel live     |                    |
+|                    | told               |                    |
++--------------------+--------------------+--------------------+
+| T opic 4           | univers time york  | Rhetoric & Humours |
+|                    | compani john citi  | Meaning            |
+|                    | michael edit david |                    |
+|                    | march              |                    |
++--------------------+--------------------+--------------------+
+| T opic 5           | word length right  | Law and Rights     |
+|                    | newstex content    |                    |
+|                    | inform court       |                    |
+|                    | employe provid law |                    |
++--------------------+--------------------+--------------------+
+| T opic 6           | special ave bodi   | Medical            |
+|                    | surgeri document   |                    |
+|                    | fairfax rockvill   |                    |
+|                    | diseas arlington   |                    |
+|                    | bethesda           |                    |
++--------------------+--------------------+--------------------+
 
 **For politics**
 
@@ -1131,28 +1185,31 @@ ggplot(vizDataFrame, aes(x=year, y=value, fill=category)) +
 
 Here's the visualization of China topics
 
-+:-------------+:----------------------------------+--------------+
-| T opic 1     | health reproduct public depart    | State        |
-|              | surgeri govern famili transplant  | Regul        |
-|              | sexual medic                      | ation/policy |
-+--------------+-----------------------------------+--------------+
-| T opic 2     | contracept vasectomi women male   | Medical      |
-|              | effect control sperm hospit       | development  |
-|              | condom research                   |              |
-+--------------+-----------------------------------+--------------+
-| T opic 3     | famili plan children popul birth  | Reproductive |
-|              | child govern coupl zhang          | Governance   |
-|              | vasectomi                         |              |
-+--------------+-----------------------------------+--------------+
-| T opic 4     | morn classif reserv bodi publish  | Symbolic     |
-|              | inform daili time media monday    | Masculinity/ |
-|              |                                   |              |
-|              |                                   | Reproductive |
-|              |                                   | Re           |
-|              |                                   | sponsibility |
-+--------------+-----------------------------------+--------------+
++:---------------+:---------------------+----------------------+
+| Topic 1        | health reproduct     | State Regu l         |
+|                | public depart        | ation/policy         |
+|                | surgeri govern       |                      |
+|                | famili transplant    |                      |
+|                | sexual medic         |                      |
++----------------+----------------------+----------------------+
+| Topic 2        | contracept vasectomi | Medical development  |
+|                | women male effect    |                      |
+|                | control sperm hospit |                      |
+|                | condom research      |                      |
++----------------+----------------------+----------------------+
+| Topic 3        | famili plan children | Reproductive         |
+|                | popul birth child    | Governance           |
+|                | govern coupl zhang   |                      |
+|                | vasectomi            |                      |
++----------------+----------------------+----------------------+
+| Topic 4        | morn classif reserv  | Symbolic             |
+|                | bodi publish inform  | Masculinity/         |
+|                | daili time media     |                      |
+|                | monday               | Reproductive R e     |
+|                |                      | sponsibility         |
++----------------+----------------------+----------------------+
 
-![](Generated%20Charts/Figure_CN_topics_05_04_2025.png)
+![](Figure_CN_topics_05_04_2025.png)
 
 ### **United States: Common Narratives in Vasectomy News Coverage (2000–2025)**
 
@@ -1365,10 +1422,9 @@ mention_counts <- supreme_court_mention %>%
 ggplot(mention_counts, aes(x = year, y = mentions)) +
   geom_line(color = "steelblue") +
   geom_point(color = "red", size = 2) +
-  labs(title = "Mentions of 'birth control' Over Year, U.S. (n=2000)",
+  labs(title = "Mentions of 'birth control' Over Year",
        x = "Year",
-       y = "Number of Mentions",
-       caption = "Data source: Nexis Uni, Graphic created by Yuxiao Zhang, 05-03-2025") +
+       y = "Number of Mentions") +
   theme_minimal()
 ```
 
@@ -1394,10 +1450,9 @@ mention_counts <- supreme_court_mention %>%
 ggplot(mention_counts, aes(x = year, y = mentions)) +
   geom_line(color = "steelblue") +
   geom_point(color = "red", size = 2) +
-  labs(title = "Mentions of 'supreme court' Over Year, U.S. (n=2000)",
+  labs(title = "Mentions of 'supreme court' Over Year",
        x = "Year",
-       y = "Number of Mentions",
-      caption = "Data source: Nexis Uni, Graphic created by Yuxiao Zhang, 05-03-2025") +
+       y = "Number of Mentions") +
   theme_minimal()
 ```
 
@@ -1407,7 +1462,7 @@ reproductive rights. This suggests that vasectomy is increasingly
 discussed in legal-political contexts, not merely as a private medical
 choice.
 
-***women's health***
+***abortion***
 
 ```{r message=FALSE, warning=FALSE}
 supreme_court_mention <- vasus_sent %>%
@@ -1421,10 +1476,9 @@ mention_counts <- supreme_court_mention %>%
 ggplot(mention_counts, aes(x = year, y = mentions)) +
   geom_line(color = "steelblue") +
   geom_point(color = "red", size = 2) +
-  labs(title = "Mentions of 'women's health' Over Year, U.S. (n=2000)",
+  labs(title = "Mentions of 'women's health' Over Year",
        x = "Year",
-       y = "Number of Mentions",
-      caption = "Data source: Nexis Uni, Graphic created by Yuxiao Zhang, 05-03-2025") +
+       y = "Number of Mentions") +
   theme_minimal()
 ```
 
@@ -1513,7 +1567,7 @@ kwic_with_metadata_csv <- kwic_with_metadata_clean  %>%
 ```{r echo=TRUE, results='hide', message=FALSE, warning=FALSE}
 library(wordcloud)
 
-kwic_data <- read_csv("./dataframes/kwic_with_metadata_us.csv")
+kwic_data <- read_csv("kwic_with_metadata_us.csv")
 kwic_context <- paste(kwic_data$`Beginning of Passage`, kwic_data$`End of Passage`)
 corpus <- Corpus(VectorSource(kwic_context))
 
@@ -1536,8 +1590,6 @@ wordcloud(words = word_freq_df$word,
           max.words = 50,
           random.order = FALSE,
           colors = brewer.pal(8, "Paired"))
-mtext("Created by Yuxiao Zhang, 05-03-2025; Sample size: n = 2000",
-      side = 1, line = 4, cex = 0.8, col = "gray40")
 ```
 
 This word cloud illustrates the most common words surrounding the
@@ -1613,8 +1665,7 @@ in relation to male reproductive agency.
 
 **A collocation wordcloud based on KWIC search for China reporting**
 
-![Collocation wordcloud created by Yuxiao Zhang, 05-03-2025; Sample
-size: n = 76](Generated%20Charts/wordcloud%20china.jpg)
+![](wordcloud%20china.jpg)
 
 **Comparative analysis of the two collocation wordclouds:**
 
@@ -1708,11 +1759,10 @@ ggplot(afinn_yearly, aes(x = year, y = mean_sentiment, fill = mean_sentiment > 0
   geom_col() +
   scale_fill_manual(values = c("TRUE" = "firebrick", "FALSE" = "forestgreen"),
                     labels = c("Negative", "Positive")) +
-  labs(title = "Average Sentiment of Vasectomy Coverage (AFINN), U.S. (n=2000)",
+  labs(title = "Average Sentiment of Vasectomy Coverage (AFINN)",
        x = "Year",
        y = "Mean Sentiment Score",
-       fill = "Sentiment",
-       caption = "Data source: Nexis Uni, Graphic created by Yuxiao Zhang, 05-03-2025") +
+       fill = "Sentiment") +
   theme_minimal()
 ```
 
@@ -1751,10 +1801,9 @@ over_sen <-sentiments_all %>%
 ```{r message=FALSE, warning=FALSE, results='hide'}
 ggplot(over_sen, aes(x = reorder(sentiment,n), y = n, fill = sentiment)) +
   geom_col(show.legend = FALSE) +
-  labs(title = "NRC Sentiment Analysis for Vasectomy Reportings, U.S. (n=2000)",
+  labs(title = "NRC Sentiment Analysis for Vasectomy Reportings, United States",
        x = "Sentiment",
-       y = NULL,
-       caption = "Data source: Nexis Uni, Graphic created by Yuxiao Zhang, 05-03-2025")
+       y = NULL)
 ```
 
 The positive sentiment category dominates the NRC classification,
@@ -1776,9 +1825,8 @@ sentiments_all %>%
   geom_col(show.legend = FALSE) +
   facet_wrap(~sentiment, scales = "free_y") +  
   scale_y_reordered() + 
-  labs(x = "Contribution to sentiment, U.S. reporting (n=2000)",
-       y = NULL,
-       caption = "Data source: Nexis Uni, Graphic created by Yuxiao Zhang, 05-03-2025")+ theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  labs(x = "Contribution to sentiment",
+       y = NULL)
 
 ```
 
@@ -1799,11 +1847,6 @@ vas_tokenized %>%
   count(word, sentiment, sort = TRUE) %>%
   acast(word ~ sentiment, value.var = "n", fill = 0) %>%
   comparison.cloud(colors = c("forestgreen", "firebrick"), max.words = 100)
-mtext("Data source: Nexis Uni | Graphic by Yuxiao Zhang | Date: 2025-05-03 | n = 2000",
-      side = 1,       # Bottom of plot
-      line = 4,       # Distance from plot (adjust as needed)
-      cex = 0.8,      # Font size
-      col = "gray30")
 ```
 
 The word cloud juxtaposes positive words (e.g., free, support,
@@ -1827,8 +1870,7 @@ this analysis with the KWIC analysis.
 
 **Overall Sentiment analysis by year using AFINN**
 
-![n=76, Data source: Nexis Uni, Graphic created by Yuxiao Zhang,
-05-03-2025](Generated%20Charts/China%20sentiment%20affin.png)
+![](China%20sentiment%20affin.png)
 
 The china reporting shows a trend of initially negative sentiment
 pre-2015, but a positive and steadily increasing tone dominates after
@@ -1841,16 +1883,14 @@ policies.
 
 **NRC Aggregate Sentiment Bar Chart**
 
-![n=76, Data source: Nexis Uni, Graphic created by Yuxiao Zhang,
-05-03-2025](Generated%20Charts/China%20sentiment%20nrc%201.png)
+![](China%20sentiment%20nrc%201.png)
 
 Top Emotions: “Positive,” “trust,” “negative,” and “anticipation” lead.
 Compared to U.S., anger and disgust are less prominent.
 
 **NRC Top Words by Emotion**
 
-![n=76, Data source: Nexis Uni, Graphic created by Yuxiao Zhang,
-05-03-2025](Generated%20Charts/China%20sentiment%20nrc%202.png)
+![](China%20sentiment%20nrc%202.png)
 
 This shows frequent use of “planning,” “birth,” “policy,” “public”
 points to a collective/public health discourse. Negative Words are
@@ -1860,8 +1900,7 @@ state-affirming, normative gender values.
 
 **NRC Wordcloud**
 
-![n=76, Data source: Nexis Uni, Graphic created by Yuxiao Zhang,
-05-03-2025](Generated%20Charts/China%20sentiment%20nrc%203.png)
+![](China%20sentiment%20nrc%203.png)
 
 Positive Words: “Effective,” “support,” “success,” “safe” Negative
 Words: “Wild,” “nuisance,” “death,” “decline” This shows framing might
@@ -1875,61 +1914,6 @@ vas_tokenized %>%
   with(wordcloud(word, n, max.words = 100, colors = brewer.pal(8, "Paired")))
 
 ```
-
-# **Conclusion**
-
-This study investigated how mainstream online news media in the United
-States and China frame vasectomy, particularly examining whether it is
-primarily portrayed as a medical, gender-related, or political issue.
-Across a comparative content analysis of English-language media from
-2000 to 2025, key findings indicate distinct framing differences
-influenced by cultural, political, and media contexts in each country.
-
-First, U.S. media frequently frame vasectomy in political and gendered
-terms, particularly in response to legal and legislative developments
-like the overturning of *Roe v. Wade*. Topic modeling and sentiment
-analysis reveal a shift over time toward more serious and positive
-framings, portraying vasectomy as a symbol of male reproductive
-responsibility and gender equity. However, a novel and persistent
-feature of U.S. reporting is its rhetorical or satirical use of
-vasectomy—as a punchline, metaphor, or symbolic gesture—particularly in
-cultural commentary. This tendency points to an ambivalence in how male
-contraception is publicly discussed, simultaneously recognized as
-important yet often trivialized in tone.
-
-Second, while Chinese media coverage remains relatively sparse and
-policy-oriented, especially when compared to the robust and diverse U.S.
-dataset, topic modeling shows a meaningful evolution. Over time,
-especially after 2015, Chinese reporting has increasingly incorporated
-narratives of symbolic masculinity and reproductive responsibility.
-Stories portraying vasectomy as a personal or ethical gesture—such as
-"getting snipped for love" or being a “responsible partner”—indicate a
-growing recognition of male agency in contraception. Unlike the often
-humorous tone in U.S. media, these narratives in Chinese outlets tend to
-be presented in a more formal, normative manner, aligning with broader
-state discourses on demographic change and family planning ethics.
-
-Last but not least, sentiment analysis further illustrates these
-differences in emotional framing. U.S. coverage fluctuates between
-highly polarized tones—sometimes framing vasectomy as empowering, other
-times controversial—whereas Chinese coverage, though less emotionally
-volatile, increasingly reflects a positive and pragmatic tone after the
-end of the One-Child Policy in 2015. The Chinese dataset suggests a
-shift from state-mandated narratives toward more individualized
-framings, albeit still shaped by public health discourse and population
-policy contexts.
-
-In sum, this study finds that vasectomy is not merely a medical
-procedure, but a contested cultural symbol shaped by divergent national
-media environments. In the U.S., it is framed through a complex mix of
-political, legal, gendered, and symbolic discourses—often laced with
-humor or satire. In China, while reporting remains more clinical and
-policy-rooted, recent years have shown a cautious but growing
-integration of symbolic and ethical dimensions of male contraception.
-These findings highlight how reproductive responsibility—and
-particularly male roles within it—is not only biologically enacted but
-also socially narrated, revealing deep-seated cultural attitudes toward
-gender, autonomy, and the body.
 
 # Reference
 

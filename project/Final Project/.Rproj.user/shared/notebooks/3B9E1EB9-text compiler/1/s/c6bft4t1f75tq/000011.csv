@@ -1,5 +1,0 @@
-"0","ggplot(over_sen, aes(x = reorder(sentiment,n), y = n, fill = sentiment)) +"
-"0","  geom_col(show.legend = FALSE) +"
-"0","  labs(title = ""NRC Sentiment Analysis for Vasectomy Reportings, China"","
-"0","       x = ""Sentiment"","
-"0","       y = NULL)"

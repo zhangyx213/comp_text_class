@@ -1,4 +1,0 @@
-"0","co_words_export <- co_words %>%"
-"0","  rename(Source = item1, Target = item2, Weight = n)"
-"0",""
-"0","write_csv(co_words_export, ""vasectomy_co_word_edges_ushlead.csv"")"

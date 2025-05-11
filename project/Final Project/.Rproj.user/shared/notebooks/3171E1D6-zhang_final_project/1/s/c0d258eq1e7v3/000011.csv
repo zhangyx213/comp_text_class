@@ -1,0 +1,5 @@
+"0","mtext(""Data source: Nexis Uni | Graphic by Yuxiao Zhang | Date: 2025-05-03 | n = 2000"","
+"0","      side = 1,       # Bottom of plot"
+"0","      line = 4,       # Distance from plot (adjust as needed)"
+"0","      cex = 0.8,      # Font size"
+"0","      col = ""gray30"")"

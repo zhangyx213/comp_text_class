@@ -1,2 +1,0 @@
-"0","sentiments_all %>%"
-"0","  count(sentiment, sort = TRUE)"
